@@ -1,0 +1,73 @@
+# Data formats for dataset.formats. Name the formats a user actually receives; for an archive
+# (zip, tar.gz) name what is inside it, and use `archive` only when the contents are not stated.
+# aliases are rewritten to the id by `registry_kit format` (case-insensitive).
+
+tabular:
+  - {id: csv, name: CSV}
+  - {id: tsv, name: TSV, aliases: [tab]}
+  - {id: xlsx, name: Excel (xlsx)}
+  - {id: xls, name: Excel (xls)}
+  - {id: ods, name: OpenDocument spreadsheet}
+  - {id: parquet, name: Apache Parquet}
+  - {id: arrow, name: Apache Arrow / Feather, aliases: [feather]}
+  - {id: avro, name: Apache Avro}
+  - {id: orc, name: Apache ORC}
+  - {id: sql, name: SQL dump}
+  - {id: sqlite, name: SQLite database, aliases: [db]}
+  - {id: dbf, name: dBase}
+  - {id: sdmx, name: SDMX}
+  - {id: xbrl, name: XBRL}
+  - {id: stata, name: Stata (dta), aliases: [dta]}
+  - {id: spss, name: SPSS (sav), aliases: [sav]}
+  - {id: sas, name: SAS, aliases: [sas7bdat, xpt]}
+  - {id: rdata, name: R data (RData / rds), aliases: [rds, rda]}
+  - {id: matlab, name: MATLAB (mat), aliases: [mat]}
+  - {id: numpy, name: NumPy (npy / npz), aliases: [npy, npz]}
+structured:
+  - {id: json, name: JSON}
+  - {id: jsonl, name: JSON Lines, aliases: [ndjson, json-lines]}
+  - {id: xml, name: XML}
+  - {id: rdf, name: "RDF (Turtle, N-Triples, RDF/XML, JSON-LD)", aliases: [ttl, turtle, nt, n-triples, json-ld, jsonld, owl]}
+  - {id: yaml, name: YAML, aliases: [yml]}
+  - {id: marc, name: MARC bibliographic records, aliases: [marcxml]}
+  - {id: bibtex, name: BibTeX, aliases: [bib]}
+  - {id: gtfs, name: GTFS / GTFS-Realtime, aliases: [gtfs-rt]}
+  - {id: protobuf, name: Protocol Buffers, aliases: [pbf-protobuf]}
+geospatial:
+  - {id: geojson, name: GeoJSON}
+  - {id: shapefile, name: Esri Shapefile, aliases: [shp]}
+  - {id: kml, name: KML / KMZ, aliases: [kmz]}
+  - {id: gpkg, name: GeoPackage, aliases: [geopackage]}
+  - {id: geotiff, name: GeoTIFF / COG, aliases: [cog, tif, tiff]}
+  - {id: gml, name: GML}
+  - {id: osm, name: OpenStreetMap (PBF / OSM XML), aliases: [osm-pbf, pbf]}
+  - {id: las, name: LAS / LAZ point clouds, aliases: [laz]}
+  - {id: netcdf, name: NetCDF, aliases: [nc]}
+  - {id: hdf5, name: HDF5 / HDF4, aliases: [h5, hdf, hdf4]}
+  - {id: grib, name: GRIB, aliases: [grib2]}
+  - {id: zarr, name: Zarr}
+scientific:
+  - {id: fasta, name: FASTA, aliases: [fa]}
+  - {id: fastq, name: FASTQ}
+  - {id: vcf, name: VCF}
+  - {id: bam, name: SAM / BAM / CRAM, aliases: [sam, cram]}
+  - {id: bed, name: BED / GFF / GTF, aliases: [gff, gff3, gtf]}
+  - {id: pdb, name: PDB / mmCIF, aliases: [mmcif, cif]}
+  - {id: dicom, name: DICOM, aliases: [dcm]}
+  - {id: nifti, name: NIfTI, aliases: [nii]}
+  - {id: edf, name: EDF / BDF biosignals, aliases: [bdf]}
+  - {id: fits, name: FITS}
+  - {id: root, name: CERN ROOT}
+media:
+  - {id: text, name: Plain text, aliases: [txt]}
+  - {id: html, name: HTML}
+  - {id: pdf, name: PDF}
+  - {id: warc, name: WARC / WAT / WET, aliases: [wat, wet]}
+  - {id: image, name: "Images (JPEG, PNG, ...)", aliases: [jpg, jpeg, png, gif, webp]}
+  - {id: audio, name: "Audio (WAV, MP3, FLAC, ...)", aliases: [wav, mp3, flac, ogg]}
+  - {id: video, name: "Video (MP4, AVI, ...)", aliases: [mp4, avi, mkv]}
+  - {id: model-3d, name: 3D models / meshes, aliases: [obj, ply, stl, 'off']}
+other:
+  - {id: archive, name: Archive with unspecified contents, aliases: [zip, tar, gz, tgz, 7z, bz2]}
+  - {id: binary, name: Custom binary format}
+  - {id: other, name: Other format}

@@ -1,0 +1,82 @@
+<div id="registry" class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div>
+        <h1 class="wordmark">Public Registry</h1>
+        <p class="tagline" data-t="tagline">Public APIs, datasets and MCP servers in one catalogue, each with its access route, its licence where known, and a daily link check.</p>
+      </div>
+      <div class="tools">
+        <div class="lang" role="group" aria-label="Language">
+          <button type="button" id="lang-en" data-lang="en">EN</button>
+          <button type="button" id="lang-zh" data-lang="zh">中文</button>
+        </div>
+      </div>
+    </div>
+    <dl class="counts" id="counts"></dl>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <a class="tab" role="tab" href="#browse" id="tab-browse" data-tab="browse" data-t="tabBrowse">Browse</a>
+      <a class="tab" role="tab" href="#quality" id="tab-quality" data-tab="quality" data-t="tabQuality">Quality</a>
+      <a class="tab" role="tab" href="#about" id="tab-about" data-tab="about" data-t="tabAbout">About</a>
+    </nav>
+  </header>
+
+  <section id="panel-browse" class="panel browse" role="tabpanel" aria-labelledby="tab-browse">
+    <details class="filters" id="filters" open>
+      <summary data-t="filters">Filters</summary>
+      <div class="filter-body">
+        <label class="search">
+          <span class="label" data-t="search">Search</span>
+          <input type="search" id="q" autocomplete="off" spellcheck="false" placeholder="weather, genomics, CC0…">
+        </label>
+        <fieldset>
+          <legend data-t="kind">Kind</legend>
+          <div class="chips" id="f-kind"></div>
+        </fieldset>
+        <fieldset>
+          <legend data-t="domain">Domain</legend>
+          <select id="f-domain"></select>
+        </fieldset>
+        <fieldset>
+          <legend data-t="licence">Licence</legend>
+          <div class="chips" id="f-lic"></div>
+        </fieldset>
+        <fieldset>
+          <legend data-t="access">Dataset access</legend>
+          <div class="chips" id="f-access"></div>
+        </fieldset>
+        <fieldset>
+          <legend data-t="auth">API authentication</legend>
+          <div class="chips" id="f-auth"></div>
+        </fieldset>
+        <fieldset>
+          <legend data-t="status">Link status</legend>
+          <div class="chips" id="f-health"></div>
+        </fieldset>
+        <button type="button" class="reset" id="reset" data-t="reset">Clear filters</button>
+      </div>
+    </details>
+    <div class="results">
+      <div class="results-bar">
+        <p id="result-count" aria-live="polite"></p>
+        <label class="sort"><span data-t="sort">Sort</span>
+          <select id="sort">
+            <option value="name" data-t="sortName">Name</option>
+            <option value="new" data-t="sortNew">Newest</option>
+          </select>
+        </label>
+      </div>
+      <div id="list" class="list"></div>
+      <button type="button" class="more" id="more" hidden></button>
+    </div>
+  </section>
+
+  <section id="panel-quality" class="panel quality" role="tabpanel" aria-labelledby="tab-quality" hidden>
+    <div id="dashboard"></div>
+  </section>
+
+  <section id="panel-about" class="panel about" role="tabpanel" aria-labelledby="tab-about" hidden>
+    <div id="about"></div>
+  </section>
+
+  <footer class="foot" id="foot"></footer>
+</div>

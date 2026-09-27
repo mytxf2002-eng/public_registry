@@ -1,0 +1,11 @@
+# generated outputs
+build/
+
+# the daily link state lives on the health-data branch
+health/status.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

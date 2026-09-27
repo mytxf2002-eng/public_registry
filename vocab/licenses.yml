@@ -1,0 +1,88 @@
+# Licences. `license` in a resource file must be one of these ids, or `unknown`.
+#
+# spdx:       identifiers from the SPDX License List (https://spdx.org/licenses/), spelled exactly.
+# extensions: LicenseRef-* values for situations SPDX has no identifier for.
+# family:     used for filtering and statistics.
+#             public-domain | permissive | share-alike are "open" in the sense of the Open Definition;
+#             no-derivatives | non-commercial | research-only | terms are not.
+# aliases:    spellings that `registry_kit format` rewrites to the id. Matching ignores case and treats
+#             spaces, underscores and hyphens alike, so "CC BY 4.0" already matches CC-BY-4.0.
+
+spdx:
+  - {id: CC0-1.0, family: public-domain, aliases: [CC0, CC-0, Creative Commons Zero, CC0 Public Domain Dedication]}
+  - {id: PDDL-1.0, family: public-domain, aliases: [PDDL, ODC-PDDL, Open Data Commons Public Domain Dedication and License]}
+  - {id: CC-PDDC, family: public-domain}
+  - {id: NIST-PD, family: public-domain}
+  - {id: CC-BY-4.0, family: permissive, aliases: [CC BY, Creative Commons Attribution 4.0, Creative Commons Attribution 4.0 International]}
+  - {id: CC-BY-3.0, family: permissive, aliases: [Creative Commons Attribution 3.0]}
+  - {id: CC-BY-3.0-IGO, family: permissive}
+  - {id: CC-BY-2.5, family: permissive}
+  - {id: CC-BY-2.0, family: permissive}
+  - {id: ODC-By-1.0, family: permissive, aliases: [ODC-BY, ODC Attribution, Open Data Commons Attribution License]}
+  - {id: OGL-UK-3.0, family: permissive, aliases: [OGL, OGL v3, OGL-UK, Open Government Licence v3.0, Open Government Licence]}
+  - {id: OGL-UK-2.0, family: permissive}
+  - {id: OGL-Canada-2.0, family: permissive, aliases: [Open Government Licence - Canada]}
+  - {id: etalab-2.0, family: permissive, aliases: [Licence Ouverte, Licence Ouverte 2.0, Open Licence 2.0, Etalab]}
+  - {id: DL-DE-BY-2.0, family: permissive, aliases: [Datenlizenz Deutschland Namensnennung 2.0]}
+  - {id: DL-DE-ZERO-2.0, family: public-domain, aliases: [Datenlizenz Deutschland Zero 2.0]}
+  - {id: NLOD-1.0, family: permissive}
+  - {id: NLOD-2.0, family: permissive, aliases: [Norwegian Licence for Open Government Data]}
+  - {id: OGDL-Taiwan-1.0, family: permissive, aliases: [Open Government Data License Taiwan]}
+  - {id: CDLA-Permissive-1.0, family: permissive}
+  - {id: CDLA-Permissive-2.0, family: permissive}
+  - {id: O-UDA-1.0, family: permissive}
+  - {id: MIT, family: permissive, aliases: [MIT License]}
+  - {id: Apache-2.0, family: permissive, aliases: [Apache 2.0, Apache License 2.0]}
+  - {id: BSD-2-Clause, family: permissive}
+  - {id: BSD-3-Clause, family: permissive}
+  - {id: ISC, family: permissive}
+  - {id: Unlicense, family: public-domain, aliases: [The Unlicense]}
+  - {id: CC-BY-SA-4.0, family: share-alike, aliases: [Creative Commons Attribution-ShareAlike 4.0]}
+  - {id: CC-BY-SA-3.0, family: share-alike}
+  - {id: CC-BY-SA-3.0-IGO, family: share-alike}
+  - {id: CC-BY-SA-2.0, family: share-alike}
+  - {id: ODbL-1.0, family: share-alike, aliases: [ODbL, Open Database License]}
+  - {id: CDLA-Sharing-1.0, family: share-alike}
+  - {id: GPL-2.0-only, family: share-alike}
+  - {id: GPL-2.0-or-later, family: share-alike}
+  - {id: GPL-3.0-only, family: share-alike, aliases: [GPL-3.0, GPLv3]}
+  - {id: GPL-3.0-or-later, family: share-alike}
+  - {id: LGPL-3.0-only, family: share-alike}
+  - {id: AGPL-3.0-only, family: share-alike}
+  - {id: MPL-2.0, family: share-alike}
+  - {id: GFDL-1.3-or-later, family: share-alike}
+  - {id: CC-BY-ND-4.0, family: no-derivatives}
+  - {id: CC-BY-ND-3.0, family: no-derivatives}
+  - {id: CC-BY-NC-4.0, family: non-commercial, aliases: [Creative Commons Attribution-NonCommercial 4.0]}
+  - {id: CC-BY-NC-3.0, family: non-commercial}
+  - {id: CC-BY-NC-2.0, family: non-commercial}
+  - {id: CC-BY-NC-SA-4.0, family: non-commercial, aliases: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0]}
+  - {id: CC-BY-NC-SA-3.0, family: non-commercial}
+  - {id: CC-BY-NC-SA-3.0-IGO, family: non-commercial}
+  - {id: CC-BY-NC-SA-2.0, family: non-commercial}
+  - {id: CC-BY-NC-ND-4.0, family: non-commercial}
+  - {id: CC-BY-NC-ND-3.0, family: non-commercial}
+  - {id: CC-BY-NC-ND-3.0-IGO, family: non-commercial}
+  - {id: C-UDA-1.0, family: research-only}
+
+extensions:
+  - id: LicenseRef-Public-Domain
+    family: public-domain
+    description: The publisher states that the data is in the public domain, without naming a licence.
+    aliases: [Public Domain, Public-Domain]
+  - id: LicenseRef-US-Government-Work
+    family: public-domain
+    description: Work of the United States federal government, not subject to copyright in the US (17 U.S.C. 105).
+    aliases: [US-Government-Work, U.S. Government Work, US Public Domain]
+  - id: LicenseRef-Open-Government
+    family: permissive
+    description: A national or regional open-government licence that has no SPDX identifier. license_url is required.
+  - id: LicenseRef-Custom-Open
+    family: permissive
+    description: The publisher's own terms allow free reuse, including commercial reuse, usually with attribution. license_url is required.
+  - id: LicenseRef-Research-Only
+    family: research-only
+    description: Free for research, academic or other non-commercial use under the publisher's own agreement. license_url is required.
+  - id: LicenseRef-Provider-Terms
+    family: terms
+    description: Use is governed by the provider's terms of service or terms of use; no open licence. Typical for APIs.

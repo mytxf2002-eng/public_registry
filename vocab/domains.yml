@@ -1,0 +1,273 @@
+# Domains. Every resource belongs to exactly one domain; cross-cutting topics go in tags.
+# The directory data/<id>/ holds the resources of a domain. A domain needs at least 5 resources.
+# Adding, renaming or removing a domain changes the schema: run `python -m registry_kit schema` afterwards.
+
+- id: animals
+  name: Animals
+  name_zh: 动物
+  scope: Pets, wildlife, animal facts and pictures. Biodiversity and species research data belong in life-sciences.
+  scope_zh: 宠物、野生动物、动物冷知识和图片。生物多样性、物种等科研数据归入生命科学。
+
+- id: anime
+  name: Anime
+  name_zh: 动漫
+  scope: Anime, manga and related databases and quotes.
+  scope_zh: 动画、漫画及相关的作品库、台词和图片。
+
+- id: art-design
+  name: Art & Design
+  name_zh: 艺术与设计
+  scope: Artworks, museum and cultural-heritage collections, colours, icons, fonts and design assets.
+  scope_zh: 艺术品、博物馆与文化遗产藏品、配色、图标、字体和设计素材。
+
+- id: blockchain-crypto
+  name: Blockchain & Crypto
+  name_zh: 区块链与加密货币
+  scope: Blockchains, on-chain data, cryptocurrency prices and exchanges.
+  scope_zh: 区块链、链上数据、加密货币行情和交易所。
+
+- id: books
+  name: Books & Literature
+  name_zh: 图书与文学
+  scope: Books, bibliographic records, libraries, literary texts and poetry.
+  scope_zh: 图书、书目数据、图书馆、文学作品和诗歌。
+
+- id: business
+  name: Business
+  name_zh: 商业
+  scope: Company registries and firmographics, marketing, CRM, invoicing and other business tools.
+  scope_zh: 企业登记与工商信息、营销、客户管理、开票等商业工具和数据。
+
+- id: calendar-events
+  name: Calendar & Events
+  name_zh: 日历与活动
+  scope: Calendars, public holidays, time zones and event listings.
+  scope_zh: 日历、公共假日、时区和活动信息。
+
+- id: cloud-storage
+  name: Cloud Storage & File Sharing
+  name_zh: 云存储与文件分享
+  scope: File storage, file sharing and pastebin services.
+  scope_zh: 文件存储、文件分享和剪贴板类服务。
+
+- id: communication
+  name: Email, Phone & Messaging
+  name_zh: 邮件、电话与消息
+  scope: Email sending and checking, phone number lookup, SMS and messaging.
+  scope_zh: 邮件发送与校验、电话号码查询、短信和即时消息。
+
+- id: currency-exchange
+  name: Currency Exchange
+  name_zh: 汇率
+  scope: Foreign exchange rates and currency conversion.
+  scope_zh: 外汇汇率和货币换算。
+
+- id: data-validation
+  name: Data Validation
+  name_zh: 数据校验
+  scope: Validation and lookup of identifiers such as VAT numbers, IBANs, postcodes and email addresses.
+  scope_zh: 增值税号、IBAN、邮编、邮箱等标识符的校验与查询。
+
+- id: development
+  name: Development & Programming
+  name_zh: 开发与编程
+  scope: Developer tools, CI, code hosting, package registries, open-source project data and software datasets.
+  scope_zh: 开发者工具、持续集成、代码托管、软件包仓库、开源项目数据和软件工程数据集。
+
+- id: documents-productivity
+  name: Documents & Productivity
+  name_zh: 文档与效率
+  scope: Document conversion and generation, notes, to-do lists and office productivity.
+  scope_zh: 文档转换与生成、笔记、待办事项和办公效率工具。
+
+- id: economics
+  name: Economics
+  name_zh: 经济
+  scope: Macroeconomic indicators, prices, trade, labour markets and official economic statistics.
+  scope_zh: 宏观经济指标、价格、贸易、劳动力市场和官方经济统计。
+
+- id: education
+  name: Education
+  name_zh: 教育
+  scope: Education statistics, schools and universities, courses and learning resources.
+  scope_zh: 教育统计、学校与高校信息、课程和学习资源。
+
+- id: energy
+  name: Energy
+  name_zh: 能源
+  scope: Energy production and consumption, power grids, fuels, prices and renewables.
+  scope_zh: 能源生产与消费、电网、燃料、能源价格和可再生能源。
+
+- id: entertainment
+  name: Entertainment
+  name_zh: 娱乐
+  scope: Movies, TV, quotes, jokes, trivia, personality tests and other entertainment.
+  scope_zh: 电影、电视、名言、笑话、问答、性格测试等娱乐内容。
+
+- id: environment
+  name: Environment
+  name_zh: 环境
+  scope: Air and water quality, pollution, emissions, land cover, ecosystems and natural hazards.
+  scope_zh: 空气与水质、污染、排放、土地覆盖、生态系统和自然灾害。
+
+- id: finance
+  name: Finance
+  name_zh: 金融
+  scope: Financial markets, company filings, banking, payments, tax and accounting.
+  scope_zh: 金融市场、上市公司披露、银行、支付、税务和记账。
+
+- id: food-agriculture
+  name: Food & Agriculture
+  name_zh: 食品与农业
+  scope: Recipes, food products, nutrition, drinks, agriculture, crops and fisheries.
+  scope_zh: 食谱、食品、营养、饮品、农业、作物和渔业。
+
+- id: games
+  name: Games & Comics
+  name_zh: 游戏与漫画
+  scope: Video games, board and card games, esports and comics.
+  scope_zh: 电子游戏、桌游与卡牌、电子竞技和漫画。
+
+- id: geography
+  name: Geography & Maps
+  name_zh: 地理与地图
+  scope: Maps, geocoding, IP geolocation, place names, boundaries, elevation and satellite imagery.
+  scope_zh: 地图、地理编码、IP 定位、地名、行政边界、高程和卫星影像。
+
+- id: government
+  name: Government & Law
+  name_zh: 政府与法律
+  scope: Government open-data portals, legislation, courts, elections, public spending and patents.
+  scope_zh: 政府开放数据门户、法律法规、法院、选举、财政支出和专利。
+
+- id: health
+  name: Health
+  name_zh: 健康与医疗
+  scope: Medicine, drugs, public health, epidemiology, clinical and medical-imaging data.
+  scope_zh: 医学、药品、公共卫生、流行病学、临床和医学影像数据。
+
+- id: images
+  name: Images & Photography
+  name_zh: 图像与摄影
+  scope: Photos, image hosting, image generation and processing. Computer-vision training sets belong in machine-learning.
+  scope_zh: 照片、图床、图像生成与处理。用于训练计算机视觉模型的数据集归入机器学习。
+
+- id: jobs
+  name: Jobs
+  name_zh: 招聘
+  scope: Job postings, salaries and occupations.
+  scope_zh: 招聘信息、薪资和职业数据。
+
+- id: language
+  name: Language & Text
+  name_zh: 语言与文本
+  scope: Dictionaries, translation, text analysis, text corpora and other linguistic resources.
+  scope_zh: 词典、翻译、文本分析、语料库和其他语言资源。
+
+- id: life-sciences
+  name: Life Sciences
+  name_zh: 生命科学
+  scope: Biology, genomics, proteins, neuroscience, biodiversity and species occurrence data.
+  scope_zh: 生物学、基因组、蛋白质、神经科学、生物多样性和物种分布数据。
+
+- id: machine-learning
+  name: Machine Learning & AI
+  name_zh: 机器学习与人工智能
+  scope: Machine-learning services, benchmark and training datasets, and data-science competitions.
+  scope_zh: 机器学习服务、基准与训练数据集，以及数据科学竞赛。
+
+- id: music
+  name: Music
+  name_zh: 音乐
+  scope: Music metadata, lyrics, audio features and streaming services.
+  scope_zh: 音乐元数据、歌词、音频特征和音乐流媒体。
+
+- id: networks
+  name: Networks & Internet
+  name_zh: 网络与互联网
+  scope: Internet measurement, web crawls, DNS and routing data, and graph or network datasets.
+  scope_zh: 互联网测量、网页抓取数据、DNS 与路由数据，以及图和复杂网络数据集。
+
+- id: news-media
+  name: News & Media
+  name_zh: 新闻与媒体
+  scope: News articles, headlines, broadcasting and media archives.
+  scope_zh: 新闻报道、头条、广播电视和媒体档案。
+
+- id: open-data
+  name: Open Data & Repositories
+  name_zh: 开放数据与数据仓库
+  scope: Multi-topic data repositories, dataset search engines and knowledge bases. Government portals belong in government.
+  scope_zh: 跨领域的数据仓库、数据集搜索引擎和知识库。政府数据门户归入政府与法律。
+
+- id: science-math
+  name: Science & Math
+  name_zh: 科学与数学
+  scope: Physics, chemistry, astronomy and space, earth sciences, mathematics and materials.
+  scope_zh: 物理、化学、天文与航天、地球科学、数学和材料。
+
+- id: security
+  name: Security
+  name_zh: 安全
+  scope: Cybersecurity, malware, vulnerabilities, threat intelligence, authentication and authorization.
+  scope_zh: 网络安全、恶意软件、漏洞、威胁情报、身份认证与授权。
+
+- id: shopping
+  name: Shopping
+  name_zh: 购物与电商
+  scope: Products, prices, e-commerce platforms and retail data.
+  scope_zh: 商品、价格、电商平台和零售数据。
+
+- id: social
+  name: Social Media
+  name_zh: 社交媒体
+  scope: Social networks, online communities and social-media datasets.
+  scope_zh: 社交网络、在线社区和社交媒体数据集。
+
+- id: social-sciences
+  name: Social Sciences
+  name_zh: 社会科学
+  scope: Demographics, census and survey microdata, crime, psychology, history and humanities.
+  scope_zh: 人口、普查与调查微观数据、犯罪、心理学、历史和人文。
+
+- id: sports
+  name: Sports & Fitness
+  name_zh: 体育与健身
+  scope: Sports results and statistics, athletes, fitness and exercise.
+  scope_zh: 体育赛事结果与统计、运动员、健身和运动。
+
+- id: test-data
+  name: Test Data
+  name_zh: 测试数据
+  scope: Fake and mock data generators, placeholder content and sample data for testing.
+  scope_zh: 假数据与模拟数据生成、占位内容和测试用样例数据。
+
+- id: transportation
+  name: Transportation & Tracking
+  name_zh: 交通与物流
+  scope: Public transit, flights, shipping, traffic, mobility data and package tracking.
+  scope_zh: 公共交通、航班、航运、道路交通、出行数据和快递追踪。
+
+- id: url-shorteners
+  name: URL Shorteners
+  name_zh: 短链接
+  scope: Link shortening and link management.
+  scope_zh: 短链接生成与链接管理。
+
+- id: vehicles
+  name: Vehicles
+  name_zh: 车辆
+  scope: Car makes and models, VIN decoding, fuel economy and vehicle data.
+  scope_zh: 汽车品牌与车型、VIN 解码、油耗和车辆数据。
+
+- id: video
+  name: Video & Streaming
+  name_zh: 视频与流媒体
+  scope: Video platforms, streaming, film metadata services and video processing.
+  scope_zh: 视频平台、流媒体、影视元数据服务和视频处理。
+
+- id: weather-climate
+  name: Weather & Climate
+  name_zh: 天气与气候
+  scope: Weather forecasts and observations, climate records and projections.
+  scope_zh: 天气预报与观测、气候记录与预估。
