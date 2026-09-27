@@ -5,13 +5,15 @@
 
 ## 一次性上线
 
-1. 在 GitHub 上创建公开仓库，把本地仓库推上去（`main` 为默认分支）。这次推送会立刻触发 “Publish”，此时 Pages 还没启用，
-   它会失败，属于正常现象。
+1. 在 GitHub 上创建公开仓库，把本地仓库推上去（`main` 为默认分支）。这次推送会立刻触发 “Publish”；如果部署时 Pages
+   还没启用，它会失败，属于正常现象，下一步完成后重新运行即可。
 2. 推送后尽快用仓库所有者身份登录 GitHub CLI（`gh auth login`），在仓库根目录运行 `bash tools/github_setup.sh 所有者/仓库名`。
+   要用自己的域名，先按下文“自定义域名”在域名服务商把它指向 GitHub，再在命令末尾加上域名。
    最好赶在当天 UTC 03:17（北京时间 11:17）的定时检测之前运行：否则定时检测会先建好 `health-data` 分支，脚本就不再导入
    本地已有的链接检测历史（不影响使用，只是从零开始积累）。
 3. 在 Actions 页面手动运行一次 “Link health”，确认它成功，并且随后自动触发的 “Publish” 把网站部署到了 Pages。
-4. 打开 `https://所有者.github.io/仓库名/`，确认网站、`export/` 下载和 `api/v1/index.json` 都能访问。
+4. 打开网站（`https://所有者.github.io/仓库名/`，用了自定义域名就是 `https://你的域名/`），确认网站、`export/` 下载和
+   `api/v1/index.json` 都能访问。
 
 ## 日常节奏
 
@@ -72,6 +74,21 @@ git push -u origin 修改说明      然后开拉取请求，检查通过后 squ
 - **发布失败**：在 Actions 里看 “Publish” 的日志。多数是校验失败，说明有不合规的改动进了 `main`；修正后再合并一次即可。
 - **链接检测失败**：看 “Link health” 的日志；网络故障的话手动重跑。
 - **规则集挡住了紧急修复**：在 Settings → Rules 里临时把规则集改为 Disabled，修复后立即改回 Active。
+- **网站打不开或证书报错**：在 Settings → Pages 看自定义域名的 DNS 检查和证书状态；多数是域名服务商那边的记录被改动了。
+
+## 自定义域名
+
+网站在 `https://reg.cugeng.com/`，旧地址 `mytxf2002-eng.github.io/public_registry/` 会自动跳转过去，原有链接继续可用。
+
+- **DNS 记录**：域名服务商那边，`reg` 有一条 CNAME 记录指向 `mytxf2002-eng.github.io`（不带仓库名）。不要加
+  `*.cugeng.com` 这样的通配记录；用 Cloudflare 时这条记录要设为 “DNS only”（灰色云朵），否则 GitHub 签不出证书。
+- **证书**：GitHub 用 Let's Encrypt 自动签发和续期，无需处理。状态在 Settings → Pages 里看。
+- **域名验证（推荐）**：在个人头像 → Settings → Pages → Add a domain 加上 `cugeng.com`，按提示添加
+  `_github-pages-challenge-mytxf2002-eng` 的 TXT 记录，再点 Verify。验证后，别人不能把这个域名下的子域名接到他们的 Pages 上。
+- **换域名**：先在域名服务商加好新域名的记录，再运行 `bash tools/github_setup.sh mytxf2002-eng/public_registry 新域名`，
+  然后开拉取请求更新 README 和本手册里的地址。
+- **不再用自定义域名**：在 Settings → Pages 删除 Custom domain，网站回到 `mytxf2002-eng.github.io/public_registry/`。同时一定要
+  删掉域名服务商那边指向 GitHub 的记录，否则别人可能接管这个子域名。
 
 ## 增加协作者
 
