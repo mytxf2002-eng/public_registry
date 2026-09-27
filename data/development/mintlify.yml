@@ -1,0 +1,16 @@
+id: mintlify
+kind: [api]
+name: Mintlify
+url: https://docs.mintlify.com
+description: For programmatically generating documentation for code
+domain: development
+tags: [programming]
+license: unknown
+provenance:
+  added: 2022-01-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,2 @@
+id: cert-atlas
+description: 备考工具 QuizForge 整理的认证考试大纲数据，近 2,000 门考试、约 360 个认证机构（如 AWS、微软、CompTIA、FINRA、各州驾照考试），含考试领域与权重、及格分、题量、时长、费用和报考要求，并链接官方来源。GitHub 提供 JSON，MIT 许可；不含考题。

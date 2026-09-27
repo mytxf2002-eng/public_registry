@@ -1,0 +1,22 @@
+id: domains-project
+kind: [dataset]
+name: Domains Project
+url: https://github.com/tb0hdan/domains
+description: Sorted lists of about 1.7 billion Internet domain names gathered by web crawling and DNS checks, split by country and TLD into xz-compressed text files
+domain: networks
+tags: [domain-names, dns, web-crawl, tld]
+license: BSD-3-Clause
+license_url: https://github.com/tb0hdan/domains/blob/master/LICENSE
+publisher:
+  name: Bohdan Turkynevych
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 1.7 billion domains

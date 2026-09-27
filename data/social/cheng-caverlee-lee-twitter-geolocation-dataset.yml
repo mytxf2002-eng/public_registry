@@ -1,0 +1,24 @@
+id: cheng-caverlee-lee-twitter-geolocation-dataset
+kind: [dataset]
+name: Cheng-Caverlee-Lee Twitter Geolocation Dataset (CIKM 2010)
+url: https://archive.org/details/twitter_cikm_2010
+description: 'Tweets of US Twitter users from Sep 2009 to Jan 2010: a training set of 115,886 users with 3.8 million tweets and a test set of 5,136 GPS-located users with 5.2 million tweets'
+domain: social
+tags: [twitter, geolocation, tweets, location-prediction]
+license: unknown
+publisher:
+  name: Zhiyuan Cheng, James Caverlee and Kyumin Lee
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  temporal:
+    start: 2009-09
+    end: 2010-01
+  spatial: [US]
+  update_frequency: static
+  size: 424 MB

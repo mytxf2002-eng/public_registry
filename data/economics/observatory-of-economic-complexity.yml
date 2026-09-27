@@ -1,0 +1,30 @@
+id: observatory-of-economic-complexity
+kind: [api, dataset]
+name: Observatory of Economic Complexity (OEC)
+url: https://oec.world/
+description: International trade flows by HS and SITC product for all countries since 1962, economic complexity indices, and national and subnational trade series
+domain: economics
+tags: [international-trade, economic-complexity, exports, hs-codes]
+license: LicenseRef-Provider-Terms
+license_url: https://oec.world/en/resources/terms
+publisher:
+  name: Datawheel
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://oec.world/en/resources/api
+dataset:
+  formats: [csv, json]
+  access: paid-tier
+  url: https://oec.world/en/resources/bulk-download/international
+  temporal:
+    start: '1962'
+    end: null
+  spatial: [global]
+  update_frequency: monthly

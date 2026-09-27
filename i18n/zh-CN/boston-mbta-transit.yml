@@ -1,0 +1,3 @@
+id: boston-mbta-transit
+description: 马萨诸塞湾交通局（MBTA，波士顿地区公共交通）的官方 V3 API：地铁、通勤铁路、公交、渡轮的线路、站点、时刻表、实时到站预测、车辆位置和服务通告。不带 key 也能调用，但限流更严。
+group: 北美公共交通

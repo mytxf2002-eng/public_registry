@@ -1,0 +1,24 @@
+id: gdelt-climate-change-news-narrative-datasets-2009-2020
+kind: [dataset]
+name: GDELT Climate Change News Narrative Datasets 2009-2020
+url: https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/
+description: 'Four datasets tracing climate-change coverage: 95,000 US and UK television caption mentions 2009-2020, 4.1 million multilingual and 6.3 million English news URLs, and annotated word usages'
+domain: news-media
+tags: [climate-change, television-news, online-news, multilingual, media-analysis]
+license: LicenseRef-Custom-Open
+license_url: https://www.gdeltproject.org/about.html
+publisher:
+  name: The GDELT Project
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2009'
+    end: '2020'
+  spatial: [global]
+  update_frequency: static

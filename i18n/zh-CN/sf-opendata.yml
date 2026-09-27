@@ -1,0 +1,2 @@
+id: sf-opendata
+description: 美国旧金山市县政府的开放数据门户（DataSF 运营），约 700 个数据集，包括消防和警情事件、311 服务请求、许可和预算等，可导出 CSV、JSON、GeoJSON、KML，并可通过 Socrata SODA 接口免密钥查询；大部分数据集采用 ODC 公共领域许可（PDDL）。

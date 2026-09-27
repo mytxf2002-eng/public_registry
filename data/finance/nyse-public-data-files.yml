@@ -1,0 +1,23 @@
+id: nyse-public-data-files
+kind: [dataset]
+name: NYSE Public Data Files (ftp.nyse.com)
+url: https://ftp.nyse.com/
+description: Daily NYSE symbol-mapping files, twice-monthly consolidated short interest since 2015, circuit-breaker lists and sample days of TAQ and other historical market-data products
+domain: finance
+tags: [stock-exchange, taq, short-interest, symbol-mapping, market-data]
+license: unknown
+publisher:
+  name: New York Stock Exchange (Intercontinental Exchange)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, xml, xls]
+  access: public
+  temporal:
+    start: '2015'
+    end: null
+  spatial: [US]
+  update_frequency: daily

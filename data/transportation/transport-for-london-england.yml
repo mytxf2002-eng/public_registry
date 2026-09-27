@@ -1,0 +1,15 @@
+id: transport-for-london-england
+kind: [api]
+name: Transport for London, England
+url: https://api.tfl.gov.uk
+description: TfL line status, live arrivals, journey planning, bike points and road disruptions
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

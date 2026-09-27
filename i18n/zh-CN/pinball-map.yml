@@ -1,0 +1,3 @@
+id: pinball-map
+description: 众包维护的公共弹珠机地图：查询各地哪些场所有弹珠机、是什么机型，免 key，支持 CORS。
+group: 地图标注与位置应用

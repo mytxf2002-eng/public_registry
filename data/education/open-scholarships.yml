@@ -1,0 +1,15 @@
+id: open-scholarships
+kind: [api]
+name: Open Scholarships
+url: https://scholarships.grudged.io
+description: Free, openly-licensed directory of US scholarships and student aid from official sources
+domain: education
+license: unknown
+provenance:
+  added: 2026-05-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

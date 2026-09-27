@@ -1,0 +1,20 @@
+id: ms-marco
+kind: [dataset]
+name: MS MARCO
+url: https://microsoft.github.io/msmarco/
+description: 'Search datasets built from about one million anonymized Bing queries: human-written answers, 8.8 million passages and 3.2 million documents with relevance labels, and click data'
+domain: machine-learning
+tags: [information-retrieval, question-answering, passage-ranking, nlp, benchmark]
+license: LicenseRef-Research-Only
+license_url: https://microsoft.github.io/msmarco/
+publisher:
+  name: Microsoft
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, json]
+  access: public
+  update_frequency: static

@@ -1,0 +1,18 @@
+id: host-t-com
+kind: [api]
+name: host-t.com
+url: https://host-t.com
+description: Basic DNS query via HTTP GET request
+domain: development
+license: unknown
+provenance:
+  added: 2021-07-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: host-t.com now redirects to dnsviahttp.com, which has no working API.

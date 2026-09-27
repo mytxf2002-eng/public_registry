@@ -1,0 +1,21 @@
+id: wordnet
+kind: [dataset]
+name: WordNet
+url: https://wordnet.princeton.edu/download
+description: Lexical database of English nouns, verbs, adjectives and adverbs grouped into synonym sets linked by semantic relations, downloadable as WordNet 3.0 and 3.1 database files
+domain: language
+tags: [wordnet, lexical-database, thesaurus, semantics]
+license: LicenseRef-Custom-Open
+license_url: https://wordnetcode.princeton.edu/3.0/LICENSE
+publisher:
+  name: Princeton University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: static
+  size: 16 MB

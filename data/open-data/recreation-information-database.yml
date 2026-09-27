@@ -1,0 +1,15 @@
+id: recreation-information-database
+kind: [api]
+name: Recreation Information Database
+url: https://ridb.recreation.gov/
+description: Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)
+domain: open-data
+license: unknown
+provenance:
+  added: 2019-01-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

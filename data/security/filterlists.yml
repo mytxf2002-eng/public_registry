@@ -1,0 +1,15 @@
+id: filterlists
+kind: [api]
+name: FilterLists
+url: https://filterlists.com
+description: Lists of filters for adblockers and firewalls
+domain: security
+license: unknown
+provenance:
+  added: 2018-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

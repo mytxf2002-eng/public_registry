@@ -1,0 +1,3 @@
+id: postman-echo
+description: Postman 提供的回显服务器：把收到的请求（方法、请求头、参数、请求体）原样返回，用来调试 HTTP 客户端，免 key。
+group: 内容过滤与开发调试

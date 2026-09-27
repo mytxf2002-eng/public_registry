@@ -1,0 +1,19 @@
+id: icy-tools
+kind: [api]
+name: icy.tools
+url: https://developers.icy.tools/
+description: GraphQL based NFT API
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2022-03-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The icy.tools developer site now redirects to QuickNode's generic homepage, which has no icy.tools NFT API.

@@ -1,0 +1,2 @@
+id: inforum-econdata-g7-databanks
+description: 美国 Inforum 研究机构整理的经济数据库，把 BEA、BLS 和人口普查局发布的国民收入与产出账户、投入产出表、分行业产出、KLEMS、CPI、PPI、就业及批发零售等序列打包成 G7 数据库文件，需用其免费 G7 软件读取，随官方发布定期更新，可直接下载。网站未写明许可，原始数据来自美国联邦机构。

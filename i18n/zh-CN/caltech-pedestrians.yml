@@ -1,0 +1,2 @@
+id: caltech-pedestrians
+description: 加州理工学院发布的行人检测基准数据集，含车载摄像头拍摄的视频及行人边框标注（多为低分辨率和被遮挡的行人），附评测代码和基线结果，约 11.9 GB，可在 CaltechDATA 直接下载，CC BY 4.0 许可。

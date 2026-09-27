@@ -1,0 +1,19 @@
+id: open-government-india
+kind: [api, dataset]
+name: Open Government, India
+url: https://data.gov.in/
+description: Indian Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2016-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xls, json, xml]
+  access: public
+  spatial: [IN]

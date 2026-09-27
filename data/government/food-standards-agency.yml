@@ -1,0 +1,22 @@
+id: food-standards-agency
+kind: [api, dataset]
+name: Food Standards Agency
+url: https://ratings.food.gov.uk/open-data
+description: UK food hygiene rating data API
+domain: government
+license: OGL-UK-3.0
+license_url: https://ratings.food.gov.uk/terms-and-conditions
+provenance:
+  added: 2017-11-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+dataset:
+  formats: [xml]
+  access: public
+  spatial: [GB]
+  update_frequency: daily
+  size: 612,821 businesses

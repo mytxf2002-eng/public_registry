@@ -1,0 +1,15 @@
+id: wargaming-net
+kind: [api]
+name: Wargaming.net
+url: https://developers.wargaming.net/
+description: Wargaming.net info and stats
+domain: games
+license: unknown
+provenance:
+  added: 2018-03-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

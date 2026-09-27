@@ -1,0 +1,15 @@
+id: mixcloud
+kind: [api]
+name: Mixcloud
+url: https://www.mixcloud.com/developers/
+description: Search DJ mixes, radio shows and podcasts, users and tags on Mixcloud
+domain: music
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

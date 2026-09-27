@@ -1,0 +1,21 @@
+id: ucla-social-science-data-archive-dataverse
+kind: [dataset]
+name: UCLA Social Science Data Archive Dataverse
+url: https://dataverse.harvard.edu/dataverse/ssda_ucla
+description: About 570 archived social science studies such as California Polls, Los Angeles County Social Surveys, health and mobility surveys and census extracts, held by UCLA Library
+domain: social-sciences
+tags: [survey-data, public-opinion, microdata, data-archive]
+license: unknown
+publisher:
+  name: UCLA Social Science Data Archive
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, spss, stata, pdf]
+  access: application
+  spatial: [US, global]
+  update_frequency: irregular
+  size: 572 datasets

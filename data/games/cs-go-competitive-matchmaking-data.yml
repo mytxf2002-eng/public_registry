@@ -1,0 +1,21 @@
+id: cs-go-competitive-matchmaking-data
+kind: [dataset]
+name: CS:GO Competitive Matchmaking Data
+url: https://www.kaggle.com/datasets/skihikingkevin/csgo-matchmaking-damage
+description: 'Damage and grenade events from about 1,400 Counter-Strike: Global Offensive matchmaking games (410k+ rounds) parsed from replays, plus ESEA demo data from August 2018'
+domain: games
+tags: [esports, counter-strike, video-games, match-data]
+license: CC-BY-NC-SA-4.0
+license_url: https://www.kaggle.com/datasets/skihikingkevin/csgo-matchmaking-damage
+publisher:
+  name: KP (skihikingkevin)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, image]
+  access: registration
+  update_frequency: static
+  size: 3.6 GB

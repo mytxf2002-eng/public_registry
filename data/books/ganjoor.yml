@@ -1,0 +1,15 @@
+id: ganjoor
+kind: [api]
+name: Ganjoor
+url: https://api.ganjoor.net
+description: Classic Persian poetry works including access to related manuscripts, recitations and music tracks
+domain: books
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

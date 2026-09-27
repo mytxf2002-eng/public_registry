@@ -1,0 +1,2 @@
+id: icecube-neutrino-observatory-data-releases
+description: IceCube 合作组发布的公开数据集列表，涵盖南极冰立方中微子探测器（及前身 AMANDA）的点源径迹事件（IceTracks-DR2 覆盖 2008–2022 年）、高能起始事件、警报事件目录和中微子振荡样本等，多数文件托管在哈佛 Dataverse，可免费下载。各数据集许可不同，近期发布多为 CC0。

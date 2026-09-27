@@ -1,0 +1,16 @@
+id: kucoin
+kind: [api]
+name: KuCoin
+url: https://docs.kucoin.com/
+description: Cryptocurrency Trading Platform
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

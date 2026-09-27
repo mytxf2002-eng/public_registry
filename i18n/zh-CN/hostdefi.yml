@@ -1,0 +1,3 @@
+id: hostdefi
+description: 代币安全评级：提交 Solana 或 EVM 链上的代币地址，返回 A+ 到 F 的等级和依据，另有给 Solana 交易机器人用的发射早期链上信号（捆绑发射、持仓集中度、Token-2022 陷阱等）。有免 key 的免费档。
+group: 巨鲸追踪、风险与研究数据

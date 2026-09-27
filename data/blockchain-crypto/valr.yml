@@ -1,0 +1,16 @@
+id: valr
+kind: [api]
+name: VALR
+url: https://docs.valr.com/
+description: Cryptocurrency Exchange based in South Africa
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-04-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

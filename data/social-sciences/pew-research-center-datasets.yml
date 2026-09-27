@@ -1,0 +1,21 @@
+id: pew-research-center-datasets
+kind: [dataset]
+name: Pew Research Center Datasets
+url: https://www.pewresearch.org/datasets/
+description: Case-level survey data from US and international polls, including American Trends Panel waves, Global Attitudes surveys and religion studies, released some time after publication
+domain: social-sciences
+tags: [public-opinion, survey-data, microdata, religion, polling]
+license: LicenseRef-Provider-Terms
+license_url: https://www.pewresearch.org/about/terms-and-conditions/
+publisher:
+  name: Pew Research Center
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, text]
+  access: registration
+  spatial: [US, global]
+  update_frequency: irregular

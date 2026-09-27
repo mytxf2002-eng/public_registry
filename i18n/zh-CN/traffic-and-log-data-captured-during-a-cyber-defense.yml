@@ -1,0 +1,2 @@
+id: traffic-and-log-data-captured-during-a-cyber-defense
+description: 2019 年 3 月马萨里克大学（捷克布尔诺）在 KYPO 网络靶场举办的两天红蓝对抗演练中采集的数据：IPFIX 网络流、Linux 系统日志和 Windows 事件日志，统一为 JSON 格式，并附网络拓扑和红队攻击时间表。可在 Zenodo 免费下载（约 270 MB），CC BY 4.0 许可。

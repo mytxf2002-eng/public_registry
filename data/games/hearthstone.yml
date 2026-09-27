@@ -1,0 +1,15 @@
+id: hearthstone
+kind: [api]
+name: Hearthstone
+url: http://hearthstoneapi.com/
+description: Hearthstone Cards Information
+domain: games
+license: unknown
+provenance:
+  added: 2017-10-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: x-mashape-key
+  https: true
+  cors: unknown

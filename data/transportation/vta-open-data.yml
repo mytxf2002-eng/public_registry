@@ -1,0 +1,25 @@
+id: vta-open-data
+kind: [api, dataset]
+name: VTA Open Data
+url: https://data.vta.org/
+description: 'Santa Clara Valley Transportation Authority GIS and ridership data: bus and light rail stops, routes, stations, park-and-ride lots, bikeways and ridership by route and stop'
+domain: transportation
+tags: [public-transit, ridership, bus-stops, light-rail]
+license: unknown
+publisher:
+  name: Santa Clara Valley Transportation Authority
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://data.vta.org/api/search/definition/
+dataset:
+  formats: [csv, geojson, shapefile, kml]
+  access: public
+  spatial: [US-CA]
+  size: 32 datasets

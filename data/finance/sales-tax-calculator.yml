@@ -1,0 +1,15 @@
+id: sales-tax-calculator
+kind: [api]
+name: Sales Tax Calculator
+url: https://salestaxcalculatorapi.com
+description: Computes exact sales tax amounts and breakdowns for checkout and billing
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

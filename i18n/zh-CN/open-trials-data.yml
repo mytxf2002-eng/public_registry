@@ -1,0 +1,2 @@
+id: open-trials-data
+description: 每日从 ClinicalTrials.gov API 抓取全球正在招募的干预性临床试验（约 4.7 万项），整理为统一字段的 CSV 和 JSON，并附按疾病、申办方和分期的汇总，可在 GitHub 直接下载。仅含招募中试验，不含观察性研究；个人项目，仓库为 MIT 许可。

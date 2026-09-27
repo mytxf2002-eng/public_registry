@@ -1,0 +1,3 @@
+id: musicbrainz
+description: 开放的音乐百科数据库：艺人、专辑、录音、厂牌等元数据，核心数据以 CC0 公开，免 key。每秒最多 1 次请求，并要求在 User-Agent 里写明应用名和联系方式。
+group: 音乐资料库与元数据

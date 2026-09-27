@@ -1,0 +1,3 @@
+id: administrative-divisons-db
+description: 查询某个国家的全部行政区划，数据是托管在 GitHub 上的静态 JSON，通过 Cloudflare CDN 分发，免 key。
+group: 国家、行政区与城市数据

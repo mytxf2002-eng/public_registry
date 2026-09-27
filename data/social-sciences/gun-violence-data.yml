@@ -1,0 +1,24 @@
+id: gun-violence-data
+kind: [dataset]
+name: Gun Violence Data (2013-2018)
+url: https://github.com/jamesqo/gun-violence-data
+description: Records of more than 260,000 US gun violence incidents from January 2013 to March 2018, with location, casualties, guns, participants and news sources
+domain: social-sciences
+tags: [gun-violence, crime, incidents, geocoded, public-safety]
+license: unknown
+publisher:
+  name: James Ko (jamesqo)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: 2013-01
+    end: 2018-03
+  spatial: [US]
+  update_frequency: static
+  size: 260k+ incidents

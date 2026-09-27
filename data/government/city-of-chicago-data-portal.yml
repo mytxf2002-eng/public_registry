@@ -1,0 +1,26 @@
+id: city-of-chicago-data-portal
+kind: [api, dataset]
+name: City of Chicago Data Portal
+url: https://data.cityofchicago.org/
+description: About 900 datasets from the City of Chicago on education, finance, health and human services, transportation, community development, sanitation, public safety and more
+domain: government
+tags: [open-government, city-data, crime, transportation, socrata]
+license: LicenseRef-Provider-Terms
+license_url: https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html
+publisher:
+  name: City of Chicago
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-IL]
+  update_frequency: daily

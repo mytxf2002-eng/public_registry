@@ -1,0 +1,2 @@
+id: brightkey-independent-education-datasets
+description: 教育咨询公司 BrightKey 发布的两份数据：55 个国家 299 所大学在六个维度上的评分，以及 41 个城市 234 所国际学校的课程体系、学费、认证、督导评级和 IB/A-Level 成绩等可核实信息。可在 Hugging Face、Kaggle 和 Zenodo 下载 CSV，CC BY 4.0；大学评分为该公司自行评定。

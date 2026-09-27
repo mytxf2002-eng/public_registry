@@ -1,0 +1,15 @@
+id: airnow
+kind: [api]
+name: AirNow
+url: https://docs.airnowapi.org/
+description: US EPA air quality data and forecasts
+domain: environment
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: hail-history
+kind: [api]
+name: Hail History
+url: https://whathitmyhouse.com/api-docs.html
+description: Radar-detected hail history for any US address from NOAA NEXRAD Level-III hail detections, by year
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

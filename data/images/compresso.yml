@@ -1,0 +1,16 @@
+id: compresso
+kind: [api]
+name: Compresso
+url: https://compresso.space/developers
+description: Visually lossless image compression for PNG, JPEG and WebP
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: jira
+description: Atlassian 的缺陷跟踪和敏捷项目管理工具 Jira 的 REST API：创建和查询问题（issue），管理项目、工作流和看板。链接是自建版（Server/Data Center）的文档，Server 版已于 2024 年 2 月停止支持，Jira Cloud 的 API 另有文档。
+group: 项目管理与团队协作

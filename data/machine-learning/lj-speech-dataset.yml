@@ -1,0 +1,22 @@
+id: lj-speech-dataset
+kind: [dataset]
+name: LJ Speech Dataset
+url: https://keithito.com/LJ-Speech-Dataset/
+description: 13,100 short clips, about 24 hours, of one speaker reading passages from seven public-domain non-fiction books for LibriVox, each with raw and normalized transcriptions
+domain: machine-learning
+tags: [speech-synthesis, tts, speech, audiobooks]
+license: LicenseRef-Public-Domain
+license_url: https://keithito.com/LJ-Speech-Dataset/
+publisher:
+  name: Keith Ito
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [audio, csv]
+  access: public
+  url: https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2
+  update_frequency: static
+  size: 2.6 GB

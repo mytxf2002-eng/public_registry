@@ -1,0 +1,2 @@
+id: simpler-grants-gov
+description: 美国联邦政府资助机会检索平台（Grants.gov 新版），可检索全部联邦资助公告并查看详细信息；提供 REST API，通过 Login.gov 账户免费创建 API 密钥后使用，默认每分钟 60 次、每天 1 万次请求，目前只支持读取。

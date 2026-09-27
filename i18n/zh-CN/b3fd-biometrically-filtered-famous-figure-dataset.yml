@@ -1,0 +1,2 @@
+id: b3fd-biometrically-filtered-famous-figure-dataset
+description: Bešenić 等研究者发布的人脸年龄估计数据集：用无监督生物特征方法从 IMDB-WIKI 和 CACD 中剔除错误样本后，得到 375592 张对齐人脸（53759 人，年龄 0–100 岁），附年龄标签（部分含性别）CSV 和过滤列表。图像约 5.73 GB，可通过 OneDrive 链接直接下载；仅限学术研究使用，图像版权归原所有者。

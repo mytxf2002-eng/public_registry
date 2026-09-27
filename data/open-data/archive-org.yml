@@ -1,0 +1,15 @@
+id: archive-org
+kind: [api]
+name: Archive.org
+url: https://archive.readme.io/docs
+description: The Internet Archive
+domain: open-data
+license: unknown
+provenance:
+  added: 2018-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

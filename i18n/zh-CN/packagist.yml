@@ -1,0 +1,3 @@
+id: packagist
+description: PHP Composer 的官方包仓库，API 提供包的版本列表、下载地址（dist）等元数据，以及下载统计和搜索。
+group: 软件包仓库与 CDN

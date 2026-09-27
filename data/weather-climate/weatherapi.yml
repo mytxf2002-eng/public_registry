@@ -1,0 +1,15 @@
+id: weatherapi
+kind: [api]
+name: WeatherAPI
+url: https://www.weatherapi.com/
+description: Weather API with other stuff like Astronomy and Geolocation API
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

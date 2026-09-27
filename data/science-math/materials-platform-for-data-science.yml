@@ -1,0 +1,15 @@
+id: materials-platform-for-data-science
+kind: [api]
+name: Materials Platform for Data Science
+url: https://mpds.io
+description: Curated experimental data for materials science
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-04-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,18 @@
+id: rustybeer
+kind: [api]
+name: Rustybeer
+url: https://rustybeer.herokuapp.com/
+description: Beer brewing tools
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

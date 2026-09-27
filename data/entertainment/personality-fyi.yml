@@ -1,0 +1,16 @@
+id: personality-fyi
+kind: [api]
+name: Personality.fyi
+url: https://personality.fyi/api
+description: Free MBTI personality types and OEJTS test scoring
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

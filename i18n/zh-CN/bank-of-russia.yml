@@ -1,0 +1,3 @@
+id: bank-of-russia
+description: 俄罗斯央行官方的 XML 数据接口：每日卢布官方汇率、指定时段的汇率走势，还有贵金属价格等，免 key。
+group: 央行官方汇率

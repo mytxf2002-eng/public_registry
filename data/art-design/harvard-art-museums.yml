@@ -1,0 +1,15 @@
+id: harvard-art-museums
+kind: [api]
+name: Harvard Art Museums
+url: https://github.com/harvardartmuseums/api-docs
+description: Objects, people, exhibitions and publications of the Harvard Art Museums
+domain: art-design
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

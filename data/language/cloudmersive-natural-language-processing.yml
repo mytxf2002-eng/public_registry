@@ -1,0 +1,16 @@
+id: cloudmersive-natural-language-processing
+kind: [api]
+name: Cloudmersive Natural Language Processing
+url: https://www.cloudmersive.com/nlp-api
+description: Natural language processing and text analysis
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2018-07-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,21 @@
+id: neurodata-open-connectome
+kind: [dataset]
+name: NeuroData Open Connectome
+url: https://neurodata.io/
+description: Brain imaging volumes from electron microscopy, array tomography, cleared light-sheet and MRI with segmentations, plus animal connectome graphs, openly hosted on AWS
+domain: life-sciences
+tags: [connectomics, electron-microscopy, neuroimaging, brain-graphs]
+license: ODC-By-1.0
+license_url: https://registry.opendata.aws/open-neurodata/
+publisher:
+  name: NeuroData, Johns Hopkins University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, xml]
+  access: public
+  url: https://registry.opendata.aws/open-neurodata/
+  update_frequency: irregular

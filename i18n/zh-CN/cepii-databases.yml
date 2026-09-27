@@ -1,0 +1,2 @@
+id: cepii-databases
+description: 法国国际经济研究中心（CEPII）发布的约 30 个研究数据库，包括覆盖 200 个国家、5000 种 HS6 产品的 BACI 双边贸易流、引力模型变量、关税、贸易单位价值和长期宏观序列等，提供 CSV、Stata、R 等格式直接下载。多数数据库采用 Etalab 2.0 开放许可，少数为 CC BY-NC-SA 等非商业许可。

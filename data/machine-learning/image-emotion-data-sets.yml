@@ -1,0 +1,21 @@
+id: image-emotion-data-sets
+kind: [dataset]
+name: Image Emotion Data Sets (Abstract and ArtPhoto)
+url: https://www.imageemotion.org/
+description: Two small image sets for affective image classification, abstract paintings and artistic photographs, each labelled with the emotion category they evoke
+domain: machine-learning
+tags: [affective-computing, emotion-recognition, image-classification, art]
+license: LicenseRef-Research-Only
+license_url: https://www.imageemotion.org/
+publisher:
+  name: Jana Machajdik and Allan Hanbury (TU Wien)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  update_frequency: static
+  size: 33 MB

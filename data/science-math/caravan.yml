@@ -1,0 +1,25 @@
+id: caravan
+kind: [dataset]
+name: Caravan
+url: https://zenodo.org/records/15529786
+description: Daily streamflow, ERA5-Land meteorological forcing and catchment attributes for about 16,000 river gauges worldwide, harmonised from national large-sample hydrology datasets
+domain: science-math
+tags: [hydrology, streamflow, catchments, rainfall-runoff, era5-land]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/15529786
+publisher:
+  name: Frederik Kratzert et al. (Google Research)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [netcdf, csv]
+  access: public
+  temporal:
+    start: '1950'
+    end: '2023'
+  spatial: [global]
+  update_frequency: irregular
+  size: 24.8 GB (netCDF)

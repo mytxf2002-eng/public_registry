@@ -1,0 +1,15 @@
+id: botsarchive
+kind: [api]
+name: BotsArchive
+url: https://botsarchive.com/docs.html
+description: JSON formatted details about Telegram Bots available in database
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-10-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

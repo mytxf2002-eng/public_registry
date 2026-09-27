@@ -1,0 +1,16 @@
+id: words
+kind: [api]
+name: Words
+url: https://www.wordsapi.com/docs/
+description: Definitions and synonyms for more than 150,000 words
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2017-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

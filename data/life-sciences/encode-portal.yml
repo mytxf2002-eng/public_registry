@@ -1,0 +1,25 @@
+id: encode-portal
+kind: [api, dataset]
+name: ENCODE Portal (Encyclopedia of DNA Elements)
+url: https://www.encodeproject.org/
+description: Functional genomics experiments on human and mouse from the ENCODE consortium and hosted projects such as Roadmap Epigenomics and modENCODE, with metadata, processed files and an element catalogue
+domain: life-sciences
+tags: [functional-genomics, epigenomics, chip-seq, regulatory-elements, gene-expression]
+license: LicenseRef-Custom-Open
+license_url: https://www.encodeproject.org/help/rest-api/
+publisher:
+  name: ENCODE Data Coordination Center (ENCODE Consortium)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://www.encodeproject.org/help/rest-api/
+dataset:
+  formats: [fastq, bam, other]
+  access: public
+  update_frequency: irregular

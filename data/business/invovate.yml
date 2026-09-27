@@ -1,0 +1,15 @@
+id: invovate
+kind: [api]
+name: Invovate
+url: https://invovate.com/api
+description: Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST
+domain: business
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

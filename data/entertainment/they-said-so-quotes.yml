@@ -1,0 +1,16 @@
+id: they-said-so-quotes
+kind: [api]
+name: They Said So Quotes
+url: https://theysaidso.com/api/
+description: Quotes Trusted by many fortune brands around the world
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: quotable-quotes
+kind: [api]
+name: Quotable Quotes
+url: https://github.com/lukePeavey/quotable
+description: Quotable is a free, open source quotations API
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2020-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

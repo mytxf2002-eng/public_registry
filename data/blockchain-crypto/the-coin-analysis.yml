@@ -1,0 +1,16 @@
+id: the-coin-analysis
+kind: [api]
+name: The Coin Analysis
+url: https://www.thecoinanalysis.com/developers
+description: Live and historical cryptocurrency prices, market caps, volatility and drawdown
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

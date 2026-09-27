@@ -1,0 +1,15 @@
+id: alpaca
+kind: [api]
+name: Alpaca
+url: https://docs.alpaca.markets/docs/about-market-data-api
+description: Realtime and historical market data on all US equities and ETFs
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

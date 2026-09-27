@@ -1,0 +1,3 @@
+id: ibm-text-to-speech
+description: IBM Watson 的语音合成服务：把文字转成自然的语音，支持多种语言和音色，可以用 SSML 调整发音和语调，有免费的 Lite 套餐。
+group: AI 与 Agent 服务

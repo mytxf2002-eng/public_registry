@@ -1,0 +1,15 @@
+id: massivemusic
+kind: [api]
+name: MassiveMusic
+url: https://docs.massivemusic.com/reference/introduction
+description: Api of Music store 7digital
+domain: music
+license: unknown
+provenance:
+  added: 2021-05-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

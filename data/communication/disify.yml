@@ -1,0 +1,16 @@
+id: disify
+kind: [api]
+name: Disify
+url: https://www.disify.com/
+description: Validate and detect disposable and temporary email addresses
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2021-11-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

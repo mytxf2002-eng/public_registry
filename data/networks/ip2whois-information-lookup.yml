@@ -1,0 +1,15 @@
+id: ip2whois-information-lookup
+kind: [api]
+name: IP2WHOIS Information Lookup
+url: https://www.ip2whois.com/
+description: WHOIS domain name lookup
+domain: networks
+license: unknown
+provenance:
+  added: 2021-04-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

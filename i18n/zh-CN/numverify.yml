@@ -1,0 +1,3 @@
+id: numverify
+description: APILayer 的产品：校验国际及各国本地格式的电话号码，返回运营商、所在地区和线路类型（手机、固话等），有免费档。
+group: 号码校验与运营商查询

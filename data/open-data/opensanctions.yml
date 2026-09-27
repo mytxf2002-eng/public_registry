@@ -1,0 +1,22 @@
+id: opensanctions
+kind: [api, dataset]
+name: OpenSanctions
+url: https://www.opensanctions.org/docs/api/
+description: Data on international sanctions, crime and politically exposed persons
+domain: open-data
+license: unknown
+provenance:
+  added: 2022-01-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv, text]
+  access: public
+  url: https://www.opensanctions.org/datasets/default/
+  spatial: [global]
+  update_frequency: daily
+  size: 2.43 GB (FtM JSON)

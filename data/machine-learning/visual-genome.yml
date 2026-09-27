@@ -1,0 +1,22 @@
+id: visual-genome
+kind: [dataset]
+name: Visual Genome
+url: https://homes.cs.washington.edu/~ranjay/visualgenome/index.html
+description: 108,077 images densely annotated with 5.4 million region descriptions, 1.7 million QA pairs and millions of objects, attributes and relationships mapped to WordNet
+domain: machine-learning
+tags: [scene-graphs, visual-question-answering, region-descriptions, object-relationships, computer-vision]
+license: CC-BY-4.0
+license_url: https://homes.cs.washington.edu/~ranjay/visualgenome/index.html
+publisher:
+  name: Stanford University (Ranjay Krishna et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, json, text]
+  access: public
+  url: https://homes.cs.washington.edu/~ranjay/visualgenome/api.html
+  update_frequency: static
+  size: 108,077 images (~15 GB)

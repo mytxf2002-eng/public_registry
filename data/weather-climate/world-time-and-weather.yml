@@ -1,0 +1,15 @@
+id: world-time-and-weather
+kind: [api]
+name: World Time & Weather
+url: https://worldtimeweather.com/api.html
+description: Current weather, local time, UTC offset and DST rules for 400 cities as static JSON
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

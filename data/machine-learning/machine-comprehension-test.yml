@@ -1,0 +1,20 @@
+id: machine-comprehension-test
+kind: [dataset]
+name: Machine Comprehension Test (MCTest)
+url: https://mattr1.github.io/mctest/
+description: 660 short stories written by crowd workers, each paired with multiple-choice questions, for machine reading comprehension research, with answer keys for training, development and test sets
+domain: machine-learning
+tags: [reading-comprehension, question-answering, nlp, benchmark]
+license: unknown
+publisher:
+  name: Microsoft Research
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  url: https://mattr1.github.io/mctest/data.html
+  update_frequency: static

@@ -1,0 +1,16 @@
+id: dev-to
+kind: [api]
+name: Dev.to
+url: https://developers.forem.com/api
+description: Access Forem articles, users and other resources via API
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: openregistry
+kind: [api]
+name: OpenRegistry
+url: https://openregistry.sophymarine.com
+description: Real-time queries to 27 national company registries (UK, FR, DE, IT, ES, KR + 21 more)
+domain: government
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

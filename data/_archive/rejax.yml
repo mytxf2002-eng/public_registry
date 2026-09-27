@@ -1,0 +1,18 @@
+id: rejax
+kind: [api]
+name: Rejax
+url: https://rejax.io/
+description: Reverse AJAX service to notify clients
+domain: development
+license: unknown
+provenance:
+  added: 2021-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: The domain no longer resolves and no successor exists.

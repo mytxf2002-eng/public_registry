@@ -1,0 +1,16 @@
+id: photoroom
+kind: [api]
+name: PhotoRoom
+url: https://www.photoroom.com/api/
+description: Remove background from images
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

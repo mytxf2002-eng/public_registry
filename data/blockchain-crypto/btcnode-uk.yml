@@ -1,0 +1,16 @@
+id: btcnode-uk
+kind: [api]
+name: btcnode.uk
+url: https://btcnode.uk
+description: Bitcoin blockchain data, fees, mempool, SEC insider trades and Reddit sentiment; x402 for paid data
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-06-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

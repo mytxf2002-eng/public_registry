@@ -1,0 +1,18 @@
+id: code-gov
+kind: [api]
+name: Code.gov
+url: https://code.gov
+description: The primary platform for Open Source and code sharing for the U.S. Federal Government
+domain: government
+license: unknown
+provenance:
+  added: 2019-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Code.gov no longer runs as a platform or API; the domain and api.code.gov redirect to a Digital.gov policy page.

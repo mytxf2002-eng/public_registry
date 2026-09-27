@@ -1,0 +1,15 @@
+id: smithsonian-open-access
+kind: [api]
+name: Smithsonian Open Access
+url: https://github.com/Smithsonian/smithsonian-openaccess
+description: Smithsonian collection metadata and open-access digital media
+domain: art-design
+license: unknown
+provenance:
+  added: 2026-09-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

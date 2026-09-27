@@ -1,0 +1,3 @@
+id: uuid-generator
+description: UUIDTools.com 的免费 UUID/GUID 生成接口，支持 v1、v3、v4、v5，可以一次批量生成。
+group: 通用假数据生成

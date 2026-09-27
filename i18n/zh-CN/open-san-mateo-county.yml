@@ -1,0 +1,2 @@
+id: open-san-mateo-county
+description: 美国加州圣马特奥县政府的开放数据门户（Socrata），约 45 个数据集，包括地块、选区、环境、交通等，另有政府绩效和支出（Open Checkbook）页面；可导出 CSV、JSON、GeoJSON 等，并可通过 SODA 接口免密钥查询，多数数据集标注为公共领域。

@@ -1,0 +1,3 @@
+id: puyo-nexus
+description: 从 Puyo Nexus Wiki 抓取《魔法气泡》（Puyo Puyo）系列资料的非官方接口，用 Deno 编写，开源在 GitHub 上。
+group: 主机与独立游戏资料

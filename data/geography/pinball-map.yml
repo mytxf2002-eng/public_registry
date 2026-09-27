@@ -1,0 +1,16 @@
+id: pinball-map
+kind: [api]
+name: Pinball Map
+url: https://pinballmap.com/api/v1/docs
+description: A crowdsourced map of public pinball machines
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

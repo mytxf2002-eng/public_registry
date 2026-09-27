@@ -1,0 +1,16 @@
+id: pixabay
+kind: [api]
+name: Pixabay
+url: https://pixabay.com/sk/service/about/api/
+description: Photography
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2017-10-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,19 @@
+id: statistics-south-africa
+kind: [dataset]
+name: Statistics South Africa
+url: https://www.statssa.gov.za/
+description: Official statistics of South Africa from the national statistics agency, covering census, population, labour, prices, GDP and other economic and social surveys
+domain: government
+tags: [official-statistics, census, labour-force, consumer-prices]
+license: unknown
+publisher:
+  name: Statistics South Africa
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [pdf, xlsx]
+  access: public
+  spatial: [ZA]

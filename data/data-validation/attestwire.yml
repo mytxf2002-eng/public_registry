@@ -1,0 +1,15 @@
+id: attestwire
+kind: [api]
+name: Attestwire
+url: https://api.attestwire.com/docs
+description: 'Validate EN 16931 e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS'
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

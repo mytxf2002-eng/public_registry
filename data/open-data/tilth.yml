@@ -1,0 +1,15 @@
+id: tilth
+kind: [api]
+name: Tilth
+url: https://www.tilth.uk/data
+description: Free daily UK fertiliser price index across nine grades, CC BY 4.0 licensed
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

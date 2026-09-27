@@ -1,0 +1,15 @@
+id: waifu-im
+kind: [api]
+name: Waifu.im
+url: https://waifu.im/docs
+description: Get waifu pictures from an archive of over 4000 images and multiple tags
+domain: anime
+license: unknown
+provenance:
+  added: 2021-12-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

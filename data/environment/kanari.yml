@@ -1,0 +1,24 @@
+id: kanari
+kind: [api, dataset]
+name: kanari
+url: https://kanari.io/en/api
+description: Real-time worldwide wildfire detections, water bomber tracking and open fire archive
+domain: environment
+license: CC-BY-4.0
+license_url: https://kanari.io/en/api
+provenance:
+  added: 2026-08-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://kanari.io/opendata/feux.csv
+  temporal:
+    start: 2026-08-03
+    end: null
+  spatial: [global]

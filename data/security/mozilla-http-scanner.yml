@@ -1,0 +1,15 @@
+id: mozilla-http-scanner
+kind: [api]
+name: Mozilla http scanner
+url: https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md
+description: Mozilla observatory http scanner
+domain: security
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

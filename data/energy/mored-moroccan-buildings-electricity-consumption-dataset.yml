@@ -1,0 +1,23 @@
+id: mored-moroccan-buildings-electricity-consumption-dataset
+kind: [dataset]
+name: 'MORED: Moroccan Buildings'' Electricity Consumption Dataset'
+url: https://github.com/MOREDataset/MORED
+description: Whole-premises and per-appliance electricity consumption sampled every 5 seconds in homes in Salé, Rabat and Tétouan, Morocco, recorded since 2019
+domain: energy
+tags: [nilm, household-electricity, appliance-level, smart-meter]
+license: unknown
+publisher:
+  name: TICLab, International University of Rabat
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2019'
+    end: null
+  spatial: [MA]
+  update_frequency: irregular

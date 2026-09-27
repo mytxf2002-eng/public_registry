@@ -1,0 +1,15 @@
+id: google-books
+kind: [api]
+name: Google Books
+url: https://developers.google.com/books/
+description: Search books by title, author or ISBN and get descriptions, covers and preview links
+domain: books
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

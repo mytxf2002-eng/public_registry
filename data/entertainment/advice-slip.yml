@@ -1,0 +1,16 @@
+id: advice-slip
+kind: [api]
+name: Advice Slip
+url: http://api.adviceslip.com/
+description: Generate random advice slips
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2018-10-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

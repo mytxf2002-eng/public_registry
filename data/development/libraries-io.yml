@@ -1,0 +1,29 @@
+id: libraries-io
+kind: [api, dataset]
+name: Libraries.io
+url: https://libraries.io/api
+description: Metadata, dependencies and release history for open-source packages across 30+ managers
+domain: development
+tags: [open-source, package-managers, dependencies, software-ecosystems]
+license: CC-BY-SA-4.0
+license_url: https://zenodo.org/records/3626071
+publisher:
+  name: Libraries.io
+  kind: company
+provenance:
+  added: 2016-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: 2020-01
+    end: 2020-01
+  spatial: [global]
+  update_frequency: static
+  size: about 25 GB compressed

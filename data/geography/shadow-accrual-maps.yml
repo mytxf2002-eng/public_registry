@@ -1,0 +1,22 @@
+id: shadow-accrual-maps
+kind: [dataset]
+name: Shadow Accrual Maps
+url: https://github.com/VIDA-NYU/shadow-accrual-maps
+description: Accumulated building-shadow values for New York, Chicago, Los Angeles, Washington DC and Boston on the June and December solstices and the September equinox, as map tiles
+domain: geography
+tags: [shadows, sunlight, urban-planning, map-tiles, cities]
+license: unknown
+publisher:
+  name: NYU Visualization and Data Analytics Lab (VIDA)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, binary]
+  access: public
+  url: https://osf.io/4tqp9/
+  spatial: [US-NY, US-IL, US-CA, US-DC, US-MA]
+  update_frequency: static
+  size: 0.5-1.7 GB per city and day

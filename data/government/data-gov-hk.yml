@@ -1,0 +1,28 @@
+id: data-gov-hk
+kind: [api, dataset]
+name: DATA.GOV.HK
+url: https://data.gov.hk/en/
+description: About 630 datasets from Hong Kong government departments and public and private organisations on transport, weather, environment, housing, health, population and other topics
+domain: government
+tags: [open-government, transport, weather, housing, public-services]
+license: LicenseRef-Open-Government
+license_url: https://data.gov.hk/en/terms-and-conditions
+publisher:
+  name: Digital Policy Office, Hong Kong SAR Government
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://data.gov.hk/en/help/api-spec
+dataset:
+  formats: [csv, xlsx, json, xls, xml]
+  access: public
+  url: https://data.gov.hk/en-datasets
+  spatial: [HK]
+  update_frequency: irregular
+  size: 631 datasets

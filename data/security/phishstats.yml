@@ -1,0 +1,15 @@
+id: phishstats
+kind: [api]
+name: PhishStats
+url: https://phishstats.info/
+description: Phishing database
+domain: security
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

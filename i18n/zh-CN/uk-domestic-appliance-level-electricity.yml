@@ -1,0 +1,2 @@
+id: uk-domestic-appliance-level-electricity
+description: 英国 5 户家庭的用电数据：整户和单个电器功率每 6 秒一条，其中 3 户另有 16 kHz 的整户电压和电流波形，1 号住宅记录了 4.3 年（2012–2017），最终版本发布于 2017 年 4 月。压缩的 CSV 文件（3.3 GB）、NILMTK 用的 HDF5 以及 FLAC 格式的高频数据托管在英国 CEDA 档案，可直接下载，采用 CC BY 4.0 许可。

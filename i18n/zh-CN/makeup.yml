@@ -1,0 +1,3 @@
+id: makeup
+description: 化妆品数据：按品牌、品类、标签等查询产品信息、价格和色号，托管在 Heroku 上，收录信息标注不支持 HTTPS。
+group: 其他

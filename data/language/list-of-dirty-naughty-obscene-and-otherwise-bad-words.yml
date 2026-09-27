@@ -1,0 +1,20 @@
+id: list-of-dirty-naughty-obscene-and-otherwise-bad-words
+kind: [dataset]
+name: List of Dirty, Naughty, Obscene, and Otherwise Bad Words
+url: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+description: Plain-text lists of offensive and obscene words in 28 language variants, one file per language code, first compiled by Shutterstock to filter search autocomplete suggestions
+domain: language
+tags: [profanity, word-lists, content-moderation, multilingual]
+license: CC-BY-4.0
+license_url: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+publisher:
+  name: Shutterstock
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: irregular

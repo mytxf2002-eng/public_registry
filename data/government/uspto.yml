@@ -1,0 +1,21 @@
+id: uspto
+kind: [api, dataset]
+name: USPTO
+url: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
+description: USA patent api services
+domain: government
+tags: [patents]
+license: unknown
+provenance:
+  added: 2017-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [xml]
+  access: registration
+  url: https://data.uspto.gov/bulkdata
+  spatial: [US]

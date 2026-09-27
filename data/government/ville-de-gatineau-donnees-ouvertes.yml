@@ -1,0 +1,23 @@
+id: ville-de-gatineau-donnees-ouvertes
+kind: [dataset]
+name: Ville de Gatineau Données ouvertes
+url: https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes/donnees_ouvertes
+description: 'About 50 City of Gatineau, Quebec datasets: zoning, flood zones, bike paths, road network, traffic counts, addresses, waste collection schedules and municipal election results'
+domain: government
+tags: [municipal, gis, zoning, elections, cycling]
+license: CC-BY-4.0
+license_url: https://www.donneesquebec.ca/recherche/organization/ville-de-gatineau
+publisher:
+  name: Ville de Gatineau
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, geojson, xlsx, kml, shapefile]
+  access: public
+  url: https://www.donneesquebec.ca/recherche/organization/ville-de-gatineau
+  spatial: [CA-QC]
+  update_frequency: irregular
+  size: 52 datasets

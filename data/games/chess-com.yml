@@ -1,0 +1,15 @@
+id: chess-com
+kind: [api]
+name: Chess.com
+url: https://www.chess.com/news/view/published-data-api
+description: Chess.com read-only REST API
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

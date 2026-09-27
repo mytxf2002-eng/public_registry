@@ -1,0 +1,15 @@
+id: football-standings
+kind: [api]
+name: Football Standings
+url: https://github.com/azharimm/football-standings-api
+description: Display football standings e.g epl, la liga, serie a etc. The data is based on espn site
+domain: sports
+license: unknown
+provenance:
+  added: 2021-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

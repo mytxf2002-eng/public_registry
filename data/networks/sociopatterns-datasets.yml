@@ -1,0 +1,21 @@
+id: sociopatterns-datasets
+kind: [dataset]
+name: SocioPatterns Datasets
+url: https://sociopatterns.org/datasets.html
+description: About 17 datasets of face-to-face proximity contacts recorded with wearable sensors in schools, hospitals, workplaces, conferences and households, released 2011 to 2024
+domain: networks
+tags: [contact-networks, face-to-face, wearable-sensors, temporal-networks, epidemiology]
+license: CC-BY-NC-SA-3.0
+license_url: https://sociopatterns.org/datasets.html
+publisher:
+  name: SocioPatterns collaboration
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, tsv, xml]
+  access: public
+  update_frequency: irregular
+  size: 17 datasets

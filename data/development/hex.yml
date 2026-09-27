@@ -1,0 +1,15 @@
+id: hex
+kind: [api]
+name: Hex
+url: https://github.com/hexpm/specifications
+description: Elixir and Erlang package versions and docs
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

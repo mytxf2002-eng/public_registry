@@ -1,0 +1,15 @@
+id: jokes-one
+kind: [api]
+name: Jokes One
+url: https://jokes.one/api/joke/
+description: Joke of the day and large category of jokes accessible via REST API
+domain: games
+license: unknown
+provenance:
+  added: 2021-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

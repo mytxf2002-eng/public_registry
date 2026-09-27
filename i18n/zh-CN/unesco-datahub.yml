@@ -1,0 +1,2 @@
+id: unesco-datahub
+description: 联合国教科文组织数据中心，收录 37 个数据集，包括世界遗产与非物质文化遗产名录、可持续发展目标 4 教育指标、研发统计、UNESDOC 文献目录和遇害记者观察等，可导出 CSV、JSON、GeoJSON、Parquet 等格式并通过 Explore API 免密钥查询，数据采用 CC BY-SA 4.0 许可。

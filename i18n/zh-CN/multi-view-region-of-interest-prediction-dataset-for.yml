@@ -1,0 +1,2 @@
+id: multi-view-region-of-interest-prediction-dataset-for
+description: 慕尼黑工业大学发布的自动驾驶感兴趣区域预测数据集：在 CARLA 仿真器中录制的多视角图像，带人工标注的感兴趣区域标签，共 21 个 HDF5 文件、13.3 GB（2020 年发布）。可通过 TUM 数据服务器的网页、FTP 或 rsync 免费下载，采用 CC BY 4.0 许可。

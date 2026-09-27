@@ -1,0 +1,15 @@
+id: interpol-red-notices
+kind: [api]
+name: Interpol Red Notices
+url: https://interpol.api.bund.dev/
+description: Access and search Interpol Red Notices
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

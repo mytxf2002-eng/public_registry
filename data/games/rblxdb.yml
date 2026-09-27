@@ -1,0 +1,15 @@
+id: rblxdb
+kind: [api]
+name: Rblxdb
+url: https://rblxdb.com/developers
+description: Verified Roblox music codes and decal IDs with live working status
+domain: games
+license: unknown
+provenance:
+  added: 2026-08-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

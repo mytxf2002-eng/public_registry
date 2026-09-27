@@ -1,0 +1,15 @@
+id: pusher-beams
+kind: [api]
+name: Pusher Beams
+url: https://pusher.com/beams
+description: Push notifications for Android & iOS
+domain: development
+license: unknown
+provenance:
+  added: 2018-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

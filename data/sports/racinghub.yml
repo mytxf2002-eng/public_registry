@@ -1,0 +1,15 @@
+id: racinghub
+kind: [api]
+name: RacingHub
+url: https://racinghub.net/api/v1/docs#/
+description: Formula 1 historical data and statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

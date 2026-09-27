@@ -1,0 +1,16 @@
+id: getty-images
+kind: [api]
+name: Getty Images
+url: http://developers.gettyimages.com/en/
+description: 'Official API of the Getty Images library: search and download creative and editorial images and videos'
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

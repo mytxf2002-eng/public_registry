@@ -1,0 +1,2 @@
+id: armed-conflict-location-and-event-data
+description: ACLED 冲突事件数据库，覆盖全球所有国家和地区的政治暴力、抗议示威等事件，含日期、地点坐标、参与方和报告死亡人数，持续更新。注册免费 myACLED 账户后可下载数据文件或通过 OAuth 认证的 API 获取；免费许可仅限非商业用途，政府机构和商业机构需另行取得许可。

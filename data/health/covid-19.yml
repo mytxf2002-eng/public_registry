@@ -1,0 +1,15 @@
+id: covid-19
+kind: [api]
+name: Covid-19
+url: https://github.com/M-Media-Group/Covid-19-API
+description: Covid 19 cases, deaths and recovery per country
+domain: health
+license: unknown
+provenance:
+  added: 2020-11-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

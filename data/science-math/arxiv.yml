@@ -1,0 +1,15 @@
+id: arxiv
+kind: [api]
+name: arXiv
+url: https://info.arxiv.org/help/api/user-manual.html
+description: 'Curated research-sharing platform: physics, mathematics, quantitative finance, and economics'
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

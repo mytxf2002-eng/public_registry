@@ -1,0 +1,16 @@
+id: coinbase-pro
+kind: [api]
+name: Coinbase Pro
+url: https://docs.pro.coinbase.com/#api
+description: Cryptocurrency Trading Platform
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: meetup-com
+description: 线下活动组织平台 Meetup 的接口，可以查询小组、活动和成员等数据，现在是 GraphQL 接口。
+group: 活动、地点与社区互助

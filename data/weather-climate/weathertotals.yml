@@ -1,0 +1,15 @@
+id: weathertotals
+kind: [api]
+name: WeatherTotals
+url: https://weathertotals.com/api
+description: Measured US snow, rain, hail and aurora totals by state and city
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

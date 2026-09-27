@@ -1,0 +1,3 @@
+id: statically
+description: 免费 CDN：把 GitHub、GitLab、Bitbucket 仓库和 npm 包里的文件地址直接改写成 CDN 链接引用。
+group: 软件包仓库与 CDN

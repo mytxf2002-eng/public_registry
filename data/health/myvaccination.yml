@@ -1,0 +1,15 @@
+id: myvaccination
+kind: [api]
+name: MyVaccination
+url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
+description: Vaccination data for Malaysia
+domain: health
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

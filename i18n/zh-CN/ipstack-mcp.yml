@@ -1,0 +1,2 @@
+id: ipstack-mcp
+description: APILayer 旗下 ipstack 的 MCP 服务器：让 AI 智能体查询 IP 地理位置、威胁信息和时区，需要 API key，支持 stdio 和 HTTP 两种传输方式。

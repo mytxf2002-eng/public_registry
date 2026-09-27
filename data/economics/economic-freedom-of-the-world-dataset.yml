@@ -1,0 +1,25 @@
+id: economic-freedom-of-the-world-dataset
+kind: [dataset]
+name: Economic Freedom of the World Dataset
+url: https://efotw.org/economic-freedom/dataset
+description: Economic freedom ratings for up to 165 jurisdictions back to 1970, with scores for size of government, legal system and property rights, sound money, trade freedom and regulation
+domain: economics
+tags: [economic-freedom, composite-index, property-rights, regulation, trade-policy]
+license: LicenseRef-Provider-Terms
+license_url: https://efotw.org/economic-freedom/citations
+publisher:
+  name: Fraser Institute
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  temporal:
+    start: '1970'
+    end: null
+  spatial: [global]
+  update_frequency: annual
+  size: 5.4 MB

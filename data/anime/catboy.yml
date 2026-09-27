@@ -1,0 +1,15 @@
+id: catboy
+kind: [api]
+name: Catboy
+url: https://catboys.com/api
+description: Neko images, funny GIFs & more
+domain: anime
+license: unknown
+provenance:
+  added: 2022-01-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

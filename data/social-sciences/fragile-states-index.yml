@@ -1,0 +1,24 @@
+id: fragile-states-index
+kind: [dataset]
+name: Fragile States Index
+url: https://fragilestatesindex.org/
+description: Annual country scores of state fragility on 12 cohesion, economic, political and social indicators, with yearly Excel files from 2006 onward
+domain: social-sciences
+tags: [state-fragility, risk-index, governance, country-rankings, conflict-risk]
+license: unknown
+publisher:
+  name: The Fund for Peace
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  url: https://fragilestatesindex.org/excel/
+  temporal:
+    start: '2006'
+    end: null
+  spatial: [global]
+  update_frequency: annual

@@ -1,0 +1,23 @@
+id: arcnautical
+kind: [api, dataset]
+name: ArcNautical
+url: https://arcnautical.com/developers/
+description: Screen any ship by IMO for OFAC/EU/UN/UK sanctions, ownership opacity and a vetting grade
+domain: transportation
+license: LicenseRef-Provider-Terms
+license_url: https://arcnautical.com/terms.html
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://arcnautical.com/data/
+  spatial: [global]
+  update_frequency: weekly
+  size: 1,527 vessel records

@@ -1,0 +1,19 @@
+id: turing-change-point-dataset
+kind: [dataset]
+name: Turing Change Point Dataset (TCPD)
+url: https://github.com/alan-turing-institute/TCPD
+description: Real-world time series from varied domains with change points marked by several human annotators, built to evaluate change point detection algorithms
+domain: machine-learning
+tags: [time-series, change-point-detection, benchmark, annotations]
+license: unknown
+publisher:
+  name: The Alan Turing Institute
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  update_frequency: static

@@ -1,0 +1,26 @@
+id: glasgow-open-data-hub
+kind: [api, dataset]
+name: Glasgow Open Data Hub
+url: https://data.glasgow.gov.uk/
+description: About 130 Glasgow City Council datasets and feeds, including traffic, car-park and cycle-counter APIs, footfall, school rolls, licensing registers, LiDAR and development-plan layers
+domain: government
+tags: [municipal, traffic, footfall, licensing, planning]
+license: OGL-UK-3.0
+license_url: https://data.glasgow.gov.uk/pages/data-policy
+publisher:
+  name: Glasgow City Council
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [GB-GLG]
+  update_frequency: irregular
+  size: 137 items

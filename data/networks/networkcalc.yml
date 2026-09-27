@@ -1,0 +1,15 @@
+id: networkcalc
+kind: [api]
+name: NetworkCalc
+url: https://networkcalc.com/api/docs
+description: Network calculators, including subnets, DNS, binary, and security tools
+domain: networks
+license: unknown
+provenance:
+  added: 2021-11-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

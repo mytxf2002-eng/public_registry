@@ -1,0 +1,3 @@
+id: wallstreetbets
+description: 分析 Reddit r/wallstreetbets 版块的讨论，返回讨论最多的 50 只股票及其情绪。
+group: 新闻、情绪与另类数据

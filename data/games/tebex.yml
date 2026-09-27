@@ -1,0 +1,15 @@
+id: tebex
+kind: [api]
+name: Tebex
+url: https://docs.tebex.io/plugin/
+description: Tebex API for information about game purchases
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: x-mashape-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: codeforces
+description: 编程竞赛平台 Codeforces 的官方 API：比赛、题目、提交记录、排名和用户评分。公开数据可以匿名调用，私有数据才需要 key，限制每 2 秒 1 次请求。
+group: 编程竞赛与代码执行

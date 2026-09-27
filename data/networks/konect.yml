@@ -1,0 +1,21 @@
+id: konect
+kind: [dataset]
+name: KONECT (Koblenz Network Collection)
+url: http://konect.cc/
+description: About 1,300 network datasets (social, hyperlink, citation, bipartite, temporal and more) with computed statistics and plots, each downloadable as compressed edge lists
+domain: networks
+tags: [network-science, graphs, bipartite-networks, network-statistics]
+license: unknown
+publisher:
+  name: Jérôme Kunegis (University of Namur)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  url: http://konect.cc/networks/
+  update_frequency: irregular
+  size: 1,326 networks

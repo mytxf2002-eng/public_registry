@@ -1,0 +1,2 @@
+id: tz-world-time-zone-shapefile
+description: 按 IANA 时区数据库（2016d 版）划分的全球陆地时区边界 Shapefile，约 2.8 万个多边形，另有每个时区合并为单一几何的版本，可免费直接下载，以 CC0 放弃版权。该数据自 2016 年 5 月起不再维护，作者建议改用基于 OpenStreetMap 的 timezone-boundary-builder。

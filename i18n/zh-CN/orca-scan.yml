@@ -1,0 +1,3 @@
+id: orca-scan
+description: 条码扫描应用 Orca Scan 提供的免费条码图片接口：二维码、Code 128、EAN、Data Matrix 等，输出 SVG、PNG、JPG 或 PDF，免 key。
+group: 二维码与条码

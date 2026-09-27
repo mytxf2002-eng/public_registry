@@ -1,0 +1,18 @@
+id: sport-list-and-data
+kind: [api]
+name: Sport List & Data
+url: https://developers.decathlon.com/products/sports
+description: List of and resources related to sports
+domain: sports
+license: unknown
+provenance:
+  added: 2021-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Decathlon's developer portal has shut down and the Sports API endpoint is unmaintained.

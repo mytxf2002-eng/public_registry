@@ -1,0 +1,24 @@
+id: apo-productivity-database
+kind: [dataset]
+name: APO Productivity Database
+url: https://www.apo-tokyo.org/productivitydatabook/
+description: 'Harmonized productivity accounts for 27 Asian economies and the USA since 1970: GDP, capital and labor inputs, total factor productivity and industry labor productivity'
+domain: economics
+tags: [productivity, tfp, growth-accounting, national-accounts, labor-productivity]
+license: LicenseRef-Research-Only
+license_url: https://www.apo-tokyo.org/terms/
+publisher:
+  name: Asian Productivity Organization
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, pdf]
+  access: public
+  temporal:
+    start: '1970'
+    end: null
+  spatial: [asia, US]
+  update_frequency: annual

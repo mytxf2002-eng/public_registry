@@ -1,0 +1,16 @@
+id: resmush-it
+kind: [api]
+name: ReSmush.it
+url: https://resmush.it/api
+description: Photo optimization
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-03-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

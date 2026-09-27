@@ -1,0 +1,16 @@
+id: ipgeo
+kind: [api]
+name: IPGEO
+url: https://api.techniknews.net/ipgeo/
+description: Unlimited free IP Address API with useful information
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

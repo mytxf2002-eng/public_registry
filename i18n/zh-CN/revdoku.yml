@@ -1,0 +1,3 @@
+id: revdoku
+description: 云文件存储服务 Revdoku 的接口：文件存储、版本历史和共享，还能接收通过邮件发来的附件。
+group: 网盘与团队文件协作

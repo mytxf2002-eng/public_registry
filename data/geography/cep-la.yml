@@ -1,0 +1,16 @@
+id: cep-la
+kind: [api]
+name: Cep.la
+url: http://cep.la/
+description: Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-04-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

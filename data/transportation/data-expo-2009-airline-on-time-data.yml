@@ -1,0 +1,25 @@
+id: data-expo-2009-airline-on-time-data
+kind: [dataset]
+name: 'Data Expo 2009: Airline On-Time Data'
+url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
+description: Nearly 120 million US commercial flight records from October 1987 to April 2008 with scheduled and actual times, delays by cause, cancellations and diversions
+domain: transportation
+tags: [flights, airline-delays, on-time-performance, aviation]
+license: CC0-1.0
+license_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
+publisher:
+  name: American Statistical Association Data Expo 2009
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: 1987-10
+    end: 2008-04
+  spatial: [US]
+  update_frequency: static
+  size: 1.6 GB compressed

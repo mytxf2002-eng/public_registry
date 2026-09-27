@@ -1,0 +1,15 @@
+id: village
+kind: [api]
+name: Village
+url: https://docs.village.ai
+description: Person and company enrichment plus warm introduction paths through your network
+domain: business
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

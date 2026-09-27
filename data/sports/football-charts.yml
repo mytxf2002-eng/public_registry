@@ -1,0 +1,15 @@
+id: football-charts
+kind: [api]
+name: Football Charts
+url: https://www.football-charts.com/developers
+description: Tables, results, model probabilities and Monte Carlo season projections for 93 leagues
+domain: sports
+license: unknown
+provenance:
+  added: 2026-08-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

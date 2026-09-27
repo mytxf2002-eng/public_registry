@@ -1,0 +1,15 @@
+id: purgomalum
+kind: [api]
+name: PurgoMalum
+url: http://www.purgomalum.com
+description: Content validator against profanity & obscenity
+domain: data-validation
+license: unknown
+provenance:
+  added: 2017-08-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

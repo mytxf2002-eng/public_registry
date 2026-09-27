@@ -1,0 +1,15 @@
+id: serply
+kind: [api]
+name: Serply
+url: https://serply.io/docs
+description: Google, Bing, News, Scholar and Maps search results and page scraping as JSON
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

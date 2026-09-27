@@ -1,0 +1,16 @@
+id: shields
+kind: [api]
+name: Shields
+url: https://shields.io/
+description: Concise, consistent, and legible badges in SVG and raster format
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2021-11-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

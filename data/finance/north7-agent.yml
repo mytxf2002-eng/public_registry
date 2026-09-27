@@ -1,0 +1,15 @@
+id: north7-agent
+kind: [api]
+name: NORTH7 Agent
+url: https://north7.ai/v1/docs
+description: Trading signals, market analysis and geopolitical intelligence
+domain: finance
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

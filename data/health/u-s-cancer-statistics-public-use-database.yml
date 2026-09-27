@@ -1,0 +1,24 @@
+id: u-s-cancer-statistics-public-use-database
+kind: [dataset]
+name: U.S. Cancer Statistics Public Use Database
+url: https://www.cdc.gov/united-states-cancer-statistics/public-use/index.html
+description: De-identified cancer incidence and population data for all 50 states, DC and Puerto Rico from NPCR and SEER registries, more than 42 million cases since 2001
+domain: health
+tags: [cancer-incidence, cancer-registry, npcr, epidemiology]
+license: LicenseRef-Research-Only
+license_url: https://www.cdc.gov/united-states-cancer-statistics/public-use/access-data.html
+publisher:
+  name: Centers for Disease Control and Prevention
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: application
+  temporal:
+    start: '2001'
+    end: '2023'
+  spatial: [US, PR]
+  update_frequency: annual

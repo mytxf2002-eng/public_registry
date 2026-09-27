@@ -1,0 +1,15 @@
+id: nhtsa
+kind: [api]
+name: NHTSA
+url: https://vpic.nhtsa.dot.gov/api/
+description: NHTSA Product Information Catalog and Vehicle Listing
+domain: vehicles
+license: unknown
+provenance:
+  added: 2017-03-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

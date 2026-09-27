@@ -1,0 +1,3 @@
+id: docker-hub
+description: Docker 官方镜像仓库 Docker Hub 的 HTTP API，可以查询和管理镜像仓库、标签、组织成员和访问令牌等，当前文档版本是 2-beta。
+group: 软件包仓库与 CDN

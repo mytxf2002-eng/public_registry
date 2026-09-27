@@ -1,0 +1,2 @@
+id: source-d-code-duplicates-dataset
+description: source{d} 发布的代码重复检测数据集：1,989 对 Java 文件和 633 对 Java 函数，由人工标注为相同、相似或不同，含代码文本和 UAST，存为一个 SQLite 数据库（压缩约 20 MB），从 Google Drive 下载。标注采用 ODbL，代码内容版权归原作者；发布公司已停止运营。

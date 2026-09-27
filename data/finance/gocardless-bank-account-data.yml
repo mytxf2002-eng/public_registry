@@ -1,0 +1,15 @@
+id: gocardless-bank-account-data
+kind: [api]
+name: GoCardless Bank Account Data
+url: https://docs.gocardless.com/docs/bank-account-data
+description: Connect to bank accounts using official bank APIs and get raw transaction data
+domain: finance
+license: unknown
+provenance:
+  added: 2021-05-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

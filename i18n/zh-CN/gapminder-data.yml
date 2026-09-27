@@ -1,0 +1,2 @@
+id: gapminder-data
+description: Gapminder 基金会整理的数百个国家级指标，涵盖人口、健康、收入、教育和环境等，许多序列可追溯到 1800 年。单个指标可下载 CSV 或 XLSX，完整数据集以 CSV（DDF 格式）托管在 GitHub。CC BY 4.0 许可，需注明来源。

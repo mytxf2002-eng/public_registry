@@ -1,0 +1,27 @@
+id: data-gov-my
+kind: [api, dataset]
+name: data.gov.my
+url: https://data.gov.my/
+description: Malaysian federal and state agency datasets on population, GDP, prices, health, education, transport ridership and vehicle registrations, with dashboards and an open API
+domain: government
+tags: [open-government, population, gdp, fuel-prices, gtfs]
+license: CC-BY-4.0
+license_url: https://data.gov.my/data-catalogue/fuelprice
+publisher:
+  name: Government of Malaysia
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://developer.data.gov.my/
+dataset:
+  formats: [csv, parquet]
+  access: public
+  url: https://data.gov.my/data-catalogue
+  spatial: [MY]
+  update_frequency: irregular

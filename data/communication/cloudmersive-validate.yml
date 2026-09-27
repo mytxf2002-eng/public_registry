@@ -1,0 +1,16 @@
+id: cloudmersive-validate
+kind: [api]
+name: Cloudmersive Validate (Email)
+url: https://cloudmersive.com/validate-api
+description: Validate email addresses, phone numbers, VAT numbers and domain names
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2018-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

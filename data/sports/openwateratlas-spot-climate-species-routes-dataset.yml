@@ -1,0 +1,22 @@
+id: openwateratlas-spot-climate-species-routes-dataset
+kind: [dataset]
+name: OpenWaterAtlas Spot-Climate-Species-Routes Dataset
+url: https://openwateratlas.com/en/datasets/
+description: Water-sports spots (2,928 dive, kitesurf, surf and freedive sites) joined to daily climate percentiles, 112,548 nearby marine species observations and 34,876 direct flight routes
+domain: sports
+tags: [diving, kitesurfing, surfing, marine-species, climate]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/20668393
+publisher:
+  name: OpenWaterAtlas (Alex Nitrovic)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://zenodo.org/records/20668393
+  spatial: [global]
+  update_frequency: static

@@ -1,0 +1,15 @@
+id: aether-x-port-congestion
+kind: [api]
+name: Aether-X Port Congestion
+url: https://aether-x-oracle-production.up.railway.app/docs
+description: Real-time port congestion risk scores, ETA delays and waiting vessels for 15 global ports
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

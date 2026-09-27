@@ -1,0 +1,18 @@
+id: sheetsu
+kind: [api]
+name: Sheetsu
+url: https://sheetsu.com/
+description: Easy google sheets integration
+domain: development
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Sheetsu has permanently ceased operations and its domain redirects to a different product, SheetDB.

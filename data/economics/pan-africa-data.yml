@@ -1,0 +1,15 @@
+id: pan-africa-data
+kind: [api]
+name: Pan Africa Data
+url: https://panafricadata.com
+description: Macroeconomic and subnational income distribution data for all 54 African countries
+domain: economics
+license: unknown
+provenance:
+  added: 2026-07-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: mcu-countdown
+description: 返回下一部漫威电影宇宙（MCU）电影的上映日期和倒计时，本质上是对 TMDB 片单的封装。开源，可以用 Docker Compose 自己部署。
+group: 电影与剧集数据库

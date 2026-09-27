@@ -1,0 +1,15 @@
+id: openqr
+kind: [api]
+name: OpenQR
+url: https://openqr.uk/api
+description: Generate QR codes and manage dynamic (editable) QR codes with scan analytics
+domain: development
+license: unknown
+provenance:
+  added: 2026-07-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

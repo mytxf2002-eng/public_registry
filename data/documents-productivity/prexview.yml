@@ -1,0 +1,15 @@
+id: prexview
+kind: [api]
+name: PrexView
+url: https://prexview.com
+description: Data from XML or JSON to PDF, HTML or Image
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

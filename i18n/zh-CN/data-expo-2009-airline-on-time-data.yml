@@ -1,0 +1,2 @@
+id: data-expo-2009-airline-on-time-data
+description: 2009 年美国统计协会 Data Expo 使用的航班准点数据，含 1987 年 10 月至 2008 年 4 月美国境内商业航班近 1.2 亿条记录，包括计划与实际起降时间、延误原因、取消和备降信息，按年份分为 bzip2 压缩的 CSV 文件（约 1.6 GB）。存放于哈佛 Dataverse，CC0 许可。

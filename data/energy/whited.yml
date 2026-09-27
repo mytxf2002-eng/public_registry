@@ -1,0 +1,24 @@
+id: whited
+kind: [dataset]
+name: WHITED (Worldwide Household and Industry Transient Energy Data Set)
+url: https://www.cs.cit.tum.de/en/dis/resources/whited/
+description: High-rate voltage and current recordings of appliance start-up transients, 1,259 in total, from household and small-industry devices in several world regions, 2015-2016
+domain: energy
+tags: [nilm, appliance-classification, transients, high-frequency]
+license: unknown
+publisher:
+  name: Technical University of Munich, Chair of Decentralized Information Systems and Data Management
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [audio]
+  access: public
+  url: https://drive.google.com/file/d/1HdDDTUmD7p5GjOsVKF9kmh0gcBBX117q/view
+  temporal:
+    start: '2015'
+    end: '2016'
+  spatial: [global]
+  update_frequency: static

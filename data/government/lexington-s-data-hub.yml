@@ -1,0 +1,26 @@
+id: lexington-s-data-hub
+kind: [api, dataset]
+name: Lexington's Data Hub
+url: https://data.lexingtonky.gov/
+description: About 75 Lexington-Fayette Urban County Government datasets, mainly GIS layers such as zoning, parcels, buildings, addresses, streets, parks and districts, plus 311 service requests
+domain: government
+tags: [municipal, gis, zoning, parcels, '311']
+license: LicenseRef-Provider-Terms
+license_url: https://data.lexingtonky.gov/pages/terms-of-use
+publisher:
+  name: Lexington-Fayette Urban County Government
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [US-KY]
+  update_frequency: irregular
+  size: 76 datasets

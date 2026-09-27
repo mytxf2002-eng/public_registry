@@ -1,0 +1,25 @@
+id: journal-submission-requirements-dataset
+kind: [dataset]
+name: Journal Submission Requirements Dataset
+url: https://github.com/scraiber/journal-submission-requirements
+description: Author-guideline limits for 7,239 academic journals, such as word, abstract and reference caps per manuscript type, with OpenAlex fields and a source link for each rule
+domain: books
+tags: [academic-journals, author-guidelines, scholarly-publishing, manuscripts]
+license: CC-BY-4.0
+license_url: https://github.com/scraiber/journal-submission-requirements/blob/main/LICENSE
+publisher:
+  name: Scraiber
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: '2026'
+    end: '2026'
+  spatial: [global]
+  update_frequency: irregular
+  size: 7,239 journals

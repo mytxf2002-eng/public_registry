@@ -1,0 +1,15 @@
+id: editalmd
+kind: [api]
+name: EditalMD
+url: https://editalmd.com/api/
+description: Brazilian public procurement (PNCP) notices as Markdown with deadlines and requirements
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

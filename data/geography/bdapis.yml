@@ -1,0 +1,16 @@
+id: bdapis
+kind: [api]
+name: BdAPIs
+url: https://bdapis.com/
+description: Get divisions, districts, and upazzilas of Bangladesh
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

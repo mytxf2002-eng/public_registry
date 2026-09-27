@@ -1,0 +1,3 @@
+id: bhagavad-gita
+description: 《薄伽梵歌》（印度教经典）的章节和诗句接口，由开源项目 bhagavadgita.io 提供 v2 版，调用需要在请求头中带 X-API-KEY。
+group: 其他宗教与灵修经典

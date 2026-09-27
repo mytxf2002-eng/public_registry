@@ -1,0 +1,2 @@
+id: tiger-line-shapefiles
+description: 美国人口普查局每年发布的 TIGER/Line 地理数据：州、县、普查区、街区、ZCTA 邮编区、选区等边界以及道路、铁路、水系和地址范围。2007 年起为 Shapefile 格式，更早年份为 ASCII 格式，可通过网页或 FTP 免费下载。文件不含人口统计数据，但可通过地理编码与普查数据关联。

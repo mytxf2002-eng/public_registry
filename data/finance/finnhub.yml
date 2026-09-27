@@ -1,0 +1,15 @@
+id: finnhub
+kind: [api]
+name: Finnhub
+url: https://finnhub.io/docs/api
+description: Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

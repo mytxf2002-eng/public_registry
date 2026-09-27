@@ -1,0 +1,2 @@
+id: licitatii-medicale-open-dataset
+description: 罗马尼亚公立医院采购合同数据，取自欧盟 TED 官方公告，含 2018 年以来 291 项医疗危险废物处理采购和 16,072 项医疗器械采购，可免费下载 CSV，另有 REST 接口；Zenodo 存档版本采用 CC BY 4.0。旧版本曾因重复计数被撤回，使用时请认准 v2。

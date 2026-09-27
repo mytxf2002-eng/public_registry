@@ -1,0 +1,15 @@
+id: instatus
+kind: [api]
+name: Instatus
+url: https://instatus.com/help/api
+description: Post to and update maintenance and incidents on your status page through an HTTP REST API
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

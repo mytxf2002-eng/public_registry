@@ -1,0 +1,25 @@
+id: allen-brain-map
+kind: [api, dataset]
+name: Allen Brain Map
+url: https://brain-map.org/
+description: Brain atlases and datasets for mouse, human and non-human primate brains covering gene expression, cell types, connectivity and neural activity, with web viewers, an API and SDKs
+domain: life-sciences
+tags: [neuroscience, brain-atlas, gene-expression, cell-types, connectivity]
+license: LicenseRef-Research-Only
+license_url: https://alleninstitute.org/legal/terms-of-use
+publisher:
+  name: Allen Institute for Brain Science
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://brain-map.org/bkp/develop
+dataset:
+  formats: [json, csv, hdf5, image]
+  access: public
+  update_frequency: irregular

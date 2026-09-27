@@ -1,0 +1,16 @@
+id: mercadobitcoin
+kind: [api]
+name: MercadoBitcoin
+url: https://api.mercadobitcoin.net/api/v4/docs
+description: Brazilian Cryptocurrency Information
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: steem
+description: 基于区块链的博客和社交平台 Steem 的开发者文档：通过 JSON-RPC 读取帖子、账户、投票等链上数据，也能广播交易。2020 年社区从 Steem 分叉出了 Hive。
+group: 区块链平台与协议

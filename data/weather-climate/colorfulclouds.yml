@@ -1,0 +1,15 @@
+id: colorfulclouds
+kind: [api]
+name: ColorfulClouds
+url: https://open.caiyunapp.com/ColorfulClouds_Weather_API
+description: Minute-level radar precipitation nowcasts plus hourly and daily forecasts, alerts and air quality
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-04-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

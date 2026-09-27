@@ -1,0 +1,15 @@
+id: helium-heliumtrades
+kind: [api]
+name: Helium
+url: https://heliumtrades.com/mcp-page/
+description: News with media bias scoring, balanced news synthesis, live market data, AI options pricing
+domain: finance
+license: unknown
+provenance:
+  added: 2026-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,2 @@
+id: the-new-yorker-cartoon-caption-contest-dataset
+description: NEXT 团队（Jain、Jamieson、Mankoff、Nowak 等）整理的《纽约客》漫画配文比赛数据，涵盖数百期比赛，每期提供投稿配文的众包“好笑程度”评分与票数（CSV）以及漫画图片，单期投票可达数十万至上百万。可从项目网站逐期直接下载；不得用于商业用途。

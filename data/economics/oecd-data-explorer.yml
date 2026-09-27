@@ -1,0 +1,24 @@
+id: oecd-data-explorer
+kind: [api, dataset]
+name: OECD Data Explorer
+url: https://data-explorer.oecd.org/
+description: Statistics for OECD member and partner countries on national accounts, prices, labour, trade, education, health, environment and more, browsable online and served by an SDMX API
+domain: economics
+tags: [national-accounts, economic-indicators, sdmx, time-series, international-comparisons]
+license: unknown
+publisher:
+  name: OECD
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, sdmx, json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

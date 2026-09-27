@@ -1,0 +1,15 @@
+id: go-module-proxy
+kind: [api]
+name: Go Module Proxy
+url: https://go.dev/ref/mod#goproxy-protocol
+description: Go module versions and source metadata
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

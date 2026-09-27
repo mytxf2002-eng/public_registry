@@ -1,0 +1,15 @@
+id: breed-health-score
+kind: [api]
+name: Breed Health Score
+url: https://breedhealthscore.com/developers/
+description: Dog breed health scores, median lifespans and conditions
+domain: animals
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

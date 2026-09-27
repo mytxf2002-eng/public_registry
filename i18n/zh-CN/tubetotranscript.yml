@@ -1,0 +1,3 @@
+id: tubetotranscript
+description: 提取 YouTube 视频已有的字幕文本，支持批量处理，另有可选的按播放列表和频道提取的接口，也能通过 MCP 接入 AI 助手。
+group: YouTube 字幕与辅助工具

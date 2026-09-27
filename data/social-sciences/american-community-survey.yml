@@ -1,0 +1,29 @@
+id: american-community-survey
+kind: [api, dataset]
+name: American Community Survey (ACS)
+url: https://www.census.gov/programs-surveys/acs/
+description: Yearly US survey estimates of population, housing, income, education and employment down to small areas, as 1-year and 5-year tables and PUMS microdata
+domain: social-sciences
+tags: [survey, demographics, housing, income, microdata]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: U.S. Census Bureau
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://www.census.gov/programs-surveys/acs/data/data-via-api.html
+dataset:
+  formats: [csv, sas]
+  access: public
+  url: https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+  temporal:
+    start: '2005'
+    end: null
+  spatial: [US]
+  update_frequency: annual

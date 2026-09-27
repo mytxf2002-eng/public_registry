@@ -1,0 +1,15 @@
+id: 1forge
+kind: [api]
+name: 1Forge
+url: https://1forge.com/forex-data-api/api-documentation
+description: Forex currency market data
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,26 @@
+id: permittimelines
+kind: [dataset]
+name: permittimelines
+url: https://github.com/asafichaki/permittimelines
+description: Application-to-issuance waits for 64,427 garage-conversion and ADU building permits in Los Angeles, San Diego, San Francisco and Seattle, with cohort and percentile tables
+domain: government
+tags: [building-permits, housing, adu, permit-processing, r-package]
+license: CC-BY-4.0
+license_url: https://github.com/asafichaki/permittimelines
+publisher:
+  name: Renology
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json, rdata]
+  access: public
+  url: https://www.therenology.com/data/permit-timelines
+  temporal:
+    start: '1980'
+    end: '2026'
+  spatial: [US-CA, US-WA]
+  update_frequency: irregular
+  size: 64,427 applications

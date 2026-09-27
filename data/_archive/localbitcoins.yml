@@ -1,0 +1,19 @@
+id: localbitcoins
+kind: [api]
+name: Localbitcoins
+url: https://localbitcoins.com/api-docs/
+description: P2P platform to buy and sell Bitcoins
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: LocalBitcoins closed its Bitcoin trading service and the site now only handles withdrawals; the API docs return 404.

@@ -1,0 +1,3 @@
+id: cat-facts-catfact
+description: 随机返回一条猫咪冷知识，可以限制文字长度，也能分页列出冷知识和猫的品种，免 key。
+group: 动物冷知识

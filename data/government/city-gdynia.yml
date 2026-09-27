@@ -1,0 +1,15 @@
+id: city-gdynia
+kind: [api]
+name: City, Gdynia
+url: http://otwartedane.gdynia.pl/en/api_doc.html
+description: Gdynia (PL) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

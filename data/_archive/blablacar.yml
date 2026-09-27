@@ -1,0 +1,18 @@
+id: blablacar
+kind: [api]
+name: BlaBlaCar
+url: https://dev.blablacar.com
+description: Search car sharing trips
+domain: transportation
+license: unknown
+provenance:
+  added: 2019-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: 'BlaBlaCar''s developer portal is gone: dev.blablacar.com returns 404 on every path, and the help-centre article on the search API now returns 404.'

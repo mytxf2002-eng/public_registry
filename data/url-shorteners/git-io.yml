@@ -1,0 +1,15 @@
+id: git-io
+kind: [api]
+name: Git.io
+url: https://github.blog/2011-11-10-git-io-github-url-shortener/
+description: Git.io URL shortener
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-05-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

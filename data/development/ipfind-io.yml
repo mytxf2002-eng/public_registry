@@ -1,0 +1,15 @@
+id: ipfind-io
+kind: [api]
+name: ipfind.io
+url: https://ipfind.io
+description: Geographic location of an IP address or any domain name along with some other useful information
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

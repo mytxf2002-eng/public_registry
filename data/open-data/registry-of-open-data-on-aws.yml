@@ -1,0 +1,19 @@
+id: registry-of-open-data-on-aws
+kind: [dataset]
+name: Registry of Open Data on AWS
+url: https://registry.opendata.aws/
+description: Catalog of public datasets stored in Amazon S3 by agencies, research groups and companies, from satellite imagery and weather to genomics, each with licence and access details
+domain: open-data
+tags: [cloud-data, data-catalog, satellite-imagery, genomics, s3]
+license: unknown
+publisher:
+  name: Amazon Web Services
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: public
+  update_frequency: irregular

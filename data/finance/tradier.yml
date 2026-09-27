@@ -1,0 +1,15 @@
+id: tradier
+kind: [api]
+name: Tradier
+url: https://developer.tradier.com
+description: US equity/option market data (delayed, intraday, historical)
+domain: finance
+license: unknown
+provenance:
+  added: 2019-02-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

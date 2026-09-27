@@ -1,0 +1,3 @@
+id: what-the-commit
+description: 随机生成一条搞笑的 Git 提交信息，链接的 index.txt 直接返回纯文本。
+group: 趣味随机内容

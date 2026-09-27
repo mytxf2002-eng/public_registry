@@ -1,0 +1,2 @@
+id: localytics-data-visualization-challenge
+description: 移动分析公司 Localytics 为数据可视化挑战赛发布的样例数据：一个虚构众筹应用一个月内的 5 万条事件（浏览/资助项目），附用户年龄段、性别、美国城市位置、设备、项目类别和资助金额。JSON 文件可在 GitHub 直接下载，未注明许可证。

@@ -1,0 +1,22 @@
+id: sec-form-4-insider-trading
+kind: [dataset]
+name: SEC Form 4 Insider Trading (AlphaAI)
+url: https://huggingface.co/datasets/mikhailmakeev/sec-form4-insider-trading
+description: About 20,800 insider transactions by officers, directors and 10% owners parsed from SEC Form 4 filings, plus 8,500 grouped trade events with relevance scores
+domain: finance
+tags: [insider-trading, sec-filings, form-4, stocks]
+license: CC-BY-4.0
+license_url: https://huggingface.co/datasets/mikhailmakeev/sec-form4-insider-trading
+publisher:
+  name: AlphaAI
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [US]
+  update_frequency: static
+  size: 29,370 rows in 2 CSV files

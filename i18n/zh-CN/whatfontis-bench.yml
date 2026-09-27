@@ -1,0 +1,2 @@
+id: whatfontis-bench
+description: 字体识别服务 WhatFontIs 发布的合成基准数据集（v1.0，2026 年），把单词以 600 种已知字体印在真实材质照片和场景中，共 11995 张图像，并记录字体、文字和每个字母的位置（JSONL 和 COCO 格式）。图像约 2 GB，可从 GitHub 发布页直接下载；采用 CC BY 4.0 许可。

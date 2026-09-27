@@ -1,0 +1,16 @@
+id: cleartrace
+kind: [api]
+name: ClearTrace
+url: https://cleartracedata.com/docs
+description: Cross-frontend DEX attribution and execution quality data across Ethereum and L2s
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

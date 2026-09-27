@@ -1,0 +1,15 @@
+id: lapis
+kind: [api]
+name: LAPIS
+url: https://lapis.cov-spectrum.org/open/v2/docs/
+description: SARS-CoV-2 genomic sequences from public sources
+domain: health
+license: unknown
+provenance:
+  added: 2021-07-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

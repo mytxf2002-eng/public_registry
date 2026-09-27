@@ -1,0 +1,15 @@
+id: barter-vg
+kind: [api]
+name: Barter.VG
+url: https://github.com/bartervg/barter.vg/wiki
+description: Provides information about Game, DLC, Bundles, Giveaways, Trading
+domain: games
+license: unknown
+provenance:
+  added: 2021-07-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

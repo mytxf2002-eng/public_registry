@@ -1,0 +1,18 @@
+id: apixu
+kind: [api]
+name: APIXU
+url: https://www.apixu.com/doc/request.aspx
+description: Weather
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2018-11-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: APIXU was shut down in October 2019 and relaunched as Weatherstack, which is already listed separately in Weather.

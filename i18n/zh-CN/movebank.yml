@@ -1,0 +1,3 @@
+id: movebank
+description: 马克斯·普朗克动物行为研究所托管的动物追踪数据库 Movebank：研究者上传的 GPS 定位等动物移动和迁徙数据，可以通过 HTTP 请求下载 CSV 或 JSON，部分数据需要数据所有者授权。
+group: 野生动物观测与保护

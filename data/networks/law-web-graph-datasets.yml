@@ -1,0 +1,19 @@
+id: law-web-graph-datasets
+kind: [dataset]
+name: LAW Web Graph Datasets
+url: https://law.di.unimi.it/datasets.php
+description: Very large web crawls and social graphs compressed with WebGraph, up to uk-2014 with 788 million pages and 47.6 billion links, plus twitter-2010, Hollywood co-starring and Wikipedia graphs
+domain: networks
+tags: [web-graphs, web-crawls, social-networks, graph-compression]
+license: unknown
+publisher:
+  name: Laboratory for Web Algorithmics, University of Milan
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary]
+  access: public
+  update_frequency: irregular

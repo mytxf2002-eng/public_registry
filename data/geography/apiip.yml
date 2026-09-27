@@ -1,0 +1,16 @@
+id: apiip
+kind: [api]
+name: Apiip
+url: https://apiip.net/
+description: Get location information by IP address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2022-03-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

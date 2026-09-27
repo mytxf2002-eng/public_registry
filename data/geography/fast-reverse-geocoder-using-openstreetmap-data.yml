@@ -1,0 +1,25 @@
+id: fast-reverse-geocoder-using-openstreetmap-data
+kind: [dataset]
+name: Fast Reverse Geocoder using OpenStreetMap Data
+url: https://github.com/kno10/reversegeocode
+description: Precomputed grids mapping coordinates to OpenStreetMap administrative regions, built from the November 2015 planet file at 11 resolutions from 1 to 0.0005 degrees
+domain: geography
+tags: [reverse-geocoding, administrative-boundaries, openstreetmap, lookup-tables]
+license: ODbL-1.0
+license_url: https://data.ub.uni-muenchen.de/61/
+publisher:
+  name: Erich Schubert
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary]
+  access: public
+  url: https://data.ub.uni-muenchen.de/61/
+  temporal:
+    start: 2015-11-30
+    end: 2015-11-30
+  spatial: [global]
+  update_frequency: static

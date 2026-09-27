@@ -1,0 +1,15 @@
+id: mod-io
+kind: [api]
+name: mod.io
+url: https://docs.mod.io
+description: Cross Platform Mod API
+domain: games
+license: unknown
+provenance:
+  added: 2019-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

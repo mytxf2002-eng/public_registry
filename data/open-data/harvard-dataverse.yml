@@ -1,0 +1,25 @@
+id: harvard-dataverse
+kind: [api, dataset]
+name: Harvard Dataverse
+url: https://dataverse.harvard.edu/
+description: General-purpose research data repository with about 304,000 published datasets from researchers worldwide, many of them replication files for papers, each with a DOI
+domain: open-data
+tags: [research-data, replication-data, doi, data-repository]
+license: unknown
+publisher:
+  name: Harvard University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://guides.dataverse.org/en/latest/api/index.html
+dataset:
+  formats: [tsv, csv, stata, spss, other]
+  access: public
+  update_frequency: daily
+  size: 304,372 datasets

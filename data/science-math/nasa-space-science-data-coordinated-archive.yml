@@ -1,0 +1,21 @@
+id: nasa-space-science-data-coordinated-archive
+kind: [dataset]
+name: NASA Space Science Data Coordinated Archive (NSSDCA)
+url: https://nssdc.gsfc.nasa.gov/
+description: NASA's permanent archive of space science mission data in astrophysics, heliophysics and planetary science, about 2 PB in 10,000+ digital collections, listed in a Master Catalog
+domain: science-math
+tags: [space-science, planetary-science, heliophysics, astrophysics, mission-data]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: NASA Goddard Space Flight Center
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: public
+  url: https://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
+  update_frequency: irregular
+  size: about 2 PB

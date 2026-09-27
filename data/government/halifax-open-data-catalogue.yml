@@ -1,0 +1,26 @@
+id: halifax-open-data-catalogue
+kind: [api, dataset]
+name: Halifax Open Data Catalogue
+url: https://data-hrm.hub.arcgis.com/pages/open-data-catalogue
+description: 'About 200 Halifax Regional Municipality datasets: transit schedules and passenger counts, LiDAR elevation, flood projections, zoning, permits, crime, polling districts and census layers'
+domain: government
+tags: [municipal, gis, transit, lidar, flood-risk]
+license: LicenseRef-Open-Government
+license_url: https://data-hrm.hub.arcgis.com/pages/open-data-licence
+publisher:
+  name: Halifax Regional Municipality
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile, gpkg, xlsx]
+  access: public
+  spatial: [CA-NS]
+  update_frequency: irregular
+  size: 202 items

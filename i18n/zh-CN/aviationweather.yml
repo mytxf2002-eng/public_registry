@@ -1,0 +1,3 @@
+id: aviationweather
+description: 美国 NOAA 航空气象中心的数据接口：METAR（机场例行天气报告）、TAF（机场预报）、PIREP（飞行员报告）、SIGMET（重要气象情报）等，免 key。
+group: 航空、海洋与其他专项

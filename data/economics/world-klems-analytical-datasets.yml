@@ -1,0 +1,20 @@
+id: world-klems-analytical-datasets
+kind: [dataset]
+name: WORLD KLEMS Analytical Datasets
+url: https://www.worldklems.net/wkanalytical
+description: Harmonised industry-level output, input and productivity accounts (KLEMS) for the US, Japan, Canada and Russia, with links to partner releases for the EU, China, Korea and India
+domain: economics
+tags: [productivity, growth-accounting, industries, klems]
+license: unknown
+publisher:
+  name: World KLEMS Consortium
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, xls]
+  access: public
+  spatial: [US, JP, CA, RU]
+  update_frequency: irregular

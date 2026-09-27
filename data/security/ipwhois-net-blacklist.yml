@@ -1,0 +1,16 @@
+id: ipwhois-net-blacklist
+kind: [api]
+name: IPWhois.net Blacklist
+url: https://ipwhois.net/blacklist/docs
+description: Community IP blacklist to check and report abusive IP addresses
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

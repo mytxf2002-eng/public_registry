@@ -1,0 +1,3 @@
+id: tv-api
+description: 第三方的电影、剧集和演员信息接口，原名 IMDb-API，现改名 TV-API，不是 IMDb 官方服务，需要 key。
+group: 电影与剧集数据库

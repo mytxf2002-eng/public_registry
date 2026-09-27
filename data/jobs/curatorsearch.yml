@@ -1,0 +1,15 @@
+id: curatorsearch
+kind: [api]
+name: CuratorSearch
+url: https://curatorsearch.com/developers
+description: Museum and gallery jobs from 400+ institutions' own careers pages, with advertised salaries
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

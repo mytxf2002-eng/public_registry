@@ -1,0 +1,27 @@
+id: los-angeles-open-data
+kind: [api, dataset]
+name: Los Angeles Open Data
+url: https://data.lacity.org/
+description: About 360 City of Los Angeles datasets, including LAPD crime, arrest and call records, building permits and inspections, active business listings, 311 requests and traffic counts
+domain: government
+tags: [municipal, crime, building-permits, '311', businesses]
+license: CC0-1.0
+license_url: https://data.lacity.org/d/2nrs-mtv8
+publisher:
+  name: City of Los Angeles
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-CA]
+  update_frequency: irregular
+  size: 362 datasets

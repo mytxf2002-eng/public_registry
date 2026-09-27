@@ -1,0 +1,15 @@
+id: assinafy
+kind: [api]
+name: Assinafy
+url: https://api.assinafy.com.br/v1/docs
+description: Brazilian e-signature API with a free plan
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

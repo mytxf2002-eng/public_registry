@@ -1,0 +1,15 @@
+id: krakenkeys
+kind: [api]
+name: KrakenKeys
+url: https://krakenkeys.com/api-docs
+description: Steam game key price comparison across 20+ stores, deals, and price history
+domain: games
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

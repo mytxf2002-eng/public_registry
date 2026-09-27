@@ -1,0 +1,15 @@
+id: pvwatts
+kind: [api]
+name: PVWatts
+url: https://developer.nlr.gov/docs/solar/pvwatts/v8/
+description: Energy production photovoltaic (PV) energy systems
+domain: energy
+license: unknown
+provenance:
+  added: 2018-02-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

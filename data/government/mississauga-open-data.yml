@@ -1,0 +1,25 @@
+id: mississauga-open-data
+kind: [api, dataset]
+name: Mississauga Open Data
+url: https://data.mississauga.ca/
+description: 'About 270 City of Mississauga datasets: MiWay GTFS and real-time feeds, parking tickets, building permits, development applications, budgets, election results, aerial imagery and GIS layers'
+domain: government
+tags: [municipal, gis, transit, parking-tickets, aerial-imagery]
+license: unknown
+publisher:
+  name: City of Mississauga
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile, gtfs]
+  access: public
+  spatial: [CA-ON]
+  update_frequency: irregular
+  size: 267 items

@@ -1,0 +1,25 @@
+id: aquastat
+kind: [dataset]
+name: AQUASTAT
+url: https://www.fao.org/aquastat/en/
+description: Over 180 country-level variables on water resources, water withdrawal by sector, wastewater, irrigation and drainage for more than 200 countries, starting in 1960
+domain: food-agriculture
+tags: [water-resources, water-withdrawal, irrigation, dams]
+license: CC-BY-4.0
+license_url: https://www.fao.org/contact-us/terms/db-terms-of-use/en/
+publisher:
+  name: Food and Agriculture Organization of the United Nations (FAO)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://data.apps.fao.org/aquastat/
+  temporal:
+    start: '1960'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

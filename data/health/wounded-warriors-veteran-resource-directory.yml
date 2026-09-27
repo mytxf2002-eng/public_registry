@@ -1,0 +1,27 @@
+id: wounded-warriors-veteran-resource-directory
+kind: [api, dataset]
+name: Wounded Warriors Veteran Resource Directory
+url: https://warriorsfund.org/
+description: Directory of about 145,000 US veteran service listings such as VA facilities, county veterans service offices, mental health, housing and employment providers, searchable by ZIP
+domain: health
+tags: [veterans, social-services, mental-health, facility-directory, housing]
+license: CC-BY-4.0
+license_url: https://warriorsfund.org/transparency/
+publisher:
+  name: Wounded Warriors (Texas nonprofit)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://warriorsfund.org/api/openapi.json
+dataset:
+  formats: [json]
+  access: public
+  spatial: [US]
+  update_frequency: daily
+  size: about 145,000 listings

@@ -1,0 +1,3 @@
+id: polydoc
+description: HTML/网址转 PDF 和截图，另外能生成 Factur-X/ZUGFeRD 电子发票（法国、德国通行的 PDF 内嵌 XML 发票格式），支持模板和 webhook，有免费档。
+group: HTML 转 PDF 与截图

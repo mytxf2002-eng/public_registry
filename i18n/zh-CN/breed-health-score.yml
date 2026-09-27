@@ -1,0 +1,3 @@
+id: breed-health-score
+description: 155 个犬种的健康数据：寿命中位数、体型结构问题、遗传病，以及网站自己计算的犬种健康评分。免费 JSON 接口，提供 OpenAPI 规范。
+group: 宠物领养与犬种健康

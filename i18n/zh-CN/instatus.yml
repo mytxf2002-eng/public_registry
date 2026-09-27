@@ -1,0 +1,3 @@
+id: instatus
+description: 状态页服务 Instatus 的 REST API：发布和更新故障与维护公告，管理状态页、组件和订阅者。
+group: 项目管理、协作与外包

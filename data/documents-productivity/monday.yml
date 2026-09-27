@@ -1,0 +1,15 @@
+id: monday
+kind: [api]
+name: Monday
+url: https://developer.monday.com/api-reference/docs/basics
+description: Programmatically access and update data inside a monday.com account
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

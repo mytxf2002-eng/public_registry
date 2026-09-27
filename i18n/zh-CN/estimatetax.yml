@@ -1,0 +1,3 @@
+id: estimatetax
+description: 计算美国 2026 年的联邦、州和地方所得税，每个数字都注明依据来源，每分钟限 60 次。
+group: 税务

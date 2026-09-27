@@ -1,0 +1,15 @@
+id: openfoot
+kind: [api]
+name: OpenFoot
+url: https://openfootapi.com/docs
+description: Football fixtures, results, standings, lineups, live events and shot-level xG across 75 competitions
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

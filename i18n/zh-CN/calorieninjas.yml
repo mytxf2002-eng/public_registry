@@ -1,0 +1,3 @@
+id: calorieninjas
+description: 用自然语言查营养：输入“3 eggs and a slice of toast”这类英文描述，返回其中每种食物的热量和营养成分。
+group: 营养成分与食品数据库

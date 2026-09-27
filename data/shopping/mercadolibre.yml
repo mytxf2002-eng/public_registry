@@ -1,0 +1,15 @@
+id: mercadolibre
+kind: [api]
+name: Mercadolibre
+url: https://developers.mercadolibre.cl/es_ar/api-docs-es
+description: Manage sales, ads, products, services and Shops
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-09-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

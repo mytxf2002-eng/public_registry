@@ -1,0 +1,29 @@
+id: upwork-market-index
+kind: [api, dataset]
+name: Upwork Market Index
+url: https://github.com/snipeworkapp-oss/upwork-market-data
+description: 'Weekly statistics on Upwork job posts since July 2026: jobs observed, fixed budgets, hourly rates, experience mix, and breakdowns by category and client country'
+domain: jobs
+tags: [freelancing, gig-economy, job-postings, hourly-rates]
+license: CC-BY-4.0
+license_url: https://github.com/snipeworkapp-oss/upwork-market-data/blob/main/LICENSE
+publisher:
+  name: SnipeWork
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://github.com/snipeworkapp-oss/upwork-market-data
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: 2026-07
+    end: null
+  spatial: [global]
+  update_frequency: weekly

@@ -1,0 +1,2 @@
+id: adience-benchmark-of-unfiltered-faces
+description: 用于年龄和性别识别的人脸基准数据集，含 2,284 人的 26,580 张 Flickr 非受控照片，标注 8 个年龄段和性别，提供裁剪版、对齐版（约 2.8 GB）及五折交叉验证划分。填写姓名和邮箱即可获得 FTP 账号下载，仅限科研用途。

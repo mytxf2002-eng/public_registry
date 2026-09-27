@@ -1,0 +1,20 @@
+id: doi-urls
+kind: [dataset]
+name: DOI URLs (Crossref journal-article DOIs, 2014 snapshot)
+url: https://archive.org/details/doi-urls
+description: Snapshot of just under 50 million journal-article DOIs harvested from Crossref's OAI-PMH service in 2014, each paired with its article URL, in gzipped yearly CSV files
+domain: books
+tags: [doi, crossref, scholarly-articles, url-mapping]
+license: unknown
+publisher:
+  name: Alf Eaton
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  update_frequency: static
+  size: 470 MB (gzipped)

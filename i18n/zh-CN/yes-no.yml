@@ -1,0 +1,3 @@
+id: yes-no
+description: 随机返回 yes 或 no（极少数情况下是 maybe），并附一张对应的 GIF 动图。
+group: 趣味随机内容

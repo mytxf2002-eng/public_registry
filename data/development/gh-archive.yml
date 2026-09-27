@@ -1,0 +1,23 @@
+id: gh-archive
+kind: [dataset]
+name: GH Archive
+url: https://www.gharchive.org/
+description: Hourly archives of public GitHub events such as pushes, forks, issues and pull requests since February 2011, as gzipped JSON files and a BigQuery public dataset
+domain: development
+tags: [github, events, open-source, bigquery, software-activity]
+license: unknown
+publisher:
+  name: Ilya Grigorik
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [jsonl]
+  access: public
+  temporal:
+    start: 2011-02-12
+    end: null
+  spatial: [global]
+  update_frequency: realtime

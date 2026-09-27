@@ -1,0 +1,23 @@
+id: geolife-gps-trajectories
+kind: [dataset]
+name: GeoLife GPS Trajectories
+url: https://www.microsoft.com/en-us/download/details.aspx?id=52367
+description: Time-stamped latitude, longitude and altitude points forming 17,621 GPS trajectories (about 1.2 million km) logged by 182 users from April 2007 to August 2012
+domain: transportation
+tags: [gps-trajectories, mobility, trajectory-mining, location-data]
+license: unknown
+publisher:
+  name: Microsoft Research Asia
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  temporal:
+    start: 2007-04
+    end: 2012-08
+  update_frequency: static
+  size: 298.7 MB

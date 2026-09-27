@@ -1,0 +1,3 @@
+id: google-sheets
+description: Google 表格官方 API：读写单元格数据、批量更新、设置格式、增删工作表，常被当作轻量数据库或报表输出使用。
+group: 内容管理与办公文档

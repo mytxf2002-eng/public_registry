@@ -1,0 +1,28 @@
+id: portalul-datelor-deschise
+kind: [api, dataset]
+name: Portalul Datelor Deschise (Moldova)
+url: https://dataset.gov.md/
+description: About 1,300 datasets from 73 Moldovan public institutions on society, education, economy, health, public finance, transport and environment, mostly published as spreadsheets
+domain: government
+tags: [open-government, public-finance, registries, health, education]
+license: LicenseRef-Open-Government
+license_url: https://dataset.gov.md/about
+publisher:
+  name: Government of the Republic of Moldova
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://docs.ckan.org/en/2.10/
+dataset:
+  formats: [xls, xlsx, csv, pdf]
+  access: public
+  url: https://dataset.gov.md/dataset/
+  spatial: [MD]
+  update_frequency: irregular
+  size: 1,286 datasets

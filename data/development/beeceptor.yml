@@ -1,0 +1,15 @@
+id: beeceptor
+kind: [api]
+name: Beeceptor
+url: https://beeceptor.com/
+description: Build a mock Rest API endpoint in seconds
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

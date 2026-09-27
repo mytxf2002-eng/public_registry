@@ -1,0 +1,15 @@
+id: meltema
+kind: [api]
+name: Meltema
+url: https://meltema.com/docs
+description: 'Multi-model weather: GFS, ECMWF AIFS/IFS and a 31-member GEFS ensemble, keyless point forecasts'
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

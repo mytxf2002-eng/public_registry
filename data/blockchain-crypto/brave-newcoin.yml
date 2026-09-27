@@ -1,0 +1,16 @@
+id: brave-newcoin
+kind: [api]
+name: Brave NewCoin
+url: https://bravenewcoin.com/developers
+description: Real-time and historic crypto data from more than 200+ exchanges
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

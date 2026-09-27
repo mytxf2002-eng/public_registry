@@ -1,0 +1,2 @@
+id: homeland-infrastructure-foundation-level-data
+description: 美国关键基础设施地理数据集合，涵盖医院、发电厂、机场、学校、应急服务等图层，原由国土安全部 HIFLD Open 门户发布，该门户于 2025 年 8 月关闭后由国土安全数字图书馆（HSDL）保存并公开；图层以 ArcGIS 要素服务形式提供，可查询导出 GeoJSON 等格式。网站目前为测试版。

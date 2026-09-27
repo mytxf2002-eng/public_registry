@@ -1,0 +1,15 @@
+id: axolotl
+kind: [api]
+name: Axolotl
+url: https://theaxolotlapi.netlify.app/
+description: Collection of axolotl pictures and facts
+domain: animals
+license: unknown
+provenance:
+  added: 2021-07-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

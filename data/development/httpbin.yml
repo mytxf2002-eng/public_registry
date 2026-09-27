@@ -1,0 +1,15 @@
+id: httpbin
+kind: [api]
+name: Httpbin
+url: https://httpbin.org/
+description: A Simple HTTP Request & Response Service
+domain: development
+license: unknown
+provenance:
+  added: 2021-07-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

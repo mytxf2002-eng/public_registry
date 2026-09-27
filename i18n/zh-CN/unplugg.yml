@@ -1,0 +1,3 @@
+id: unplugg
+description: 时间序列预测 API：提交历史数据，返回对未来走势的预测。
+group: 计算、分析与预测

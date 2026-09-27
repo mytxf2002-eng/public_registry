@@ -1,0 +1,24 @@
+id: hud-user-datasets
+kind: [api, dataset]
+name: HUD USER Datasets
+url: https://www.huduser.gov/portal/datasets/pdrdatas.html
+description: US housing data from HUD's research office, including Fair Market Rents, income limits, the American Housing Survey, LIHTC projects and USPS ZIP code crosswalks
+domain: government
+tags: [housing, fair-market-rents, income-limits, american-housing-survey, zip-crosswalk]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: U.S. Department of Housing and Urban Development, Office of Policy Development and Research
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+  docs: https://www.huduser.gov/portal/dataset/fmr-api.html
+dataset:
+  formats: [xlsx, xls, csv, pdf]
+  access: public
+  spatial: [US]

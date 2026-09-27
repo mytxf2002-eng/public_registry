@@ -1,0 +1,3 @@
+id: stanza-dscsa-verifier
+description: 药品追溯码校验：按美国 DSCSA（药品供应链安全法）和欧盟 FMD（反伪造药品指令）解析药盒上的二维码（GTIN、序列号、批号、有效期），还能把 NDC 药品代码转成 GTIN、校验 EPCIS 追溯事件。
+group: 药品与医疗器械

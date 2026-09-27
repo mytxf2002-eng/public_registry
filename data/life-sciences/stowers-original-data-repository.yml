@@ -1,0 +1,22 @@
+id: stowers-original-data-repository
+kind: [dataset]
+name: Stowers Original Data Repository (Stowers ODR)
+url: https://www.stowers.org/stowers-odr
+description: Unprocessed original data files, such as microscope images and gel scans, underlying Stowers Institute publications submitted since November 2011, organised by paper, figure and table
+domain: life-sciences
+tags: [research-data, original-data, microscopy, biomedical-research]
+license: unknown
+publisher:
+  name: Stowers Institute for Medical Research
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, other]
+  access: public
+  temporal:
+    start: '2011'
+    end: null
+  update_frequency: irregular

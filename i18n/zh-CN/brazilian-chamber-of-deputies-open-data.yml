@@ -1,0 +1,3 @@
+id: brazilian-chamber-of-deputies-open-data
+description: 巴西众议院的开放数据 API：议员、表决、法案、会议等立法信息，返回 JSON 或 XML，也提供多种格式的批量文件下载。
+group: 议会、选举与政治人物

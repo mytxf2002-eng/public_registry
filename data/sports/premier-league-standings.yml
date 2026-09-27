@@ -1,0 +1,15 @@
+id: premier-league-standings
+kind: [api]
+name: Premier League Standings
+url: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
+description: All Current Premier League Standings and Statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

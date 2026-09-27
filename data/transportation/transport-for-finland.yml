@@ -1,0 +1,15 @@
+id: transport-for-finland
+kind: [api]
+name: Transport for Finland
+url: https://digitransit.fi/en/developers/
+description: Finnish transport API
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,2 @@
+id: densely-annotated-video-driving-data-set
+description: 慕尼黑工业大学发布的驾驶视频语义分割数据集，在 CARLA 仿真器中录制 28 段不同天气和交通条件下的驾驶视频，共 10,767 帧，每帧附逐像素语义标签，约 5.87 GB，可通过 TUM 数据服务器网页、FTP 或 rsync 免费下载，CC BY 4.0 许可。

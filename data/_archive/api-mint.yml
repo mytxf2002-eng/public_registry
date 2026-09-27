@@ -1,0 +1,18 @@
+id: api-mint
+kind: [api]
+name: api-mint
+url: https://api-mint.hoiwan.workers.dev
+description: 'Free utility APIs: timezone, forex rates, crypto prices, page metadata'
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The Cloudflare Worker no longer serves the API; every path returns 404.

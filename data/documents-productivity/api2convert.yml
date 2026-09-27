@@ -1,0 +1,15 @@
+id: api2convert
+kind: [api]
+name: Api2Convert
+url: https://www.api2convert.com/
+description: Online File Conversion API
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

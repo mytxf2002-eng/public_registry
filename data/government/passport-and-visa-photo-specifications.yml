@@ -1,0 +1,23 @@
+id: passport-and-visa-photo-specifications
+kind: [dataset]
+name: Passport & Visa Photo Specifications
+url: https://github.com/cangrande/passport-photo-specs
+description: 'Photo requirements for 21 passport and visa documents in 17 countries: print size, head height, eye position, background colour and digital upload limits, each with its official source'
+domain: government
+tags: [passport-photos, visas, id-documents, photo-requirements]
+license: CC-BY-4.0
+license_url: https://github.com/cangrande/passport-photo-specs
+publisher:
+  name: Compliant Passport Photo
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  url: https://compliantpassportphoto.com/specs.json
+  spatial: [global]
+  update_frequency: irregular
+  size: 21 documents

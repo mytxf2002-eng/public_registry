@@ -1,0 +1,15 @@
+id: fulusly
+kind: [api]
+name: Fulusly
+url: https://fulusly.soft9.us/developers
+description: Exchange rates for 144 currencies with daily history back to the 1990s, English and Arabic
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

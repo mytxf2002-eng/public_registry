@@ -1,0 +1,15 @@
+id: databricks
+kind: [api]
+name: Databricks
+url: https://docs.databricks.com/dev-tools/api/latest/index.html
+description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

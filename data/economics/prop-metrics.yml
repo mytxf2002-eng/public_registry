@@ -1,0 +1,21 @@
+id: prop-metrics
+kind: [api]
+name: Prop:Metrics
+url: https://www.prop-metrics.com/api
+description: ZIP-code level US real estate metrics such as listing prices by bedroom count, rents, investor yields, Section 8 figures and demographic trends, updated monthly
+domain: economics
+tags: [real-estate, housing-prices, rents, zip-codes]
+license: LicenseRef-Provider-Terms
+license_url: https://www.prop-metrics.com/terms_of_use.html
+publisher:
+  name: Prop Metrics LLC
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://www.prop-metrics.com/docs

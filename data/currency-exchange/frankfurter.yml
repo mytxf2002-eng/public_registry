@@ -1,0 +1,15 @@
+id: frankfurter
+kind: [api]
+name: Frankfurter
+url: https://frankfurter.dev/
+description: Exchange rates, currency conversion and time series
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2019-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,27 @@
+id: kahve-tabela-turkiye-cultural-heritage-atlas
+kind: [api, dataset]
+name: Kahve Tabela Türkiye Cultural Heritage Atlas
+url: https://kahvetabela.com/en/acik-veri
+description: About 32,000 registered heritage places in all 81 provinces of Turkey with coordinates and Wikidata IDs, plus 1,655 geographical-indication foods, as CSV/JSON dumps and a keyless API
+domain: art-design
+tags: [cultural-heritage, historic-sites, geographical-indications, points-of-interest, regional-food]
+license: ODbL-1.0
+license_url: https://zenodo.org/records/21532565
+publisher:
+  name: Aytunç Yıldızlı (Kahve Tabela)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://kahvetabela.com/openapi.json
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [TR]
+  update_frequency: irregular
+  size: 32,014 places

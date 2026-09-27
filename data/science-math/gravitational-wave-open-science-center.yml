@@ -1,0 +1,29 @@
+id: gravitational-wave-open-science-center
+kind: [api, dataset]
+name: Gravitational Wave Open Science Center
+url: https://gwosc.org/
+description: Calibrated strain time series from LIGO, Virgo, KAGRA and GEO for observing runs since 2005, plus the GWTC catalog of detected compact-binary merger events
+domain: science-math
+tags: [gravitational-waves, ligo, virgo, strain-data, astrophysics]
+license: CC-BY-4.0
+license_url: https://gwosc.org/
+publisher:
+  name: LIGO, Virgo and KAGRA Collaborations
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://gwosc.org/api/
+dataset:
+  formats: [hdf5, other, json, csv]
+  access: public
+  url: https://gwosc.org/data/
+  temporal:
+    start: '2005'
+    end: null
+  update_frequency: irregular

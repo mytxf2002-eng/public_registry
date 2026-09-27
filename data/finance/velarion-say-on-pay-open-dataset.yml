@@ -1,0 +1,22 @@
+id: velarion-say-on-pay-open-dataset
+kind: [dataset]
+name: Velarion Say-on-Pay Open Dataset
+url: https://zenodo.org/records/22650198
+description: Say-on-pay advisory vote results of US public companies, tabulated on each company's own disclosed basis with verbatim citations and EDGAR accession numbers, released quarterly
+domain: finance
+tags: [executive-compensation, say-on-pay, corporate-governance, sec-filings, proxy-voting]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/22650198
+publisher:
+  name: Velarion Company Intelligence
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [US]
+  update_frequency: quarterly
+  size: 371 kB

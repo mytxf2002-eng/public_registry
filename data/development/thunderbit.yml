@@ -1,0 +1,15 @@
+id: thunderbit
+kind: [api]
+name: Thunderbit
+url: https://thunderbit.com/docs/introduction
+description: Extract web pages as Markdown or structured data for AI apps
+domain: development
+license: unknown
+provenance:
+  added: 2026-05-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

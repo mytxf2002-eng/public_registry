@@ -1,0 +1,3 @@
+id: google-pollen
+description: 指定地点的每日花粉预报，按花粉类型和植物给出指数。Google 收购 BreezoMeter 后，原花粉接口由 Google Maps Platform 的 Pollen API 取代。
+group: 空气质量与环境监测

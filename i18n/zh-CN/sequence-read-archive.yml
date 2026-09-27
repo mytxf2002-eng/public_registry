@@ -1,0 +1,2 @@
+id: sequence-read-archive
+description: 美国国立卫生研究院的高通量测序原始数据档案（INSDC 成员）：收录各类生物及宏基因组、环境调查的原始读段和比对信息，实验记录超过 4600 万条；可通过 NCBI 服务器、云平台和 SRA Toolkit 免费下载，可用 E-utilities 检索；部分人类数据需 dbGaP 授权。

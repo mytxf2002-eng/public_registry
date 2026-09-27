@@ -1,0 +1,15 @@
+id: airportsapi
+kind: [api]
+name: airportsapi
+url: https://airport-web.appspot.com/api/docs/
+description: Get name and website-URL for airports by ICAO code
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

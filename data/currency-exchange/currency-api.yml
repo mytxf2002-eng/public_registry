@@ -1,0 +1,15 @@
+id: currency-api
+kind: [api]
+name: Currency-api
+url: https://github.com/fawazahmed0/currency-api#readme
+description: Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

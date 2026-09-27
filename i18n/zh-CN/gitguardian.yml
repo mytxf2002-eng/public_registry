@@ -1,0 +1,3 @@
+id: gitguardian
+description: 扫描文件和代码里泄露的密钥与凭据（API key、数据库密码、访问令牌等），可以接入 CI 流程或提交前检查。
+group: 账号、密码与凭据安全

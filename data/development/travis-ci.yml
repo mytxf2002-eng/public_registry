@@ -1,0 +1,16 @@
+id: travis-ci
+kind: [api]
+name: Travis CI
+url: https://docs.travis-ci.com/api/
+description: Sync your GitHub projects with Travis CI to test your code in minutes
+domain: development
+tags: [continuous-integration]
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: chronicling-america
+kind: [api]
+name: Chronicling America
+url: http://chroniclingamerica.loc.gov/about/api/
+description: Provides access to millions of pages of historic US newspapers from the Library of Congress
+domain: news-media
+license: unknown
+provenance:
+  added: 2017-08-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

@@ -1,0 +1,3 @@
+id: upwork
+description: 自由职业平台 Upwork 的接口，现在是 GraphQL API，可以查询和管理项目、合同、消息等，需要 OAuth 2.0 授权，key 要经过 Upwork 审核。
+group: 远程与自由职业

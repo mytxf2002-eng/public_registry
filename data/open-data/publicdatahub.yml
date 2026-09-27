@@ -1,0 +1,15 @@
+id: publicdatahub
+kind: [api]
+name: PublicDataHub
+url: https://publicdatahub.org/api
+description: US public schools, hospitals and federal agency budgets as JSON/CSV, with provenance
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,2 @@
+id: campsite-atlas-open-data
+description: 美国联邦露营地数据，约 5560 条，每个营地一行，含管理机构、坐标、是否可预订、营位数、水电排污接口、宠物与篝火规定、最大房车长度及预订链接，来源为 Recreation.gov RIDB 与林务局目录，每晚更新，CSV 直接下载，CC0 公共领域。

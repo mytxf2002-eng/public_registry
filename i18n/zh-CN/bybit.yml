@@ -1,0 +1,3 @@
+id: bybit
+description: 交易所 Bybit 的 API，提供行情数据和程序化交易接口，现行版本是统一的 V5 接口。
+group: 大型交易所交易接口

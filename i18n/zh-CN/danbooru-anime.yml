@@ -1,0 +1,3 @@
+id: danbooru-anime
+description: 大型动漫插画图站 Danbooru 的接口：按标签搜索图片，查询画师、标签和百科。站内含有成人内容，需要按分级过滤。
+group: 动漫图片与 GIF

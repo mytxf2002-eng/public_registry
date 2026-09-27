@@ -1,0 +1,16 @@
+id: mail-tm
+kind: [api]
+name: mail.tm
+url: https://docs.mail.tm
+description: Temporary Email Service
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2021-05-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

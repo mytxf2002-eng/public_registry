@@ -1,0 +1,3 @@
+id: fileup
+description: GitHub 上的开源临时文件托管项目：通过接口上传文件，可以设置过期时间和最多查看次数。
+group: 文件上传与分享

@@ -1,0 +1,18 @@
+id: brainshop-ai
+kind: [api]
+name: Brainshop.ai
+url: https://brainshop.ai/
+description: Make A Free A.I Brain
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The brainshop.ai domain is listed for sale on a domain marketplace.

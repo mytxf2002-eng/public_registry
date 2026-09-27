@@ -1,0 +1,22 @@
+id: combed-commercial-building-energy-dataset
+kind: [dataset]
+name: 'COMBED: Commercial Building Energy Dataset'
+url: https://combed.github.io/
+description: One month of 30-second smart meter readings from many metering points in an academic building of IIIT Delhi, released for load disaggregation research
+domain: energy
+tags: [nilm, smart-meters, commercial-buildings, load-disaggregation]
+license: unknown
+publisher:
+  name: Energy group, IIIT Delhi
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, hdf5]
+  access: public
+  url: https://combed.github.io/downloads/combed.zip
+  spatial: [IN]
+  update_frequency: static
+  size: 44 MB (zip)

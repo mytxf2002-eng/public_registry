@@ -1,0 +1,3 @@
+id: google-drive
+description: Google 云端硬盘的 API：上传下载和搜索文件、管理文件夹和共享权限、导出 Google 文档格式、监听文件变更，通过 OAuth 2.0 授权。
+group: 网盘与团队文件协作

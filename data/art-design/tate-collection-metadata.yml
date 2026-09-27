@@ -1,0 +1,21 @@
+id: tate-collection-metadata
+kind: [dataset]
+name: Tate Collection Metadata
+url: https://github.com/tategallery/collection
+description: Catalogue records for about 70,000 artworks owned by Tate and about 3,500 related artists, as per-record JSON files and flat CSV tables, frozen in October 2014
+domain: art-design
+tags: [museum-collections, artworks, artists, cultural-heritage]
+license: CC0-1.0
+license_url: https://github.com/tategallery/collection/blob/master/LICENCE
+publisher:
+  name: Tate
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv]
+  access: public
+  update_frequency: static
+  size: 70,000 artworks

@@ -1,0 +1,15 @@
+id: calorieninjas
+kind: [api]
+name: CalorieNinjas
+url: https://calorieninjas.com/api
+description: Nutrition and calorie data for foods and recipes
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: geoplugin
+description: IP 地理定位，并按访客所在国家提供货币换算，便于网站按地区显示价格。官网称不需要 key，也有 WordPress 等建站平台的插件。
+group: IP 地理定位

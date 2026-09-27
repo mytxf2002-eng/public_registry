@@ -1,0 +1,2 @@
+id: cs-go-competitive-matchmaking-data
+description: 从《反恐精英：全球攻势》(CS:GO) 竞技匹配录像中解析的数据，含约 1,400 场比赛、41 万余回合的伤害与投掷物事件，以及 2018 年 8 月采集的 ESEA 比赛数据，另附地图雷达图，共约 3.6 GB，托管于 Kaggle（需免费账号下载），采用 CC BY-NC-SA 4.0 许可。

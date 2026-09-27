@@ -1,0 +1,22 @@
+id: skytrax-user-reviews-dataset
+kind: [dataset]
+name: Skytrax User Reviews Dataset
+url: https://github.com/quankiquanki/skytrax-reviews-dataset
+description: About 62,600 user reviews scraped from Skytrax up to August 2015, covering airlines, airports, airline seats and lounges, with sub-ratings and recommendation flags
+domain: transportation
+tags: [airline-reviews, airports, customer-reviews, ratings, air-travel]
+license: CC0-1.0
+license_url: https://github.com/quankiquanki/skytrax-reviews-dataset/blob/master/LICENSE
+publisher:
+  name: Quang Nguyen
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [global]
+  update_frequency: static
+  size: 62,639 reviews

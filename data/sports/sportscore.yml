@@ -1,0 +1,15 @@
+id: sportscore
+kind: [api]
+name: SportScore
+url: https://sportscore.com/developers/
+description: Live scores, fixtures, standings and stats for football, basketball, cricket and tennis
+domain: sports
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

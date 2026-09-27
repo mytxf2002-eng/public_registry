@@ -1,0 +1,3 @@
+id: wttr-in
+description: 在终端里用 curl 查天气的开源服务，默认返回字符画天气预报，也支持 JSON（?format=j1）和自定义单行格式，免 key。
+group: 免费开源与免 key 预报

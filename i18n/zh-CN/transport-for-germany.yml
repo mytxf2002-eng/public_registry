@@ -1,0 +1,3 @@
+id: transport-for-germany
+description: 德国铁路（DB）的时刻表接口（API Fahrplan）。DB 的各类开放接口现在集中在 DB API Marketplace（developers.deutschebahn.com）上。
+group: 欧洲全国铁路与公共交通

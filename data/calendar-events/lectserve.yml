@@ -1,0 +1,16 @@
+id: lectserve
+kind: [api]
+name: LectServe
+url: http://www.lectserve.com
+description: Protestant liturgical calendar
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2017-02-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

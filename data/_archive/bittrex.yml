@@ -1,0 +1,19 @@
+id: bittrex
+kind: [api]
+name: Bittrex
+url: https://bittrex.github.io/api/v3
+description: Next Generation Crypto Trading Platform
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Bittrex Global stopped trading on 4 December 2023 after the US exchange closed, and the API docs site is gone.

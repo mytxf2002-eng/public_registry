@@ -1,0 +1,26 @@
+id: uniprot
+kind: [api, dataset]
+name: UniProt
+url: https://www.uniprot.org/
+description: 'Protein sequence and function knowledgebase: about 150 million UniProtKB entries (575,748 reviewed in Swiss-Prot) plus UniRef clusters and the UniParc archive'
+domain: life-sciences
+tags: [proteins, protein-sequences, functional-annotation, bioinformatics]
+license: CC-BY-4.0
+license_url: https://ftp.uniprot.org/pub/databases/uniprot/LICENSE
+publisher:
+  name: UniProt Consortium
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.uniprot.org/help/api
+dataset:
+  formats: [fasta, xml, text, rdf]
+  access: public
+  url: https://www.uniprot.org/help/downloads
+  size: 150 M entries

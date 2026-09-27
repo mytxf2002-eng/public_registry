@@ -1,0 +1,2 @@
+id: animals-with-attributes-2
+description: 用于属性分类和零样本学习的图像基准数据集，含 50 个动物类别的 37,322 张图片、85 维类别属性矩阵和预提取的 ResNet 特征，可直接下载（图片包约 13 GB）。是原 Animals with Attributes 数据集（因版权下架图片）的替代版本，图片按各自的自由许可提供。

@@ -1,0 +1,15 @@
+id: urantia-papers
+kind: [api]
+name: Urantia Papers
+url: https://urantia.dev
+description: Full-text + semantic search across the Urantia Papers, with audio narration, entities, translations
+domain: books
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

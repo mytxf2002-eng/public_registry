@@ -1,0 +1,15 @@
+id: bugcrowd
+kind: [api]
+name: Bugcrowd
+url: https://docs.bugcrowd.com/api/getting-started/
+description: Bugcrowd API for interacting and tracking the reported issues programmatically
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

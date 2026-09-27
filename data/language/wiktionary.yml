@@ -1,0 +1,16 @@
+id: wiktionary
+kind: [api]
+name: Wiktionary
+url: https://en.wiktionary.org/w/api.php
+description: Collaborative dictionary data
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

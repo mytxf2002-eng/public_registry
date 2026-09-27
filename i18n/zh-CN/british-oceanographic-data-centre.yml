@@ -1,0 +1,2 @@
+id: british-oceanographic-data-centre
+description: 英国国家海洋数据中心（BODC）的海洋数据库，收录 CTD 温盐深剖面、海流与波浪观测、水样分析、潮位站和 Argo 浮标等数据，提供 netCDF、ASCII 等格式。多数数据注册免费账号即可下载，需接受 BODC 许可条款，部分数据的商业用途需付费。

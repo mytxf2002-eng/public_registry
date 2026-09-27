@@ -1,0 +1,25 @@
+id: sf-opendata
+kind: [api, dataset]
+name: SF OpenData
+url: https://data.sf.gov/
+description: About 700 datasets from the City and County of San Francisco, such as fire and police incidents, 311 cases, permits and budgets, with CSV, JSON and GeoJSON exports
+domain: government
+tags: [municipal, public-safety, '311', housing]
+license: PDDL-1.0
+license_url: https://data.sf.gov/data.json
+publisher:
+  name: DataSF, City and County of San Francisco
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json, xml, geojson, kml]
+  access: public
+  spatial: [US-CA]
+  size: 711 datasets

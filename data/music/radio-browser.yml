@@ -1,0 +1,15 @@
+id: radio-browser
+kind: [api]
+name: Radio Browser
+url: https://api.radio-browser.info/
+description: List of internet radio stations
+domain: music
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

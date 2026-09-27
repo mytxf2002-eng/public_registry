@@ -1,0 +1,15 @@
+id: ebay
+kind: [api]
+name: eBay
+url: https://developer.ebay.com/
+description: Sell and Buy on eBay
+domain: shopping
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

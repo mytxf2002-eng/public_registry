@@ -1,0 +1,25 @@
+id: city-of-portland-open-data-portal
+kind: [api, dataset]
+name: City of Portland Open Data Portal
+url: https://gis-pdx.opendata.arcgis.com/
+description: About 350 geospatial datasets published by the City of Portland, Oregon, such as transportation, planning and sewer layers, as CSV, shapefile, GeoJSON or KML
+domain: government
+tags: [gis, municipal, city-planning, infrastructure]
+license: unknown
+publisher:
+  name: City of Portland, Oregon
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://gis-pdx.opendata.arcgis.com/api/search/definition/
+dataset:
+  formats: [csv, shapefile, geojson, kml]
+  access: public
+  spatial: [US-OR]
+  size: 352 datasets

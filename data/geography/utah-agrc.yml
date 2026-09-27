@@ -1,0 +1,16 @@
+id: utah-agrc
+kind: [api]
+name: Utah AGRC
+url: https://api.mapserv.utah.gov
+description: Utah Web API for geocoding Utah addresses
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-02-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

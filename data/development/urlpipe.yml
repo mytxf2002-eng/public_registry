@@ -1,0 +1,15 @@
+id: urlpipe
+kind: [api]
+name: URLpipe
+url: https://urlpipe.dev/docs
+description: Turn a URL into Markdown, screenshots, metadata or Lighthouse audits, rendered in real Chrome
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

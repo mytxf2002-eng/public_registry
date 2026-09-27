@@ -1,0 +1,3 @@
+id: userstack
+description: APILayer 的产品：解析 User-Agent 字符串，识别设备类型、浏览器、操作系统，也能识别爬虫，返回 JSON 或 XML，有免费档。
+group: IP 地址与访客信息

@@ -1,0 +1,16 @@
+id: defillama
+kind: [api]
+name: DefiLlama
+url: https://defillama.com/docs/api
+description: Open and transparent DeFi data, TVL, coin prices, volumes, and yields
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

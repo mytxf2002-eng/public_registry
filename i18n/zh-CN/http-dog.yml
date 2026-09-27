@@ -1,0 +1,3 @@
+id: http-dog
+description: HTTP Cat 的狗狗版：每个 HTTP 状态码一张狗狗图片，支持 AVIF、JXL、JPG、WebP 格式，也能返回 JSON。
+group: HTTP 状态码图与占位图

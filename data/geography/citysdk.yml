@@ -1,0 +1,16 @@
+id: citysdk
+kind: [api]
+name: CitySDK
+url: http://www.citysdk.eu/citysdk-toolkit/
+description: Open APIs for select European cities
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

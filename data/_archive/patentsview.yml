@@ -1,0 +1,19 @@
+id: patentsview
+kind: [api]
+name: PatentsView
+url: https://patentsview.org/apis/purpose
+description: API is intended to explore and visualize trends/patterns across the US innovation landscape
+domain: government
+tags: [patents]
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: PatentsView was folded into the USPTO Open Data Portal on 2026-03-20 and its API has been paused ever since with no relaunch date.

@@ -1,0 +1,26 @@
+id: inaturalist
+kind: [api, dataset]
+name: iNaturalist
+url: https://www.inaturalist.org/
+description: Community-recorded observations of plants, animals and fungi worldwide, about 389 million records with photos, sounds, locations and crowd-sourced identifications
+domain: life-sciences
+tags: [biodiversity, species-occurrence, citizen-science, wildlife-photos]
+license: CC-BY-NC-4.0
+license_url: https://help.inaturalist.org/en/support/solutions/articles/151000175695-what-licenses-can-i-use-for-my-content-
+publisher:
+  name: iNaturalist
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://api.inaturalist.org/v1/docs/
+dataset:
+  formats: [csv, json, image]
+  access: public
+  spatial: [global]
+  update_frequency: realtime

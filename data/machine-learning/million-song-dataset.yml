@@ -1,0 +1,22 @@
+id: million-song-dataset
+kind: [dataset]
+name: Million Song Dataset
+url: http://millionsongdataset.com/
+description: Echo Nest audio features and metadata for one million contemporary popular music tracks (280 GB, no audio), with a 10,000-song subset and companion datasets
+domain: machine-learning
+tags: [music-information-retrieval, audio-features, music-metadata, recommender-systems]
+license: LicenseRef-Provider-Terms
+license_url: http://millionsongdataset.com/faq/
+publisher:
+  name: LabROSA (Columbia University) and The Echo Nest
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [hdf5, sqlite, text]
+  access: public
+  url: http://millionsongdataset.com/pages/getting-dataset/
+  update_frequency: static
+  size: 280 GB (1M songs)

@@ -1,0 +1,15 @@
+id: fred
+kind: [api]
+name: FRED
+url: https://fred.stlouisfed.org/docs/api/fred/
+description: Economic data from the Federal Reserve Bank of St. Louis
+domain: economics
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

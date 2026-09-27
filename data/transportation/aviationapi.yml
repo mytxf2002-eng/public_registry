@@ -1,0 +1,15 @@
+id: aviationapi
+kind: [api]
+name: AviationAPI
+url: https://api-v2.aviationapi.com/v2/docs
+description: FAA aeronautical charts and chart supplements
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

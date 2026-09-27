@@ -1,0 +1,15 @@
+id: peak
+kind: [api]
+name: Peak
+url: https://peak.fo/docs
+description: Cloudflare Turnstile and 5-second challenge solving, pay per successful solve, 1,000 free solves
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

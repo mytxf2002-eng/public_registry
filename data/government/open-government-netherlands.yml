@@ -1,0 +1,21 @@
+id: open-government-netherlands
+kind: [api, dataset]
+name: Open Government, Netherlands
+url: https://data.overheid.nl/en/ondersteuning/data-publiceren/api
+description: Netherlands Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [json, csv, gpkg, gml, shapefile, xlsx]
+  access: public
+  url: https://data.overheid.nl/datasets
+  spatial: [NL]
+  size: 20,277 datasets

@@ -1,0 +1,15 @@
+id: data-parliament-uk
+kind: [api]
+name: Data.parliament.uk
+url: https://explore.data.parliament.uk/?learnmore=Members
+description: Contains live datasets including information about petitions, bills, MP votes, attendance and more
+domain: government
+license: unknown
+provenance:
+  added: 2021-02-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

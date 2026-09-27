@@ -1,0 +1,15 @@
+id: youtube
+kind: [api]
+name: YouTube
+url: https://developers.google.com/youtube/
+description: Add YouTube functionality to your sites and apps
+domain: video
+license: unknown
+provenance:
+  added: 2016-03-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

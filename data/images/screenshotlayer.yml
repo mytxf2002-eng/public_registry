@@ -1,0 +1,16 @@
+id: screenshotlayer
+kind: [api]
+name: Screenshotlayer
+url: https://screenshotlayer.com
+description: URL to screenshot
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

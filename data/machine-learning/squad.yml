@@ -1,0 +1,21 @@
+id: squad
+kind: [dataset]
+name: SQuAD (Stanford Question Answering Dataset)
+url: https://rajpurkar.github.io/SQuAD-explorer/
+description: About 150,000 crowd-written questions on Wikipedia paragraphs whose answers are text spans, including 50,000 deliberately unanswerable ones in version 2.0, with a public leaderboard
+domain: machine-learning
+tags: [question-answering, reading-comprehension, nlp, benchmark, wikipedia]
+license: CC-BY-SA-4.0
+license_url: https://rajpurkar.github.io/SQuAD-explorer/
+publisher:
+  name: Stanford NLP Group
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  update_frequency: static
+  size: 44 MB

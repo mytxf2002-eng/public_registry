@@ -1,0 +1,2 @@
+id: prop-metrics
+description: Prop:Metrics 按美国邮编汇总房地产指标，包括按卧室数划分的挂牌价、租金、投资回报率、第八条款住房和人口变化等，数据整理自 Zillow、Realtor.com、HUD 和人口普查局，每月更新。网站仪表盘免费浏览；REST API 每月免费 50 次调用，更多调用和历史数据下载需付费。

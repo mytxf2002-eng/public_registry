@@ -1,0 +1,2 @@
+id: nencki-symfonia-eeg-erp-dataset
+description: 波兰 Nencki 实验生物学研究所采集的高密度脑电数据：42 名健康年轻成人完成多源干扰任务（MSIT+）、三刺激 oddball 任务、简单反应任务及静息态记录，附人口学和问卷信息。数据按 BIDS 组织（BrainVision 格式），可在 GigaDB 直接下载，CC0 许可。

@@ -1,0 +1,15 @@
+id: transport-for-los-angeles-us
+kind: [api]
+name: Transport for Los Angeles, US
+url: https://developer.metro.net/api/
+description: Data about positions of Metro vehicles in real time and travel their routes
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

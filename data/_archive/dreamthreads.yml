@@ -1,0 +1,18 @@
+id: dreamthreads
+kind: [api]
+name: DreamThreads
+url: https://mydreamthreads.xyz/dream-interpretation-api
+description: Parse dreams into structured entities, emotions, agency, threat, and outcomes
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: mydreamthreads.xyz is no longer attached to its Railway app, which answers 'Application not found' on every path.

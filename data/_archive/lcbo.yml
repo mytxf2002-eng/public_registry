@@ -1,0 +1,18 @@
+id: lcbo
+kind: [api]
+name: LCBO
+url: https://lcboapi.com/
+description: Alcohol
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: LCBO API was shut down by its creator on January 15, 2019.

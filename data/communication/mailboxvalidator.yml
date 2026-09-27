@@ -1,0 +1,16 @@
+id: mailboxvalidator
+kind: [api]
+name: MailboxValidator
+url: https://www.mailboxvalidator.com/api-email-free
+description: Validate email address to improve deliverability
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

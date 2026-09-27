@@ -1,0 +1,3 @@
+id: arcnautical
+description: 按 IMO 编号筛查船舶是否受 OFAC、欧盟、联合国、英国制裁，评估所有权是否不透明并给出审查评级。单次查询免 key，批量、持续监控和签名 webhook 要用自助申请的 key，另有航次风险评分。
+group: 航运、港口与物流

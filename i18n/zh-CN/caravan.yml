@@ -1,0 +1,2 @@
+id: caravan
+description: Caravan 是全球大样本水文社区数据集，整合各国 CAMELS 类数据，提供约 1.6 万个河流测站的逐日径流、ERA5-Land 气象驱动数据和流域属性，时段 1950–2023 年，可在 Zenodo 直接下载 netCDF 或 CSV 版本，按 CC BY 4.0 许可发布。

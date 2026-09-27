@@ -1,0 +1,26 @@
+id: city-of-fredericton-open-data
+kind: [api, dataset]
+name: City of Fredericton Open Data
+url: https://data-fredericton.opendata.arcgis.com/
+description: 'About 130 city datasets for Fredericton, New Brunswick: zoning, water and sewer networks, bus stops, trails, tree inventory, IoT sensor readings, emissions and census profiles'
+domain: government
+tags: [municipal, gis, utilities, ghg-emissions, transit]
+license: LicenseRef-Open-Government
+license_url: https://data-fredericton.opendata.arcgis.com/pages/open-data-license
+publisher:
+  name: City of Fredericton
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile, gpkg, xlsx]
+  access: public
+  spatial: [CA-NB]
+  update_frequency: irregular
+  size: 127 datasets

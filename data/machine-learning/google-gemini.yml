@@ -1,0 +1,15 @@
+id: google-gemini
+kind: [api]
+name: Google Gemini
+url: https://ai.google.dev/gemini-api/docs
+description: Multimodal generative AI for text, vision, and code generation
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-08-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

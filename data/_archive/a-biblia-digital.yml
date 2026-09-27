@@ -1,0 +1,18 @@
+id: a-biblia-digital
+kind: [api]
+name: A Bíblia Digital
+url: https://www.abibliadigital.com.br/en
+description: Do not worry about managing the multiple versions of the Bible
+domain: books
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: The project reached end of life in July 2026 and its API endpoints and website were shut down.

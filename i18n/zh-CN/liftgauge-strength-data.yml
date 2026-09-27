@@ -1,0 +1,2 @@
+id: liftgauge-strength-data
+description: 基于 OpenPowerlifting 2026 年 5 月快照计算的力量举汇总表：按性别、体重级别、年龄和装备分组的深蹲、卧推、硬拉及总成绩百分位、进步轨迹和年龄曲线，JSON 格式，附可复现的构建脚本。数据以 CC0 发布，是 liftgauge.com 计算器所用的数据。

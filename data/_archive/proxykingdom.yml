@@ -1,0 +1,18 @@
+id: proxykingdom
+kind: [api]
+name: ProxyKingdom
+url: https://proxykingdom.com
+description: Rotating Proxy API that produces a working proxy on every request
+domain: development
+license: unknown
+provenance:
+  added: 2022-02-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The domain registration has expired.

@@ -1,0 +1,15 @@
+id: openafrica
+kind: [api]
+name: openAFRICA
+url: https://open.africa/
+description: Large datasets repository of African open data
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-07-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

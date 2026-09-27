@@ -1,0 +1,15 @@
+id: domaindb-info
+kind: [api]
+name: DomainDb Info
+url: https://api.domainsdb.info/
+description: Domain name search to find all domains containing particular words/phrases/etc
+domain: networks
+license: unknown
+provenance:
+  added: 2020-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

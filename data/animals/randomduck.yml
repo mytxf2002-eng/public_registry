@@ -1,0 +1,15 @@
+id: randomduck
+kind: [api]
+name: RandomDuck
+url: https://random-d.uk/api
+description: Random pictures of ducks
+domain: animals
+license: unknown
+provenance:
+  added: 2021-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

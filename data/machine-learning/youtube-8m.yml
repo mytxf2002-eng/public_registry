@@ -1,0 +1,22 @@
+id: youtube-8m
+kind: [dataset]
+name: YouTube-8M
+url: https://research.google.com/youtube8m/
+description: Precomputed audio-visual features and labels for about 6 million YouTube videos in 3,862 classes, plus 237K human-verified segment labels in 1,000 classes
+domain: machine-learning
+tags: [video-classification, video-understanding, audio-visual-features, youtube]
+license: CC-BY-4.0
+license_url: https://research.google.com/youtube8m/download.html
+publisher:
+  name: Google
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [protobuf, csv]
+  access: public
+  url: https://research.google.com/youtube8m/download.html
+  update_frequency: static
+  size: ~6M videos (2018 version)

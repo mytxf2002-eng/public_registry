@@ -1,0 +1,30 @@
+id: ooni-data
+kind: [api, dataset]
+name: OONI Data
+url: https://ooni.org/data/
+description: Network measurements from volunteers running OONI Probe worldwide, testing whether websites, messaging apps and circumvention tools are blocked, since 2012
+domain: networks
+tags: [internet-censorship, network-interference, web-connectivity, measurements]
+license: CC-BY-NC-SA-4.0
+license_url: https://github.com/ooni/license/tree/master/data
+publisher:
+  name: Open Observatory of Network Interference (OONI)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://api.ooni.io/apidocs/
+dataset:
+  formats: [json, jsonl]
+  access: public
+  url: https://docs.ooni.org/data/
+  temporal:
+    start: '2012'
+    end: null
+  spatial: [global]
+  update_frequency: realtime

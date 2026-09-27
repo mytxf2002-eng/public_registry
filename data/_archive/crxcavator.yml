@@ -1,0 +1,18 @@
+id: crxcavator
+kind: [api]
+name: CRXcavator
+url: https://crxcavator.io/apidocs
+description: Chrome extension risk scoring
+domain: security
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Duo/Cisco discontinued CRXcavator in 2023 and the server now refuses connections.

@@ -1,0 +1,3 @@
+id: image-charts
+description: 一个 URL 就是一张图表：生成折线图、柱状图、饼图等图表以及二维码图片，兼容已停用的 Google Image Charts 的参数格式，适合嵌进邮件和 PDF 报告。
+group: 图表、图示与图片生成

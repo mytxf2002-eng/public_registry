@@ -1,0 +1,15 @@
+id: danish-data-service-energi
+kind: [api]
+name: Danish data service Energi
+url: https://www.energidataservice.dk/
+description: Open energy data from Energinet to society
+domain: energy
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

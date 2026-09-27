@@ -1,0 +1,2 @@
+id: u-s-water-quality-and-home-safety-data
+description: 按邮编汇总的美国居住安全数据，覆盖 42,679 个邮编，含饮用水违规、铅铜检测、PFAS 检出、氡分区、洪水理赔历史和综合评分，来源为 EPA、FEMA、人口普查等 66 个联邦和州数据源，提供压缩 CSV 和 JSON。由商业网站 ZipCheckup 发布，CC BY 4.0 许可。

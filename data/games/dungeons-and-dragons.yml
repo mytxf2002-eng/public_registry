@@ -1,0 +1,15 @@
+id: dungeons-and-dragons
+kind: [api]
+name: Dungeons and Dragons
+url: https://www.dnd5eapi.co/docs/
+description: Reference for 5th edition spells, classes, monsters, and more
+domain: games
+license: unknown
+provenance:
+  added: 2019-10-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

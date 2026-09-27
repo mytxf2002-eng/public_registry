@@ -1,0 +1,27 @@
+id: aodn-portal
+kind: [api, dataset]
+name: AODN Portal
+url: https://portal.aodn.org.au/
+description: Australian marine and climate science data collections, with primary access to IMOS observations such as glider, mooring, satellite sea surface temperature and animal tracking data
+domain: science-math
+tags: [oceanography, marine-observing, ocean-temperature, imos]
+license: CC-BY-4.0
+license_url: https://help.aodn.org.au/user-guide-introduction/imos/imos-data-licencing/
+publisher:
+  name: Integrated Marine Observing System (IMOS), University of Tasmania
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://help.aodn.org.au/
+dataset:
+  formats: [netcdf, csv]
+  access: public
+  url: https://portal.aodn.org.au/search
+  spatial: [AU]
+  update_frequency: daily

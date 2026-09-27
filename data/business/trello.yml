@@ -1,0 +1,15 @@
+id: trello
+kind: [api]
+name: Trello
+url: https://developer.atlassian.com/cloud/trello/
+description: Boards, lists and cards to help you organize and prioritize your projects
+domain: business
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

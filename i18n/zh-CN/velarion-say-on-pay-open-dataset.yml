@@ -1,0 +1,2 @@
+id: velarion-say-on-pay-open-dataset
+description: 美国上市公司高管薪酬咨询投票（say-on-pay）结果数据，按各公司委托书自行披露的计票口径整理，每行附原文引用和 SEC EDGAR 文件编号，无法明确计票口径的记录被剔除，按季度发布新版本。Zenodo 直接下载 CSV，CC BY 4.0；由商业公司情报产品 Velarion 发布。

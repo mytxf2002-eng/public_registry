@@ -1,0 +1,15 @@
+id: hackerone
+kind: [api]
+name: HackerOne
+url: https://api.hackerone.com/
+description: The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting
+domain: security
+license: unknown
+provenance:
+  added: 2021-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

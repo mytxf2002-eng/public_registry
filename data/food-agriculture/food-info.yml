@@ -1,0 +1,15 @@
+id: food-info
+kind: [api]
+name: Food Info
+url: https://food-info.org/developer
+description: Nutrition data for millions of foods from six national food composition datasets
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

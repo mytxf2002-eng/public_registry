@@ -1,0 +1,21 @@
+id: liftgauge-strength-data
+kind: [dataset]
+name: LiftGauge Strength Data
+url: https://github.com/arvidfcjarfalla-prog/liftgauge-strength-data
+description: Percentile, progression and age-curve tables for squat, bench press, deadlift and total by sex, bodyweight class, age and equipment, derived from OpenPowerlifting results
+domain: sports
+tags: [powerlifting, strength-standards, percentiles, aggregated-statistics]
+license: CC0-1.0
+license_url: https://github.com/arvidfcjarfalla-prog/liftgauge-strength-data/blob/main/LICENSE-DATA
+publisher:
+  name: LiftGauge
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

@@ -1,0 +1,2 @@
+id: productguru-consumer-product-recalls-by-barcode
+description: 将欧盟 Safety Gate、法国 RappelConso、美国 FDA 与 CPSC、英国 OPSS 等 11 个政府召回登记中的约 3.66 万条消费品召回通告按商品条码（EAN/GTIN）整理，每行附官方通告链接；可在 Zenodo 直接下载 CSV（压缩后约 2 MB），CC BY 4.0 许可，不含药品。

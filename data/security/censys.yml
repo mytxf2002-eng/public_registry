@@ -1,0 +1,15 @@
+id: censys
+kind: [api]
+name: Censys
+url: https://search.censys.io/api
+description: Search engine for Internet connected host and devices
+domain: security
+license: unknown
+provenance:
+  added: 2022-01-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

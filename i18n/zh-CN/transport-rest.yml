@@ -1,0 +1,3 @@
+id: transport-rest
+description: 社区维护的一组公共交通 REST 接口，把德国铁路、柏林勃兰登堡交通联盟等系统的数据（HAFAS 后台）包装成统一、易用的格式，免 key，非官方。
+group: 公共交通数据平台与聚合

@@ -1,0 +1,27 @@
+id: oregon-open-data-portal
+kind: [api, dataset]
+name: Oregon Open Data Portal
+url: https://data.oregon.gov/
+description: About 530 State of Oregon datasets, such as business registry records, state employee salaries, agency expenditures and contracts, notaries and licences, and Medicaid rates
+domain: government
+tags: [state-government, business-registry, salaries, public-spending, medicaid]
+license: LicenseRef-Public-Domain
+license_url: https://data.oregon.gov/d/ny3n-dx3v
+publisher:
+  name: State of Oregon
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml]
+  access: public
+  spatial: [US-OR]
+  update_frequency: irregular
+  size: 533 datasets

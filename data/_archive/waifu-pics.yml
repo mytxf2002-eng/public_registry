@@ -1,0 +1,18 @@
+id: waifu-pics
+kind: [api]
+name: Waifu.pics
+url: https://waifu.pics/docs
+description: Image sharing platform for anime images
+domain: anime
+license: unknown
+provenance:
+  added: 2021-04-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: waifu.pics now shows an Indonesian gambling site and api.waifu.pics does not respond (hijacked domain)

@@ -1,0 +1,15 @@
+id: animal-crossing-new-horizons
+kind: [api]
+name: 'Animal Crossing: New Horizons'
+url: http://acnhapi.com/
+description: API for critters, fossils, art, music, furniture and villagers
+domain: games
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

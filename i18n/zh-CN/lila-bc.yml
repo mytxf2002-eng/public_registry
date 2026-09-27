@@ -1,0 +1,2 @@
+id: lila-bc
+description: 面向生物学与自然保护机器学习研究的标注数据仓库，收录数十个数据集，以红外相机、无人机和航拍图像为主，共超过一千万张标注图像，标注多为 COCO Camera Traps JSON 格式。数据存放在 GCP、AWS 和 Azure 上，可直接公开下载；许可证按数据集而定，多数为 CDLA-Permissive 1.0。

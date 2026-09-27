@@ -1,0 +1,3 @@
+id: minecraft-server-status
+description: 查询任意《我的世界》服务器的状态：是否在线、在线人数、版本、MOTD（服务器简介）和图标，支持 Java 版和基岩版，免 key。
+group: 《我的世界》与沙盒游戏

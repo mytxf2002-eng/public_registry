@@ -1,0 +1,19 @@
+id: micro-user-service
+kind: [api]
+name: Micro User Service
+url: https://m3o.com/user
+description: User management and authentication
+domain: security
+tags: [authentication]
+license: unknown
+provenance:
+  added: 2021-07-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: The M3O platform was shut down

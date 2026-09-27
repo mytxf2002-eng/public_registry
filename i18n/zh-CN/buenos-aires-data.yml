@@ -1,0 +1,2 @@
+id: buenos-aires-data
+description: 阿根廷布宜诺斯艾利斯市政府开放数据门户（CKAN 平台），收录 37 个机构发布的 454 个数据集，涵盖公共管理、出行交通、卫生、文化旅游、教育、经济财政和治安等，多为 CSV 和 XLSX，也有 GeoJSON、JSON 等，可免费下载并通过 CKAN API 访问；大多采用 CC BY 2.5 阿根廷许可。

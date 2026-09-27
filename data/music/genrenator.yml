@@ -1,0 +1,15 @@
+id: genrenator
+kind: [api]
+name: Genrenator
+url: https://binaryjazz.us/genrenator-api/
+description: Music genre generator
+domain: music
+license: unknown
+provenance:
+  added: 2018-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

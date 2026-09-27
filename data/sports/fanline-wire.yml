@@ -1,0 +1,15 @@
+id: fanline-wire
+kind: [api]
+name: FanLine Wire
+url: https://fanlinewire.com/docs
+description: Real-time FanDuel Sportsbook odds — live & in-play and pre-match, with a keyless public snapshot
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

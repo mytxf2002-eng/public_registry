@@ -1,0 +1,2 @@
+id: fetchseries-average-city-temperatures
+description: FetchSeries 基于 NASA POWER 数据计算的全球约 1900 个城市逐日平均气温序列，起始于 2015 年 1 月并每日更新，可直接下载单个 Excel 文件（约 39 MB），按 CC BY 4.0 许可发布。

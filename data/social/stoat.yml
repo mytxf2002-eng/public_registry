@@ -1,0 +1,15 @@
+id: stoat
+kind: [api]
+name: Stoat
+url: https://developers.stoat.chat/
+description: Revolt open source Discord alternative
+domain: social
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: malshare
+kind: [api]
+name: MalShare
+url: https://malshare.com/doc.php
+description: Malware Archive / file sourcing
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2021-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

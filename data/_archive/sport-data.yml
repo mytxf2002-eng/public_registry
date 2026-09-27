@@ -1,0 +1,18 @@
+id: sport-data
+kind: [api]
+name: Sport Data
+url: https://sportdataapi.com
+description: Get sports data from all over the world
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: sportdataapi.com has returned 404 since March 2026 and its app subdomain fails with an SSL handshake error, so the service appears discontinued.

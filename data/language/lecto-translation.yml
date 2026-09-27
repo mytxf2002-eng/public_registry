@@ -1,0 +1,16 @@
+id: lecto-translation
+kind: [api]
+name: Lecto Translation
+url: https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+description: Translation API with free tier and reasonable prices
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2022-03-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

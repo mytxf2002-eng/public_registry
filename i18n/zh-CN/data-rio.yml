@@ -1,0 +1,2 @@
+id: data-rio
+description: 巴西里约热内卢市政府的开放数据平台（ArcGIS Hub），约 200 个数据集和 GIS 图层，另有约 1700 个 Excel 统计表，涵盖人口普查、街区、城市规划和公共服务等，可下载 CSV、GeoJSON、Shapefile、KML，并提供 ArcGIS REST 与检索接口；数据集多采用 CC BY 4.0 许可。

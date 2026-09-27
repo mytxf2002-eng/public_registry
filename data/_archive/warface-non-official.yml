@@ -1,0 +1,18 @@
+id: warface-non-official
+kind: [api]
+name: Warface (non-official)
+url: https://api.wfstats.cf
+description: Official API proxy with better data structure and more features
+domain: games
+license: unknown
+provenance:
+  added: 2022-03-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: WFStats and its API were shut down on September 1, 2024.

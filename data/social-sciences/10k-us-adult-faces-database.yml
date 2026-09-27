@@ -1,0 +1,21 @@
+id: 10k-us-adult-faces-database
+kind: [dataset]
+name: 10k US Adult Faces Database
+url: https://wilmabainbridge.com/facememorability2.html
+description: 10,168 natural face photographs of US adults, with memorability scores, psychological and visual attributes and 77-point landmark annotations for 2,222 of the faces
+domain: social-sciences
+tags: [faces, memorability, psychology, face-images, facial-landmarks]
+license: LicenseRef-Research-Only
+license_url: https://wilmabainbridge.com/facememorability2.html
+publisher:
+  name: Wilma A. Bainbridge (University of Chicago)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, matlab, xlsx, text]
+  access: application
+  update_frequency: static
+  size: 10,168 images

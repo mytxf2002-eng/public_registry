@@ -1,0 +1,16 @@
+id: atomic-mail
+kind: [api]
+name: Atomic Mail
+url: https://docs.atomicmail.ai/
+description: 'Email for AI agents: programmatic inbox creation and send/receive over JMAP'
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

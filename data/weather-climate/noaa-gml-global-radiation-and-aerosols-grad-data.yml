@@ -1,0 +1,22 @@
+id: noaa-gml-global-radiation-and-aerosols-grad-data
+kind: [dataset]
+name: NOAA GML Global Radiation and Aerosols (GRAD) Data
+url: https://gml.noaa.gov/grad/stardata.html
+description: Surface solar and infrared radiation, aerosol and UV measurements from NOAA baseline observatories and the SURFRAD, SOLRAD, NEUBrew and federated aerosol networks
+domain: weather-climate
+tags: [solar-radiation, surface-radiation, aerosols, surfrad, uv]
+license: LicenseRef-US-Government-Work
+license_url: https://gml.noaa.gov/about/disclaimer.html
+publisher:
+  name: NOAA Global Monitoring Laboratory
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  url: https://gml.noaa.gov/aftp/data/radiation/
+  spatial: [US, antarctica]
+  update_frequency: daily

@@ -1,0 +1,16 @@
+id: zippopotam-us
+kind: [api]
+name: Zippopotam.us
+url: http://www.zippopotam.us
+description: Get information about place such as country, city, state, etc
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-07-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

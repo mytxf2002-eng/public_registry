@@ -1,0 +1,2 @@
+id: city-of-berkeley-open-data-portal
+description: 美国加利福尼亚州伯克利市政府开放数据门户（Socrata 平台），约 45 个数据集，包括营业执照、市政财务、能源与环境、自然资源和人口等，可导出 CSV、JSON 等格式并通过 SODA API 免密钥调用；多数数据集未注明许可。

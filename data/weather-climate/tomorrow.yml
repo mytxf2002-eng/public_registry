@@ -1,0 +1,15 @@
+id: tomorrow
+kind: [api]
+name: Tomorrow
+url: https://docs.tomorrow.io
+description: Weather API Powered by Proprietary Technology
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: gnews
+kind: [api]
+name: GNews
+url: https://gnews.io/
+description: Search for news from various sources
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-05-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

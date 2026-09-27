@@ -1,0 +1,3 @@
+id: threatcluster
+description: 威胁情报接口：把相关安全事件聚合成事件簇，提供经过验证的失陷指标（IOC）、CVE 漏洞，以及勒索软件泄露站公布的受害者信息。
+group: 威胁情报与恶意软件分析

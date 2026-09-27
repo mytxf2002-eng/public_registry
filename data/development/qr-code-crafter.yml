@@ -1,0 +1,15 @@
+id: qr-code-crafter
+kind: [api]
+name: QR Code Crafter
+url: https://qrcodecrafter.com/qr-code-api
+description: Generate static QR codes in SVG, PNG, JPG, WebP, PDF, or EPS
+domain: development
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

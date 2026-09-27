@@ -1,0 +1,28 @@
+id: indego-bike-share-data
+kind: [api, dataset]
+name: Indego Bike Share Data
+url: https://www.rideindego.com/about/data/
+description: Anonymised quarterly trip records of Philadelphia's Indego bike-share system since its April 2015 launch, with a station table and live station status feeds
+domain: transportation
+tags: [bike-share, trip-history, cycling, gbfs]
+license: unknown
+publisher:
+  name: Indego (City of Philadelphia and Bicycle Transit Systems)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.rideindego.com/about/data/
+dataset:
+  formats: [csv, geojson]
+  access: public
+  temporal:
+    start: 2015-04
+    end: null
+  spatial: [US-PA]
+  update_frequency: quarterly

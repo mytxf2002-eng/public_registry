@@ -1,0 +1,16 @@
+id: random-lexicon
+kind: [api]
+name: Random Lexicon
+url: https://randomlexicon.com/api-reference
+description: Random words and definitions using optional filters
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

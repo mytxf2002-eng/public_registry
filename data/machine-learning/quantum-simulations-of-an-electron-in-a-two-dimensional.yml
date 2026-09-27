@@ -1,0 +1,21 @@
+id: quantum-simulations-of-an-electron-in-a-two-dimensional
+kind: [dataset]
+name: Quantum Simulations of an Electron in a Two-Dimensional Potential Well
+url: https://nrc-digital-repository.canada.ca/eng/view/object/?id=1343ae23-cebf-45c6-94c3-ddebdb2f23c6
+description: Solutions of the 2D time-independent Schrödinger equation for harmonic, infinite-well, Gaussian and random potentials, used to train deep neural networks; 411 HDF5 files, 700 GB
+domain: machine-learning
+tags: [quantum-mechanics, schrodinger-equation, simulation, deep-learning, physics]
+license: OGL-Canada-2.0
+license_url: https://nrc-digital-repository.canada.ca/eng/view/object/?id=1343ae23-cebf-45c6-94c3-ddebdb2f23c6
+publisher:
+  name: National Research Council Canada
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [hdf5]
+  access: public
+  update_frequency: static
+  size: 700 GB

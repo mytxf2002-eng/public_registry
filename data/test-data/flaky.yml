@@ -1,0 +1,15 @@
+id: flaky
+kind: [api]
+name: flaky
+url: https://flakyapi.dev
+description: 'Fake REST API with chaos controls: force any status code, add latency, or a failure rate'
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

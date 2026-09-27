@@ -1,0 +1,16 @@
+id: capesandbox
+kind: [api]
+name: CAPEsandbox
+url: https://capev2.readthedocs.io/en/latest/usage/api.html
+description: Malware execution and analysis
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2021-11-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

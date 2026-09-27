@@ -1,0 +1,16 @@
+id: synonyms
+kind: [api]
+name: Synonyms
+url: https://www.synonyms.com/synonyms_api.php
+description: Synonyms, thesaurus and antonyms information for any given word
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

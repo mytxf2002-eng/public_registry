@@ -1,0 +1,21 @@
+id: yambda-5b
+kind: [dataset]
+name: Yambda-5B
+url: https://huggingface.co/datasets/yandex/yambda
+description: 4.79 billion listens, likes and dislikes by 1 million Yandex Music users on 9.39 million tracks, with audio embeddings, in 50M, 500M and 5B subsets
+domain: machine-learning
+tags: [recommender-systems, music-streaming, user-interactions, audio-embeddings]
+license: Apache-2.0
+license_url: https://huggingface.co/datasets/yandex/yambda
+publisher:
+  name: Yandex
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet]
+  access: public
+  update_frequency: static
+  size: 4.79B interactions

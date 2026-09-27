@@ -1,0 +1,15 @@
+id: socialcrawl
+kind: [api]
+name: SocialCrawl
+url: https://www.socialcrawl.dev/docs
+description: Social and commerce data from 50+ platforms in one JSON schema
+domain: social
+license: unknown
+provenance:
+  added: 2026-08-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

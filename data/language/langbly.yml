@@ -1,0 +1,16 @@
+id: langbly
+kind: [api]
+name: Langbly
+url: https://langbly.com/docs
+description: Context-aware text translation and language detection for 100+ languages
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

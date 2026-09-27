@@ -1,0 +1,23 @@
+id: backblaze-drive-stats
+kind: [dataset]
+name: Backblaze Drive Stats
+url: https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data
+description: Daily snapshots of every hard disk and SSD in Backblaze data centres since 2013, with model, capacity, failure flag and raw and normalised S.M.A.R.T. attributes
+domain: cloud-storage
+tags: [hard-drives, ssd, reliability, smart-attributes, failure-rates]
+license: LicenseRef-Custom-Open
+license_url: https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data
+publisher:
+  name: Backblaze
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2013'
+    end: null
+  update_frequency: quarterly

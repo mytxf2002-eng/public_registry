@@ -1,0 +1,25 @@
+id: prostate-lung-colorectal-and-ovarian-plco-cancer-screening
+kind: [dataset]
+name: Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial
+url: https://cdas.cancer.gov/plco/
+description: Participant-level data and images from a randomized screening trial of about 155,000 adults enrolled 1993-2001, with cancer follow-up to 2009 and mortality to 2022
+domain: health
+tags: [cancer-screening, clinical-trial, mortality, biospecimens, epidemiology]
+license: LicenseRef-Research-Only
+license_url: https://cdas.cancer.gov/plco/
+publisher:
+  name: National Cancer Institute
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [sas, csv]
+  access: application
+  url: https://cdas.cancer.gov/datasets/plco/
+  temporal:
+    start: '1993'
+    end: '2022'
+  spatial: [US]
+  update_frequency: irregular

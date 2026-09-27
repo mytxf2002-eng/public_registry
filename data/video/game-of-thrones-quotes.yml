@@ -1,0 +1,15 @@
+id: game-of-thrones-quotes
+kind: [api]
+name: Game of Thrones Quotes
+url: https://gameofthronesquotes.xyz/
+description: Some Game of Thrones quotes
+domain: video
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

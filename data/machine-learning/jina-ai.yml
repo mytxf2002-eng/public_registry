@@ -1,0 +1,15 @@
+id: jina-ai
+kind: [api]
+name: Jina AI
+url: https://jina.ai
+description: Free AI API for embeddings, reranking, and text processing
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,22 @@
+id: geo-maps
+kind: [dataset]
+name: geo-maps
+url: https://github.com/simonepri/geo-maps
+description: 'World GeoJSON layers generated from OpenStreetMap: country land, coastline and maritime borders plus earth lands, seas, lakes and rivers, each at several resolutions'
+domain: geography
+tags: [boundaries, coastlines, countries, openstreetmap, vector-maps]
+license: ODbL-1.0
+license_url: https://github.com/simonepri/geo-maps#license
+publisher:
+  name: Simone Primarosa
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geojson]
+  access: public
+  url: https://github.com/simonepri/geo-maps/releases
+  spatial: [global]
+  update_frequency: static

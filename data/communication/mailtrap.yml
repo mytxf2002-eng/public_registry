@@ -1,0 +1,16 @@
+id: mailtrap
+kind: [api]
+name: Mailtrap
+url: https://mailtrap.io
+description: Email API and SMTP for transactional and bulk emails, with a sandbox for email testing
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

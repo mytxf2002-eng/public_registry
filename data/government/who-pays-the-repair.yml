@@ -1,0 +1,23 @@
+id: who-pays-the-repair
+kind: [dataset]
+name: Who Pays the Repair?
+url: https://whopaystherepair.com/
+description: Cited local rules on who pays to repair sidewalks, sewer laterals, street trees, water service lines and similar items in about 290 US cities, with primary-source links
+domain: government
+tags: [municipal-codes, sidewalks, sewer-laterals, property-owners]
+license: LicenseRef-Custom-Open
+license_url: https://whopaystherepair.com/press/
+publisher:
+  name: The Verification Desk
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://whopaystherepair.com/press/
+  spatial: [US]
+  update_frequency: irregular
+  size: 293 jurisdictions

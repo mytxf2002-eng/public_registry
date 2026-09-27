@@ -1,0 +1,15 @@
+id: open-government-queensland-government
+kind: [api]
+name: Open Government, Queensland Government
+url: https://www.data.qld.gov.au/
+description: Queensland Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

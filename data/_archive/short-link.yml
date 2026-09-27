@@ -1,0 +1,18 @@
+id: short-link
+kind: [api]
+name: Short Link
+url: https://github.com/FayasNoushad/Short-Link-API
+description: Short URLs support so many domains
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The GitHub repository no longer exists.

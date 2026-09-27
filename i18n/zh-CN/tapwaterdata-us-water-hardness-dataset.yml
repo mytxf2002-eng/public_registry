@@ -1,0 +1,2 @@
+id: tapwaterdata-us-water-hardness-dataset
+description: 美国 16537 个城市的自来水硬度数据，每个数值附来源、可信等级和采样日期，数据来自供水公司报告及 USGS/EPA 水质门户采样（其中部分城市为县级估算）。CSV 和 JSON 无需注册即可下载，CC BY 4.0 许可；发布方为含联盟营销的商业网站。

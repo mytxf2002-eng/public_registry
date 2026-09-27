@@ -1,0 +1,2 @@
+id: american-community-survey
+description: 美国人口普查局的年度社区调查（ACS）：涵盖人口、住房、收入、教育、就业等主题，提供 1 年期和 5 年期估计表以及公共使用微观数据样本（PUMS）。可在 data.census.gov 查询、通过 Census Data API（需免费 API 密钥）调用，或从 FTP 文件服务器免费批量下载 CSV/SAS 文件。

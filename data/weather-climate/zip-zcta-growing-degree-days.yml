@@ -1,0 +1,21 @@
+id: zip-zcta-growing-degree-days
+kind: [dataset]
+name: ZIP/ZCTA Growing Degree Days (base 50°F)
+url: https://whentoapplypreemergent.com/datasets/gdd/
+description: Year-to-date base-50°F growing degree days for 33,642 US Census ZIP Code Tabulation Areas, computed from the nearest fresh NOAA GHCN-Daily station, with station and freshness fields
+domain: weather-climate
+tags: [growing-degree-days, air-temperature, zcta, agroclimate]
+license: CC-BY-4.0
+license_url: https://data.whentoapplypreemergent.com/gdd/releases/2026-09-26/DATA-LICENSE.txt
+publisher:
+  name: WhenToApplyPreEmergent.com
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, parquet]
+  access: public
+  spatial: [US]
+  size: 33,642 rows

@@ -1,0 +1,15 @@
+id: apizone
+kind: [api]
+name: APIzone
+url: https://apizone.io/api-docs
+description: Independent uptime & status monitoring for 200+ popular APIs
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

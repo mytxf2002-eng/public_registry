@@ -1,0 +1,20 @@
+id: gene-ontology-go-annotations
+kind: [dataset]
+name: Gene Ontology (GO) Annotations
+url: https://geneontology.org/docs/download-go-annotations/
+description: Gene function annotations linking gene products of many organisms to Gene Ontology terms, with evidence codes, distributed as GAF and GPAD/GPI files alongside the ontology
+domain: life-sciences
+tags: [gene-ontology, gene-function, functional-annotation, bioinformatics]
+license: CC-BY-4.0
+license_url: https://geneontology.org/docs/go-citation-policy/
+publisher:
+  name: Gene Ontology Consortium
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, other]
+  access: public
+  update_frequency: irregular

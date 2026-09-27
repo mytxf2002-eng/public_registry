@@ -1,0 +1,16 @@
+id: zen-quotes
+kind: [api]
+name: Zen Quotes
+url: https://zenquotes.io/
+description: Large collection of Zen quotes for inspiration
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

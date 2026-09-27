@@ -1,0 +1,15 @@
+id: simkl
+kind: [api]
+name: Simkl
+url: https://simkl.docs.apiary.io
+description: Movie, TV and Anime data
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

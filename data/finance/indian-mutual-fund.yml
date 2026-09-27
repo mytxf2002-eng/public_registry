@@ -1,0 +1,15 @@
+id: indian-mutual-fund
+kind: [api]
+name: Indian Mutual Fund
+url: https://www.mfapi.in/
+description: Get complete history of India Mutual Funds Data
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

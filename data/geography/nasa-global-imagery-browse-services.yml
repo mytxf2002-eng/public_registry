@@ -1,0 +1,21 @@
+id: nasa-global-imagery-browse-services
+kind: [api]
+name: NASA Global Imagery Browse Services (GIBS)
+url: https://nasa-gibs.github.io/gibs-api-docs/
+description: Web map tile services delivering global, full-resolution visualizations of NASA Earth-science satellite observations, many layers updated daily in near real time
+domain: geography
+tags: [satellite-imagery, earth-observation, wmts, map-tiles, near-real-time]
+license: LicenseRef-US-Government-Work
+license_url: https://nasa-gibs.github.io/gibs-api-docs/
+publisher:
+  name: NASA Earth Science Data and Information System (ESDIS)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://nasa-gibs.github.io/gibs-api-docs/

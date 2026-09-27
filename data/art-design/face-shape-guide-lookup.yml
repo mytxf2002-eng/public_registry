@@ -1,0 +1,15 @@
+id: face-shape-guide-lookup
+kind: [api]
+name: Face Shape Guide Lookup
+url: https://myfaceshapechart.com/openapi.json
+description: Read-only lookup for published face-shape guide records
+domain: art-design
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: ziptastic
+description: 输入美国邮编，返回对应的国家、州和城市，适合在表单里根据邮编自动填写城市和州，免 key。
+group: 各国邮编与地址查询

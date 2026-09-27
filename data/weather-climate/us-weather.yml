@@ -1,0 +1,15 @@
+id: us-weather
+kind: [api]
+name: US Weather
+url: https://www.weather.gov/documentation/services-web-api
+description: US National Weather Service
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

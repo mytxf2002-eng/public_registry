@@ -1,0 +1,26 @@
+id: ukrstat-energy-statistics
+kind: [api, dataset]
+name: Ukrstat Energy Statistics
+url: https://stat.gov.ua/en/topics/energy
+description: Official Ukrainian statistics on energy balances, fuel use and stocks, power plant capacity and gas and electricity prices, via a data explorer and SDMX API
+domain: energy
+tags: [energy-balance, fuel-consumption, electricity, gas-prices, official-statistics]
+license: CC-BY-4.0
+license_url: https://stat.gov.ua/en/topics/energy
+publisher:
+  name: State Statistics Service of Ukraine
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://stat.gov.ua/en/development-api
+dataset:
+  formats: [sdmx, xls]
+  access: public
+  spatial: [UA]
+  update_frequency: monthly

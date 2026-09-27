@@ -1,0 +1,16 @@
+id: coingecko
+kind: [api]
+name: CoinGecko
+url: http://www.coingecko.com/api
+description: Cryptocurrency Price, Market, and Developer/Social Data
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2019-01-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

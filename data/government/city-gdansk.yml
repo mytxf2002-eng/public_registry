@@ -1,0 +1,15 @@
+id: city-gdansk
+kind: [api]
+name: City, Gdańsk
+url: https://ckan.multimediagdansk.pl/en
+description: Gdańsk (PL) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

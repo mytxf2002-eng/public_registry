@@ -1,0 +1,15 @@
+id: segmentlite
+kind: [api]
+name: SegmentLite
+url: https://segmentlite-api-dfru.fly.dev
+description: Lightweight event routing and webhook fan-out API alternative to Segment
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

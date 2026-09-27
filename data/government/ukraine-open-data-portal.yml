@@ -1,0 +1,25 @@
+id: ukraine-open-data-portal
+kind: [api, dataset]
+name: Ukraine Open Data Portal
+url: https://data.gov.ua/
+description: About 37,000 open datasets from Ukrainian ministries, registers, regions and city councils, mostly Excel and CSV files, with a CKAN catalogue API
+domain: government
+tags: [open-government, registers, municipal, public-finance]
+license: CC-BY-4.0
+license_url: https://data.gov.ua/
+publisher:
+  name: Ministry of Digital Transformation of Ukraine
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [xlsx, csv, xls, json, xml]
+  access: public
+  spatial: [UA]
+  size: 36,938 datasets

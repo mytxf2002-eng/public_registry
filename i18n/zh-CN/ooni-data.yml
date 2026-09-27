@@ -1,0 +1,2 @@
+id: ooni-data
+description: 开放网络干扰观测站（OONI）志愿者在全球运行 OONI Probe 得到的网络测量数据，检测网站、即时通讯应用和翻墙工具是否被封锁，最早可追溯到 2012 年并持续更新。可通过 OONI Explorer 浏览、免密钥 API 查询或批量下载，数据采用 CC BY-NC-SA 4.0 非商业许可。

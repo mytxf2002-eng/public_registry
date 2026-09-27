@@ -1,0 +1,21 @@
+id: joint-external-debt-hub
+kind: [dataset]
+name: Joint External Debt Hub
+url: https://www.jedh.org/
+description: Quarterly external debt and selected foreign asset statistics for developed, developing and transition economies, combining creditor and market data from BIS, IMF, OECD and World Bank
+domain: economics
+tags: [external-debt, debt-statistics, cross-border-lending, official-statistics]
+license: unknown
+publisher:
+  name: BIS, IMF, OECD and World Bank
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, csv]
+  access: public
+  url: https://databank.worldbank.org/source/joint-external-debt-hub
+  spatial: [global]
+  update_frequency: quarterly

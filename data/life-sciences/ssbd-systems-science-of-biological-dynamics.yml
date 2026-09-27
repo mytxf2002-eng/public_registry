@@ -1,0 +1,26 @@
+id: ssbd-systems-science-of-biological-dynamics
+kind: [api, dataset]
+name: 'SSBD: Systems Science of Biological Dynamics'
+url: https://ssbd.riken.jp/database/
+description: Curated microscopy images and quantitative dynamics data on molecules, cells, tissues and whole organisms from about 277 published projects, with OMERO previews
+domain: life-sciences
+tags: [bioimaging, microscopy, cell-biology, quantitative-biology, time-lapse]
+license: LicenseRef-Research-Only
+license_url: https://ssbd.riken.jp/database/copyright/
+publisher:
+  name: RIKEN Center for Biosystems Dynamics Research
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://ssbd.qbic.riken.jp/restfulapi/
+dataset:
+  formats: [image, xml, hdf5, zarr]
+  access: public
+  url: https://ssbd.riken.jp/database/resources/
+  update_frequency: irregular

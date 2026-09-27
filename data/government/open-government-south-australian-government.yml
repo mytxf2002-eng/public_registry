@@ -1,0 +1,15 @@
+id: open-government-south-australian-government
+kind: [api]
+name: Open Government, South Australian Government
+url: https://data.sa.gov.au/
+description: South Australian Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

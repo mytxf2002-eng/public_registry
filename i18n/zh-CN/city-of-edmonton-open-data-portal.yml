@@ -1,0 +1,2 @@
+id: city-of-edmonton-open-data-portal
+description: 加拿大埃德蒙顿市政府开放数据门户（Socrata 平台），约 1,400 个数据集，涵盖建筑许可、房产评估、营业执照、311 请求、公交、交通、市人口普查和居民调查等，许多每日更新，可导出 CSV、JSON 等格式并通过 SODA API 免密钥调用，采用埃德蒙顿开放政府许可。

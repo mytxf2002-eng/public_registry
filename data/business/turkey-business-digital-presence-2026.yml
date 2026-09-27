@@ -1,0 +1,24 @@
+id: turkey-business-digital-presence-2026
+kind: [dataset]
+name: Turkey Business Digital Presence 2026
+url: https://github.com/Pinlyx/turkey-business-digital-data
+description: Shares of about 1.79 million Turkish businesses with a working website, phone, email and social media profiles, by province and sector, measured in 2026
+domain: business
+tags: [digital-presence, small-business, websites, social-media]
+license: CC-BY-4.0
+license_url: https://github.com/Pinlyx/turkey-business-digital-data/blob/main/LICENSE
+publisher:
+  name: Pinlyx
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json, sql]
+  access: public
+  temporal:
+    start: '2026'
+    end: '2026'
+  spatial: [TR]
+  size: 81 provinces, 40 sectors

@@ -1,0 +1,3 @@
+id: onedrive
+description: 微软 OneDrive 和 SharePoint 的文件接口：通过 Microsoft Graph 读写文件、管理共享和权限，另有可嵌入网页的文件选择器，需要微软账号 OAuth 授权。
+group: 网盘与团队文件协作

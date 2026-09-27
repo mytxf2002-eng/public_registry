@@ -1,0 +1,15 @@
+id: fitbit
+kind: [api]
+name: Fitbit
+url: https://dev.fitbit.com/
+description: Fitbit Information
+domain: sports
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

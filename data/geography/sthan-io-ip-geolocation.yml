@@ -1,0 +1,16 @@
+id: sthan-io-ip-geolocation
+kind: [api]
+name: sthan.io IP Geolocation
+url: https://sthan.io/products/ip-geolocation
+description: Look up the geographic location of any IPv4 or IPv6 address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

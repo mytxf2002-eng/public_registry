@@ -1,0 +1,3 @@
+id: wiktionary
+description: 英文维基词典的 MediaWiki 接口：搜索词条、读取页面的 wikitext 或 HTML，释义要自己从页面中解析。调用时要按维基媒体的规定带上能识别身份的 User-Agent。
+group: 英语词典

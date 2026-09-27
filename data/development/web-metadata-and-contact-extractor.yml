@@ -1,0 +1,15 @@
+id: web-metadata-and-contact-extractor
+kind: [api]
+name: Web Metadata & Contact Extractor
+url: https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor
+description: Extract SEO metadata, contact emails, social links, and tech stack (<200ms)
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

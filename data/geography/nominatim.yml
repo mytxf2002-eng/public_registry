@@ -1,0 +1,16 @@
+id: nominatim
+kind: [api]
+name: Nominatim
+url: https://nominatim.org/release-docs/latest/api/Overview/
+description: Provides worldwide forward / reverse geocoding
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

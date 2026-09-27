@@ -1,0 +1,15 @@
+id: songsterr
+kind: [api]
+name: Songsterr
+url: https://www.songsterr.com/a/wa/api/
+description: Provides guitar, bass and drums tabs and chords
+domain: music
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: google-analytics
+description: 谷歌网站和应用分析服务的开发者接口：上报数据、管理账号配置、拉取报表。现行版本是 GA4，旧版 Universal Analytics 已于 2023 年停止处理数据。
+group: 网站分析与 BI 报表

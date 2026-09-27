@@ -1,0 +1,3 @@
+id: razorpay-ifsc
+description: 印度的银行分行代码查询：返回银行、分行、地址和支持的转账方式（NEFT、RTGS、IMPS、UPI）。实际接口在 ifsc.razorpay.com。
+group: 银行代码与卡号查询

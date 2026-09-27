@@ -1,0 +1,2 @@
+id: bcnb-early-breast-cancer-core-needle-biopsy-wsi-dataset
+description: 1058 名早期乳腺癌患者的空芯针穿刺活检全切片图像（JPG，部分肿瘤区域有标注）及临床数据（年龄、肿瘤大小、ER/PR/HER2、Ki67、分子分型、腋窝淋巴结转移等，xlsx），并划分训练、验证和测试集；需填写个人信息申请下载，仅限非商业研究和教学。

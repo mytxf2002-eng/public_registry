@@ -1,0 +1,15 @@
+id: pokeapi
+kind: [api]
+name: Pokéapi
+url: https://pokeapi.co
+description: Pokémon Information
+domain: games
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

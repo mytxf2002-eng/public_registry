@@ -1,0 +1,15 @@
+id: lucifer-quotes
+kind: [api]
+name: Lucifer Quotes
+url: https://github.com/shadowoff09/lucifer-quotes
+description: Returns Lucifer quotes
+domain: video
+license: unknown
+provenance:
+  added: 2021-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,26 @@
+id: neuromorpho-org
+kind: [api, dataset]
+name: NeuroMorpho.Org
+url: https://neuromorpho.org/
+description: About 299,000 digital 3D reconstructions of neurons and glia from many species, brain regions and labs, with metadata and morphometrics, downloadable and queryable by API
+domain: life-sciences
+tags: [neuroscience, neuron-morphology, neuroanatomy, reconstructions]
+license: CC-BY-4.0
+license_url: https://neuromorpho.org/useterm.jsp
+publisher:
+  name: George Mason University (Ascoli lab)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://neuromorpho.org/api.jsp
+dataset:
+  formats: [other, json]
+  access: public
+  update_frequency: irregular
+  size: 299,411 cells

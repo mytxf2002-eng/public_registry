@@ -1,0 +1,3 @@
+id: gitlab
+description: GitLab 官方 REST API：项目、仓库、合并请求、Issue、CI/CD 流水线、用户和群组都能用程序操作，gitlab.com 和自建实例通用，另有 GraphQL API。
+group: 代码托管与开发者社区

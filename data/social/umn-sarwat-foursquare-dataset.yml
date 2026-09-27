@@ -1,0 +1,21 @@
+id: umn-sarwat-foursquare-dataset
+kind: [dataset]
+name: UMN/Sarwat Foursquare Dataset
+url: https://archive.org/details/201309_foursquare_dataset_umn
+description: Anonymised Foursquare data with 2.15 million users, 1.14 million venues, 1.02 million check-ins, 27 million friendship links and 2.8 million venue ratings
+domain: social
+tags: [foursquare, check-ins, location-based, recommender-systems, social-graph]
+license: unknown
+publisher:
+  name: Mohamed Sarwat et al. (University of Minnesota)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  spatial: [global]
+  update_frequency: static
+  size: 161 MB

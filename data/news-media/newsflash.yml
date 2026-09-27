@@ -1,0 +1,15 @@
+id: newsflash
+kind: [api]
+name: Newsflash
+url: https://newsflash.sh/docs
+description: Deduplicated news events from 260+ sources with corroboration/confidence scores for AI agents
+domain: news-media
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

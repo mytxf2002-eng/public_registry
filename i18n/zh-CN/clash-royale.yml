@@ -1,0 +1,3 @@
+id: clash-royale
+description: Supercell 官方的《皇室战争》接口：玩家、部落、对战记录、卡牌、锦标赛和排行榜数据。和《部落冲突》一样，key 要绑定调用方的 IP。
+group: 游戏厂商官方接口

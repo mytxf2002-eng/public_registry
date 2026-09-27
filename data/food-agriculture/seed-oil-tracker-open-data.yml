@@ -1,0 +1,22 @@
+id: seed-oil-tracker-open-data
+kind: [dataset]
+name: Seed Oil Tracker Open Data
+url: https://seedoiltracker.com/open-data
+description: 632 US restaurant chains with the app's letter grade, estimated average polyunsaturated fat (PUFA) grams per menu item, frying oil used and seed-oil-free verification flag
+domain: food-agriculture
+tags: [restaurants, cooking-oils, fast-food, nutrition]
+license: CC-BY-4.0
+license_url: https://seedoiltracker.com/open-data
+publisher:
+  name: Seed Oil Tracker
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: irregular
+  size: 632 chains

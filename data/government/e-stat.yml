@@ -1,0 +1,27 @@
+id: e-stat
+kind: [api, dataset]
+name: e-Stat (Portal Site of Official Statistics of Japan)
+url: https://www.e-stat.go.jp/en/
+description: Official statistics from Japanese ministries and agencies, such as the census, labour force, prices and household surveys, as searchable tables, downloadable files, maps and an API
+domain: government
+tags: [official-statistics, census, labour, prices, regional-statistics]
+license: LicenseRef-Open-Government
+license_url: https://www.e-stat.go.jp/en/terms-of-use
+publisher:
+  name: National Statistics Center (Japan)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+  docs: https://www.e-stat.go.jp/api/en
+dataset:
+  formats: [csv, xlsx, json, xml]
+  access: public
+  url: https://www.e-stat.go.jp/en/stat-search
+  spatial: [JP]
+  update_frequency: irregular

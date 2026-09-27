@@ -1,0 +1,15 @@
+id: cloudbet
+kind: [api]
+name: Cloudbet
+url: https://www.cloudbet.com/api/
+description: Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically
+domain: sports
+license: unknown
+provenance:
+  added: 2021-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

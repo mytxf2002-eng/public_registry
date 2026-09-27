@@ -1,0 +1,3 @@
+id: musixmatch
+description: 歌词平台 Musixmatch 的接口：曲目搜索、歌词、排行榜等。免费档每首歌只返回约 30% 的歌词，完整歌词和同步歌词需要付费。
+group: 歌词与曲谱

@@ -1,0 +1,15 @@
+id: devitjobs-uk
+kind: [api]
+name: DevITjobs UK
+url: https://devitjobs.uk/job_feed.xml
+description: Jobs with GraphQL
+domain: jobs
+license: unknown
+provenance:
+  added: 2021-05-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: districtapi
+kind: [api]
+name: DistrictAPI
+url: https://districtapi.dev/docs
+description: US school districts and schools by address, with enrollment and boundaries
+domain: education
+license: unknown
+provenance:
+  added: 2026-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

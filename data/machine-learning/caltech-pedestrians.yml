@@ -1,0 +1,21 @@
+id: caltech-pedestrians
+kind: [dataset]
+name: Caltech Pedestrians
+url: https://data.caltech.edu/records/f6rph-90m20
+description: Annotated video recorded from a moving vehicle, with bounding boxes for pedestrians that are often small, low-resolution or occluded, plus evaluation code and baseline results
+domain: machine-learning
+tags: [pedestrian-detection, computer-vision, autonomous-driving, video]
+license: CC-BY-4.0
+license_url: https://data.caltech.edu/records/f6rph-90m20
+publisher:
+  name: California Institute of Technology
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [video, other]
+  access: public
+  update_frequency: static
+  size: 11.9 GB

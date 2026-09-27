@@ -1,0 +1,15 @@
+id: aether-bridge
+kind: [api]
+name: Aether Bridge
+url: https://a-to-mind.com
+description: Autonomous agent team management and API workflow orchestration
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

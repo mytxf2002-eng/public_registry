@@ -1,0 +1,15 @@
+id: navitia
+kind: [api]
+name: Navitia
+url: https://doc.navitia.io/
+description: The open API for building cool stuff with transport data
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

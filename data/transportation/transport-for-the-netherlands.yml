@@ -1,0 +1,15 @@
+id: transport-for-the-netherlands
+kind: [api]
+name: Transport for The Netherlands (ns.nl)
+url: http://www.ns.nl/reisinformatie/ns-api
+description: NS, only trains
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

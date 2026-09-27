@@ -1,0 +1,16 @@
+id: geocode-xyz
+kind: [api]
+name: Geocode.xyz
+url: https://geocode.xyz/api
+description: Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-03-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

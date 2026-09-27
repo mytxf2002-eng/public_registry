@@ -1,0 +1,16 @@
+id: best-temp-mail
+kind: [api]
+name: Best Temp Mail
+url: https://best-tempmail.com/api
+description: Disposable inboxes for automated email testing, with OTP extraction
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

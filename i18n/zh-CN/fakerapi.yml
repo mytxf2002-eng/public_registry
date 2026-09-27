@@ -1,0 +1,3 @@
+id: fakerapi
+description: 一组返回假数据的接口：地址、图书、公司、人物、商品、文本等，可以指定数量和语言区域（locale）。
+group: 通用假数据生成

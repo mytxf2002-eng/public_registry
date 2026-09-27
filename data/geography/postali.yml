@@ -1,0 +1,16 @@
+id: postali
+kind: [api]
+name: Postali
+url: https://postali.app/api
+description: Mexico Zip Codes API
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

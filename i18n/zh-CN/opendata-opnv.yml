@@ -1,0 +1,2 @@
+id: opendata-opnv
+description: 德国公共交通开放数据门户，汇集 DELFI 全国时刻表（GTFS 与 NeTEx 格式，通常每周一更新）、各交通联合会的区域时刻表、全国站点目录和线路数据等。部分数据可直接下载，DELFI 全国数据等需免费注册账户；各数据集许可不同（如 CC BY、CC0、ODbL）。

@@ -1,0 +1,2 @@
+id: rufa-arabic-font-dataset
+description: 用于阿拉伯文字体分类的图像数据集 RuFa，共 40516 张图像，涵盖 Ruqaa 和 Nastaliq（波斯体）两种字体，其中 4 万张为合成图像、516 张为真实图像，另附清洗后的 CNN 阿拉伯语词表。可在作者 GitHub 发布页直接下载约 121 MB 的压缩包；仓库采用 MIT 许可。

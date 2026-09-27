@@ -1,0 +1,2 @@
+id: merklemap-dns-records-database
+description: Merklemap 发布的 DNS 记录数据库：对 7 亿多个主机名的解析结果，约 40 亿条 A、AAAA、MX、NS、TXT 等记录，打包为单个 JSON Lines 文件（压缩 41 GiB，解压约 418 GiB）。非商业用途按 CC BY-NC-SA 4.0 免费使用，商业用途需另行申请。

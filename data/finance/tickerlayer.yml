@@ -1,0 +1,15 @@
+id: tickerlayer
+kind: [api]
+name: TickerLayer
+url: https://tickerlayer.com
+description: Real-time and historical market data for stocks, forex, crypto and more
+domain: finance
+license: unknown
+provenance:
+  added: 2026-08-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

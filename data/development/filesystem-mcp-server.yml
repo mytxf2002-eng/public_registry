@@ -1,0 +1,15 @@
+id: filesystem-mcp-server
+kind: [mcp-server]
+name: Filesystem MCP Server
+url: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+description: Read/write local files
+domain: development
+tags: [mcp]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+mcp:
+  auth: none
+  transport: [stdio]

@@ -1,0 +1,16 @@
+id: block-lottos
+kind: [api]
+name: Block Lottos
+url: https://blocklottos.com/openapi.json
+description: On-chain lottery, draw history, jackpot and advertising endpoints
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-06-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,16 @@
+id: administrative-divisons-db
+kind: [api]
+name: administrative-divisons-db
+url: https://github.com/kamikazechaser/administrative-divisions-db
+description: Get all administrative divisions of a country
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

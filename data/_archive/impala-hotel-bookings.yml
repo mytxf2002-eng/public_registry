@@ -1,0 +1,18 @@
+id: impala-hotel-bookings
+kind: [api]
+name: Impala Hotel Bookings
+url: https://docs.impala.travel/docs/booking-api/
+description: Hotel content, rates and room bookings
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: Impala's API docs domain is gone and no official page for the API can be reached.

@@ -1,0 +1,15 @@
+id: arbeitnow
+kind: [api]
+name: Arbeitnow
+url: https://documenter.getpostman.com/view/18545278/UVJbJdKh
+description: API for Job board aggregator in Europe / Remote
+domain: jobs
+license: unknown
+provenance:
+  added: 2021-11-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

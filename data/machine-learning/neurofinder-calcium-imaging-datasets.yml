@@ -1,0 +1,19 @@
+id: neurofinder-calcium-imaging-datasets
+kind: [dataset]
+name: Neurofinder Calcium Imaging Datasets
+url: https://github.com/codeneuro/neurofinder
+description: Calcium imaging recordings from several neuroscience labs as time series of TIFF images, with ground-truth neuron outlines for the training sets, released as a neuron-detection benchmark
+domain: machine-learning
+tags: [calcium-imaging, neuroscience, cell-segmentation, benchmark, microscopy]
+license: unknown
+publisher:
+  name: CodeNeuro
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, json]
+  access: public
+  update_frequency: static

@@ -1,0 +1,15 @@
+id: urlhaus-abuse
+kind: [api]
+name: URLhaus (urlhaus.abuse.ch)
+url: https://urlhaus.abuse.ch/api/
+description: Database of malicious URLs used for malware distribution
+domain: security
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

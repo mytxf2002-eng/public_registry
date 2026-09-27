@@ -1,0 +1,25 @@
+id: b-c-data-catalogue
+kind: [api, dataset]
+name: B.C. Data Catalogue
+url: https://catalogue.data.gov.bc.ca/
+description: About 3,400 records from British Columbia ministries and agencies, including BC Geographic Warehouse layers, BC Stats tables, forestry, environment and finance data
+domain: government
+tags: [open-government, provincial-data, ckan, geospatial, forestry]
+license: LicenseRef-Open-Government
+license_url: https://www2.gov.bc.ca/gov/content/data/policy-standards/data-policies/open-data/open-government-licence-bc
+publisher:
+  name: Government of British Columbia
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.ckan.org/en/latest/api/
+dataset:
+  formats: [csv, xlsx, xls, kml]
+  access: public
+  spatial: [CA-BC]

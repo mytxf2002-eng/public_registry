@@ -1,0 +1,15 @@
+id: spoonacular
+kind: [api]
+name: Spoonacular
+url: https://spoonacular.com/food-api
+description: Recipes, Food Products, and Meal Planning
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-04-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: when-is-next-mcu-film
+kind: [api]
+name: When is next MCU film
+url: https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md
+description: Upcoming MCU film information
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

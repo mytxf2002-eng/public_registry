@@ -1,0 +1,3 @@
+id: cloudflare-trace
+description: GitHub 上的开源小项目（非 Cloudflare 官方）：借助 Cloudflare 的 trace 端点，返回访问者的 IP、时间戳、User-Agent、国家代码、所连数据中心的 IATA 机场代码、HTTP 和 TLS 版本等。
+group: IP 地址与访客信息

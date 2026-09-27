@@ -1,0 +1,3 @@
+id: kucoin
+description: 交易所 KuCoin（库币）的 API：现货、杠杆和合约的行情与交易，支持 REST 和 WebSocket。
+group: 大型交易所交易接口

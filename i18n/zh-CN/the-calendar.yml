@@ -1,0 +1,3 @@
+id: the-calendar
+description: 以静态 JSON 提供美国各州和 30 个国家的公共假日，另有体育赛事和金融日历（如美联储 FOMC 议息会议日期），免 key、不限流、支持 CORS。
+group: 全球公共假日

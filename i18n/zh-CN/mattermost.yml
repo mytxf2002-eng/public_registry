@@ -1,0 +1,3 @@
+id: mattermost
+description: 开源、可私有部署的团队聊天平台 Mattermost（常被当作 Slack 的替代品）的 REST API，频道、消息、用户、团队等都能用程序管理。
+group: 项目管理与团队协作

@@ -1,0 +1,18 @@
+id: tenders-in-poland
+kind: [api]
+name: Tenders in Poland
+url: https://tenders.guru/pl/api
+description: Get data for procurements in Poland in JSON format
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The tenders.guru server refuses all web connections and no new home for the API was found.

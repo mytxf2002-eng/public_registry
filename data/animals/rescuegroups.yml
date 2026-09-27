@@ -1,0 +1,15 @@
+id: rescuegroups
+kind: [api]
+name: RescueGroups
+url: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+description: Adoptable pets from US animal rescues and shelters, searchable by species and location
+domain: animals
+license: unknown
+provenance:
+  added: 2016-03-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,20 @@
+id: modeling-online-auctions-datasets
+kind: [dataset]
+name: Modeling Online Auctions Datasets
+url: https://www.modelingonlineauctions.com/datasets
+description: Bid histories from eBay auctions of Cartier watches, Palm Pilot PDAs, Swarovski beads and Xbox consoles, with bid amounts, bid times and bidder ratings
+domain: shopping
+tags: [online-auctions, ebay, bidding, price-dynamics]
+license: unknown
+publisher:
+  name: Wolfgang Jank and Galit Shmueli
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://drive.google.com/drive/folders/1tr3Q1A2UDGUZsEMs06fsKAhWmCmE-_0N
+  update_frequency: static

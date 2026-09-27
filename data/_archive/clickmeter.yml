@@ -1,0 +1,18 @@
+id: clickmeter
+kind: [api]
+name: ClickMeter
+url: https://support.clickmeter.com/hc/en-us/categories/201474986
+description: Monitor, compare and optimize your marketing links
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: 'ClickMeter was discontinued: clickmeter.com redirects to Rebrandly (already listed separately), and the support site fails TLS.'

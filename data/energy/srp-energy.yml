@@ -1,0 +1,15 @@
+id: srp-energy
+kind: [api]
+name: Srp Energy
+url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
+description: Hourly usage energy report for Srp customers
+domain: energy
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

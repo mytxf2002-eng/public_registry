@@ -1,0 +1,15 @@
+id: openfigi
+kind: [api]
+name: OpenFIGI
+url: https://www.openfigi.com/api
+description: Equity, index, futures, options symbology from Bloomberg LP
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

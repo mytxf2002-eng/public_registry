@@ -1,0 +1,15 @@
+id: binlist
+kind: [api]
+name: Binlist
+url: https://binlist.net/
+description: Public access to a database of IIN/BIN information
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

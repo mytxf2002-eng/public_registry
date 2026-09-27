@@ -1,0 +1,15 @@
+id: tyk
+kind: [api]
+name: Tyk
+url: https://tyk.io/open-source-api-gateway/
+description: Api and service management platform
+domain: development
+license: unknown
+provenance:
+  added: 2021-07-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

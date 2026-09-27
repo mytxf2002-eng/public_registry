@@ -1,0 +1,21 @@
+id: b3fd-biometrically-filtered-famous-figure-dataset
+kind: [dataset]
+name: 'B3FD: Biometrically Filtered Famous Figure Dataset'
+url: https://github.com/kbesenic/B3FD
+description: 375,592 aligned celebrity face images with age labels (0-100) for 53,759 people, filtered from IMDB-WIKI and CACD by unsupervised biometric cleaning
+domain: machine-learning
+tags: [age-estimation, face-images, data-cleaning, celebrities]
+license: LicenseRef-Research-Only
+license_url: https://github.com/kbesenic/B3FD
+publisher:
+  name: Krešimir Bešenić, Jörgen Ahlberg and Igor S. Pandžić
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv]
+  access: public
+  update_frequency: static
+  size: 5.73 GB

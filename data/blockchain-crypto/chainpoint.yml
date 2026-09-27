@@ -1,0 +1,16 @@
+id: chainpoint
+kind: [api]
+name: Chainpoint
+url: https://tierion.com/chainpoint/
+description: Chainpoint is a global network for anchoring data to the Bitcoin blockchain
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

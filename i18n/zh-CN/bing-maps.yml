@@ -1,0 +1,3 @@
+id: bing-maps
+description: 基于必应地图数据的地图、地理编码和路线接口。微软已宣布停用 Bing Maps for Enterprise，引导用户迁移到 Azure Maps，链接现在也跳转到 Azure Maps 的产品页。
+group: 地图平台与路线规划

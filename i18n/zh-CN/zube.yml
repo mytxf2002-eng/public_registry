@@ -1,0 +1,3 @@
+id: zube
+description: 项目管理工具 Zube 的 API，可以用程序操作看板、卡片、冲刺（sprint）等项目数据。
+group: 项目管理与团队协作

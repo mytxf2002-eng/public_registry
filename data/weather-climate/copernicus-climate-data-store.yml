@@ -1,0 +1,30 @@
+id: copernicus-climate-data-store
+kind: [api, dataset]
+name: Copernicus Climate Data Store
+url: https://cds.climate.copernicus.eu/
+description: About 144 climate datasets, among them ERA5 hourly reanalysis from 1940, satellite and in-situ observations, seasonal forecasts and climate projections
+domain: weather-climate
+tags: [reanalysis, era5, climate-projections, satellite-observations, seasonal-forecasts]
+license: CC-BY-4.0
+license_url: https://cds.climate.copernicus.eu/datasets
+publisher:
+  name: Copernicus Climate Change Service (ECMWF)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+  docs: https://cds.climate.copernicus.eu/how-to-api
+dataset:
+  formats: [grib, netcdf, csv]
+  access: registration
+  url: https://cds.climate.copernicus.eu/datasets
+  temporal:
+    start: '1940'
+    end: null
+  spatial: [global]
+  update_frequency: daily

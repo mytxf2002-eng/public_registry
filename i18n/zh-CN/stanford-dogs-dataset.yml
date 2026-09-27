@@ -1,0 +1,2 @@
+id: stanford-dogs-dataset
+description: 斯坦福大学基于 ImageNet 构建的细粒度图像分类数据集，含 120 个犬种共 20580 张图像，提供类别标签、边界框、训练/测试划分和预提取特征（MAT 文件）。可直接下载（图像约 757 MB）；网站未注明许可证，图像来自 ImageNet。

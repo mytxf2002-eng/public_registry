@@ -1,0 +1,15 @@
+id: mojang
+kind: [api]
+name: Mojang
+url: https://minecraft.wiki/w/Mojang_API
+description: Mojang / Minecraft API
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

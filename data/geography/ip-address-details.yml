@@ -1,0 +1,16 @@
+id: ip-address-details
+kind: [api]
+name: IP Address Details
+url: https://ipinfo.io/
+description: Find geolocation with ip address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

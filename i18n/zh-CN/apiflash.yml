@@ -1,0 +1,3 @@
+id: apiflash
+description: 基于 Chrome 和 AWS Lambda 的网页截图 API，支持整页截图、自定义视口和延迟截图等，有免费档。
+group: 网页截图与渲染

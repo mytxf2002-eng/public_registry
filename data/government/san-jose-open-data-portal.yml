@@ -1,0 +1,26 @@
+id: san-jose-open-data-portal
+kind: [api, dataset]
+name: San José Open Data Portal
+url: https://data.sanjoseca.gov/
+description: About 170 datasets from the City of San José, California, mostly GIS layers from the city's enterprise GIS plus planning, police and fire data, as CSV, GeoJSON, KML and shapefiles
+domain: government
+tags: [municipal, gis, city-planning, public-safety]
+license: CC-BY-4.0
+license_url: https://data.sanjoseca.gov/dataset/?license_id=cc-by
+publisher:
+  name: City of San José
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.ckan.org/en/2.9/api/
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [US-CA]
+  size: 171 datasets

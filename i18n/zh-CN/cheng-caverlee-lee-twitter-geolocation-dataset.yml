@@ -1,0 +1,2 @@
+id: cheng-caverlee-lee-twitter-geolocation-dataset
+description: 论文《You Are Where You Tweet》所用推特数据：训练集为 115,886 名自报美国城市位置的用户及 384 万条推文，测试集为 5,136 名带手机 GPS 坐标的用户及 516 万条推文，采集于 2009 年 9 月至 2010 年 1 月。由 Archive Team 镜像至互联网档案馆，约 424 MB ZIP 可直接下载；未声明许可。

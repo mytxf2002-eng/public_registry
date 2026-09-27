@@ -1,0 +1,3 @@
+id: hex
+description: Elixir 和 Erlang 的包管理器 Hex 的协议规范（GitHub 仓库），照着规范可以从 hex.pm 获取包的版本、依赖等元数据。
+group: 软件包仓库与 CDN

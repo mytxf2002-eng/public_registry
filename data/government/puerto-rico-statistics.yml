@@ -1,0 +1,19 @@
+id: puerto-rico-statistics
+kind: [dataset]
+name: Puerto Rico Statistics
+url: https://www.estadisticas.pr.gov/en-us
+description: Official statistics for Puerto Rico from government agencies, such as consumer prices, retail sales, employment and violent deaths, as downloadable tables and reports
+domain: government
+tags: [official-statistics, economic-indicators, employment, population]
+license: unknown
+publisher:
+  name: Puerto Rico Institute of Statistics
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [pdf, archive]
+  access: public
+  spatial: [PR]

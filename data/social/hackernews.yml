@@ -1,0 +1,15 @@
+id: hackernews
+kind: [api]
+name: HackerNews
+url: https://github.com/HackerNews/API
+description: Social news for CS and entrepreneurship
+domain: social
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

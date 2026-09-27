@@ -1,0 +1,15 @@
+id: open-science-framework
+kind: [api]
+name: Open Science Framework
+url: https://developer.osf.io
+description: Repository and archive for study designs, research materials, data, manuscripts, etc
+domain: science-math
+license: unknown
+provenance:
+  added: 2018-01-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

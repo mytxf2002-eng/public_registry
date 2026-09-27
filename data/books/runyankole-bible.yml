@@ -1,0 +1,15 @@
+id: runyankole-bible
+kind: [api]
+name: Runyankole Bible
+url: https://runyankole-bible-api.vercel.app
+description: Free REST API for the Runyankore-Rukiga Bible — 66 books, 31106 verses
+domain: books
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

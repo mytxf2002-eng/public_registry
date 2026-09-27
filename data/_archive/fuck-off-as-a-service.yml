@@ -1,0 +1,18 @@
+id: fuck-off-as-a-service
+kind: [api]
+name: Fuck Off as a Service
+url: https://www.foaas.com
+description: Asks someone to fuck off
+domain: social
+license: unknown
+provenance:
+  added: 2016-04-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The FOAAS API endpoints (/version, /off/...) return 404 and foaas.com now shows unrelated content

@@ -1,0 +1,22 @@
+id: swiss-dwellings
+kind: [dataset]
+name: Swiss Dwellings
+url: https://zenodo.org/records/7788422
+description: Geo-referenced floor-plan geometry of over 45,000 apartments in about 3,100 Swiss buildings with room-level simulations of views, daylight, traffic noise and layout, plus location data
+domain: geography
+tags: [floor-plans, buildings, real-estate, architecture, simulation]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/7788422
+publisher:
+  name: Archilyse AG
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [CH]
+  update_frequency: static
+  size: 932 MB zip

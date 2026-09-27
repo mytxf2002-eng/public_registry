@@ -1,0 +1,26 @@
+id: jftc-actions
+kind: [dataset]
+name: jftc-actions
+url: https://github.com/eoylab/jftc-actions
+description: 361 Japan Fair Trade Commission antimonopoly orders and subcontracting-law recommendations from 2010 to 2026, with company, legal provisions, dates and source links
+domain: government
+tags: [competition-law, antitrust, enforcement-actions, subcontracting]
+license: LicenseRef-Open-Government
+license_url: https://github.com/eoylab/jftc-actions/blob/main/DATA-LICENSE.md
+publisher:
+  name: eoylab
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, jsonl, csv]
+  access: public
+  url: https://eoylab.github.io/jftc-actions/
+  temporal:
+    start: 2010-04
+    end: null
+  spatial: [JP]
+  update_frequency: monthly
+  size: 361 records

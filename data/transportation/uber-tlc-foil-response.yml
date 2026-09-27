@@ -1,0 +1,23 @@
+id: uber-tlc-foil-response
+kind: [dataset]
+name: Uber TLC FOIL Response (FiveThirtyEight)
+url: https://github.com/fivethirtyeight/uber-tlc-foil-response
+description: About 4.5 million Uber pickups in New York City from April to September 2014 and 14.3 million from January to June 2015, plus trip data for other for-hire vehicle companies
+domain: transportation
+tags: [uber, ride-hailing, for-hire-vehicles, pickups, foil]
+license: unknown
+publisher:
+  name: FiveThirtyEight
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  temporal:
+    start: 2014-04
+    end: 2015-06
+  spatial: [US-NY]
+  update_frequency: static

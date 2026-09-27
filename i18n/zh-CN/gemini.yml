@@ -1,0 +1,3 @@
+id: gemini
+description: 美国交易所 Gemini（文克莱沃斯兄弟创办）的 API：现货、杠杆、永续合约和预测市场，有公开行情接口和沙盒环境。和谷歌的 Gemini 大模型无关。
+group: 大型交易所交易接口

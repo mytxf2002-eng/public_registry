@@ -1,0 +1,3 @@
+id: hearthstone
+description: 第三方的《炉石传说》卡牌数据接口，托管在 RapidAPI（原 Mashape）上：卡牌、卡背，可以按职业、种族、系列等查询。暴雪官方数据见 Battle.net 条目。
+group: 卡牌、桌游与跑团

@@ -1,0 +1,3 @@
+id: bugcrowd
+description: 众测和漏洞赏金平台 Bugcrowd 的接口，用程序查看、跟踪和处理提交到项目里的漏洞报告。
+group: 漏洞数据与漏洞赏金

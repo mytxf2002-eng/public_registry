@@ -1,0 +1,15 @@
+id: cts
+kind: [api]
+name: CTS
+url: https://api.cts-strasbourg.eu/
+description: CTS Realtime API
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

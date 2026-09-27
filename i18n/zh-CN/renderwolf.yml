@@ -1,0 +1,3 @@
+id: renderwolf
+description: Ironfang 的渲染 API：从 URL 或 HTML 生成截图、PDF、模板图片、二维码和短视频，支持签名 URL。
+group: 网页截图与渲染

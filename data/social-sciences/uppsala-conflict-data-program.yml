@@ -1,0 +1,30 @@
+id: uppsala-conflict-data-program
+kind: [api, dataset]
+name: Uppsala Conflict Data Program (UCDP)
+url: https://ucdp.uu.se/
+description: 'Datasets on armed conflict and organized violence worldwide: yearly conflict data from 1946, georeferenced violent events from 1989, battle deaths, actors and peace agreements'
+domain: social-sciences
+tags: [armed-conflict, organized-violence, battle-deaths, event-data, georeferenced]
+license: CC-BY-4.0
+license_url: https://ucdp.uu.se/downloads/
+publisher:
+  name: Department of Peace and Conflict Research, Uppsala University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://ucdp.uu.se/apidocs/
+dataset:
+  formats: [csv, xlsx, rdata, stata]
+  access: public
+  url: https://ucdp.uu.se/downloads/
+  temporal:
+    start: '1946'
+    end: null
+  spatial: [global]
+  update_frequency: annual

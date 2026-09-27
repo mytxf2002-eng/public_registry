@@ -1,0 +1,21 @@
+id: icos-psp-benchmarks
+kind: [dataset]
+name: ICOS PSP Benchmarks
+url: https://ico2s.org/datasets/psp_benchmark.html
+description: Family of classification and regression datasets derived from protein structure prediction, varying window size, class count and balance, in WEKA ARFF with 10-fold train/test splits
+domain: machine-learning
+tags: [protein-structure-prediction, benchmark, classification, regression, arff]
+license: unknown
+publisher:
+  name: ICOS group, Newcastle University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: public
+  url: https://ico2s.org/datasets/psp/download.html
+  update_frequency: static
+  size: 4.3 GB

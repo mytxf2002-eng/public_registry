@@ -1,0 +1,22 @@
+id: bureau-of-meteorology-climate-data-services
+kind: [dataset]
+name: Bureau of Meteorology Climate Data Services
+url: https://reg.bom.gov.au/climate/data-services/
+description: 'Australian historical weather and climate records: daily and monthly station observations, climate averages, gridded rainfall and temperature data and maps'
+domain: weather-climate
+tags: [weather-stations, rainfall, temperature, gridded-data, climate-records]
+license: LicenseRef-Research-Only
+license_url: https://reg.bom.gov.au/other/copyright.shtml
+publisher:
+  name: Bureau of Meteorology
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, text]
+  access: paid-tier
+  url: https://reg.bom.gov.au/climate/data/
+  spatial: [AU]
+  update_frequency: daily

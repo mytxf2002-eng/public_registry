@@ -1,0 +1,3 @@
+id: votepredictor
+description: 美国选举预测：2026 年参议院、众议院和州长选举的胜率，国会议员的投票记录和申报净资产，以及各主要预测机构经难度调整的准确率评分。提供免 key 的 JSON API 和 MCP 服务。
+group: 议会、选举与政治人物

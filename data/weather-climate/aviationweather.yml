@@ -1,0 +1,20 @@
+id: aviationweather
+kind: [api, dataset]
+name: AviationWeather
+url: https://www.aviationweather.gov/dataserver
+description: NOAA aviation weather forecasts and observations
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xml, json]
+  access: public
+  url: https://aviationweather.gov/data/api/
+  update_frequency: realtime

@@ -1,0 +1,16 @@
+id: ipwhois
+kind: [api]
+name: ipwhois
+url: https://ipwhois.io/documentation
+description: IP geolocation with country, city, coordinates, ISP, timezone and flag data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-08-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

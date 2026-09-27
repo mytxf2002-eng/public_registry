@@ -1,0 +1,15 @@
+id: stromberg-quotes
+kind: [api]
+name: Stromberg Quotes
+url: https://www.stromberg-api.de/
+description: Returns Stromberg quotes and more
+domain: video
+license: unknown
+provenance:
+  added: 2022-01-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

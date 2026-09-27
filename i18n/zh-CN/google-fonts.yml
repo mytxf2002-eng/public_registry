@@ -1,0 +1,3 @@
+id: google-fonts
+description: Google Fonts 开发者 API，返回所有字体家族的元数据：字重和样式、字符子集、分类、版本和更新时间等，可以按热门程度、名称或日期排序。
+group: 软件包仓库与 CDN

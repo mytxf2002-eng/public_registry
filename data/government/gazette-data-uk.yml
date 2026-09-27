@@ -1,0 +1,15 @@
+id: gazette-data-uk
+kind: [api]
+name: Gazette Data, UK
+url: https://www.thegazette.co.uk/data
+description: UK official public record API
+domain: government
+license: unknown
+provenance:
+  added: 2021-08-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

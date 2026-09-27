@@ -1,0 +1,3 @@
+id: kroki
+description: 开源的图示渲染服务：把 PlantUML、Mermaid、GraphViz 等多种文本描述语言渲染成 SVG 或 PNG 图片，也可以自己部署。
+group: 图表、图示与图片生成

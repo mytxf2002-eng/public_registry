@@ -1,0 +1,2 @@
+id: korean-equity-daily-prices-plus-dart-filing-impact
+description: 韩国 2,787 只上市股票（KOSPI、KOSDAQ、KONEX）2025 年 5 月至 2026 年 9 月共 321 个交易日的每日收盘价和成交量（约 88 万行），以及约 2,800 条 DART 公告与公告后股价表现的关联表。基于韩国金融委员会和金融监督院的公开数据整理，可在 Hugging Face 直接下载 Parquet/CSV；许可仅允许注明来源的非商业使用，禁止商业再分发，属定期更新的快照。

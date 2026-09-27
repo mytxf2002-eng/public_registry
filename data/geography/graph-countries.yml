@@ -1,0 +1,16 @@
+id: graph-countries
+kind: [api]
+name: Graph Countries
+url: https://github.com/lennertVanSever/graphcountries
+description: Country-related data like currencies, languages, flags, regions+subregions and bordering countries
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

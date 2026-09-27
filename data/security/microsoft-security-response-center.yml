@@ -1,0 +1,15 @@
+id: microsoft-security-response-center
+kind: [api]
+name: Microsoft Security Response Center (MSRC)
+url: https://msrc.microsoft.com/report/developer
+description: Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

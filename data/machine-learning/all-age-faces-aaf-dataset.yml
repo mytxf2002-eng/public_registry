@@ -1,0 +1,20 @@
+id: all-age-faces-aaf-dataset
+kind: [dataset]
+name: All-Age-Faces (AAF) Dataset
+url: https://github.com/JingchunCheng/All-Age-Faces-Dataset
+description: 13,322 face images of mostly Asian people aged 2 to 80, labelled with age and gender, with facial landmarks, aligned crops and train/validation splits
+domain: machine-learning
+tags: [face-images, age-estimation, gender-classification, facial-landmarks]
+license: unknown
+publisher:
+  name: Jingchun Cheng, Yali Li, Jilong Wang, Le Yu and Shengjin Wang
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, text]
+  access: public
+  update_frequency: static
+  size: 13,322 images

@@ -1,0 +1,15 @@
+id: university-of-oslo
+kind: [api]
+name: University of Oslo
+url: https://data.uio.no/
+description: Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)
+domain: education
+license: unknown
+provenance:
+  added: 2018-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

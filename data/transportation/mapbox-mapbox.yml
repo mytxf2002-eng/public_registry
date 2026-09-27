@@ -1,0 +1,16 @@
+id: mapbox-mapbox
+kind: [api]
+name: Mapbox
+url: https://docs.mapbox.com/api/
+description: Maps, directions, geocoding
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

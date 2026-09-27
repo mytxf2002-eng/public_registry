@@ -1,0 +1,18 @@
+id: teleport
+kind: [api]
+name: Teleport
+url: https://developers.teleport.org/
+description: Quality of Life Data
+domain: open-data
+license: unknown
+provenance:
+  added: 2017-02-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Teleport's service and API were shut down in 2024.

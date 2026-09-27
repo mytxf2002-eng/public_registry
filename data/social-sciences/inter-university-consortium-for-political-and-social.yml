@@ -1,0 +1,20 @@
+id: inter-university-consortium-for-political-and-social
+kind: [dataset]
+name: Inter-university Consortium for Political and Social Research (ICPSR)
+url: https://www.icpsr.umich.edu/sites/icpsr/find-data
+description: Archive of more than 400,000 social and behavioural science research files, with topical collections on criminal justice, aging, substance abuse and education
+domain: social-sciences
+tags: [survey-data, microdata, criminal-justice, aging, codebooks]
+license: LicenseRef-Research-Only
+license_url: https://www.icpsr.umich.edu/sites/icpsr/about/policies/terms-of-use
+publisher:
+  name: ICPSR, University of Michigan
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, stata, sas, rdata, tsv]
+  access: paid-tier
+  update_frequency: irregular

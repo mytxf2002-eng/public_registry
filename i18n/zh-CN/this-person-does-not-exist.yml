@@ -1,0 +1,3 @@
+id: this-person-does-not-exist
+description: 每次访问生成一张由 StyleGAN 合成、现实中并不存在的人脸照片，可以当作测试用头像。
+group: 头像与人脸图片

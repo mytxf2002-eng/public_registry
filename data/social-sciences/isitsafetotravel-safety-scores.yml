@@ -1,0 +1,28 @@
+id: isitsafetotravel-safety-scores
+kind: [api, dataset]
+name: IsItSafeToTravel Safety Scores
+url: https://isitsafetotravel.org/en/
+description: Daily composite travel-safety scores for 248 countries built from conflict, crime, health, governance and environment indicators plus 25+ government travel advisories
+domain: social-sciences
+tags: [travel-safety, risk-index, travel-advisories, conflict, crime]
+license: CC-BY-NC-4.0
+license_url: https://isitsafetotravel.org/en/api/
+publisher:
+  name: Riccardo Dominici
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://isitsafetotravel.org/en/api/
+dataset:
+  formats: [json]
+  access: public
+  url: https://isitsafetotravel.org/en/api/
+  spatial: [global]
+  update_frequency: daily
+  size: about 1.4 MB (scores.json)

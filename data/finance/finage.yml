@@ -1,0 +1,15 @@
+id: finage
+kind: [api]
+name: Finage
+url: https://finage.co.uk
+description: Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider
+domain: finance
+license: unknown
+provenance:
+  added: 2021-11-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

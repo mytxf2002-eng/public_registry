@@ -1,0 +1,15 @@
+id: mygene-info
+kind: [api]
+name: MyGene.info
+url: https://docs.mygene.info/
+description: Gene annotation queries and ID lookup
+domain: life-sciences
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

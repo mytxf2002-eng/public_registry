@@ -1,0 +1,18 @@
+id: spanish-random-names
+kind: [api]
+name: Spanish random names
+url: https://random-names-api.herokuapp.com/public
+description: Generate spanish names (with gender) randomly
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

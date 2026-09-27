@@ -1,0 +1,15 @@
+id: tiktok
+kind: [api]
+name: TikTok
+url: https://developers.tiktok.com/doc/login-kit-web
+description: Fetches user info and user's video posts on TikTok platform
+domain: social
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

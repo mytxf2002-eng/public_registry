@@ -1,0 +1,15 @@
+id: sthan-io-address-parser
+kind: [api]
+name: sthan.io Address Parser
+url: https://sthan.io/products/address-parser-usa
+description: Parse freeform US addresses into structured fields (house number, street, unit, city, state, ZIP)
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

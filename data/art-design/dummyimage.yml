@@ -1,0 +1,15 @@
+id: dummyimage
+kind: [api]
+name: DummyImage
+url: https://dummyimage.com/
+description: Generate placeholder images with custom size, colors and text
+domain: art-design
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

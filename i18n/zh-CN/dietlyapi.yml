@@ -1,0 +1,2 @@
+id: dietlyapi
+description: 食品营养查询接口，收录约 470 万种食品的热量、宏量和微量营养素，支持名称搜索和条形码查询，数据主要来自 Open Food Facts 和 USDA。公开读取接口无需密钥（有限速），免费档仅限非商业用途，需注明 Open Food Facts 来源。

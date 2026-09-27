@@ -1,0 +1,25 @@
+id: thailand-housing-price-data
+kind: [dataset]
+name: Thailand Housing Price Data
+url: https://github.com/kesar/thailand-housing-prices
+description: Monthly Bangkok and nationwide residential price indexes since 2011, quarterly Bangkok house prices since 1991, and Bangkok off-plan project aggregates by district and developer
+domain: economics
+tags: [housing-prices, real-estate, price-index, condominiums]
+license: CC-BY-4.0
+license_url: https://github.com/kesar/thailand-housing-prices
+publisher:
+  name: BaanScope
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://baanscope.com/data
+  temporal:
+    start: '1991'
+    end: null
+  spatial: [TH]
+  update_frequency: monthly

@@ -1,0 +1,15 @@
+id: craftmypdf
+kind: [api]
+name: CraftMyPDF
+url: https://craftmypdf.com
+description: Generate PDF documents from templates with a drop-and-drop editor and a simple API
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-11-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

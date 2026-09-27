@@ -1,0 +1,15 @@
+id: nekosbest
+kind: [api]
+name: NekosBest
+url: https://docs.nekos.best
+description: Neko Images & Anime roleplaying GIFs
+domain: anime
+license: unknown
+provenance:
+  added: 2021-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

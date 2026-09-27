@@ -1,0 +1,3 @@
+id: twzrd-agent-intel
+description: 给 AI Agent 用的 Solana 链上信任评分：根据链上记录评估 Agent 钱包是否可信，以 MCP 服务提供，其中 4 个工具免费。
+group: 链上数据、索引与分析

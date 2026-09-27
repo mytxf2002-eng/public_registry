@@ -1,0 +1,15 @@
+id: mangapi
+kind: [api]
+name: Mangapi
+url: https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/
+description: Translate manga pages from one language to another
+domain: anime
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

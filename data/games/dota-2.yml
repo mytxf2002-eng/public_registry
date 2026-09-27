@@ -1,0 +1,15 @@
+id: dota-2
+kind: [api]
+name: Dota 2
+url: https://docs.opendota.com/
+description: Provides information about Player stats , Match stats, Rankings for Dota 2
+domain: games
+license: unknown
+provenance:
+  added: 2017-08-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: drillr
+kind: [api]
+name: Drillr
+url: https://drillr.ai/docs/api
+description: Fundamentals, filings, earnings, ownership and events for US, China and Japan equities
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

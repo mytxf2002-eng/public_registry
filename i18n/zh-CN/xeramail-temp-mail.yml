@@ -1,0 +1,3 @@
+id: xeramail-temp-mail
+description: 临时邮箱 REST API，用于保护隐私、测试和自动化，可以自动提取验证码。
+group: 测试用临时收件箱

@@ -1,0 +1,15 @@
+id: mercadopago
+kind: [api]
+name: MercadoPago
+url: https://www.mercadopago.com.br/developers/es/reference
+description: Mercado Pago API reference - all the information you need to develop your integrations
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

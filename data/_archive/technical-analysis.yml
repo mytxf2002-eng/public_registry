@@ -1,0 +1,19 @@
+id: technical-analysis
+kind: [api]
+name: Technical Analysis
+url: https://technical-analysis-api.com
+description: Cryptocurrency prices and technical analysis
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: The site's TLS certificate expired on 2026-06-07 and was never renewed, so the API cannot be reached over valid HTTPS.

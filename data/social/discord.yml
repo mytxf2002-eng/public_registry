@@ -1,0 +1,15 @@
+id: discord
+kind: [api]
+name: Discord
+url: https://discord.com/developers/docs/intro
+description: Make bots for Discord, integrate Discord onto an external platform
+domain: social
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

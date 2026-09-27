@@ -1,0 +1,15 @@
+id: maskbreak
+kind: [api]
+name: Maskbreak
+url: https://maskbreak.com/api
+description: Detect VPNs, proxies, Tor, bots and antidetect browsers at signup, login and checkout
+domain: security
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

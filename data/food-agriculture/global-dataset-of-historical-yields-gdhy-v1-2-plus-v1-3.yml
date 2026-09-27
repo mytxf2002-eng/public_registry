@@ -1,0 +1,26 @@
+id: global-dataset-of-historical-yields-gdhy-v1-2-plus-v1-3
+kind: [dataset]
+name: Global Dataset of Historical Yields (GDHY) v1.2+v1.3
+url: https://doi.pangaea.de/10.1594/PANGAEA.909132
+description: Annual 0.5-degree gridded yield estimates for maize, rice, wheat and soybean worldwide, 1981-2016, derived from satellite vegetation indices and FAO country statistics
+domain: food-agriculture
+tags: [crop-yields, maize, rice, wheat, soybean, gridded-data]
+license: CC-BY-4.0
+license_url: https://doi.pangaea.de/10.1594/PANGAEA.909132
+publisher:
+  name: National Agriculture and Food Research Organization (NARO), T. Iizumi
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [netcdf]
+  access: public
+  url: https://store.pangaea.de/Publications/IizumiT_2019/gdhy_v1.2_v1.3_20190128.zip
+  temporal:
+    start: '1981'
+    end: '2016'
+  spatial: [global]
+  update_frequency: static
+  size: 15.2 MB

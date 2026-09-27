@@ -1,0 +1,16 @@
+id: xeramail-temp-mail
+kind: [api]
+name: Xeramail Temp Mail
+url: https://xeramail.com/docs/api
+description: Temp email address REST API for privacy, testing, automation with OTP extraction
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

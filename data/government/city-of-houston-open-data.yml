@@ -1,0 +1,26 @@
+id: city-of-houston-open-data
+kind: [api, dataset]
+name: City of Houston Open Data
+url: https://data.houstontx.gov/
+description: About 90 City of Houston datasets such as employee payroll, checkbook spending, solicitations, building code violations, food-facility inspections and planning data
+domain: government
+tags: [municipal, payroll, public-spending, inspections, code-enforcement]
+license: ODC-By-1.0
+license_url: https://data.houstontx.gov/dataset/payroll
+publisher:
+  name: City of Houston
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [xlsx, xls, csv, kml]
+  access: public
+  spatial: [US-TX]
+  update_frequency: irregular
+  size: 94 datasets

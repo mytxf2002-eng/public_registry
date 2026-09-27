@@ -1,0 +1,2 @@
+id: b-c-data-catalogue
+description: 加拿大不列颠哥伦比亚省政府数据目录（CKAN 平台），约 3,400 条记录，来自省政府各部门和机构，包括 BC 地理数据仓库的空间图层、BC Stats 统计表以及林业、环境和财政数据，可下载 CSV、Excel、KML 等并通过 CKAN API 访问。约一半记录采用 BC 开放政府许可，另有四成多仅供查阅（Access Only）。

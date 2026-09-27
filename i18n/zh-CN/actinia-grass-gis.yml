@@ -1,0 +1,3 @@
+id: actinia-grass-gis
+description: 开源的地理数据处理 REST 接口，把 GRASS GIS（老牌开源 GIS 软件）的栅格和矢量分析放到服务端运行，由德国 mundialis 公司开发。
+group: 高程、遥感与空间计算

@@ -1,0 +1,22 @@
+id: youtube-boundingboxes-dataset
+kind: [dataset]
+name: YouTube-BoundingBoxes Dataset
+url: https://research.google.com/youtube-bb/
+description: About 380,000 15-20 s segments from 240,000 YouTube videos with 10.5 million human annotations and 5.6 million bounding boxes for 23 object classes
+domain: machine-learning
+tags: [object-tracking, bounding-boxes, video-understanding, youtube]
+license: CC-BY-4.0
+license_url: https://research.google.com/youtube-bb/
+publisher:
+  name: Google
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://research.google.com/youtube-bb/download.html
+  update_frequency: static
+  size: ~94 MB of gzipped CSV

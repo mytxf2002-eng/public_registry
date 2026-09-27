@@ -1,0 +1,15 @@
+id: toolforte
+kind: [api]
+name: ToolForte
+url: https://toolforte.com/developers
+description: Utilities for IBAN/VAT validation, cron parsing, regex, diffs, Dutch holidays and test data
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

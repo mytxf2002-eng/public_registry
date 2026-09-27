@@ -1,0 +1,15 @@
+id: ipma
+kind: [api]
+name: IPMA
+url: https://api.ipma.pt/open-data/
+description: Portuguese weather and climate data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-05-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

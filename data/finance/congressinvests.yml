@@ -1,0 +1,15 @@
+id: congressinvests
+kind: [api]
+name: CongressInvests
+url: https://congressinvests.com
+description: Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk
+domain: finance
+license: unknown
+provenance:
+  added: 2026-06-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

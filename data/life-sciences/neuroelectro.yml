@@ -1,0 +1,20 @@
+id: neuroelectro
+kind: [dataset]
+name: NeuroElectro
+url: https://neuroelectro.org/
+description: Electrophysiological properties such as resting potential, input resistance and spike threshold for neuron types, text-mined from published articles, in a frozen static release
+domain: life-sciences
+tags: [electrophysiology, neuron-types, text-mining, neuroscience]
+license: unknown
+publisher:
+  name: Shreejoy Tripathy and Richard Gerkin (UBC, Arizona State University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, html]
+  access: public
+  url: https://neuroelectro.org/api/docs.html
+  update_frequency: static

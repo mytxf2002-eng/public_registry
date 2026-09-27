@@ -1,0 +1,21 @@
+id: international-networks-archive
+kind: [dataset]
+name: International Networks Archive (INA)
+url: https://www.princeton.edu/~ina/
+description: Early-2000s Princeton collection of compiled statistics on globalization topics such as trade, migration, arms, capital flows, tourism, telephone and internet links
+domain: social-sciences
+tags: [globalization, international-trade, migration, international-networks, historical-statistics]
+license: unknown
+publisher:
+  name: Princeton University (International Networks Archive, M. A. Centeno)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xls, other]
+  access: public
+  url: https://www.princeton.edu/~ina/data/index.html
+  spatial: [global]
+  update_frequency: static

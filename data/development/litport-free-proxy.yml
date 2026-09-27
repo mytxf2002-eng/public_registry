@@ -1,0 +1,15 @@
+id: litport-free-proxy
+kind: [api]
+name: Litport Free Proxy
+url: https://litport.net/docs/free-proxy-api
+description: Live-tested HTTP, SOCKS4, and SOCKS5 proxies with latency, uptime, and geolocation
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

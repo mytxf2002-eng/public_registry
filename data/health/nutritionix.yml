@@ -1,0 +1,15 @@
+id: nutritionix
+kind: [api]
+name: Nutritionix
+url: https://developer.nutritionix.com/
+description: Worlds largest verified nutrition database
+domain: health
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

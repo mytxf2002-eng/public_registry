@@ -1,0 +1,15 @@
+id: covid-19-philippines
+kind: [api]
+name: Covid-19 Philippines
+url: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
+description: Unofficial Covid-19 Web API for Philippines from data collected by DOH
+domain: health
+license: unknown
+provenance:
+  added: 2021-11-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

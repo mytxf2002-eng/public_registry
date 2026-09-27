@@ -1,0 +1,3 @@
+id: smithsonian-open-access
+description: 美国史密森尼学会的开放获取项目：旗下博物馆和研究机构的藏品元数据和数字媒体，其中数百万张图像以 CC0 开放。链接是官方的 Python 查询模块，API 本身需要到 api.data.gov 申请 key。
+group: 博物馆与艺术馆藏

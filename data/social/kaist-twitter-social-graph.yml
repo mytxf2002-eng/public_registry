@@ -1,0 +1,25 @@
+id: kaist-twitter-social-graph
+kind: [dataset]
+name: KAIST Twitter Social Graph (WWW 2010)
+url: https://anlab-kaist.github.io/traces/WWW2010
+description: Follower graph of 41.7 million Twitter users with 1.47 billion follow relations crawled in 2009, plus an ID-to-screen-name map and profiles of accounts with over 10,000 followers
+domain: social
+tags: [twitter, follower-graph, social-graph, network-science, user-profiles]
+license: unknown
+publisher:
+  name: Advanced Networking Lab, KAIST (Haewoon Kwak et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://github.com/ANLAB-KAIST/traces/releases/tag/twitter_rv.net
+  temporal:
+    start: '2009'
+    end: '2009'
+  spatial: [global]
+  update_frequency: static
+  size: 26 GB uncompressed

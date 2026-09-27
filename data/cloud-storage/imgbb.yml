@@ -1,0 +1,15 @@
+id: imgbb
+kind: [api]
+name: Imgbb
+url: https://api.imgbb.com/
+description: Simple and quick private image sharing
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2022-01-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: rawg-io
+kind: [api]
+name: RAWG.io
+url: https://rawg.io/apidocs
+description: 500,000+ games for 50 platforms including mobiles
+domain: games
+license: unknown
+provenance:
+  added: 2021-09-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

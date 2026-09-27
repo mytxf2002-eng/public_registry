@@ -1,0 +1,2 @@
+id: usa-soccer-teams
+description: 美国职业足球大联盟（MLS）、国家女子足球联赛（NWSL）和 USL 冠军联赛现役球队的基本信息与主场球场经纬度，提供 CSV 和 GeoJSON 文件，可通过 CDN 直接引用。数据整理自维基百科，仓库采用 MIT 许可。

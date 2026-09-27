@@ -1,0 +1,22 @@
+id: eco-data-set
+kind: [dataset]
+name: ECO data set (Electricity Consumption & Occupancy)
+url: https://vs.inf.ethz.ch/res/show.html?what=eco-data
+description: Smart-meter and plug-level electricity readings at 1 Hz plus occupancy labels from 6 Swiss households over 8 months, for load disaggregation research
+domain: energy
+tags: [nilm, smart-meter, occupancy, appliance-level, household-electricity]
+license: unknown
+publisher:
+  name: ETH Zurich, Distributed Systems Group
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, matlab]
+  access: public
+  url: https://doi.org/10.5905/ethz-1007-35
+  spatial: [CH]
+  update_frequency: static
+  size: about 1.7 GB of zipped CSV

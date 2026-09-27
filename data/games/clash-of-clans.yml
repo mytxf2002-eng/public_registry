@@ -1,0 +1,15 @@
+id: clash-of-clans
+kind: [api]
+name: Clash of Clans
+url: https://developer.clashofclans.com
+description: Clash of Clans Game Information
+domain: games
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: conversor-iae-cnae
+kind: [api]
+name: Conversor IAE CNAE
+url: https://www.conversoriaecnae.es/api/v1/docs
+description: Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations
+domain: government
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

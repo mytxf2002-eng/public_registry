@@ -1,0 +1,25 @@
+id: mit-bih-arrhythmia-database
+kind: [dataset]
+name: MIT-BIH Arrhythmia Database
+url: https://physionet.org/content/mitdb/1.0.0/
+description: Two-channel ambulatory ECG recordings (48 half-hour excerpts, 47 patients of Boston's Beth Israel Hospital, 1975 to 1979) sampled at 360 Hz, with about 110,000 cardiologist beat annotations
+domain: health
+tags: [ecg, arrhythmia, cardiology, biosignals, annotations]
+license: ODC-By-1.0
+license_url: https://physionet.org/content/mitdb/1.0.0/
+publisher:
+  name: MIT Laboratory for Computational Physiology (PhysioNet)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary, text]
+  access: public
+  temporal:
+    start: '1975'
+    end: '1979'
+  spatial: [US]
+  update_frequency: static
+  size: 104.3 MB

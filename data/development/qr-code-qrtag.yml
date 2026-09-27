@@ -1,0 +1,15 @@
+id: qr-code-qrtag
+kind: [api]
+name: QR code (qrtag.net)
+url: https://www.qrtag.net/api/
+description: Create an easy to read QR code and URL shortener
+domain: development
+license: unknown
+provenance:
+  added: 2018-06-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

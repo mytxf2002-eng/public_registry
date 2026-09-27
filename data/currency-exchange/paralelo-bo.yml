@@ -1,0 +1,15 @@
+id: paralelo-bo
+kind: [api]
+name: paralelo.bo
+url: https://paralelo.bo/api
+description: Bolivia parallel-market USD/BOB exchange rate, aggregated from P2P sources every 60s
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

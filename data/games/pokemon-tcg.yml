@@ -1,0 +1,15 @@
+id: pokemon-tcg
+kind: [api]
+name: Pokémon TCG
+url: https://pokemontcg.io
+description: Pokémon TCG Information
+domain: games
+license: unknown
+provenance:
+  added: 2018-01-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

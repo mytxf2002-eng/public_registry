@@ -1,0 +1,3 @@
+id: transport-for-berlin-germany
+description: 第三方开源项目 vbb-rest，把柏林和勃兰登堡交通联盟（VBB）的数据做成 HTTP 接口：站点搜索、实时发车、行程规划等，和 transport.rest 出自同一作者。
+group: 欧洲城市与地区公共交通

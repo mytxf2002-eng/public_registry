@@ -1,0 +1,15 @@
+id: scrapeninja
+kind: [api]
+name: ScrapeNinja
+url: https://scrapeninja.net
+description: Scraping API with Chrome fingerprint and residential proxies
+domain: development
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,25 @@
+id: international-genome-sample-resource-igsr-1000-genomes
+kind: [dataset]
+name: International Genome Sample Resource (IGSR) / 1000 Genomes
+url: https://www.internationalgenome.org/
+description: 'Human genetic variation data from the 1000 Genomes Project and later studies of its samples: sequence alignments and variant call sets, browsable by sample, population and technology'
+domain: life-sciences
+tags: [human-genomics, genetic-variation, population-genetics, sequencing]
+license: LicenseRef-Provider-Terms
+license_url: https://www.internationalgenome.org/IGSR_disclaimer/
+publisher:
+  name: EMBL-EBI
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [vcf, bam, tsv]
+  access: public
+  url: https://www.internationalgenome.org/data/
+  temporal:
+    start: '2008'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

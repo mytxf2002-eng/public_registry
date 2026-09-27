@@ -1,0 +1,3 @@
+id: domain-intelligence
+description: OTI Labs 的域名综合检测：一次并行调用拿到 DNS、WHOIS/RDAP、SSL 证书、子域名枚举和邮件安全配置（SPF、DMARC、DKIM），每月 1000 次免费。
+group: 域名、证书与网站检查

@@ -1,0 +1,3 @@
+id: strava
+description: 运动社交平台 Strava 的官方 API，经 OAuth 授权后读取运动员资料、跑步骑行等活动记录、路线和赛段数据。收录的链接是旧版文档，新文档在 developers.strava.com。
+group: 健身与运动记录

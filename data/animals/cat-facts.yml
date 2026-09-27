@@ -1,0 +1,15 @@
+id: cat-facts
+kind: [api]
+name: Cat Facts (alexwohlbruck.github.io)
+url: https://alexwohlbruck.github.io/cat-facts/
+description: Daily cat facts
+domain: animals
+license: unknown
+provenance:
+  added: 2018-10-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,15 @@
+id: twelve-data
+kind: [api]
+name: Twelve Data
+url: https://twelvedata.com/
+description: Stock market data (real-time & historical)
+domain: finance
+license: unknown
+provenance:
+  added: 2021-04-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

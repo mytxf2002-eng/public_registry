@@ -1,0 +1,18 @@
+id: forza
+kind: [api]
+name: Forza
+url: https://docs.forza-api.tk
+description: Show random image of car from Forza
+domain: games
+license: unknown
+provenance:
+  added: 2021-09-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The forza-api.tk domain no longer resolves and no successor was found.

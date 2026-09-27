@@ -1,0 +1,15 @@
+id: transport-for-honolulu-us
+kind: [api]
+name: Transport for Honolulu, US
+url: http://hea.thebus.org/api_info.asp
+description: Honolulu Transportation Information
+domain: transportation
+license: unknown
+provenance:
+  added: 2018-07-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

@@ -1,0 +1,15 @@
+id: dead-drop
+kind: [api]
+name: dead-drop
+url: https://api.dead-drop.xyz/api/v1/docs
+description: Ephemeral zero-knowledge encrypted data sharing
+domain: security
+license: unknown
+provenance:
+  added: 2026-05-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

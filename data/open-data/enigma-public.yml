@@ -1,0 +1,15 @@
+id: enigma-public
+kind: [api]
+name: Enigma Public
+url: https://developers.enigma.com/docs
+description: Broadest collection of public data
+domain: open-data
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

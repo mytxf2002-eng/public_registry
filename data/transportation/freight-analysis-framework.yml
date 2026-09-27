@@ -1,0 +1,25 @@
+id: freight-analysis-framework
+kind: [dataset]
+name: Freight Analysis Framework (FAF)
+url: https://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
+description: Estimates of US freight tonnage and value by origin and destination region, commodity and mode, with base-year data, forecasts to 2050 and truck flows assigned to highways
+domain: transportation
+tags: [freight, commodity-flows, forecasts, trucking]
+license: LicenseRef-US-Government-Work
+license_url: https://catalog.data.gov/dataset/freight-analysis-framework
+publisher:
+  name: Federal Highway Administration and Bureau of Transportation Statistics
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  url: https://www.bts.gov/faf
+  temporal:
+    start: '2012'
+    end: '2050'
+  spatial: [US]
+  update_frequency: irregular

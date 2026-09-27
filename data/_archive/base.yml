@@ -1,0 +1,18 @@
+id: base
+kind: [api]
+name: Base
+url: https://www.base-api.io/
+description: Building quick backends
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: base-api.io no longer resolves and the project has been inactive since 2023.

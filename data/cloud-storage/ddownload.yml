@@ -1,0 +1,15 @@
+id: ddownload
+kind: [api]
+name: ddownload
+url: https://ddownload.com/api
+description: File Sharing and Storage
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

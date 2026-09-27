@@ -1,0 +1,24 @@
+id: datos-gob-cl
+kind: [api, dataset]
+name: Datos.gob.cl
+url: https://datos.gob.cl/
+description: About 3,200 datasets from Chilean ministries, agencies and municipalities, such as budget execution, customs, national statistics and building permits, mostly CSV and Excel
+domain: government
+tags: [open-government, national-portal, ckan, budget, building-permits]
+license: unknown
+publisher:
+  name: Gobierno de Chile (Ministerio de Hacienda)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.ckan.org/en/latest/api/
+dataset:
+  formats: [csv, xlsx, xls, pdf]
+  access: public
+  spatial: [CL]

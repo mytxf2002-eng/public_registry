@@ -1,0 +1,21 @@
+id: airborne-object-tracking-dataset
+kind: [dataset]
+name: Airborne Object Tracking Dataset (AOT)
+url: https://registry.opendata.aws/airborne-object-tracking/
+description: 4,943 flight sequences (about 164 hours at 10 Hz) filmed from aircraft, with 5.9M+ grayscale frames and 3.3M+ annotations of other airborne objects for detection and tracking
+domain: machine-learning
+tags: [object-detection, object-tracking, aerial-imagery, drones, computer-vision]
+license: CDLA-Permissive-1.0
+license_url: https://registry.opendata.aws/airborne-object-tracking/
+publisher:
+  name: Amazon Prime Air
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, json, csv]
+  access: public
+  update_frequency: static
+  size: 5.9M+ images

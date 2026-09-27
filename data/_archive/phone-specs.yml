@@ -1,0 +1,18 @@
+id: phone-specs
+kind: [api]
+name: Phone Specs
+url: https://phone-specs-api-production.up.railway.app/docs
+description: Real-time smartphone specifications database for 263 devices
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The Railway deployment hosting the API was deleted and the API has no new host.

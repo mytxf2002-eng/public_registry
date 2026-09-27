@@ -1,0 +1,2 @@
+id: global-biotic-interactions
+description: 全球生物相互作用数据库（GloBI）：整合大量公开数据集中的物种相互作用记录（捕食、传粉、寄生、病原-宿主等），并做分类名称匹配；提供带版本的 TSV/CSV/Parquet/RDF/达尔文核心档案批量下载（Zenodo，CC0）、网页检索、Web API、R 包和 SPARQL。

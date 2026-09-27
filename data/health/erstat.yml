@@ -1,0 +1,15 @@
+id: erstat
+kind: [api]
+name: ERstat
+url: https://erstat.ca/developers
+description: Live Canadian emergency room closures and service disruptions, by province
+domain: health
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

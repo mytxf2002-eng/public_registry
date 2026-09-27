@@ -1,0 +1,22 @@
+id: cube-plus-plus
+kind: [dataset]
+name: Cube++
+url: https://github.com/Visillect/CubePlusPlus
+description: 4,890 raw camera images of varied scenes, each containing a SpyderCube calibration target, with ground-truth illuminant chromaticities, manual labels and a 2 GB simplified subset
+domain: machine-learning
+tags: [color-constancy, illumination-estimation, raw-images, computer-vision]
+license: CC-BY-4.0
+license_url: https://github.com/Visillect/CubePlusPlus
+publisher:
+  name: Visillect / IITP RAS
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv, json, other]
+  access: public
+  url: https://zenodo.org/records/4153431
+  update_frequency: static
+  size: 200 GB

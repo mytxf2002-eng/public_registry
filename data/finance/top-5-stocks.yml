@@ -1,0 +1,15 @@
+id: top-5-stocks
+kind: [api]
+name: Top 5 Stocks
+url: https://top5stocks.netlify.app/developers
+description: Daily AI-ranked stock and crypto watchlists
+domain: finance
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

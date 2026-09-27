@@ -1,0 +1,15 @@
+id: breaking-bad-quotes
+kind: [api]
+name: Breaking Bad Quotes
+url: https://github.com/shevabam/breaking-bad-quotes
+description: Some Breaking Bad quotes
+domain: video
+license: unknown
+provenance:
+  added: 2018-06-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

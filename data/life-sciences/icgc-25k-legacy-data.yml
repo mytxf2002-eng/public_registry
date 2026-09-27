@@ -1,0 +1,19 @@
+id: icgc-25k-legacy-data
+kind: [dataset]
+name: ICGC 25K Legacy Data (Release 28 and PCAWG)
+url: https://docs.icgc-argo.org/docs/data-access/icgc-25k-data
+description: 'Final ICGC data portal release (2019) and PCAWG results: somatic mutations, copy number, expression and clinical data for 24,289 donors across 86 cancer projects'
+domain: life-sciences
+tags: [cancer-genomics, somatic-mutations, pcawg, gene-expression, copy-number]
+license: unknown
+publisher:
+  name: International Cancer Genome Consortium
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, vcf]
+  access: public
+  update_frequency: static

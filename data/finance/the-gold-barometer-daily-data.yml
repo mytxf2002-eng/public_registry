@@ -1,0 +1,25 @@
+id: the-gold-barometer-daily-data
+kind: [dataset]
+name: The Gold Barometer Daily Data
+url: https://github.com/thegoldbarometer/data
+description: Daily 0-100 score of gold buying conditions with zone and seven sub-scores, plus a backfilled monthly series from 1971 with forward returns and the scoring code
+domain: finance
+tags: [gold, precious-metals, market-indicators, time-series]
+license: CC-BY-4.0
+license_url: https://thegoldbarometer.com/data/
+publisher:
+  name: Marc Pavageau (The Gold Barometer)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv]
+  access: public
+  url: https://thegoldbarometer.com/data/
+  temporal:
+    start: '1971'
+    end: null
+  spatial: [global]
+  update_frequency: daily

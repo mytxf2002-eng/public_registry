@@ -1,0 +1,18 @@
+id: jservice
+kind: [api]
+name: Jservice
+url: http://jservice.io
+description: Jeopardy Question Database
+domain: games
+license: unknown
+provenance:
+  added: 2017-06-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Domain is parked or for sale

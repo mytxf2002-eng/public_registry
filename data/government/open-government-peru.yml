@@ -1,0 +1,15 @@
+id: open-government-peru
+kind: [api]
+name: Open Government, Peru
+url: https://www.datosabiertos.gob.pe/
+description: Peru Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-05-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

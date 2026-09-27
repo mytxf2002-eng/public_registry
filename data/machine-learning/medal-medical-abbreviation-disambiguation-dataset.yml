@@ -1,0 +1,22 @@
+id: medal-medical-abbreviation-disambiguation-dataset
+kind: [dataset]
+name: MeDAL Medical Abbreviation Disambiguation Dataset
+url: https://github.com/McGill-NLP/medal
+description: PubMed abstracts in which medical abbreviations are labelled with their expansions, built for abbreviation disambiguation and clinical NLP pre-training; about 15 GB of CSV
+domain: machine-learning
+tags: [nlp, abbreviation-disambiguation, biomedical-text, pretraining, pubmed]
+license: LicenseRef-Custom-Open
+license_url: https://github.com/McGill-NLP/medal
+publisher:
+  name: McGill NLP, McGill University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://zenodo.org/records/4482922
+  update_frequency: static
+  size: 15.2 GB CSV

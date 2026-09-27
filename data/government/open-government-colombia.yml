@@ -1,0 +1,15 @@
+id: open-government-colombia
+kind: [api]
+name: Open Government, Colombia
+url: https://www.dane.gov.co/
+description: Colombia Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-07-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

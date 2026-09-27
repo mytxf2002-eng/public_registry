@@ -1,0 +1,21 @@
+id: open-government-canada
+kind: [api, dataset]
+name: Open Government, Canada
+url: http://open.canada.ca/en
+description: Canadian Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2016-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+dataset:
+  formats: [csv, xml, shapefile, xlsx, geojson, kml]
+  access: public
+  url: https://search.open.canada.ca/opendata/
+  spatial: [CA]
+  size: 47,941 datasets

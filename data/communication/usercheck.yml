@@ -1,0 +1,16 @@
+id: usercheck
+kind: [api]
+name: UserCheck
+url: https://www.usercheck.com/docs
+description: Prevent users to sign up with temporary email addresses
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2021-12-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

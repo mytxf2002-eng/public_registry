@@ -1,0 +1,15 @@
+id: tastedive
+kind: [api]
+name: TasteDive
+url: https://tastedive.com/read/api
+description: Content-based recommendations for movies, music, TV shows, books, games, and podcasts
+domain: entertainment
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

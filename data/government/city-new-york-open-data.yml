@@ -1,0 +1,15 @@
+id: city-new-york-open-data
+kind: [api]
+name: City, New York Open Data
+url: https://www.nyc.gov/opendata
+description: New York (US) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2020-11-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

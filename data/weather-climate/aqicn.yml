@@ -1,0 +1,15 @@
+id: aqicn
+kind: [api]
+name: AQICN
+url: https://aqicn.org/api/
+description: Air Quality Index Data for over 1000 cities
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

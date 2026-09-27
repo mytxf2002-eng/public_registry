@@ -1,0 +1,15 @@
+id: hyperserve
+kind: [api]
+name: Hyperserve
+url: https://hyperserve.io/
+description: 'Video backend API: upload any format, transcode to MP4, deliver via CDN'
+domain: video
+license: unknown
+provenance:
+  added: 2026-06-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

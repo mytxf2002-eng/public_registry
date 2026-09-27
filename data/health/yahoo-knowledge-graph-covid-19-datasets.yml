@@ -1,0 +1,24 @@
+id: yahoo-knowledge-graph-covid-19-datasets
+kind: [dataset]
+name: Yahoo Knowledge Graph COVID-19 Datasets
+url: https://github.com/yahoo/covid-19-data
+description: COVID-19 confirmed cases, deaths, recoveries and tests by country, US state and county from 2020 to April 2021, compiled only from primary government sources with attribution
+domain: health
+tags: [covid-19, case-counts, testing, time-series]
+license: CC-BY-NC-4.0
+license_url: https://github.com/yahoo/covid-19-data
+publisher:
+  name: Yahoo (Verizon Media)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, json]
+  access: public
+  temporal:
+    start: '2020'
+    end: 2021-04
+  spatial: [global]
+  update_frequency: static

@@ -1,0 +1,3 @@
+id: polykal-fees
+description: Kalshi 和 Polymarket 的手续费公式和费率，整理成经过核对的免费 JSON，用来算真实交易成本。
+group: 预测市场与 DeFi

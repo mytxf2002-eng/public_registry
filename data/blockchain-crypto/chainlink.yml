@@ -1,0 +1,16 @@
+id: chainlink
+kind: [api]
+name: Chainlink
+url: https://chain.link/developer-resources
+description: Build hybrid smart contracts with Chainlink
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-10-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

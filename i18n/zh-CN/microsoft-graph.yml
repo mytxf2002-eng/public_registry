@@ -1,0 +1,3 @@
+id: microsoft-graph
+description: 访问微软 365 数据的统一接口：通过一个端点读写 Outlook 邮件和日历、OneDrive 文件、Teams、Entra ID（原 Azure AD）用户和组等，需要 OAuth 授权。
+group: 团队协作与办公

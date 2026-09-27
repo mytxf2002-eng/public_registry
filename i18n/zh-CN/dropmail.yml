@@ -1,0 +1,3 @@
+id: dropmail
+description: 用 GraphQL 接口创建和管理临时邮箱，有效期 10 分钟起，可以收附件。
+group: 临时邮箱

@@ -1,0 +1,16 @@
+id: holidays
+kind: [api]
+name: Holidays
+url: https://holidayapi.com/
+description: Historical data regarding holidays
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

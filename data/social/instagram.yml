@@ -1,0 +1,15 @@
+id: instagram
+kind: [api]
+name: Instagram
+url: https://developers.facebook.com/documentation/instagram-platform
+description: Instagram Login, Share on Instagram, Social Plugins and more
+domain: social
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

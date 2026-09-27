@@ -1,0 +1,15 @@
+id: us-autocomplete
+kind: [api]
+name: US Autocomplete
+url: https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
+description: Enter address data quickly with real-time address suggestions
+domain: data-validation
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

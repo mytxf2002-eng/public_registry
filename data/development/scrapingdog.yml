@@ -1,0 +1,15 @@
+id: scrapingdog
+kind: [api]
+name: ScrapingDog
+url: https://www.scrapingdog.com/
+description: Proxy API for Web scraping
+domain: development
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,2 @@
+id: backblaze-drive-stats
+description: Backblaze 自 2013 年起对其数据中心每块硬盘和固态硬盘所做的每日快照，包括型号、容量、是否故障以及原始和归一化的 S.M.A.R.T. 指标，按季度打包为 CSV 压缩文件免费下载，也提供 Apache Iceberg 表只读访问。须注明 Backblaze 为来源，可出售衍生作品但不得出售数据本身。

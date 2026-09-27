@@ -1,0 +1,21 @@
+id: cepii-databases
+kind: [dataset]
+name: CEPII Databases
+url: https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp
+description: About 30 research databases on the world economy, including BACI bilateral trade flows for 200 countries and 5,000 products, gravity variables, tariffs and long-run macro series
+domain: economics
+tags: [international-trade, trade-flows, gravity-model, tariffs, hs-codes]
+license: etalab-2.0
+license_url: https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37
+publisher:
+  name: CEPII
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, stata, rdata, xlsx]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

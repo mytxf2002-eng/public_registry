@@ -1,0 +1,24 @@
+id: retrosheet-play-by-play-event-files
+kind: [dataset]
+name: Retrosheet Play-by-Play Event Files
+url: https://www.retrosheet.org/game.htm
+description: Game-by-game event files recording each play of Major League Baseball regular-season games from 1908, post-season, All-Star and Negro League games, plus box-score files back to 1871
+domain: sports
+tags: [baseball, mlb, play-by-play, box-scores, negro-leagues]
+license: LicenseRef-Custom-Open
+license_url: https://www.retrosheet.org/notice.txt
+publisher:
+  name: Retrosheet
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, csv]
+  access: public
+  temporal:
+    start: '1871'
+    end: null
+  spatial: [US, CA]
+  update_frequency: annual

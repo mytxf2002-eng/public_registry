@@ -1,0 +1,15 @@
+id: hytale
+kind: [api]
+name: Hytale
+url: https://hytale-api.com/
+description: Hytale blog posts and jobs
+domain: games
+license: unknown
+provenance:
+  added: 2020-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

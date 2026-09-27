@@ -1,0 +1,3 @@
+id: free-url-shortener
+description: 免费短链接服务 ulvis.net 的接口，免 key，最多可以传 8 个参数来控制生成方式和返回结果。
+group: 简单短链生成

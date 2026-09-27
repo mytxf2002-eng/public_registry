@@ -1,0 +1,25 @@
+id: open-san-mateo-county
+kind: [api, dataset]
+name: Open San Mateo County
+url: https://data.smcgov.org/
+description: About 45 datasets from the County of San Mateo, California, such as parcels, election precincts, environmental and transport data, with CSV, JSON and GeoJSON exports
+domain: government
+tags: [county, parcels, elections, gis]
+license: LicenseRef-Public-Domain
+license_url: https://data.smcgov.org/Government/Election-Precincts/g5sj-6zp8
+publisher:
+  name: County of San Mateo
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json, xml, geojson, kml]
+  access: public
+  spatial: [US-CA]
+  size: 45 datasets

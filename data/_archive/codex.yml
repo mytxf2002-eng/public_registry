@@ -1,0 +1,18 @@
+id: codex
+kind: [api]
+name: Codex
+url: https://github.com/Jaagrav/CodeX
+description: Online Compiler for Various Languages
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The GitHub account and repositories are gone and the CodeX API backend is down.

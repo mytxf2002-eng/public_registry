@@ -1,0 +1,16 @@
+id: get-started-with-web3
+kind: [api]
+name: Get Started with Web3
+url: https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md
+description: Bilingual Web3 lessons, glossary search and role-based learning paths
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2026-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: gankdat
+kind: [api]
+name: gankdat
+url: https://gankdat.com/docs
+description: UK & EU tenders, UK planning, UK sanctions, US exclusions, UK insolvency and incorporations as JSON
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

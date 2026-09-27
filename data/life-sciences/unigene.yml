@@ -1,0 +1,20 @@
+id: unigene
+kind: [dataset]
+name: UniGene
+url: https://ftp.ncbi.nlm.nih.gov/repository/UniGene/
+description: Final builds of NCBI's gene-oriented clusters of transcript sequences (mRNAs and ESTs) for dozens of animals, plants and fungi, kept as a frozen archive
+domain: life-sciences
+tags: [transcripts, est, gene-clusters, sequences]
+license: LicenseRef-Custom-Open
+license_url: https://www.ncbi.nlm.nih.gov/home/about/policies/
+publisher:
+  name: National Center for Biotechnology Information
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [fasta, text]
+  access: public
+  update_frequency: static

@@ -1,0 +1,27 @@
+id: movie-scene-map-filming-locations
+kind: [api, dataset]
+name: Movie Scene Map Filming Locations
+url: https://moviescenemap.com/data/
+description: 31,093 filming locations in 180 countries linked to about 19,700 films and TV series, plus video games and anime placed where they are set, built from Wikidata and Wikipedia
+domain: entertainment
+tags: [filming-locations, movies, tv-series, wikidata, points-of-interest]
+license: CC0-1.0
+license_url: https://moviescenemap.com/data/
+publisher:
+  name: Flightmussy
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://moviescenemap.com/data/
+dataset:
+  formats: [geojson, csv, json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 31,093 locations

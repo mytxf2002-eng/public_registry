@@ -1,0 +1,15 @@
+id: fruityvice
+kind: [api]
+name: Fruityvice
+url: https://www.fruityvice.com
+description: Data about all kinds of fruit
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: ibge
+kind: [api]
+name: IBGE
+url: https://servicodados.ibge.gov.br/api/docs/
+description: Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

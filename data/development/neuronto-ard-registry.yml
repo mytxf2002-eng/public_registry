@@ -1,0 +1,16 @@
+id: neuronto-ard-registry
+kind: [api]
+name: Neuronto ARD Registry
+url: https://neuronto.com/api-docs
+description: Search index of MCP servers, agents and APIs, with the tools each server actually exposes
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

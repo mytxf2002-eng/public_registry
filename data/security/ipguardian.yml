@@ -1,0 +1,15 @@
+id: ipguardian
+kind: [api]
+name: IPGuardian
+url: https://ipguardian.net/docs
+description: Check IP addresses against 140+ public threat intelligence blocklists
+domain: security
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,28 @@
+id: discogs
+kind: [api, dataset]
+name: Discogs
+url: https://www.discogs.com/developers/
+description: Discogs music database of releases, artists and labels, with an API and monthly data dumps
+domain: music
+tags: [music-metadata, releases, artists, record-labels, data-dumps]
+license: CC0-1.0
+license_url: https://data.discogs.com/
+publisher:
+  name: Discogs
+  kind: company
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+dataset:
+  formats: [xml]
+  access: public
+  temporal:
+    start: '2008'
+    end: null
+  update_frequency: monthly
+  size: ~11 GB per monthly dump

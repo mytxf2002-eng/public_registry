@@ -1,0 +1,16 @@
+id: rwanda-locations
+kind: [api]
+name: Rwanda Locations
+url: https://rapidapi.com/victorkarangwa4/api/rwanda
+description: Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: scriptmasterlabs-mcp
+kind: [api]
+name: ScriptMasterLabs MCP
+url: https://mcp-x402.onrender.com
+description: Model Context Protocol server with web search, social search & LLM chat paid via x402
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

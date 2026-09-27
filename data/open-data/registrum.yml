@@ -1,0 +1,15 @@
+id: registrum
+kind: [api]
+name: Registrum
+url: https://api.registrum.co.uk/docs
+description: 'UK company data: profiles, directors, PSC, iXBRL-parsed financials, ECCTA status'
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

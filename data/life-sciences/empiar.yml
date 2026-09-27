@@ -1,0 +1,26 @@
+id: empiar
+kind: [api, dataset]
+name: EMPIAR (Electron Microscopy Public Image Archive)
+url: https://www.ebi.ac.uk/empiar/
+description: 'Raw electron microscopy image data behind cryo-EM maps and tomograms, plus volume EM and X-ray tomography sets: about 3,100 entries totalling some 9 PiB'
+domain: life-sciences
+tags: [cryo-em, electron-microscopy, raw-images, structural-biology, tomography]
+license: CC0-1.0
+license_url: https://www.ebi.ac.uk/empiar/policies/
+publisher:
+  name: EMBL-EBI
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ebi.ac.uk/empiar/api/documentation/
+dataset:
+  formats: [image, other]
+  access: public
+  update_frequency: irregular
+  size: 3,119 entries, 9.16 PiB

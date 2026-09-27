@@ -1,0 +1,15 @@
+id: addressmock
+kind: [api]
+name: AddressMock
+url: https://addressmock.com/api
+description: Random US, Hong Kong and Cape Verde addresses with matched city, state and ZIP
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

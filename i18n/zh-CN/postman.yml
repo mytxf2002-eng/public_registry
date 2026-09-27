@@ -1,0 +1,3 @@
+id: postman
+description: API 调试工具 Postman 自家的 API（文档在 Postman 公共工作区里）：用程序管理集合（collection）、环境、工作区、Mock 服务和监控，常用于把 Postman 接入 CI。
+group: API 调试与模拟接口

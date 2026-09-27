@@ -1,0 +1,15 @@
+id: wolframalpha
+kind: [api]
+name: WolframAlpha
+url: https://products.wolframalpha.com/api/
+description: Provides specific answers to questions using data and algorithms
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,18 @@
+id: traileraddict
+kind: [api]
+name: TrailerAddict
+url: https://www.traileraddict.com/trailerapi
+description: Easily embed trailers from TrailerAddict
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The TrailerAddict API documentation page is gone and the site no longer links any API docs; the endpoint only says keys must be requested by email.

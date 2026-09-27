@@ -1,0 +1,16 @@
+id: kavel
+kind: [api]
+name: Kavel
+url: https://kavel.readthedocs.io/
+description: Generate and edit images with AI, no key or account required
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

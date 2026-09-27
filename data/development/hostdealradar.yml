@@ -1,0 +1,15 @@
+id: hostdealradar
+kind: [api]
+name: HostDealRadar
+url: https://hostdealradar.com/ai/
+description: Source-backed hosting price and provider record lookup
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

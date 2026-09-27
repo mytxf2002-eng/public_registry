@@ -1,0 +1,16 @@
+id: non-working-days
+kind: [api]
+name: Non-Working Days (github.com/gadael)
+url: https://github.com/gadael/icsdb
+description: Database of ICS files for non working days
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2016-03-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

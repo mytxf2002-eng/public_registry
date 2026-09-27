@@ -1,0 +1,3 @@
+id: phone-validation
+description: Abstract API 的电话号码校验：实时判断号码是否有效，返回运营商、线路类型和所在地，注册送 100 次免费调用，不用绑信用卡。
+group: 号码校验与运营商查询

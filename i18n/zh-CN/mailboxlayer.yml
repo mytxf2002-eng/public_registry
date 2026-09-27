@@ -1,0 +1,3 @@
+id: mailboxlayer
+description: APILayer 的产品：邮箱地址验证，包括语法检查、SMTP 验证、拼写纠错，以及免费邮箱和一次性邮箱识别，有免费档。
+group: 邮箱地址验证

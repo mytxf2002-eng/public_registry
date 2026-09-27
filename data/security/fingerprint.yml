@@ -1,0 +1,15 @@
+id: fingerprint
+kind: [api]
+name: Fingerprint
+url: https://docs.fingerprint.com/
+description: Fraud detection API offering highly accurate browser fingerprinting
+domain: security
+license: unknown
+provenance:
+  added: 2021-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

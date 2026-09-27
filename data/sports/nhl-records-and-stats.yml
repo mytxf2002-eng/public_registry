@@ -1,0 +1,15 @@
+id: nhl-records-and-stats
+kind: [api]
+name: NHL Records and Stats
+url: https://gitlab.com/dword4/nhlapi
+description: NHL historical data and statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2019-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

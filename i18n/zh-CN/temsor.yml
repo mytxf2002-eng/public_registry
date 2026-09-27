@@ -1,0 +1,3 @@
+id: temsor
+description: 土耳其本地数据校验：身份证号、税号、IBAN、电话号码、车牌，还能解析土耳其地址。Temsor 的主业是语音通话平台，这些是附带的商业 API。
+group: 税号、证件与电子发票

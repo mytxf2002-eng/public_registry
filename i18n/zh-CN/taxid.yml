@@ -1,0 +1,3 @@
+id: taxid
+description: 欧盟 27 国的增值税号校验，并返回对应的公司名称和地址，文档附 Node.js、Python、PHP、Ruby 示例。
+group: 增值税号校验

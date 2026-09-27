@@ -1,0 +1,3 @@
+id: congressinvests
+description: 美国国会议员的股票交易披露，数据来自参议院和众议院的官方申报。可以按股票或按议员查询，约每 6 小时更新，支持 webhook 提醒。
+group: 新闻、情绪与另类数据

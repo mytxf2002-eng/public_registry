@@ -1,0 +1,2 @@
+id: prostatex-challenge-data
+description: SPIE-AAPM-NCI PROSTATEx 挑战赛数据：346 名患者的多参数前列腺 MRI（T2 加权、质子密度、动态增强、弥散/ADC），附病灶位置、临床显著性及 Gleason 分级标签，约 16.7 GB，DICOM 格式。可从 TCIA 免费下载（需 Data Retriever 工具），CC BY 3.0；作为基准已被 PI-CAI 取代。

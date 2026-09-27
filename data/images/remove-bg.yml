@@ -1,0 +1,16 @@
+id: remove-bg
+kind: [api]
+name: Remove.bg
+url: https://www.remove.bg/api
+description: Image Background removal
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

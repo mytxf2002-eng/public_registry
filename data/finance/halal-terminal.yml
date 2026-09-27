@@ -1,0 +1,15 @@
+id: halal-terminal
+kind: [api]
+name: Halal Terminal
+url: https://api.halalterminal.com/docs
+description: Shariah-compliant stock and ETF screening across 5 methodologies, zakat and purification
+domain: finance
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

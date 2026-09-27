@@ -1,0 +1,28 @@
+id: bixi-montreal-open-data
+kind: [api, dataset]
+name: BIXI Montréal Open Data
+url: https://bixi.com/en/open-data/
+description: Yearly trip history files of the BIXI bike-share network in Montreal from 2014 to 2026, with a real-time GBFS feed of station and bike availability
+domain: transportation
+tags: [bike-share, trip-history, cycling, gbfs]
+license: unknown
+publisher:
+  name: BIXI Montréal
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://bixi.com/en/open-data/
+dataset:
+  formats: [archive, json]
+  access: public
+  temporal:
+    start: '2014'
+    end: null
+  spatial: [CA-QC]
+  update_frequency: irregular

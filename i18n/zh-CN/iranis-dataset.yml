@@ -1,0 +1,2 @@
+id: iranis-dataset
+description: Ali Tourani 等研究者发布的伊朗车牌字符图像数据集，从真实车牌照片中截取 83844 张波斯语数字、字母和符号图像，共 28 类。压缩包可在 GitHub 仓库直接下载（Kaggle 和 data.world 也有副本），仓库采用 GPL-3.0 许可。

@@ -1,0 +1,22 @@
+id: banking-access-index
+kind: [api, dataset]
+name: Banking Access Index
+url: https://www.globalsolo.global/data/banking-access-index
+description: Which US business banking providers accept founders by country of residence, with sources
+domain: finance
+license: CC-BY-4.0
+license_url: https://www.globalsolo.global/data/banking-access-index
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: quarterly
+  size: 239 verified claims

@@ -1,0 +1,18 @@
+id: fishwatch
+kind: [api]
+name: FishWatch
+url: https://www.fishwatch.gov/developers
+description: Information and pictures about individual fish species
+domain: animals
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: FishWatch was merged into the NOAA Fisheries website and its API was retired.

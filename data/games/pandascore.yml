@@ -1,0 +1,15 @@
+id: pandascore
+kind: [api]
+name: PandaScore
+url: https://developers.pandascore.co/
+description: E-sports games and results
+domain: games
+license: unknown
+provenance:
+  added: 2021-03-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

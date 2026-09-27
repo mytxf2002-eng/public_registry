@@ -1,0 +1,15 @@
+id: trash-nothing
+kind: [api]
+name: Trash Nothing
+url: https://trashnothing.com/developer
+description: A freecycling community with thousands of free items posted every day
+domain: social
+license: unknown
+provenance:
+  added: 2018-08-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

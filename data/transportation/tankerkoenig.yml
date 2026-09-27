@@ -1,0 +1,15 @@
+id: tankerkoenig
+kind: [api]
+name: Tankerkoenig
+url: https://creativecommons.tankerkoenig.de/swagger/
+description: German realtime gas/diesel prices
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

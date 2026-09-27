@@ -1,0 +1,21 @@
+id: openchainbench
+kind: [api]
+name: OpenChainBench
+url: https://openchainbench.com/
+description: Live, reproducible benchmarks of crypto infrastructure such as RPC latency, bridge finality and fees, price-feed accuracy and trading-app volumes, with daily JSON snapshots
+domain: blockchain-crypto
+tags: [benchmarks, rpc-latency, bridges, price-feeds, infrastructure-monitoring]
+license: CC-BY-4.0
+license_url: https://openchainbench.com/api/openapi.json
+publisher:
+  name: OpenChainBench
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://openchainbench.com/api/openapi.json

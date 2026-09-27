@@ -1,0 +1,21 @@
+id: cern-open-data-portal
+kind: [dataset]
+name: CERN Open Data Portal
+url: https://opendata.cern.ch/
+description: Collision and simulated event data from LHC experiments (CMS, ATLAS, ALICE, LHCb) and others like DELPHI and OPERA, over 5 PB with software and documentation
+domain: science-math
+tags: [particle-physics, lhc, collision-data, simulation, high-energy-physics]
+license: CC0-1.0
+license_url: https://opendata.cern.ch/docs/terms-of-use
+publisher:
+  name: CERN
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [root, csv]
+  access: public
+  update_frequency: irregular
+  size: over 5 PB

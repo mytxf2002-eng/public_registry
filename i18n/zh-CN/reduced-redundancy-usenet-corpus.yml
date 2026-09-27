@@ -1,0 +1,2 @@
+id: reduced-redundancy-usenet-corpus
+description: 阿尔伯塔大学 Westbury 实验室整理的英语 USENET 新闻组帖子语料，2005—2011 年采集自 47,860 个新闻组，去除了邮件头、重复内容和引用段落，并屏蔽邮箱和网址，共 70 多亿词（压缩后约 8 GB 单文件）。填写简短登记表后可免费下载，采用 CC BY-NC-SA 3.0 许可，仅限非商业用途。

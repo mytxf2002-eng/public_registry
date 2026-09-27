@@ -1,0 +1,15 @@
+id: usaspending-gov
+kind: [api]
+name: USAspending.gov
+url: https://api.usaspending.gov/
+description: US federal spending data
+domain: government
+license: unknown
+provenance:
+  added: 2018-06-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

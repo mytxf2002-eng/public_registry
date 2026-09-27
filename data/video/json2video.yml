@@ -1,0 +1,15 @@
+id: json2video
+kind: [api]
+name: JSON2Video
+url: https://json2video.com
+description: 'Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations'
+domain: video
+license: unknown
+provenance:
+  added: 2021-12-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,25 @@
+id: ecuacovid
+kind: [dataset]
+name: Ecuacovid
+url: https://github.com/andrab/ecuacovid
+description: 'Cleaned COVID-19 series for Ecuador extracted from SNGRE, Ministry of Health and Civil Registry reports: cases, deaths, hospital beds, burials and vaccinations by province and canton'
+domain: health
+tags: [covid-19, epidemiology, vaccinations, mortality]
+license: MIT
+license_url: https://github.com/andrab/ecuacovid
+publisher:
+  name: Andrés N. Robalino
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://github.com/andrab/ecuacovid/tree/master/datos_crudos
+  temporal:
+    start: '2020'
+    end: '2022'
+  spatial: [EC]
+  update_frequency: static

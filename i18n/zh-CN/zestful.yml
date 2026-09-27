@@ -1,0 +1,3 @@
+id: zestful
+description: 用机器学习把菜谱里的配料行（如“2 cups chopped onions”）解析成数量、单位、食材名和备注的结构化 JSON。
+group: 配料解析与膳食规划

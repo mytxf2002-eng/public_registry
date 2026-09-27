@@ -1,0 +1,24 @@
+id: microposts2016-neel-challenge-dataset
+kind: [dataset]
+name: '#Microposts2016 NEEL Challenge Dataset'
+url: https://microposts2016.engineering.upenn.edu/challenge.html
+description: Gold-standard annotations of English tweets from 2011 to 2015 marking entity mentions, their types and links to DBpedia 2014 resources or NIL, from the NEEL 2016 challenge
+domain: machine-learning
+tags: [named-entity-recognition, entity-linking, tweets, dbpedia, benchmark]
+license: unknown
+publisher:
+  name: '#Microposts2016 NEEL Challenge organisers'
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://ceur-ws.org/Vol-1691/microposts2016_neel-challenge-report/microposts2016-neel_challenge_gs.zip
+  temporal:
+    start: '2011'
+    end: '2015'
+  update_frequency: static
+  size: 226 KB

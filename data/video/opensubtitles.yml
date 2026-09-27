@@ -1,0 +1,15 @@
+id: opensubtitles
+kind: [api]
+name: OpenSubtitles
+url: https://www.opensubtitles.com/
+description: Search and download subtitles for movies and TV shows
+domain: video
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

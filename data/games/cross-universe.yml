@@ -1,0 +1,15 @@
+id: cross-universe
+kind: [api]
+name: Cross Universe
+url: https://crossuniverse.net/apiDocs/
+description: Cross Universe Card Data
+domain: games
+license: unknown
+provenance:
+  added: 2021-08-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

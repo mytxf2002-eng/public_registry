@@ -1,0 +1,20 @@
+id: twitter-nlp-annotated-tweets
+kind: [dataset]
+name: Twitter NLP Annotated Tweets
+url: https://github.com/aritter/twitter_nlp/tree/master/data/annotated
+description: Hand-annotated English tweets for named-entity recognition, part-of-speech tagging and chunking, plus the WNUT 2016 Twitter NER shared-task data with 10 entity types
+domain: machine-learning
+tags: [named-entity-recognition, pos-tagging, tweets, nlp]
+license: GPL-3.0-only
+license_url: https://github.com/aritter/twitter_nlp/blob/master/LICENSE
+publisher:
+  name: Alan Ritter
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: static

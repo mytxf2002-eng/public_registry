@@ -1,0 +1,21 @@
+id: open-government-indonesia
+kind: [api, dataset]
+name: Open Government, Indonesia
+url: https://data.go.id/
+description: Indonesian Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, xlsx]
+  access: public
+  url: https://data.go.id/dataset
+  spatial: [ID]
+  size: 701,466+ datasets

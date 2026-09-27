@@ -1,0 +1,15 @@
+id: microburbs
+kind: [api]
+name: Microburbs
+url: https://www.microburbs.com.au/developers/api-docs
+description: 'Australian property and suburb data: valuations, sales, rents, schools, demographics, risk, zoning'
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

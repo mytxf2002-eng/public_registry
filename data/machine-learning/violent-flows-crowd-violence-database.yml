@@ -1,0 +1,20 @@
+id: violent-flows-crowd-violence-database
+kind: [dataset]
+name: Violent-Flows Crowd Violence Database
+url: https://www.openu.ac.il/home/hassner/data/violentflows/
+description: 246 short YouTube clips of violent and non-violent crowd scenes, 1 to 6.5 seconds long, with benchmark protocols for violence classification and outbreak detection
+domain: machine-learning
+tags: [violence-detection, crowd-behavior, video-classification, surveillance]
+license: unknown
+publisher:
+  name: Tal Hassner, Yossi Itcher and Orit Kliper-Gross (Open University of Israel)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [video]
+  access: registration
+  update_frequency: static
+  size: 246 videos

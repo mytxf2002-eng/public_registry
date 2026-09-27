@@ -1,0 +1,24 @@
+id: iawe-indian-dataset-for-ambient-water-and-energy
+kind: [dataset]
+name: 'iAWE: Indian Dataset for Ambient Water and Energy'
+url: https://iawe.github.io/
+description: About 73 days of 2013 electricity data at meter, circuit and appliance level, plus water flow and ambient sensor readings, from one home in New Delhi
+domain: energy
+tags: [nilm, household-electricity, water-consumption, appliance-level, smart-meter]
+license: unknown
+publisher:
+  name: IIIT Delhi (Nipun Batra, Manoj Gulati)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, hdf5]
+  access: public
+  url: https://iitgnacin-my.sharepoint.com/:f:/g/personal/nipun_batra_iitgn_ac_in/EhclhgzmUnlNimV7U95G6PYB4oU4auA9Z0iScwaq217ZIw?e=PHfMT2
+  temporal:
+    start: 2013-05
+    end: 2013-08
+  spatial: [IN]
+  update_frequency: static

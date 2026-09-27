@@ -1,0 +1,18 @@
+id: micro-db
+kind: [api]
+name: Micro DB
+url: https://m3o.com/db
+description: Simple database service
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The M3O platform was shut down

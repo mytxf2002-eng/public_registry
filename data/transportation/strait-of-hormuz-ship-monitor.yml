@@ -1,0 +1,15 @@
+id: strait-of-hormuz-ship-monitor
+kind: [api]
+name: Strait of Hormuz Ship Monitor
+url: https://hormuz.data-tracking.net/llms.txt
+description: Live AIS vessel traffic, crossings and oil flow through the Strait of Hormuz
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

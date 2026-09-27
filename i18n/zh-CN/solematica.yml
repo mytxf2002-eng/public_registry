@@ -1,0 +1,3 @@
+id: solematica
+description: 意大利的光伏相关数据：本地安装商报价、电价（PUN 全国统一批发电价和监管机构 ARERA 的数据）和卫星屋顶数据，提供 REST API 和 MCP。
+group: 太阳能与光伏估算

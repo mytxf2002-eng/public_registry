@@ -1,0 +1,21 @@
+id: uci-network-data-repository
+kind: [dataset]
+name: UCI Network Data Repository
+url: https://networkdata.ics.uci.edu/index.html
+description: Archived collection of classic social and information networks from UC Irvine, such as karate club, dolphins, political blogs and the US power grid, as GML, Pajek and R network files
+domain: networks
+tags: [social-networks, network-science, statnet, benchmark-graphs]
+license: LicenseRef-Research-Only
+license_url: https://networkdata.ics.uci.edu/netdata/html/YeastS.html
+publisher:
+  name: University of California, Irvine
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [gml, text, rdata]
+  access: public
+  url: https://networkdata.ics.uci.edu/data/
+  update_frequency: static

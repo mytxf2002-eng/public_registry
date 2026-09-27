@@ -1,0 +1,15 @@
+id: revcardata
+kind: [api]
+name: RevCarData
+url: https://revcardata.com
+description: 86,000+ global vehicle specifications and EV metrics
+domain: vehicles
+license: unknown
+provenance:
+  added: 2026-06-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

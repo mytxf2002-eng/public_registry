@@ -1,0 +1,3 @@
+id: agpc-domain-check
+description: 检查域名的 SPF、DKIM、DMARC 和 MX 记录，给出评级，并生成可分享的报告。
+group: 域名邮件配置与投递检测

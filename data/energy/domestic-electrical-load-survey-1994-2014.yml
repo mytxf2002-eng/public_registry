@@ -1,0 +1,24 @@
+id: domestic-electrical-load-survey-1994-2014
+kind: [dataset]
+name: Domestic Electrical Load Survey 1994-2014
+url: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/755
+description: 'Annual socio-demographic survey of electricity-metered households in South Africa, 1994-2014: dwellings, occupants, income, appliance ownership and use, linkable to load metering'
+domain: energy
+tags: [electricity-demand, household-surveys, load-research, appliances]
+license: LicenseRef-Research-Only
+license_url: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/755
+publisher:
+  name: Eskom, University of Cape Town and Stellenbosch University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: application
+  temporal:
+    start: '1994'
+    end: '2014'
+  spatial: [ZA]
+  update_frequency: static

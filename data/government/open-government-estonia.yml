@@ -1,0 +1,15 @@
+id: open-government-estonia
+kind: [api]
+name: Open Government, Estonia
+url: https://avaandmed.eesti.ee/instructions/opendata-dataset-api
+description: Estonia Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

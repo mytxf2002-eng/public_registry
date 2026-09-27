@@ -1,0 +1,15 @@
+id: diagrams-so
+kind: [api]
+name: Diagrams.so
+url: https://diagrams.so/developers
+description: Generate editable draw.io architecture diagrams from text or infrastructure code
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

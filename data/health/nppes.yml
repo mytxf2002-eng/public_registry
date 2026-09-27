@@ -1,0 +1,15 @@
+id: nppes
+kind: [api]
+name: NPPES
+url: https://npiregistry.cms.hhs.gov/registry/help-api
+description: National Plan & Provider Enumeration System, info on healthcare providers registered in US
+domain: health
+license: unknown
+provenance:
+  added: 2017-09-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

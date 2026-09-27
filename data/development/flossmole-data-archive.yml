@@ -1,0 +1,23 @@
+id: flossmole-data-archive
+kind: [dataset]
+name: FLOSSmole Data Archive
+url: http://flossdata.syr.edu/data/
+description: Dated flat-file dumps collected 2004-2017 on free and open-source software projects and developers from SourceForge, GitHub, Google Code, Launchpad, Debian and other forges
+domain: development
+tags: [open-source, software-forges, sourceforge, developers, mining-software-repositories]
+license: unknown
+publisher:
+  name: FLOSSmole project (Syracuse University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [sql, text]
+  access: public
+  temporal:
+    start: '2004'
+    end: '2017'
+  spatial: [global]
+  update_frequency: static

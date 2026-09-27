@@ -1,0 +1,3 @@
+id: zelothorn
+description: 用通俗英文解释美国上市公司：公司简介、财报是否超出预期、SEC 文件，例如 GET /api/v1/company/:ticker。
+group: 公司基本面、监管披露与研究数据

@@ -1,0 +1,16 @@
+id: festivo-public-holidays
+kind: [api]
+name: Festivo Public Holidays
+url: https://getfestivo.com/docs
+description: Fastest and most advanced public holiday and observance service on the market
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

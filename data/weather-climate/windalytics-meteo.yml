@@ -1,0 +1,15 @@
+id: windalytics-meteo
+kind: [api]
+name: Windalytics Meteo
+url: https://api.windalytics.com/
+description: Weather forecasts and weather station data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

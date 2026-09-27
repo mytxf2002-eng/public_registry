@@ -1,0 +1,16 @@
+id: geoplugin
+kind: [api]
+name: geoPlugin
+url: https://www.geoplugin.com
+description: IP geolocation and currency conversion
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-11-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

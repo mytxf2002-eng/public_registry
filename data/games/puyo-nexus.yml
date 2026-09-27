@@ -1,0 +1,15 @@
+id: puyo-nexus
+kind: [api]
+name: Puyo Nexus
+url: https://github.com/deltadex7/puyodb-api-deno
+description: Puyo Puyo information from Puyo Nexus Wiki
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

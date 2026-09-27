@@ -1,0 +1,16 @@
+id: ip-api-io
+kind: [api]
+name: IP-API.io
+url: https://ip-api.io
+description: IP geolocation with VPN/proxy/Tor detection, reputation and risk score
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

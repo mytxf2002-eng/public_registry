@@ -1,0 +1,15 @@
+id: carbon-interface
+kind: [api]
+name: Carbon Interface
+url: https://docs.carboninterface.com/
+description: API to calculate carbon (C02) emissions estimates for common C02 emitting activities
+domain: environment
+license: unknown
+provenance:
+  added: 2021-04-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

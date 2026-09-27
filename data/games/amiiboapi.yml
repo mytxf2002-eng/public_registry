@@ -1,0 +1,15 @@
+id: amiiboapi
+kind: [api]
+name: AmiiboAPI
+url: https://amiiboapi.com/
+description: Nintendo Amiibo Information
+domain: games
+license: unknown
+provenance:
+  added: 2018-02-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

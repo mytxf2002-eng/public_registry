@@ -1,0 +1,15 @@
+id: lordicon
+kind: [api]
+name: Lordicon
+url: https://lordicon.com/
+description: Icons with predone Animations
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: transport-for-paris-france
+kind: [api]
+name: Transport for Paris, France
+url: http://data.ratp.fr/api/v1/console/datasets/1.0/search/
+description: RATP Open Data API
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

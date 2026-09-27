@@ -1,0 +1,24 @@
+id: traffic-and-log-data-captured-during-a-cyber-defense
+kind: [dataset]
+name: Traffic and Log Data Captured During a Cyber Defense Exercise
+url: https://zenodo.org/records/3746129
+description: IPFIX network flows, Linux syslog and Windows event logs recorded during a two-day red team versus blue team exercise at Masaryk University in March 2019
+domain: security
+tags: [cyber-range, ipfix, syslog, windows-event-logs, red-team]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/3746129
+publisher:
+  name: Masaryk University (Tovarňák, Špaček, Vykopal et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, yaml, csv]
+  access: public
+  temporal:
+    start: 2019-03-19
+    end: 2019-03-20
+  update_frequency: static
+  size: about 270 MB

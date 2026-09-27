@@ -1,0 +1,22 @@
+id: open-food-facts
+kind: [api, dataset]
+name: Open Food Facts
+url: https://world.openfoodfacts.org/data
+description: Food Products Database
+domain: food-agriculture
+license: ODbL-1.0
+license_url: https://world.openfoodfacts.org/data
+provenance:
+  added: 2017-11-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [jsonl, tsv, parquet, binary]
+  access: public
+  spatial: [global]
+  update_frequency: daily
+  size: 0.9 GB CSV (gzipped)

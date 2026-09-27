@@ -1,0 +1,25 @@
+id: knmi
+kind: [api, dataset]
+name: KNMI
+url: https://developer.dataplatform.knmi.nl/
+description: Dutch weather, radar and climate data
+domain: weather-climate
+tags: [weather-observations, radar, weather-models, climate-series, seismology]
+license: CC-BY-4.0
+license_url: https://dataplatform.knmi.nl/
+publisher:
+  name: Royal Netherlands Meteorological Institute (KNMI)
+  kind: government
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [netcdf, grib, hdf5]
+  access: public
+  spatial: [NL]
+  update_frequency: realtime

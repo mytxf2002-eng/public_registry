@@ -1,0 +1,15 @@
+id: urgences-quebec
+kind: [api]
+name: Urgences Québec
+url: https://sante.handled.tools/api
+description: Hourly emergency room occupancy, stretcher counts and wait times for hospitals in Quebec
+domain: health
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,30 @@
+id: ipums
+kind: [api, dataset]
+name: IPUMS
+url: https://www.ipums.org/
+description: Harmonized census and survey microdata for the US and about 100 other countries, including US censuses from 1790, ACS, CPS, time-use and health surveys, plus NHGIS tables and GIS boundaries
+domain: social-sciences
+tags: [census, microdata, survey-data, demography, harmonized-data]
+license: LicenseRef-Provider-Terms
+license_url: https://usa.ipums.org/usa/terms.shtml
+publisher:
+  name: IPUMS, University of Minnesota
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://developer.ipums.org/
+dataset:
+  formats: [text, csv, stata, spss, sas, shapefile]
+  access: registration
+  temporal:
+    start: '1790'
+    end: null
+  spatial: [global]
+  update_frequency: irregular
+  size: over 1 billion person records

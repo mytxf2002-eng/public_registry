@@ -1,0 +1,19 @@
+id: bexar-data-dive
+kind: [dataset]
+name: Bexar Data Dive
+url: https://dive.cinow.info/
+description: Local indicators on health, demographics, education, housing and economics for Bexar County, Texas, by county, census tract, ZIP code and small area
+domain: social-sciences
+tags: [community-indicators, demographics, public-health, census-tracts]
+license: unknown
+publisher:
+  name: Community Information Now (CINow)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  spatial: [US-TX]

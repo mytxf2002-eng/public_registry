@@ -1,0 +1,16 @@
+id: screenshot-studio
+kind: [api]
+name: Screenshot Studio
+url: https://www.screenshot-studio.com/docs
+description: Capture web pages as images through a public HTTP API
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2026-09-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

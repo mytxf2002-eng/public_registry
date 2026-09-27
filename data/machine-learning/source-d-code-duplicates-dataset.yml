@@ -1,0 +1,25 @@
+id: source-d-code-duplicates-dataset
+kind: [dataset]
+name: source{d} Code Duplicates Dataset
+url: https://github.com/src-d/datasets/tree/master/Duplicates
+description: 1,989 pairs of Java files and 633 pairs of Java functions labelled identical, similar or different by human reviewers, stored in one SQLite database
+domain: machine-learning
+tags: [code-clones, source-code, java, similarity, labelled-pairs]
+license: ODbL-1.0
+license_url: https://github.com/src-d/datasets/tree/master/Duplicates
+publisher:
+  name: source{d}
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [sqlite]
+  access: public
+  url: https://drive.google.com/file/d/15f-fl0PRSsmooKJdel-qEZ4_FrQE774t
+  temporal:
+    start: 2018-02
+    end: 2018-02
+  update_frequency: static
+  size: about 20 MB compressed

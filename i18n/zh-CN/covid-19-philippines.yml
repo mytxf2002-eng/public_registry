@@ -1,0 +1,3 @@
+id: covid-19-philippines
+description: 菲律宾卫生部（DOH）新冠数据的非官方接口，Node.js 开源项目，卫生部发布新数据后自动更新。
+group: 新冠疫情：各国数据

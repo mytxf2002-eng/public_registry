@@ -1,0 +1,24 @@
+id: nchs-public-use-data-files
+kind: [dataset]
+name: NCHS Public-Use Data Files
+url: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/
+description: Public-use microdata and documentation from US National Center for Health Statistics surveys and vital statistics, e.g. NHIS, NSFG, NAMCS and deaths since 1968
+domain: health
+tags: [vital-statistics, mortality, natality, health-surveys, nhis]
+license: LicenseRef-US-Government-Work
+license_url: https://www.cdc.gov/other/agencymaterials.html
+publisher:
+  name: National Center for Health Statistics (CDC)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, text, pdf]
+  access: public
+  temporal:
+    start: '1968'
+    end: null
+  spatial: [US]
+  update_frequency: annual

@@ -1,0 +1,23 @@
+id: cert-atlas
+kind: [dataset]
+name: Cert Atlas
+url: https://atlas.quizforge.ai/
+description: 'Structured blueprints for nearly 2,000 certification exams from about 360 certifying bodies: domains and weights, passing scores, question counts, duration, price, prerequisites'
+domain: education
+tags: [certifications, exam-blueprints, professional-exams, test-prep]
+license: MIT
+license_url: https://github.com/hans6883/cert-atlas/blob/master/LICENSE
+publisher:
+  name: QuizForge
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  url: https://github.com/hans6883/cert-atlas
+  spatial: [global]
+  update_frequency: irregular
+  size: 1,965 exams

@@ -1,0 +1,3 @@
+id: keyvalue
+description: 简单的键值存储 REST 接口，适合在原型阶段临时保存配置或少量数据，免 key。
+group: 数据存储与临时托管

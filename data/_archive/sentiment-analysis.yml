@@ -1,0 +1,19 @@
+id: sentiment-analysis
+kind: [api]
+name: Sentiment Analysis
+url: https://www.meaningcloud.com/developer/sentiment-analysis
+description: Multilingual sentiment analysis of texts from different sources
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: MeaningCloud's website is gone (www.meaningcloud.com does not resolve), so its sentiment analysis API page no longer exists.

@@ -1,0 +1,18 @@
+id: rss-feed-to-json
+kind: [api]
+name: RSS feed to JSON
+url: https://rss-to-json-serverless-api.vercel.app
+description: Returns RSS feed in JSON format using feed URL
+domain: development
+license: unknown
+provenance:
+  added: 2021-05-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The Vercel deployment is disabled (HTTP 402 Payment Required) and no other official page for this API was found.

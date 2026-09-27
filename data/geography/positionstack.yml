@@ -1,0 +1,16 @@
+id: positionstack
+kind: [api]
+name: positionstack
+url: https://positionstack.com/
+description: Forward & Reverse Batch Geocoding REST API
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-03-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

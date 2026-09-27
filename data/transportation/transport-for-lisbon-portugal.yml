@@ -1,0 +1,15 @@
+id: transport-for-lisbon-portugal
+kind: [api]
+name: Transport for Lisbon, Portugal
+url: https://dados.emel.pt/
+description: Data about buses routes, parking and traffic
+domain: transportation
+license: unknown
+provenance:
+  added: 2019-11-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

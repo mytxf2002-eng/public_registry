@@ -1,0 +1,23 @@
+id: large-scale-international-boundaries
+kind: [dataset]
+name: Large Scale International Boundaries (LSIB)
+url: https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/metadata/3bdb81a0-c1b9-439a-a0b1-85dac30c59b2
+description: Worldwide international boundary lines and other lines of separation as recognized by the US government, edition 11.4 from February 2025, in GeoPackage and shapefile
+domain: geography
+tags: [international-boundaries, borders, cartography, vector-data]
+license: LicenseRef-US-Government-Work
+license_url: https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/metadata/3bdb81a0-c1b9-439a-a0b1-85dac30c59b2
+publisher:
+  name: U.S. Department of State, Office of the Geographer and Global Issues
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [gpkg, shapefile]
+  access: public
+  url: https://data.geodata.state.gov/LSIB.zip
+  spatial: [global]
+  update_frequency: irregular
+  size: 124 MB

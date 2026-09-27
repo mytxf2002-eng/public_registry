@@ -1,0 +1,15 @@
+id: remote-calc
+kind: [api]
+name: Remote Calc
+url: https://github.com/elizabethadegbaju/remotecalc
+description: Decodes base64 encoding and parses it to return a solution to the calculation in JSON
+domain: science-math
+license: unknown
+provenance:
+  added: 2022-01-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

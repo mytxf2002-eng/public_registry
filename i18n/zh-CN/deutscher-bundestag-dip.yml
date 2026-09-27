@@ -1,0 +1,3 @@
+id: deutscher-bundestag-dip
+description: 德国联邦议院“议会文献与活动信息系统”（DIP）的 API，可以读取议会活动、人员、印刷品（Drucksachen）、全会记录等，需要 API key。链接是一份 PDF 说明。
+group: 议会、选举与政治人物

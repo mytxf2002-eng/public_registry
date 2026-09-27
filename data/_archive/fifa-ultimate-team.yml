@@ -1,0 +1,18 @@
+id: fifa-ultimate-team
+kind: [api]
+name: FIFA Ultimate Team
+url: https://www.easports.com/fifa/ultimate-team/api/fut/item
+description: FIFA Ultimate Team items API
+domain: games
+license: unknown
+provenance:
+  added: 2021-04-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The undocumented FIFA-branded FUT item endpoint returns 503 and EA replaced the FIFA brand with EA Sports FC without offering an official public API.

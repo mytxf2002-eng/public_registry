@@ -1,0 +1,2 @@
+id: country-list
+description: 按 ISO 3166-1 二位字母代码列出的国家和地区名称，基于 ICU（Symfony Intl）数据译成多种语言，每种语言提供 CSV、JSON、YAML、XML、SQL（MySQL、PostgreSQL、SQLite）、纯文本等格式，可直接从 GitHub 下载或通过 Composer 安装，采用 MIT 许可。

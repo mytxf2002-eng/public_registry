@@ -1,0 +1,15 @@
+id: gutendex
+kind: [api]
+name: Gutendex
+url: https://gutendex.com/
+description: Web-API for fetching data from Project Gutenberg Books Library
+domain: books
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

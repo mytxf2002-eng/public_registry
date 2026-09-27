@@ -1,0 +1,15 @@
+id: brazil-central-bank-open-data
+kind: [api]
+name: Brazil Central Bank Open Data
+url: https://dadosabertos.bcb.gov.br/
+description: Interest rates, exchange rates, inflation and market expectations from Brazil's central bank
+domain: economics
+license: unknown
+provenance:
+  added: 2021-04-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

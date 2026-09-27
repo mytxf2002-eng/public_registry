@@ -1,0 +1,15 @@
+id: mailchimp
+kind: [api]
+name: Mailchimp
+url: https://mailchimp.com/developer/
+description: Send marketing campaigns and transactional mails
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: wakatime
+kind: [api]
+name: WakaTime
+url: https://wakatime.com/developers
+description: Automated time tracking leaderboards for programmers
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2019-02-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

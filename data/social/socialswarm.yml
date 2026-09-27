@@ -1,0 +1,15 @@
+id: socialswarm
+kind: [api]
+name: SocialSwarm
+url: https://social-swarm-main-aa77a19.zuplo.site
+description: Turn articles into ready-to-post X thread drafts with different hooks
+domain: social
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

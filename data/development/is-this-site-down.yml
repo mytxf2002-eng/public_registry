@@ -1,0 +1,15 @@
+id: is-this-site-down
+kind: [api]
+name: Is This Site Down?
+url: https://downforjustmeoreveryone.com/api
+description: Check if any website is down, from two continents; live status, uptime history and TLS expiry
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

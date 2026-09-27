@@ -1,0 +1,15 @@
+id: nasa-power
+kind: [api]
+name: NASA POWER
+url: https://power.larc.nasa.gov/docs/
+description: Global solar and weather data for energy and agriculture
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

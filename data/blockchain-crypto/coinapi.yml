@@ -1,0 +1,16 @@
+id: coinapi
+kind: [api]
+name: CoinAPI
+url: https://docs.coinapi.io/
+description: All Currency Exchanges integrate under a single api
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-02-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

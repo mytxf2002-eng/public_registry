@@ -1,0 +1,15 @@
+id: tinyurl
+kind: [api]
+name: TinyURL
+url: https://tinyurl.com/app/dev
+description: Shorten long URLs
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

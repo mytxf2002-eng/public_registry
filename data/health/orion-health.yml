@@ -1,0 +1,15 @@
+id: orion-health
+kind: [api]
+name: Orion Health
+url: https://developer.orionhealth.io/
+description: Medical platform which allows the development of applications for different healthcare scenarios
+domain: health
+license: unknown
+provenance:
+  added: 2020-11-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

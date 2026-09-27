@@ -1,0 +1,15 @@
+id: imdbot
+kind: [api]
+name: IMDbOT
+url: https://github.com/SpEcHiDe/IMDbOT
+description: Unofficial IMDb Movie / Series Information
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

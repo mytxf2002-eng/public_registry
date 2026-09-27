@@ -1,0 +1,21 @@
+id: city-of-san-diego-open-data-portal
+kind: [dataset]
+name: City of San Diego Open Data Portal
+url: https://data.sandiego.gov/
+description: About 120 City of San Diego datasets, such as Get It Done 311 reports, development permits, police calls and budgets, as CSV, GeoJSON and shapefiles
+domain: government
+tags: [municipal, '311', permits, police]
+license: PDDL-1.0
+license_url: https://data.sandiego.gov/datasets/get-it-done-reports/
+publisher:
+  name: City of San Diego
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, geojson, shapefile, json]
+  access: public
+  spatial: [US-CA]
+  size: 122 datasets

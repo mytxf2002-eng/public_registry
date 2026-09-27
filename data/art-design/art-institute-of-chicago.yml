@@ -1,0 +1,15 @@
+id: art-institute-of-chicago
+kind: [api]
+name: Art Institute of Chicago
+url: https://api.artic.edu/docs/
+description: Collection, artist and exhibition data of the Art Institute of Chicago, with IIIF images
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

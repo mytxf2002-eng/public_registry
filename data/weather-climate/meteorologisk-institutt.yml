@@ -1,0 +1,15 @@
+id: meteorologisk-institutt
+kind: [api]
+name: Meteorologisk Institutt
+url: https://api.met.no/weatherapi/documentation
+description: Weather and climate data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2019-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: user-agent
+  https: true
+  cors: unknown

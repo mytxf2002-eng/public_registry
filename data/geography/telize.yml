@@ -1,0 +1,16 @@
+id: telize
+kind: [api]
+name: Telize
+url: https://rapidapi.com/fcambus/api/telize/
+description: Telize offers location information from any IP address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

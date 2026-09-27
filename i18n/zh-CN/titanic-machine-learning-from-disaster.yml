@@ -1,0 +1,2 @@
+id: titanic-machine-learning-from-disaster
+description: Kaggle 入门竞赛数据集，提供泰坦尼克号乘客的舱位、性别、年龄、票价、同行亲属和登船港口等信息，分为 891 条带生还标签的训练集和 418 条测试集，用于二分类练习。需登录 Kaggle 并接受竞赛规则后下载，许可条款未能核实。

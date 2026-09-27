@@ -1,0 +1,2 @@
+id: jcb-image-data-collection
+description: 《细胞生物学杂志》（JCB）424 篇论文图表所依据的原始显微图像文件，按研究和图表分组，存放在 EMBL-EBI 的 BioStudies 中；可网页浏览下载并用 BioStudies JSON 接口检索。各研究标注 CC-BY 许可但未注明版本，集合自 2018 年后未再增加。

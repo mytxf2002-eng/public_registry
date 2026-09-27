@@ -1,0 +1,15 @@
+id: stanza-udi-decoder
+kind: [api]
+name: Stanza UDI Decoder
+url: https://stanzaapi.com/tools/udi-decoder
+description: Decode and validate FDA GUDID and EU MDR medical device UDI barcodes
+domain: health
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

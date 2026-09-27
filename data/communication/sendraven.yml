@@ -1,0 +1,16 @@
+id: sendraven
+kind: [api]
+name: SendRaven
+url: https://sendraven.ai/docs/api
+description: 'Email for AI agents: send email, receive replies as threads, with per-key send limits and approvals'
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

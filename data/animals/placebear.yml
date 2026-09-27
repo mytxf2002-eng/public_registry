@@ -1,0 +1,15 @@
+id: placebear
+kind: [api]
+name: PlaceBear
+url: https://placebear.com/
+description: Placeholder bear pictures
+domain: animals
+license: unknown
+provenance:
+  added: 2021-07-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

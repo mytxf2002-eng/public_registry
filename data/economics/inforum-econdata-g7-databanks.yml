@@ -1,0 +1,20 @@
+id: inforum-econdata-g7-databanks
+kind: [dataset]
+name: Inforum EconData G7 Databanks
+url: https://inforumecon.com/econdata/
+description: 'Databanks of US federal economic statistics packaged for the G7 regression software: NIPA, input-output, gross output, KLEMS, CPI, PPI, employment and Census trade series'
+domain: economics
+tags: [national-accounts, input-output, price-indexes, employment, time-series]
+license: unknown
+publisher:
+  name: Inforum
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary]
+  access: public
+  spatial: [US]
+  update_frequency: monthly

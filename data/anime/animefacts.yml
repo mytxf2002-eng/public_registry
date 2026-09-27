@@ -1,0 +1,15 @@
+id: animefacts
+kind: [api]
+name: AnimeFacts
+url: https://chandan-02.github.io/anime-facts-rest-api/
+description: Anime Facts (over 100+)
+domain: anime
+license: unknown
+provenance:
+  added: 2021-10-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

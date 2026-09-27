@@ -1,0 +1,16 @@
+id: geojs
+kind: [api]
+name: GeoJS
+url: https://www.geojs.io/
+description: IP geolocation with ChatOps integration
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-11-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

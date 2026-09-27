@@ -1,0 +1,15 @@
+id: marketplace-fee-data
+kind: [api]
+name: Marketplace Fee Data
+url: https://www.sellerscalc.com/data
+description: Seller fee schedules for 21 e-commerce marketplaces and payment processors as JSON
+domain: shopping
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

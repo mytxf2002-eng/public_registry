@@ -1,0 +1,3 @@
+id: globalentity
+description: 从欧洲 56 个官方企业登记机构实时获取公司数据，统一整理成标准化的 JSON。
+group: 企业信息查询与核验

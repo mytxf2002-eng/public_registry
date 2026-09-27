@@ -1,0 +1,21 @@
+id: imagenet
+kind: [dataset]
+name: ImageNet
+url: https://image-net.org/
+description: About 14.2 million images organised by 21,841 WordNet noun synsets, including the ILSVRC 1,000-class subset with 1.28 million training images
+domain: machine-learning
+tags: [image-classification, object-recognition, wordnet, computer-vision]
+license: LicenseRef-Research-Only
+license_url: https://image-net.org/download.php
+publisher:
+  name: Stanford Vision Lab and Princeton University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: application
+  url: https://image-net.org/download.php
+  size: 14,197,122 images

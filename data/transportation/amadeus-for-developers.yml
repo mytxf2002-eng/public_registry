@@ -1,0 +1,15 @@
+id: amadeus-for-developers
+kind: [api]
+name: Amadeus for Developers
+url: https://developers.amadeus.com/self-service
+description: Travel Search - Limited usage
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-02-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

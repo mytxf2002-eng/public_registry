@@ -1,0 +1,15 @@
+id: newton
+kind: [api]
+name: Newton
+url: https://newton.vercel.app
+description: Symbolic and Arithmetic Math Calculator
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

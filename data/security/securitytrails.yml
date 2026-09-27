@@ -1,0 +1,15 @@
+id: securitytrails
+kind: [api]
+name: SecurityTrails
+url: https://securitytrails.com/corp/apidocs
+description: Domain and IP related information such as current and historical WHOIS and DNS records
+domain: security
+license: unknown
+provenance:
+  added: 2018-05-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: swiftnodes
+kind: [api]
+name: SwiftNodes
+url: https://swiftnodes.io
+description: Multi-chain blockchain RPC nodes (Ethereum, Solana and 75+ networks)
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

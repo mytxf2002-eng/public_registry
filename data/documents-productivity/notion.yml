@@ -1,0 +1,15 @@
+id: notion
+kind: [api]
+name: Notion
+url: https://developers.notion.com/docs/getting-started
+description: Integrate with Notion
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-05-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

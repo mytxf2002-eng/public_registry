@@ -1,0 +1,15 @@
+id: orizn-visa
+kind: [api]
+name: Orizn Visa
+url: https://visa.orizn.app
+description: Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-05-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

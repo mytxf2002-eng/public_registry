@@ -1,0 +1,15 @@
+id: socrata
+kind: [api]
+name: Socrata
+url: https://dev.socrata.com/
+description: Access to Open Data from Governments, Non-profits and NGOs around the world
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

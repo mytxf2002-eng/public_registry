@@ -1,0 +1,3 @@
+id: go-module-proxy
+description: Go 模块代理协议（GOPROXY）的官方说明：用几个固定的 GET 路径获取模块的版本列表、go.mod 文件和源码 zip。官方公共代理是 proxy.golang.org。
+group: 软件包仓库与 CDN

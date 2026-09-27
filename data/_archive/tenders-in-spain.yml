@@ -1,0 +1,18 @@
+id: tenders-in-spain
+kind: [api]
+name: Tenders in Spain
+url: https://tenders.guru/es/api
+description: Get data for procurements in Spain in JSON format
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The whole tenders.guru domain no longer responds (connections refused or timing out) and it has not been captured alive since April 2026.

@@ -1,0 +1,15 @@
+id: shotstack
+kind: [api]
+name: Shotstack
+url: https://shotstack.io/
+description: Cloud video editing API to create and render videos programmatically
+domain: video
+license: unknown
+provenance:
+  added: 2026-08-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

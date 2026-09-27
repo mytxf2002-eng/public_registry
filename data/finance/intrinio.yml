@@ -1,0 +1,15 @@
+id: intrinio
+kind: [api]
+name: Intrinio
+url: https://intrinio.com/
+description: A wide selection of financial data feeds
+domain: finance
+license: unknown
+provenance:
+  added: 2021-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

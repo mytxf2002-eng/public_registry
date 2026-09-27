@@ -1,0 +1,3 @@
+id: digi-key
+description: 电子元器件分销商得捷（Digi-Key）的 API：查询元器件的价格和库存，也可以下单。
+group: 电子元器件与零配件

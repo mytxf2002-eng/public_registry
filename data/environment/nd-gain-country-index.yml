@@ -1,0 +1,22 @@
+id: nd-gain-country-index
+kind: [dataset]
+name: ND-GAIN Country Index
+url: https://gain.nd.edu/our-work/country-index/
+description: Annual climate-change vulnerability and readiness scores for more than 180 countries over 20+ years, with sector scores and the 45 raw, interpolated and scaled indicators
+domain: environment
+tags: [climate-adaptation, vulnerability, resilience, country-index, indicators]
+license: unknown
+publisher:
+  name: Notre Dame Global Adaptation Initiative, University of Notre Dame
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://gain.nd.edu/our-work/country-index/download-data/
+  spatial: [global]
+  update_frequency: annual
+  size: about 0.5 M data points

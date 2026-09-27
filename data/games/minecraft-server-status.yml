@@ -1,0 +1,15 @@
+id: minecraft-server-status
+kind: [api]
+name: Minecraft Server Status
+url: https://api.mcsrvstat.us
+description: API to get Information about a Minecraft Server
+domain: games
+license: unknown
+provenance:
+  added: 2021-12-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,21 @@
+id: histology-cima-dataset
+kind: [dataset]
+name: Histology (CIMA) Dataset
+url: https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset
+description: Whole-slide histology images of lung lesions, lung lobes and mammary glands in 9 sets of differently stained consecutive sections, with manual landmarks for 108 image pairs
+domain: machine-learning
+tags: [histopathology, image-registration, landmarks, microscopy]
+license: CC-BY-SA-4.0
+license_url: https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset
+publisher:
+  name: Jiří Borovec (Czech Technical University in Prague)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv]
+  access: registration
+  update_frequency: static
+  size: 12.5 GB

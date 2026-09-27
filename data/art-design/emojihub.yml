@@ -1,0 +1,15 @@
+id: emojihub
+kind: [api]
+name: EmojiHub
+url: https://github.com/cheatsnake/emojihub
+description: Get emojis by categories and groups
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-12-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

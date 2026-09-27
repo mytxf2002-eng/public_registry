@@ -1,0 +1,15 @@
+id: trothstone
+kind: [api]
+name: TrothStone
+url: https://trothstone.com/api/search?q=BMW&limit=1
+description: UK used-car listings with a fair-price grade, 36-month resale forecast and true monthly cost
+domain: vehicles
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

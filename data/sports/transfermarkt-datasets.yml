@@ -1,0 +1,21 @@
+id: transfermarkt-datasets
+kind: [dataset]
+name: transfermarkt-datasets
+url: https://github.com/dcaribou/transfermarkt-datasets
+description: Twelve joinable football tables built from Transfermarkt, covering 88,000+ games, 50,000+ players, 1.89 million appearances, transfers and market valuations
+domain: sports
+tags: [football, soccer, transfers, market-values, players]
+license: CC0-1.0
+license_url: https://github.com/dcaribou/transfermarkt-datasets/blob/master/LICENSE
+publisher:
+  name: dcaribou (David Cariboo)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, other]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

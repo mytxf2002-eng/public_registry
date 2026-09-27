@@ -1,0 +1,3 @@
+id: inferdo
+description: 托管在 RapidAPI 上的计算机视觉接口：人脸检测、图像标签、NSFW 分类。
+group: 图像识别与计算机视觉

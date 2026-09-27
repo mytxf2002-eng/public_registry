@@ -1,0 +1,15 @@
+id: requesty
+kind: [api]
+name: Requesty
+url: https://docs.requesty.ai
+description: OpenAI compatible LLM router for 600+ models, with a free tier for free models
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

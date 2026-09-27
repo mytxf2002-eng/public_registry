@@ -1,0 +1,15 @@
+id: bc-ferries
+kind: [api]
+name: BC Ferries
+url: https://www.bcferriesapi.ca
+description: Sailing times and capacities for BC Ferries
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

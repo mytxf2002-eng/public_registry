@@ -1,0 +1,3 @@
+id: pirate-weather
+description: 开源的 Dark Sky 替代品：接口格式与已关闭的 Dark Sky API 兼容，数据来自 NOAA 的公开气象模式，需要注册免费 key。
+group: 免费开源与免 key 预报

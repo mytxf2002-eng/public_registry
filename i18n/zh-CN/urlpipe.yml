@@ -1,0 +1,3 @@
+id: urlpipe
+description: 用真实 Chrome 渲染页面，把 URL 转成 Markdown、截图、元数据或 Lighthouse 性能报告，还能生成 AI 摘要和关键词。
+group: 面向大模型的网页提取

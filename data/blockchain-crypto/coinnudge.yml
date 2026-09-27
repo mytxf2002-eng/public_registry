@@ -1,0 +1,16 @@
+id: coinnudge
+kind: [api]
+name: CoinNudge
+url: https://coinnudge.site/data/api-docs
+description: Current crypto market breadth, funding and open-interest research datasets
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

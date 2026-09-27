@@ -1,0 +1,11 @@
+# What the maintainer has checked by hand. For each resource id:
+#   signals: content signals that are harmless here (cross-site-redirect, parked-or-gambling)
+#   results: results the site gives automated clients although it works in a browser (for example
+#            client_error for a 400 answer); they count as restricted, which is working
+#   reason:  what was checked, and when
+facebook:
+  results: [client_error]
+  reason: Answers 400 to non-browser clients; the developer documentation opened normally in a browser on 2026-09-27
+instagram:
+  results: [client_error]
+  reason: Same host as facebook (developers.facebook.com); opened normally in a browser on 2026-09-27

@@ -1,0 +1,15 @@
+id: storj
+kind: [api]
+name: Storj
+url: https://storj.dev/
+description: Decentralized Open-Source Cloud Storage
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-12-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

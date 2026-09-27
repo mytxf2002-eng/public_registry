@@ -1,0 +1,15 @@
+id: luchtmeetnet
+kind: [api]
+name: Luchtmeetnet
+url: https://api-docs.luchtmeetnet.nl/
+description: Predicted and actual air quality components for The Netherlands (RIVM)
+domain: environment
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

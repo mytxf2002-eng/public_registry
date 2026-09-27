@@ -1,0 +1,3 @@
+id: mozilla-tls-scanner
+description: Mozilla TLS Observatory 的接口：检查网站的 TLS 配置和 X.509 证书。这是开源项目，链接是 GitHub 上 API 端点的说明。
+group: 域名、证书与网站检查

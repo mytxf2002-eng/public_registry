@@ -1,0 +1,20 @@
+id: uganda-bureau-of-statistics-data-portals
+kind: [dataset]
+name: Uganda Bureau of Statistics Data Portals
+url: https://www.ubos.org/data-portals-2/
+description: 'Official statistics of Uganda: 2024 census dashboards to parish level, statistical tables and reports, and a microdata archive of about 70 surveys and censuses'
+domain: government
+tags: [official-statistics, census, household-surveys, microdata]
+license: LicenseRef-Custom-Open
+license_url: https://www.ubos.org/about-us/guidelines-on-usage-and-reproduction-of-data/
+publisher:
+  name: Uganda Bureau of Statistics
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [pdf, xlsx]
+  access: public
+  spatial: [UG]

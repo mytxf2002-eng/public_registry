@@ -1,0 +1,3 @@
+id: circleci
+description: CI/CD 平台 CircleCI 的接口：触发流水线，查询构建和工作流状态，管理项目设置和环境变量等。
+group: CI/CD 平台接口

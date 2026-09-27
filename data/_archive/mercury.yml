@@ -1,0 +1,18 @@
+id: mercury
+kind: [api]
+name: Mercury
+url: https://mercury.postlight.com/web-parser/
+description: Web parser
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2017-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Postlight shut down the hosted Mercury Web Parser API on 15 April 2019, and mercury.postlight.com no longer resolves; only the self-hosted open-source library remains.

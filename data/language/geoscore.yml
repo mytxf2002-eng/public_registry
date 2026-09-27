@@ -1,0 +1,16 @@
+id: geoscore
+kind: [api]
+name: GeoScore
+url: https://geoscoreapi.com
+description: Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

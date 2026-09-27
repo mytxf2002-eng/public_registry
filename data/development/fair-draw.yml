@@ -1,0 +1,15 @@
+id: fair-draw
+kind: [api]
+name: Fair Draw
+url: https://bettip.co.za/fair-draw/api/
+description: Verifiable random draws bound to the drand public randomness beacon
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

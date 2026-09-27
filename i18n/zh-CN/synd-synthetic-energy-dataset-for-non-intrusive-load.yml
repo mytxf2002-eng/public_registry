@@ -1,0 +1,2 @@
+id: synd-synthetic-energy-dataset-for-non-intrusive-load
+description: 模拟一户奥地利家庭 180 天用电的合成数据集：以 0.2 秒间隔给出 21 种电器及总表的有功功率，电器模型基于真实家庭的实测功率曲线，另附电器元数据和数据生成工具。CSV 版约 5.6 GB，兼容 NILMTK 的 HDF5 版约 4.5 GB，可在 Figshare 直接下载，采用 CC0 公共领域贡献。

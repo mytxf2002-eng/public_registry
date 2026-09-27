@@ -1,0 +1,3 @@
+id: openqr
+description: 免费生成二维码，还能创建可修改跳转地址的动态二维码并查看扫码统计，同时提供 MCP 服务和 OpenAPI 3.1 描述。
+group: 二维码与条码

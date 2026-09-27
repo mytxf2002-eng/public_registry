@@ -1,0 +1,24 @@
+id: jhu-csse-covid-19-data-repository
+kind: [dataset]
+name: JHU CSSE COVID-19 Data Repository
+url: https://github.com/CSSEGISandData/COVID-19
+description: Daily COVID-19 confirmed cases and deaths by country, province and US county from January 2020 to March 2023, as daily report and time-series CSV files
+domain: health
+tags: [covid-19, case-counts, time-series, epidemiology]
+license: CC-BY-4.0
+license_url: https://github.com/CSSEGISandData/COVID-19
+publisher:
+  name: Johns Hopkins University Center for Systems Science and Engineering
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: 2020-01
+    end: 2023-03
+  spatial: [global]
+  update_frequency: static

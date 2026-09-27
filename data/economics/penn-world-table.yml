@@ -1,0 +1,24 @@
+id: penn-world-table
+kind: [dataset]
+name: Penn World Table
+url: https://www.rug.nl/ggdc/productivity/pwt/
+description: Relative levels of income, output, inputs and productivity for 185 countries from 1950 to 2023, including PPP-based real GDP, capital stock, employment and TFP
+domain: economics
+tags: [gdp, purchasing-power-parity, productivity, capital-stock, cross-country]
+license: CC-BY-4.0
+license_url: https://www.rug.nl/ggdc/productivity/pwt/
+publisher:
+  name: Groningen Growth and Development Centre, University of Groningen
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, stata]
+  access: public
+  temporal:
+    start: '1950'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

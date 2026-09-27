@@ -1,0 +1,15 @@
+id: my-ip
+kind: [api]
+name: MY IP
+url: https://www.myip.com/api-docs/
+description: Get IP address information
+domain: networks
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

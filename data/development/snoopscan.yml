@@ -1,0 +1,15 @@
+id: snoopscan
+kind: [api]
+name: SnoopScan
+url: https://snoopscan.com/docs
+description: Scrape, crawl, map and search the web as clean markdown or JSON, with a free monthly tier
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

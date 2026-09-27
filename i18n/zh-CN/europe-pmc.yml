@@ -1,0 +1,3 @@
+id: europe-pmc
+description: 由 EMBL-EBI 运营的生命科学文献库 Europe PMC 的接口：检索生物医学文献（包含 PubMed 的全部摘要），返回摘要、引用关系和全文链接，免 key。
+group: 学术论文检索与引用

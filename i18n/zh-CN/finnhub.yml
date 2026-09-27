@@ -1,0 +1,3 @@
+id: finnhub
+description: 股票、外汇、加密货币实时行情（REST 和 WebSocket），另有公司基本面、新闻、财报日历、经济数据和另类数据。免费档按每分钟调用次数限流。
+group: 股票与多资产行情

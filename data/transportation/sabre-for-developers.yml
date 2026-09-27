@@ -1,0 +1,15 @@
+id: sabre-for-developers
+kind: [api]
+name: Sabre for Developers
+url: https://developer.sabre.com/guide/getting-started-in-travel/getting-started-in-travel.html
+description: Travel Search - Limited usage
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

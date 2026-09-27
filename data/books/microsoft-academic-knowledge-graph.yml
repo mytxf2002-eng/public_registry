@@ -1,0 +1,25 @@
+id: microsoft-academic-knowledge-graph
+kind: [dataset]
+name: Microsoft Academic Knowledge Graph (MAKG)
+url: https://zenodo.org/records/4617285
+description: RDF version of the Microsoft Academic Graph with over 8 billion triples on about 239 million papers, authors, institutions, journals and fields of study, plus Wikidata links
+domain: books
+tags: [scholarly-data, knowledge-graph, linked-data, citations, bibliometrics]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/4617285
+publisher:
+  name: Michael Färber (Karlsruhe Institute of Technology)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [rdf]
+  access: public
+  temporal:
+    start: 2020-06
+    end: 2020-06
+  spatial: [global]
+  update_frequency: static
+  size: about 107 GB compressed

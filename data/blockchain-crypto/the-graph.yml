@@ -1,0 +1,16 @@
+id: the-graph
+kind: [api]
+name: The Graph
+url: https://thegraph.com
+description: Indexing protocol for querying networks like Ethereum with GraphQL
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

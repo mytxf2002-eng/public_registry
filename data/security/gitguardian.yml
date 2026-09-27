@@ -1,0 +1,15 @@
+id: gitguardian
+kind: [api]
+name: GitGuardian
+url: https://api.gitguardian.com/docs
+description: Scan files for secrets (API Keys, database credentials)
+domain: security
+license: unknown
+provenance:
+  added: 2021-03-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

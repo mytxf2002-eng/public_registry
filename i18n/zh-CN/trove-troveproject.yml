@@ -1,0 +1,2 @@
+id: trove-troveproject
+description: 个人项目，把难以直接使用的美国公共医疗数据整理成可查询的 Parquet/JSON 数据包：包括约 1,300 个非营利医院系统在 CMS 成本报告与 IRS 990 附表 H 中申报的慈善医疗对照，以及 2021–2024 年 218 个 FDA 新药批准及其审批文件链接。MIT 许可。

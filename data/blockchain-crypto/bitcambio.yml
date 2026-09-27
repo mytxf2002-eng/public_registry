@@ -1,0 +1,16 @@
+id: bitcambio
+kind: [api]
+name: Bitcambio
+url: https://nova.bitcambio.com.br/api/v3/docs#a-public
+description: Get the list of all traded assets in the exchange
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

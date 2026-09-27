@@ -1,0 +1,2 @@
+id: project-gutenberg-catalog-metadata
+description: 古登堡计划全部电子书的机器可读目录：每日更新的 RDF/XML 元数据、每周更新的 CSV 表和 MARC 记录，另有纯文本索引（GUTINDEX）以及全部图书纯文本的打包文件（约 11 GB），均可直接下载。元数据按 CC0 发布；书籍本身多为美国公有领域作品，其他国家的版权状态需自行确认。

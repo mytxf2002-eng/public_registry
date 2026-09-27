@@ -1,0 +1,20 @@
+id: simpler-grants-gov
+kind: [api]
+name: Simpler.Grants.gov
+url: https://simpler.grants.gov/search
+description: Search of all US federal funding opportunities posted on Grants.gov, with a REST API for keyword and field search and full details of each opportunity
+domain: government
+tags: [grants, funding-opportunities, federal-grants]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: Grants.gov Program Management Office (U.S. Department of Health and Human Services)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+  docs: https://api.simpler.grants.gov/docs

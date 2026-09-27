@@ -1,0 +1,15 @@
+id: keen-io
+kind: [api]
+name: Keen IO
+url: https://keen.io/
+description: Data Analytics
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2017-05-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

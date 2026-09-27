@@ -1,0 +1,15 @@
+id: funding-signals
+kind: [api]
+name: Funding Signals
+url: https://fundingsignals.net/docs
+description: Companies that just raised funding, scored as sales leads, from public SEC filings
+domain: business
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

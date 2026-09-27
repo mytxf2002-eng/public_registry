@@ -1,0 +1,15 @@
+id: restful-api
+kind: [api]
+name: restful-api
+url: https://restful-api.dev
+description: Fake REST API for testing and prototyping with CRUD endpoints
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

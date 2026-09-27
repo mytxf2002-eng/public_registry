@@ -1,0 +1,25 @@
+id: radiance-geojson-global-night-light-pollution-data-2024
+kind: [dataset]
+name: Radiance GeoJSON - Global Night Light Pollution Data 2024
+url: https://archive.org/details/radiance-geojson-data-2025
+description: Country-level night light pollution points for 173 countries from 2024 VIIRS imagery at 0.5 km resolution, with radiance, sky brightness (MPSAS) and Bortle class
+domain: environment
+tags: [light-pollution, nighttime-lights, viirs, bortle-scale, dark-sky]
+license: CC-BY-4.0
+license_url: https://archive.org/details/radiance-geojson-data-2025
+publisher:
+  name: Ignacio de Miguel Díaz
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geojson, sql]
+  access: public
+  temporal:
+    start: '2024'
+    end: '2024'
+  spatial: [global]
+  update_frequency: static
+  size: about 11 GB

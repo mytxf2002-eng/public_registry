@@ -1,0 +1,16 @@
+id: indodax
+kind: [api]
+name: Indodax
+url: https://github.com/btcid/indodax-official-api-docs
+description: Trade your Bitcoin and other assets with rupiah
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

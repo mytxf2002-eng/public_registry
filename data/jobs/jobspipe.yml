@@ -1,0 +1,15 @@
+id: jobspipe
+kind: [api]
+name: JobsPipe
+url: https://docs.jobspipe.dev
+description: Live job postings from 30+ ATS feeds and job boards in one normalized JSON schema
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: upres
+description: AI 图片放大，最高到 8K，可选 18 种模型（Real-ESRGAN、SeedVR2、AuraSR 等）。文档显示 API 属于 Business 套餐，每分钟限 60 次。
+group: 图片生成与处理

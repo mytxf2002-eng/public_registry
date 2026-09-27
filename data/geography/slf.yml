@@ -1,0 +1,16 @@
+id: slf
+kind: [api]
+name: SLF
+url: https://github.com/slftool/slftool.github.io/blob/master/API.md
+description: German city, country, river, database
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: modelfax
+kind: [api]
+name: Modelfax
+url: https://bytebrujo.github.io/modelfax/
+description: LLM pricing, context windows and deprecation dates, schema-validated and updated daily
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

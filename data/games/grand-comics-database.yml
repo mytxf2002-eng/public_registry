@@ -1,0 +1,25 @@
+id: grand-comics-database
+kind: [api, dataset]
+name: Grand Comics Database
+url: https://www.comics.org/
+description: Community database of comic series, issues and stories with creator credits, characters and cover images, with a public REST API and full data dumps for logged-in users
+domain: games
+tags: [comics, bibliographic-records, publishers, creators, cover-images]
+license: CC-BY-SA-4.0
+license_url: https://www.comics.org/
+publisher:
+  name: Grand Comics Database
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://github.com/GrandComicsDatabase/gcd-django/wiki/API
+dataset:
+  formats: [archive]
+  access: registration
+  update_frequency: irregular

@@ -1,0 +1,26 @@
+id: donnees-ouvertes-de-la-ville-de-montreal
+kind: [api, dataset]
+name: Données ouvertes de la Ville de Montréal
+url: https://donnees.montreal.ca/
+description: About 400 City of Montréal datasets on government and finances, infrastructure, environment and energy, transport, culture and public safety, mostly as CSV, GeoJSON and shapefiles
+domain: government
+tags: [municipal, gis, infrastructure, environment, transportation]
+license: CC-BY-4.0
+license_url: https://donnees.montreal.ca/pages/licence-d-utilisation
+publisher:
+  name: Ville de Montréal
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, shapefile, xlsx, json, gpkg]
+  access: public
+  spatial: [CA-QC]
+  update_frequency: irregular
+  size: 405 datasets

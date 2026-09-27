@@ -1,0 +1,25 @@
+id: massgis-data-hub
+kind: [api, dataset]
+name: MassGIS Data Hub
+url: https://gis.data.mass.gov/
+description: Statewide GIS data for Massachusetts from MassGIS, such as parcels, orthoimagery, habitat maps, zoning and traffic layers, plus a directory of municipal GIS viewers
+domain: geography
+tags: [gis, parcels, orthoimagery, habitat, zoning]
+license: unknown
+publisher:
+  name: MassGIS (Bureau of Geographic Information), Commonwealth of Massachusetts
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [shapefile, csv, geojson, kml]
+  access: public
+  spatial: [US-MA]
+  update_frequency: irregular
+  size: 324 items

@@ -1,0 +1,16 @@
+id: hackmyip
+kind: [api]
+name: HackMyIP
+url: https://hackmyip.com/api
+description: IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-05-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

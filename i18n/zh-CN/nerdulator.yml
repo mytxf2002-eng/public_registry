@@ -1,0 +1,3 @@
+id: nerdulator
+description: 输入一个值，返回能从它推导出的各种信息，涵盖数字、日期、颜色、UUID、cron 表达式等。
+group: 开发者小工具与在线编译

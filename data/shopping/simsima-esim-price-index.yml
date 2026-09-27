@@ -1,0 +1,22 @@
+id: simsima-esim-price-index
+kind: [dataset]
+name: Simsima eSIM Price Index
+url: https://simsima.io/en/esim-price-index/data
+description: Daily median and cheapest price per GB of travel eSIM data for about 240 countries and territories, with provider and plan counts, from 17 eSIM providers
+domain: shopping
+tags: [esim, mobile-data, telecom-prices, travel]
+license: CC-BY-4.0
+license_url: https://simsima.io/en/esim-price-index/data
+publisher:
+  name: Simsima
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://api.simsima.io/api/price-index/export.csv
+  spatial: [global]
+  update_frequency: daily

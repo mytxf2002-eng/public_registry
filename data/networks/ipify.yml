@@ -1,0 +1,15 @@
+id: ipify
+kind: [api]
+name: IPify
+url: https://www.ipify.org/
+description: A simple IP Address API
+domain: networks
+license: unknown
+provenance:
+  added: 2017-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

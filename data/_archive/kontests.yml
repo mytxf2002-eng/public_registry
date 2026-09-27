@@ -1,0 +1,19 @@
+id: kontests
+kind: [api]
+name: KONTESTS
+url: https://kontests.net/api
+description: For upcoming and ongoing competitive coding contests
+domain: development
+tags: [programming]
+license: unknown
+provenance:
+  added: 2022-01-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The author ended the project in January 2024 and the site is offline.

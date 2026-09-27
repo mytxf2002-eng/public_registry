@@ -1,0 +1,15 @@
+id: transport-for-germany
+kind: [api]
+name: Transport for Germany
+url: https://developers.deutschebahn.com/db-api-marketplace/apis/product/timetables
+description: Deutsche Bahn (DB) API
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

@@ -1,0 +1,22 @@
+id: u-s-water-quality-and-home-safety-data
+kind: [dataset]
+name: U.S. Water Quality & Home Safety Data
+url: https://github.com/artakulov/us-water-quality-data
+description: 'Per-ZIP indicators for 42,679 US ZIP codes: drinking-water violations, lead and copper evidence, PFAS detections, radon zone, flood-claim history and a composite home safety score'
+domain: environment
+tags: [drinking-water, water-quality, pfas, lead, radon]
+license: CC-BY-4.0
+license_url: https://github.com/artakulov/us-water-quality-data
+publisher:
+  name: ZipCheckup
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: weekly
+  size: 42,679 ZIP records

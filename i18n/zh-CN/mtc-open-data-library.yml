@@ -1,0 +1,2 @@
+id: mtc-open-data-library
+description: 美国旧金山湾区大都会交通委员会（MTC）与湾区政府协会（ABAG）的开放数据库，空间数据目录约 150 个数据集，包括湾区规划（Plan Bay Area）预测、公交站点与优先发展区、自行车网络、住房用地、建筑许可和人口普查地理单元等，另有 GitHub 上的交通模型资料。可下载 CSV、GeoJSON、KML、Shapefile 或通过 ArcGIS REST 访问；数据仅附免责声明，未采用开放许可。

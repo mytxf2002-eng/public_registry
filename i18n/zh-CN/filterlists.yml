@@ -1,0 +1,3 @@
+id: filterlists
+description: 广告拦截器和防火墙用的过滤列表目录，收录针对广告、跟踪器、恶意软件和骚扰内容的规则和 hosts 列表，适用于 uBlock Origin、Adblock Plus、AdGuard 等。
+group: 加密、隐私与其他工具

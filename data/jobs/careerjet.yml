@@ -1,0 +1,15 @@
+id: careerjet
+kind: [api]
+name: Careerjet
+url: https://www.careerjet.com/partners/api/
+description: Job search engine
+domain: jobs
+license: unknown
+provenance:
+  added: 2017-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

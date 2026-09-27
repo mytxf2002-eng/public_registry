@@ -1,0 +1,3 @@
+id: jobven
+description: 直接从雇主招聘页抓取职位，跟踪每个职位的开放和关闭，有变化时通过 webhook 推送，数据经过 AI 加工。
+group: 职位数据与市场统计

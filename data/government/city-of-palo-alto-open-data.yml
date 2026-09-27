@@ -1,0 +1,28 @@
+id: city-of-palo-alto-open-data
+kind: [api, dataset]
+name: City of Palo Alto Open Data
+url: https://data.paloalto.gov/home
+description: Over 500 City of Palo Alto data resources since 2012, including employee salaries, spending, development permits, library, utilities, emergency preparedness and GIS data
+domain: government
+tags: [municipal, salaries, budget, permits, utilities]
+license: PDDL-1.0
+license_url: https://data.paloalto.gov/home
+publisher:
+  name: City of Palo Alto
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://data.paloalto.gov/developers/
+dataset:
+  formats: [csv, xls, json, xml]
+  access: public
+  url: https://data.paloalto.gov/search/
+  spatial: [US-CA]
+  update_frequency: irregular
+  size: 561 resources

@@ -1,0 +1,15 @@
+id: crustdata
+kind: [api]
+name: Crustdata
+url: https://docs.crustdata.com
+description: People and company data covering profiles, headcount, funding and contacts
+domain: business
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

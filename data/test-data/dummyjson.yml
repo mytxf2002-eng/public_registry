@@ -1,0 +1,15 @@
+id: dummyjson
+kind: [api]
+name: DummyJSON
+url: https://dummyjson.com/
+description: Fake REST API with products, users, posts, comments, todos and more
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

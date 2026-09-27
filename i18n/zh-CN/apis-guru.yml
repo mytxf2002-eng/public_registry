@@ -1,0 +1,3 @@
+id: apis-guru
+description: 号称“Web API 的维基百科”：收集大量公开 API 的 OpenAPI/Swagger 描述文件，可以通过它的 REST 接口列出和下载。开源，免 key。
+group: API 目录与市场

@@ -1,0 +1,3 @@
+id: haveibeenpwned
+description: Troy Hunt 创办的数据泄露查询服务：按邮箱查是否出现在已知泄露事件中（需要付费 key）；Pwned Passwords 接口用 k-匿名方式检查密码是否泄露过，免费免 key。
+group: 账号、密码与凭据安全

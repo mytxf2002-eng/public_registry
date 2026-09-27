@@ -1,0 +1,2 @@
+id: nci-genomic-data-commons
+description: 美国国家癌症研究所的癌症基因组数据共享平台，汇集 TCGA、TARGET 等 93 个项目约 5 万例病例、134 万个文件，包括测序、表达、突变和临床数据。开放数据可经门户或 REST API 直接下载，原始测序等受控数据需通过 dbGaP 申请授权。

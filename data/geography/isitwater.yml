@@ -1,0 +1,16 @@
+id: isitwater
+kind: [api]
+name: IsItWater
+url: https://isitwater.com/
+description: Determine if a lat/lon is on water or land
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

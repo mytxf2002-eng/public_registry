@@ -1,0 +1,27 @@
+id: open-data-hub
+kind: [api, dataset]
+name: Open Data Hub
+url: https://www.opendatahub.com/datasets/
+description: 'Real-time and historical mobility and tourism data for South Tyrol: parking, e-charging, traffic sensors, public transport, accommodation, events and points of interest'
+domain: transportation
+tags: [mobility, tourism, parking, e-charging, real-time]
+license: CC0-1.0
+license_url: https://docs.opendatahub.com/licensing
+publisher:
+  name: NOI Techpark Südtirol/Alto Adige
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.opendatahub.com/
+dataset:
+  formats: [json, gtfs]
+  access: public
+  url: https://databrowser.opendatahub.com/
+  spatial: [IT-BZ]
+  update_frequency: realtime

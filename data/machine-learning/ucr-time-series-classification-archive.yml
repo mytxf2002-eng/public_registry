@@ -1,0 +1,20 @@
+id: ucr-time-series-classification-archive
+kind: [dataset]
+name: UCR Time Series Classification Archive
+url: https://www.cs.ucr.edu/~eamonn/time_series_data_2018/
+description: Benchmark collection of 128 univariate time series classification datasets from the 2018 edition of the archive, used to compare classification and clustering methods (about 260 MB zipped)
+domain: machine-learning
+tags: [time-series, classification, benchmark, clustering]
+license: unknown
+publisher:
+  name: University of California, Riverside (Eamonn Keogh group)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  update_frequency: static
+  size: 260 MB (zip)

@@ -1,0 +1,3 @@
+id: atomic-mail
+description: 给 AI Agent 用的邮箱：用程序创建收件箱，通过 JMAP（新一代邮件协议）收发邮件，支持 AgentSkill、MCP 和 REST 接入，注册时要完成工作量证明（proof of work）。
+group: AI Agent 专用邮箱

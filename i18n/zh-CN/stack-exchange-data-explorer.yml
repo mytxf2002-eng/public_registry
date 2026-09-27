@@ -1,0 +1,2 @@
+id: stack-exchange-data-explorer
+description: Stack Exchange 官方的数据查询工具，可在网页上用 SQL 查询 Stack Overflow 及其他 Stack Exchange 站点公开数据库的定期副本（帖子、评论、投票、用户、标签、徽章），查询结果可导出。内容按发布时间分别采用 CC BY-SA 2.5/3.0/4.0；运行查询可能需要登录。

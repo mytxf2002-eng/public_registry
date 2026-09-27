@@ -1,0 +1,15 @@
+id: worth-the-rip
+kind: [api]
+name: Worth the Rip
+url: https://worththerip.com/api/
+description: Sealed trading-card product prices and expected value across 10 TCGs, refreshed every 2 hours
+domain: games
+license: unknown
+provenance:
+  added: 2026-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

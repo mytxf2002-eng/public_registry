@@ -1,0 +1,15 @@
+id: bureau-of-labor-statistics
+kind: [api]
+name: Bureau of Labor Statistics
+url: https://www.bls.gov/developers/
+description: 'US labor statistics: inflation, unemployment, wages and productivity'
+domain: economics
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

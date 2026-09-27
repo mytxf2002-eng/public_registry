@@ -1,0 +1,15 @@
+id: verifnow
+kind: [api]
+name: VerifNow
+url: https://docs.verifnow.io
+description: Validates email, phone, IBAN, EU VAT against VIES, and Canadian, Spanish and US national IDs
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

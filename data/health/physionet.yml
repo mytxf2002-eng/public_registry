@@ -1,0 +1,20 @@
+id: physionet
+kind: [dataset]
+name: PhysioNet
+url: https://physionet.org/
+description: 'Several hundred curated biomedical datasets: physiological waveforms such as ECG and EEG, structured electronic health records, clinical text and imaging, plus challenge data'
+domain: health
+tags: [physiological-signals, ecg, ehr, clinical-data, waveforms]
+license: unknown
+publisher:
+  name: MIT Laboratory for Computational Physiology
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [edf, csv, other]
+  access: public
+  url: https://physionet.org/about/database/
+  update_frequency: irregular

@@ -1,0 +1,3 @@
+id: stockfit
+description: 数据来自 SEC EDGAR 的美股 API：财务报表、ETF 持仓、公司概况、高管薪酬、内部人交易、财报日期。
+group: 公司基本面、监管披露与研究数据

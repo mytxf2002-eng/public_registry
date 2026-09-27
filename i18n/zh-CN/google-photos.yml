@@ -1,0 +1,3 @@
+id: google-photos
+description: 谷歌相册的官方接口，需要 OAuth 授权。2025 年 3 月起 Library API 只能访问应用自己上传的照片和相册，要读取用户已有的照片，必须改用让用户手动选图的 Picker API。
+group: 相册、图床与素材管理

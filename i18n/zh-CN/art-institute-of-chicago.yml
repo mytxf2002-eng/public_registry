@@ -1,0 +1,3 @@
+id: art-institute-of-chicago
+description: 芝加哥艺术博物馆的官方接口：藏品、艺术家、展览等数据，和它自己的网站、App 用的是同一套 API。免 key，支持 CORS，公有领域作品的图片可以通过 IIIF 接口获取。
+group: 博物馆与艺术馆藏

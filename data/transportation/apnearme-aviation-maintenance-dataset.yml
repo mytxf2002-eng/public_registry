@@ -1,0 +1,22 @@
+id: apnearme-aviation-maintenance-dataset
+kind: [dataset]
+name: APNearMe Aviation Maintenance Dataset
+url: https://apnearme.com/data
+description: Counts of FAA-certificated A&P mechanics by state and 3,965 geocoded Part 145 repair stations with ratings, plus state ratios of mechanics to based aircraft
+domain: transportation
+tags: [aviation-maintenance, aircraft-mechanics, repair-stations, faa]
+license: CC0-1.0
+license_url: https://github.com/APNearMe/apnearme-data
+publisher:
+  name: APNearMe
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://github.com/APNearMe/apnearme-data
+  spatial: [US]
+  update_frequency: irregular

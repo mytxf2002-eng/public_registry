@@ -1,0 +1,3 @@
+id: 4chan
+description: 匿名图片论坛 4chan 官方的只读 JSON 接口：版块列表、帖子串、版块目录和回复，文档放在 GitHub 上，不用 key。
+group: 论坛与新闻社区

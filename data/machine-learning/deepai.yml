@@ -1,0 +1,15 @@
+id: deepai
+kind: [api]
+name: DeepAI
+url: https://deepai.org/
+description: Provides AI-powered APIs for text generation, image processing, and more
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

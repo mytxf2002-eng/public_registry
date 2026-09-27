@@ -1,0 +1,15 @@
+id: facebook
+kind: [api]
+name: Facebook
+url: https://developers.facebook.com/
+description: Facebook Login, Share on FB, Social Plugins, Analytics and more
+domain: social
+license: unknown
+provenance:
+  added: 2016-03-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

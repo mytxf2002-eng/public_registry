@@ -1,0 +1,21 @@
+id: global-power-plant-database
+kind: [dataset]
+name: Global Power Plant Database
+url: https://datasets.wri.org/datasets/global-power-plant-database
+description: Geolocated records of about 30,000 power plants in 164 countries with capacity, primary fuel, ownership and annual generation figures
+domain: energy
+tags: [power-plants, generation-capacity, fuel-type, geolocation]
+license: CC-BY-4.0
+license_url: https://github.com/wri/global-power-plant-database
+publisher:
+  name: World Resources Institute
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [global]
+  update_frequency: static

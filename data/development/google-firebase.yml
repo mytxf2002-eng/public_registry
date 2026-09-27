@@ -1,0 +1,15 @@
+id: google-firebase
+kind: [api]
+name: Google Firebase
+url: https://firebase.google.com/docs
+description: Google's mobile application development platform that helps build, improve, and grow app
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

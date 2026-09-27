@@ -1,0 +1,2 @@
+id: openflights-airport-airline-and-route-data
+description: OpenFlights 的机场、航空公司、航线和机型数据库：全球 1 万多个机场、火车站和轮渡码头（含 IATA/ICAO 代码、经纬度、海拔和时区），约 5,900 家航空公司，截至 2014 年 6 月的 67,663 条航线（此后不再更新）以及 173 种客机型号，以 CSV 格式从 GitHub 免费下载，采用 ODbL 许可。

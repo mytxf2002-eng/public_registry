@@ -1,0 +1,15 @@
+id: tv-api
+kind: [api]
+name: TV-API
+url: https://tv-api.com/
+description: API for receiving movie, serial and cast information
+domain: video
+license: unknown
+provenance:
+  added: 2021-11-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

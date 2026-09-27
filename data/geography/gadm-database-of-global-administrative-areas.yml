@@ -1,0 +1,22 @@
+id: gadm-database-of-global-administrative-areas
+kind: [dataset]
+name: GADM Database of Global Administrative Areas
+url: https://gadm.org/
+description: Boundaries of 400,276 administrative areas covering every country down to its lowest sub-division level (version 4.1), as GeoPackage, shapefile, GeoJSON and KMZ
+domain: geography
+tags: [administrative-boundaries, boundaries, subnational, gis]
+license: LicenseRef-Research-Only
+license_url: https://gadm.org/license.html
+publisher:
+  name: GADM
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [gpkg, shapefile, geojson, kml]
+  access: public
+  url: https://gadm.org/data.html
+  spatial: [global]
+  update_frequency: irregular

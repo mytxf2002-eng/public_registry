@@ -1,0 +1,30 @@
+id: diavgis
+kind: [api, dataset]
+name: Diavgis
+url: https://diavgis.gr/
+description: Greek public procurement acts from Diavgeia, KIMDIS and EU TED linked into tender-to-payment chains, served as daily OCDS 1.1 release packages from March 2026
+domain: government
+tags: [public-procurement, ocds, tenders, contracts, public-spending]
+license: CC-BY-4.0
+license_url: https://diavgis.gr/en/ocds-policy
+publisher:
+  name: Diavgis
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://diavgis.gr/en/docs
+dataset:
+  formats: [json]
+  access: public
+  url: https://diavgis.gr/en/ocds-policy
+  temporal:
+    start: 2026-03
+    end: null
+  spatial: [GR]
+  update_frequency: daily

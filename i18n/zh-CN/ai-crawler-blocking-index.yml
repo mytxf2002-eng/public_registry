@@ -1,0 +1,2 @@
+id: ai-crawler-blocking-index
+description: 2026 年 6 月对 Tranco 前 100 万域名的 robots.txt 普查，逐个域名记录其点名并完全禁止的 20 种 AI 爬虫（如 GPTBot、CCBot、ClaudeBot）。完整的逐域名 JSONL 文件可在 GitHub、Hugging Face、Kaggle 和 Zenodo 免费下载，CC BY 4.0 许可；发布方是一家网页抓取服务商。

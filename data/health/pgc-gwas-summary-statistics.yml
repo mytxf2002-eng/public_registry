@@ -1,0 +1,21 @@
+id: pgc-gwas-summary-statistics
+kind: [dataset]
+name: PGC GWAS Summary Statistics
+url: https://pgc.unc.edu/for-researchers/download-results/
+description: Genome-wide association summary statistics from Psychiatric Genomics Consortium studies of ADHD, autism, bipolar disorder, depression, schizophrenia and other disorders, about 60 releases
+domain: health
+tags: [gwas, summary-statistics, psychiatric-genetics, schizophrenia, depression]
+license: LicenseRef-Research-Only
+license_url: https://pgc.unc.edu/for-researchers/download-results/
+publisher:
+  name: Psychiatric Genomics Consortium (PGC)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, xlsx, pdf]
+  access: public
+  update_frequency: irregular
+  size: ~60 datasets

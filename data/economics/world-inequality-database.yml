@@ -1,0 +1,22 @@
+id: world-inequality-database
+kind: [dataset]
+name: World Inequality Database (WID)
+url: https://wid.world/
+description: Long-run series on the distribution of income and wealth, top income shares, national income and carbon inequality for countries and world regions
+domain: economics
+tags: [inequality, income-distribution, wealth, national-accounts, carbon-inequality]
+license: CC-BY-NC-SA-4.0
+license_url: https://wid.world/world/
+publisher:
+  name: World Inequality Lab
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://wid.world/data/
+  spatial: [global]
+  size: about 882 MB zip (full dataset)

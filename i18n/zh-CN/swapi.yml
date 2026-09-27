@@ -1,0 +1,3 @@
+id: swapi
+description: 经典的星球大战数据接口：电影、角色、星球、飞船、载具和物种，免 key，常被当作学习调用 REST 接口的练习素材。原 swapi.co 下线后，由社区在 swapi.dev 继续维护。
+group: 科幻与奇幻作品设定

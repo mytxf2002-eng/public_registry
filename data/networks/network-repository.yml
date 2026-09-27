@@ -1,0 +1,21 @@
+id: network-repository
+kind: [dataset]
+name: Network Repository
+url: https://networkrepository.com/
+description: About 6,700 graph datasets in a common format, from social, biological, brain, road and web networks to graph-ML benchmarks, with interactive visualisation and statistics
+domain: networks
+tags: [graphs, network-science, graph-benchmarks, social-networks, graph-ml]
+license: CC-BY-SA-4.0
+license_url: https://networkrepository.com/policy.php
+publisher:
+  name: Ryan A. Rossi and Nesreen K. Ahmed
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: irregular
+  size: 6,659 networks

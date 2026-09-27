@@ -1,0 +1,20 @@
+id: ncei-weather-and-climate-quick-links
+kind: [dataset]
+name: NCEI Weather and Climate Quick Links
+url: https://www.ncei.noaa.gov/resources/weather-climate-links
+description: 'Access points to NOAA NCEI station archives: GHCN daily to yearly summaries, Global Hourly (ISD), Local Climatological Data, GSOD, U.S. Climate Normals and Storm Events'
+domain: weather-climate
+tags: [ghcn, weather-stations, climate-normals, storm-events, hourly-observations]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: NOAA National Centers for Environmental Information (NCEI)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, text, pdf]
+  access: public
+  spatial: [US, global]
+  update_frequency: daily

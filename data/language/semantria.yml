@@ -1,0 +1,16 @@
+id: semantria
+kind: [api]
+name: Semantria
+url: https://semantria-docs.lexalytics.com/
+description: Text Analytics with sentiment analysis, categorization & named entity extraction
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

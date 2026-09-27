@@ -1,0 +1,16 @@
+id: coinstats
+kind: [api]
+name: CoinStats
+url: https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest
+description: Crypto Tracker
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

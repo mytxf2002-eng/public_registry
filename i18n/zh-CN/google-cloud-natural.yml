@@ -1,0 +1,3 @@
+id: google-cloud-natural
+description: 谷歌云的 Natural Language API：情感分析、实体识别、句法分析和内容分类，支持多种语言，按量计费，每月有免费额度。
+group: 文本分析与自然语言理解

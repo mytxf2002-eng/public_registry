@@ -1,0 +1,21 @@
+id: personae-corpus
+kind: [dataset]
+name: Personae Corpus
+url: https://zenodo.org/records/4643756
+description: 145 Dutch essays by 145 Antwerp linguistics students on a controlled topic, with each writer's MBTI personality type and syntactically annotated versions of the texts
+domain: language
+tags: [authorship-attribution, personality, dutch, essays]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/4643756
+publisher:
+  name: CLiPS Research Center, University of Antwerp
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  update_frequency: static
+  size: 2.3 MB

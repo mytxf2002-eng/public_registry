@@ -1,0 +1,15 @@
+id: xoomar
+kind: [api]
+name: XOOMAR
+url: https://xoomar.com/markets/api
+description: 'US market data from SEC, FINRA, CFTC and the Fed: filings, insiders, earnings dates, short interest'
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

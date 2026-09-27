@@ -1,0 +1,15 @@
+id: kkbox
+kind: [api]
+name: KKBOX
+url: https://developer.kkbox.com
+description: Get music libraries, playlists, charts, and perform out of KKBOX's platform
+domain: music
+license: unknown
+provenance:
+  added: 2019-10-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

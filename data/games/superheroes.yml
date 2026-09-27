@@ -1,0 +1,15 @@
+id: superheroes
+kind: [api]
+name: SuperHeroes
+url: https://superheroapi.com
+description: All SuperHeroes and Villains data from all universes under a single API
+domain: games
+license: unknown
+provenance:
+  added: 2019-10-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

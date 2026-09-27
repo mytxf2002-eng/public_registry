@@ -1,0 +1,18 @@
+id: quickmocker
+kind: [api]
+name: QuickMocker
+url: https://quickmocker.com
+description: API mocking tool to generate contextual, fake or random data
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The quickmocker.com domain no longer serves anything and no new home for the service was found.

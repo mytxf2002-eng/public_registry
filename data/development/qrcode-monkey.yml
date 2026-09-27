@@ -1,0 +1,15 @@
+id: qrcode-monkey
+kind: [api]
+name: Qrcode Monkey
+url: https://www.qrcode-monkey.com/qr-code-api-with-logo/
+description: Integrate custom and unique looking QR codes into your system or workflow
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: brevo
+kind: [api]
+name: Brevo
+url: https://developers.brevo.com/
+description: A service that provides solutions relating to marketing and/or transactional email and/or SMS
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

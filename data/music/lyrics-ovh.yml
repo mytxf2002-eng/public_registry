@@ -1,0 +1,15 @@
+id: lyrics-ovh
+kind: [api]
+name: Lyrics.ovh
+url: https://lyricsovh.docs.apiary.io
+description: Simple API to retrieve the lyrics of a song
+domain: music
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

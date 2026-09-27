@@ -1,0 +1,15 @@
+id: file-io
+kind: [api]
+name: File.io
+url: https://www.file.io
+description: Super simple file sharing, convenient, anonymous and secure
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

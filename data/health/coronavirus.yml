@@ -1,0 +1,15 @@
+id: coronavirus
+kind: [api]
+name: Coronavirus
+url: https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme
+description: HTTP API for Latest Covid-19 Data
+domain: health
+license: unknown
+provenance:
+  added: 2021-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: fileup
+kind: [api]
+name: FileUp
+url: https://github.com/RealSinaSnp/FileUp
+description: Temporary file hosting with upload API, expiration times, and view limits
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2026-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

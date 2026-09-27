@@ -1,0 +1,15 @@
+id: framejet
+kind: [api]
+name: Framejet
+url: https://framejet.dev/docs
+description: Website screenshot API with cookie banners and chat widgets removed; free tier
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

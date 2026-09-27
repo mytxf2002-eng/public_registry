@@ -1,0 +1,25 @@
+id: large-scale-covid-19-twitter-chatter-dataset
+kind: [dataset]
+name: Large-Scale COVID-19 Twitter Chatter Dataset
+url: https://zenodo.org/records/3723939
+description: Identifiers of about 1.4 billion COVID-19-related tweets (362 million without retweets) collected January 2020 to April 2023, with daily counts, top terms, hashtags and mentions
+domain: social
+tags: [twitter, covid-19, tweet-ids, nlp, pandemic]
+license: LicenseRef-Public-Domain
+license_url: https://zenodo.org/records/7834392
+publisher:
+  name: Panacea Lab, Georgia State University (Juan M. Banda et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, csv]
+  access: public
+  temporal:
+    start: 2020-01
+    end: 2023-04
+  spatial: [global]
+  update_frequency: static
+  size: 16 GB

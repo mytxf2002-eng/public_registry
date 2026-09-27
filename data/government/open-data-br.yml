@@ -1,0 +1,26 @@
+id: open-data-br
+kind: [api, dataset]
+name: Open Data BR (Baton Rouge)
+url: https://data.brla.gov/
+description: About 240 datasets from the consolidated City of Baton Rouge and East Baton Rouge Parish government on crime, permits, transportation, housing, finance and recreation
+domain: government
+tags: [open-government, city-data, public-safety, permits, socrata]
+license: LicenseRef-Public-Domain
+license_url: https://data.brla.gov/d/fabb-cnnu
+publisher:
+  name: City of Baton Rouge / Parish of East Baton Rouge
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-LA]
+  update_frequency: daily

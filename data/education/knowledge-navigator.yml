@@ -1,0 +1,22 @@
+id: knowledge-navigator
+kind: [dataset]
+name: Knowledge Navigator
+url: https://github.com/MohamedMuneerM/knowledge-navigator
+description: 'Prerequisite map of STEM learning: 1,432 chapters and 14,439 topics across 11 disciplines, 2,430 prerequisite links and 13 goal-based roadmaps, as JSON'
+domain: education
+tags: [curriculum, stem, prerequisites, knowledge-graph, learning-paths]
+license: CC-BY-SA-4.0
+license_url: https://github.com/MohamedMuneerM/knowledge-navigator/blob/main/LICENSE-DATA.md
+publisher:
+  name: Mohamed Muneer M
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  url: https://mohamedmuneerm.github.io/knowledge-navigator/knowledge_base.json
+  update_frequency: irregular
+  size: 1,432 chapters, 14,439 topics

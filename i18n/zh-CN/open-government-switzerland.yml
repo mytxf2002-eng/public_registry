@@ -1,0 +1,3 @@
+id: open-government-switzerland
+description: 瑞士开放数据门户 opendata.swiss 官方手册里介绍 API 用法的一章（德文）。门户基于 CKAN，可以用 CKAN API 查询联邦、州和市镇发布的数据集元数据。
+group: 欧洲政府开放数据门户

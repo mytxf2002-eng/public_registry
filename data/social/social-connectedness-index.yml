@@ -1,0 +1,22 @@
+id: social-connectedness-index
+kind: [dataset]
+name: Social Connectedness Index
+url: https://data.humdata.org/dataset/social-connectedness-index
+description: Relative likelihood that people in two places are Facebook friends, for country pairs and subnational regions in 178 countries plus US counties and ZIP areas
+domain: social
+tags: [facebook, social-ties, friendship-networks, regions, research-data]
+license: CC0-1.0
+license_url: https://data.humdata.org/dataset/social-connectedness-index
+publisher:
+  name: AI for Good at Meta
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: CSV files up to 465 MB

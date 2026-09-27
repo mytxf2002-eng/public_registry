@@ -1,0 +1,20 @@
+id: aacr-project-genie
+kind: [dataset]
+name: AACR Project GENIE
+url: https://aacrprojectgenie.org/data/
+description: Clinico-genomic registry of clinical-grade tumor sequencing results for over 289,000 samples from 242,000+ patients at 19 cancer centers, updated twice a year
+domain: health
+tags: [cancer-genomics, clinical-sequencing, real-world-data, oncology, mutations]
+license: LicenseRef-Provider-Terms
+license_url: https://aacrprojectgenie.org/data/
+publisher:
+  name: American Association for Cancer Research
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, bed]
+  access: registration
+  url: https://www.synapse.org/Synapse:syn7222066

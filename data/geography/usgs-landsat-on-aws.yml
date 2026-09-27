@@ -1,0 +1,24 @@
+id: usgs-landsat-on-aws
+kind: [dataset]
+name: USGS Landsat on AWS
+url: https://registry.opendata.aws/usgs-landsat/
+description: Landsat 1-9 Collection 2 scenes and Level-2/Level-3 products as cloud-optimized GeoTIFFs in an S3 bucket with STAC metadata, new scenes added daily
+domain: geography
+tags: [satellite-imagery, landsat, remote-sensing, earth-observation, stac]
+license: LicenseRef-US-Government-Work
+license_url: https://registry.opendata.aws/usgs-landsat/
+publisher:
+  name: U.S. Geological Survey
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geotiff, json]
+  access: paid-tier
+  temporal:
+    start: '1972'
+    end: null
+  spatial: [global]
+  update_frequency: daily

@@ -1,0 +1,3 @@
+id: purgomalum
+description: 免费的英文脏话过滤服务：检测文本里是否含有不雅词汇，并可替换成指定字符，支持 JSON、XML 和纯文本返回。收录信息标注不支持 HTTPS。
+group: 内容过滤与开发调试

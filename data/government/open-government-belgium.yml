@@ -1,0 +1,21 @@
+id: open-government-belgium
+kind: [api, dataset]
+name: Open Government, Belgium
+url: https://data.gov.be/
+description: Belgium Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2018-06-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, xlsx, kml, shapefile, rdf]
+  access: public
+  url: https://data.gov.be/en/datasets
+  spatial: [BE]
+  size: about 19,500 datasets

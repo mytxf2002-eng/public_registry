@@ -1,0 +1,25 @@
+id: the-cell-image-library
+kind: [api, dataset]
+name: The Cell Image Library
+url: https://www.cellimagelibrary.org/home
+description: Public repository of over 12,000 annotated datasets of cell images, videos and animations (about 30 TB) across organisms, cell types and cellular processes, with OME-TIFF or raw downloads
+domain: life-sciences
+tags: [cell-biology, microscopy, bioimages, annotated-images]
+license: unknown
+publisher:
+  name: University of California San Diego (NCMIR)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://github.com/CRBS/CIL_RS/wiki/CIL_Public_API
+dataset:
+  formats: [image, video]
+  access: public
+  update_frequency: irregular
+  size: 12,000+ datasets, ~30 TB

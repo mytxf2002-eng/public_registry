@@ -1,0 +1,15 @@
+id: openligadb
+kind: [api]
+name: OpenLigaDB
+url: https://www.openligadb.de
+description: Crowd sourced sports league results
+domain: sports
+license: unknown
+provenance:
+  added: 2021-11-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

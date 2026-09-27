@@ -1,0 +1,15 @@
+id: kaggle
+kind: [api]
+name: Kaggle
+url: https://www.kaggle.com/docs/api
+description: Create and interact with Datasets, Notebooks, and connect with Kaggle
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: quickchart
+description: 开源的图表图片 API：传入 Chart.js 配置，返回 PNG 或 SVG 图片，可以直接嵌进邮件、Slack 等不能运行 JavaScript 的地方，没有水印；也能生成二维码。
+group: 图表、图示与图片生成

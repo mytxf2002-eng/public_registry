@@ -1,0 +1,2 @@
+id: common-crawl
+description: 非营利组织 Common Crawl 自 2008 年起定期抓取的网页档案，规模达 PB 级，包含原始网页（WARC）、元数据（WAT）、纯文本（WET）、URL 索引和网站链接图。可通过 HTTPS 或 AWS S3 免费下载，也可用 CDX 索引接口按网址查询；使用须遵守其服务条款，网页内容版权归原作者。

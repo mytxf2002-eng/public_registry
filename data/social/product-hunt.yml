@@ -1,0 +1,15 @@
+id: product-hunt
+kind: [api]
+name: Product Hunt
+url: https://api.producthunt.com/v2/docs
+description: Daily launches of new tech products with their comments, votes and topics
+domain: social
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: swiftnodes
+description: 多链 RPC 节点服务，支持以太坊、Solana、Base、Arbitrum、Polygon、BSC 等，官网称共 80 多条链。提供 HTTP 和 WebSocket，固定价格套餐，无需 KYC，可以用银行卡或加密货币付款。
+group: 节点与 RPC 服务

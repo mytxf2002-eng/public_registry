@@ -1,0 +1,3 @@
+id: best-temp-mail
+description: 自动化测试用的临时邮箱：创建一次性收件箱、等待邮件到达并提取验证码，有 Node 和 Python SDK、webhook 和 MCP，免费档不用注册。
+group: 测试用临时收件箱

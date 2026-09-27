@@ -1,0 +1,2 @@
+id: us-visa-bulletin-priority-date-history
+description: 把美国国务院每月《签证公告》（Visa Bulletin）的优先日期整理成 JSON 与 CSV，覆盖 2025 年 2 月至 2026 年 7 月共 18 期，含亲属移民与职业移民类别、最终裁定日期和递件日期两张表以及五个排期地区，约 2700 行，可在 GitHub 直接下载；数据为美国政府作品，非官方转录。

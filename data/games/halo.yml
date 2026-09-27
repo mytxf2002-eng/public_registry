@@ -1,0 +1,15 @@
+id: halo
+kind: [api]
+name: Halo
+url: https://developer.haloapi.com/
+description: Halo 5 and Halo Wars 2 Information
+domain: games
+license: unknown
+provenance:
+  added: 2017-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

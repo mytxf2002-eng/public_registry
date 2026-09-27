@@ -1,0 +1,3 @@
+id: minor-planet-center
+description: 不是国际天文学联合会小行星中心（MPC）的官方接口，而是小行星网站 Asterank 提供的查询接口，可以按条件检索 MPC 收录的小行星轨道数据。
+group: 天文数据与天象计算

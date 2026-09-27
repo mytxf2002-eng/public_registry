@@ -1,0 +1,3 @@
+id: printsocket
+description: 云打印接口：从任何编程语言把 PDF、ZPL 标签（斑马打印机的指令语言）和 ESC/POS 小票发到自己的打印机，有免费档。
+group: 模板生成文档与打印

@@ -1,0 +1,15 @@
+id: aniapi
+kind: [api]
+name: AniAPI
+url: https://aniapi.com/docs/
+description: Anime discovery, streaming & syncing with trackers
+domain: anime
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

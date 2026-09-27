@@ -1,0 +1,15 @@
+id: openf1
+kind: [api]
+name: OpenF1
+url: https://openf1.org/
+description: Real-time and historical Formula 1 data including laps, car telemetry and positions
+domain: sports
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

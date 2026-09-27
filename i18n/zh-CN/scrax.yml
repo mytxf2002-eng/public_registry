@@ -1,0 +1,3 @@
+id: scrax
+description: 托管在 RapidAPI 上的网页抓取 API，只对抓取成功的请求计费。
+group: 网页抓取、代理与反爬

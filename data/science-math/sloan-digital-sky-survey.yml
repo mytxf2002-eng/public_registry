@@ -1,0 +1,21 @@
+id: sloan-digital-sky-survey
+kind: [dataset]
+name: Sloan Digital Sky Survey
+url: https://www.sdss.org/
+description: Imaging, optical and infrared spectra and catalogs of stars, galaxies and quasars from SDSS-I through SDSS-V, published as numbered data releases up to DR20 (2026)
+domain: science-math
+tags: [astronomy, spectroscopy, sky-survey, galaxies, stars]
+license: LicenseRef-Public-Domain
+license_url: https://www.sdss.org/collaboration/image-use-policy/
+publisher:
+  name: SDSS Collaboration (Astrophysical Research Consortium)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [fits, csv]
+  access: public
+  url: https://www.sdss.org/dr20/data_access/
+  update_frequency: annual

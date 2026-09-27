@@ -1,0 +1,23 @@
+id: mirage-datasets
+kind: [dataset]
+name: MIRAGE Datasets
+url: https://traffic.comics.unina.it/mirage/
+description: Human-generated mobile-app network traffic labeled by app and user activity, in five releases from 2019 to 2025 that include collaboration apps and generative-AI chatbots
+domain: networks
+tags: [mobile-traffic, traffic-classification, packet-traces, ground-truth]
+license: CC-BY-NC-ND-4.0
+license_url: https://traffic.comics.unina.it/mirage/mirage-2019.html
+publisher:
+  name: Traffic Research Group, University of Naples Federico II
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  temporal:
+    start: '2019'
+    end: '2025'
+  update_frequency: irregular

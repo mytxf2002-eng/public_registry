@@ -1,0 +1,3 @@
+id: google-earth-engine
+description: 谷歌的云端遥感与地理空间分析平台，汇集大量卫星影像和环境数据集，可以用 JavaScript 或 Python 在云端做大范围分析。科研和非商业用途免费，商业使用需要付费。
+group: 高程、遥感与空间计算

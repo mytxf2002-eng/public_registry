@@ -1,0 +1,16 @@
+id: quotes-on-design
+kind: [api]
+name: Quotes on Design
+url: https://quotesondesign.com/api/
+description: Inspirational Quotes
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2016-11-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

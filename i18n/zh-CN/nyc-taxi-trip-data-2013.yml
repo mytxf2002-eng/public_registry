@@ -1,0 +1,2 @@
+id: nyc-taxi-trip-data-2013
+description: 2013 年纽约市出租车行程与车费数据，由 Chris Whong 通过信息公开（FOIL）申请从纽约市出租车与豪华轿车委员会获得，含车牌（medallion）与司机执照编号、上下车时间与经纬度、里程及费用明细，CSV 格式，以 7z 或 ZIP 大文件存放于互联网档案馆。未注明许可。

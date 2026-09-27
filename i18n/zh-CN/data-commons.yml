@@ -1,0 +1,2 @@
+id: data-commons
+description: 谷歌主导的开放数据知识图谱，将各国统计机构、国际组织等来源的人口、经济、健康、气候等公开统计数据按统一模式整合，可在网站检索、作图并下载 CSV，也可通过 REST（V2）、Python、SDMX 接口或 BigQuery 查询。API 需免费申请密钥；各数据源许可不同。

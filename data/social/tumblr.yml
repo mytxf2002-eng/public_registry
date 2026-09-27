@@ -1,0 +1,15 @@
+id: tumblr
+kind: [api]
+name: Tumblr
+url: https://www.tumblr.com/docs/en/api/v2
+description: Read and write Tumblr Data
+domain: social
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

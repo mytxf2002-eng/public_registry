@@ -1,0 +1,15 @@
+id: transitland
+kind: [api]
+name: TransitLand
+url: https://www.transit.land/documentation/datastore/api-endpoints.html
+description: Transit Aggregation
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

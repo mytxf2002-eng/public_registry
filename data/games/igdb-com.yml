@@ -1,0 +1,15 @@
+id: igdb-com
+kind: [api]
+name: IGDB.com
+url: https://api-docs.igdb.com
+description: Video Game Database
+domain: games
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

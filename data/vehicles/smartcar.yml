@@ -1,0 +1,15 @@
+id: smartcar
+kind: [api]
+name: Smartcar
+url: https://smartcar.com/docs/
+description: Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars
+domain: vehicles
+license: unknown
+provenance:
+  added: 2019-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

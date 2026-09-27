@@ -1,0 +1,3 @@
+id: forismatic
+description: 随机励志名言接口，支持英语和俄语，可返回 JSON、XML、纯文本等格式。
+group: 综合名言与励志语录

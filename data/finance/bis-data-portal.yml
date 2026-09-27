@@ -1,0 +1,26 @@
+id: bis-data-portal
+kind: [api, dataset]
+name: BIS Data Portal
+url: https://data.bis.org/
+description: Global statistics on international banking, debt securities, credit to the non-financial sector, property prices, exchange rates, central bank policy rates and payments
+domain: finance
+tags: [banking-statistics, debt-securities, property-prices, exchange-rates, policy-rates, credit]
+license: LicenseRef-Custom-Open
+license_url: https://data.bis.org/help/legal
+publisher:
+  name: Bank for International Settlements
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://stats.bis.org/api-doc/v2/
+dataset:
+  formats: [csv, sdmx]
+  access: public
+  url: https://data.bis.org/bulkdownload
+  spatial: [global]

@@ -1,0 +1,21 @@
+id: project-gutenberg-catalog-metadata
+kind: [dataset]
+name: Project Gutenberg Catalog Metadata
+url: https://www.gutenberg.org/ebooks/offline_catalogs.html
+description: Machine-readable catalog of all Project Gutenberg eBooks as daily RDF/XML records, a weekly CSV table and MARC files, plus plain-text index lists and a bulk archive of all book texts
+domain: books
+tags: [ebooks, bibliographic-metadata, public-domain-books, library-catalog]
+license: CC0-1.0
+license_url: https://www.gutenberg.org/cache/epub/1342/pg1342.rdf
+publisher:
+  name: Project Gutenberg Literary Archive Foundation
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [rdf, csv, marc, text]
+  access: public
+  url: https://www.gutenberg.org/cache/epub/feeds/
+  update_frequency: daily

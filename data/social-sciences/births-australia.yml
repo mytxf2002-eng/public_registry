@@ -1,0 +1,24 @@
+id: births-australia
+kind: [dataset]
+name: Births, Australia
+url: https://www.abs.gov.au/statistics/people/population/births-australia/latest-release
+description: Annual registered births, fertility rates, parents' ages, confinements and Indigenous births for Australia, its states and sub-state regions, with series back to 1975
+domain: social-sciences
+tags: [births, fertility, demographics, vital-statistics]
+license: CC-BY-4.0
+license_url: https://www.abs.gov.au/website-privacy-copyright-and-disclaimer
+publisher:
+  name: Australian Bureau of Statistics
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, sdmx]
+  access: public
+  temporal:
+    start: '1975'
+    end: null
+  spatial: [AU]
+  update_frequency: annual

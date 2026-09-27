@@ -1,0 +1,15 @@
+id: scryfall
+kind: [api]
+name: Scryfall
+url: https://scryfall.com/docs/api
+description: 'Magic: The Gathering database'
+domain: games
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,25 @@
+id: webb-database
+kind: [dataset]
+name: Webb-database
+url: https://webb-database.com/dbpub/
+description: Database of Hong Kong companies, listed securities, directors, shareholdings and CCASS holdings plus other local statistics, begun in 1998 as Webb-site and updated daily
+domain: business
+tags: [corporate-governance, company-directors, shareholdings, listed-companies, company-registry]
+license: CC-BY-4.0
+license_url: https://webb-database.com/pages/aboutus.asp
+publisher:
+  name: Webb-database (continuation of David M. Webb's Webb-site)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [html, sql]
+  access: public
+  url: https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL
+  temporal:
+    start: '1998'
+    end: null
+  spatial: [HK]
+  update_frequency: daily

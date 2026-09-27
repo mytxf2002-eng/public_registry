@@ -1,0 +1,3 @@
+id: lorem-picsum
+description: 占位图服务：在 URL 里写上宽高就能得到一张随机照片（如 picsum.photos/200/300），还可以指定图片 ID、固定随机种子、灰度和模糊，图片来自 Unsplash，免 key。
+group: 占位图与 README 装饰

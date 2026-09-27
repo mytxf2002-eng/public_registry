@@ -1,0 +1,24 @@
+id: arcgis-hub
+kind: [api, dataset]
+name: ArcGIS Hub
+url: https://hub.arcgis.com/search
+description: Search engine over public datasets that government, nonprofit and academic organisations share on ArcGIS, with downloads such as CSV, GeoJSON, KML and shapefile
+domain: open-data
+tags: [gis, dataset-search, ogc-api-records, feature-services, geospatial]
+license: unknown
+publisher:
+  name: Esri
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://hub.arcgis.com/api/search/definition/
+dataset:
+  formats: [csv, geojson, kml, shapefile, geotiff]
+  access: public
+  spatial: [global]

@@ -1,0 +1,3 @@
+id: vuldb
+description: 漏洞数据库 VulDB 的查询接口，一次请求可以检索一条或多条漏洞记录。
+group: 漏洞数据与漏洞赏金

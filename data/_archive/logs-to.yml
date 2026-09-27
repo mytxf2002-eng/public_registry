@@ -1,0 +1,18 @@
+id: logs-to
+kind: [api]
+name: Logs.to
+url: https://logs.to/
+description: Generate logs
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Domain is parked or for sale

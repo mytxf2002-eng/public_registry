@@ -1,0 +1,15 @@
+id: bank-negara-malaysia-open-data
+kind: [api]
+name: Bank Negara Malaysia Open Data
+url: https://apikijangportal.bnm.gov.my/
+description: Malaysia Central Bank Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

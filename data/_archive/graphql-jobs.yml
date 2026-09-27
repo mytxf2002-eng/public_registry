@@ -1,0 +1,18 @@
+id: graphql-jobs
+kind: [api]
+name: GraphQL Jobs
+url: https://graphql.jobs/docs/api/
+description: Jobs with GraphQL
+domain: jobs
+license: unknown
+provenance:
+  added: 2021-02-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: graphql.jobs no longer resolves, and no successor site was found.

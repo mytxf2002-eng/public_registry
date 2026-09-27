@@ -1,0 +1,15 @@
+id: tensorfeed
+kind: [api]
+name: TensorFeed
+url: https://tensorfeed.ai/developers
+description: Real-time AI news, model pricing, service status, and agent activity feeds
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

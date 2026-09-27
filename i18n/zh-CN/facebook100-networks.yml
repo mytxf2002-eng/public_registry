@@ -1,0 +1,2 @@
+id: facebook100-networks
+description: 2005 年 9 月美国 100 所高校内部的 Facebook 好友关系网络（Facebook100），每校一个 MATLAB 文件，含稀疏邻接矩阵及匿名化的性别、年级、专业、宿舍和高中等属性，对应 Traud、Mucha、Porter 的论文。由 Archive Team 镜像至互联网档案馆，约 207 MB ZIP 可直接下载；未声明许可。

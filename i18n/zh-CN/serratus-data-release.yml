@@ -1,0 +1,2 @@
+id: serratus-data-release
+description: Serratus 项目在公共测序库中大规模搜寻新病毒的结果数据：核酸与蛋白比对文件、比对摘要、冠状病毒组装和 RNA 依赖性 RNA 聚合酶（RdRP）序列等，按版本存放在 AWS S3 公共存储桶（s3://lovelywater2）中免费获取，项目声明数据属于公有领域。

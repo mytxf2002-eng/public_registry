@@ -1,0 +1,18 @@
+id: blague-xyz
+kind: [api]
+name: Blague.xyz
+url: https://blague.xyz/
+description: La plus grande API de Blagues FR/The biggest FR jokes API
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: 'Domain is for sale: the 2026-09-27 health check found a ''This domain is for sale'' page instead of the jokes API'

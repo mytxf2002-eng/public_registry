@@ -1,0 +1,15 @@
+id: quip
+kind: [api]
+name: Quip
+url: https://quip.com/dev/automation/documentation
+description: File Sharing and Storage for groups
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,24 @@
+id: bykaranteli-crypto-datasets
+kind: [dataset]
+name: ByKaranteli Crypto Datasets (CC0 snapshot)
+url: https://github.com/bykarantelicom/crypto-datasets
+description: 'Daily crypto market series frozen in September 2026: liquidations, perpetual funding and open interest, spot ETF flows, CFTC positioning, Coinbase premium and Deribit DVOL'
+domain: blockchain-crypto
+tags: [liquidations, funding-rates, open-interest, etf-flows, derivatives]
+license: CC0-1.0
+license_url: https://github.com/bykarantelicom/crypto-datasets
+publisher:
+  name: ByKaranteli
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: 2017-08
+    end: 2026-09
+  spatial: [global]
+  update_frequency: static

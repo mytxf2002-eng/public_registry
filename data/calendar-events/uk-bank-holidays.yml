@@ -1,0 +1,16 @@
+id: uk-bank-holidays
+kind: [api]
+name: UK Bank Holidays
+url: https://www.gov.uk/bank-holidays.json
+description: Bank holidays in England and Wales, Scotland and Northern Ireland
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

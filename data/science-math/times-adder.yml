@@ -1,0 +1,15 @@
+id: times-adder
+kind: [api]
+name: Times Adder
+url: https://github.com/FranP-code/API-Times-Adder
+description: With this API you can add each of the times introduced in the array sended
+domain: science-math
+license: unknown
+provenance:
+  added: 2022-01-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

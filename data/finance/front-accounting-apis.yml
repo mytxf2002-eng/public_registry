@@ -1,0 +1,15 @@
+id: front-accounting-apis
+kind: [api]
+name: Front Accounting APIs
+url: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
+description: Front accounting is multilingual and multicurrency software for small businesses
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

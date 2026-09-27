@@ -1,0 +1,2 @@
+id: bluebikes-system-data
+description: 波士顿地区共享单车 Bluebikes（原名 Hubway）自 2011 年以来的骑行记录，包括起止站点、时间、时长和用户类型，以 CSV 文件按期发布，另提供站点列表和 GBFS 实时数据流。使用须遵守 Bluebikes 数据许可协议：可用于任何合法用途，但不得将数据作为独立数据集再发布或出售。

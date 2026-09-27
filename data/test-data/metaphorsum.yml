@@ -1,0 +1,15 @@
+id: metaphorsum
+kind: [api]
+name: Metaphorsum
+url: http://metaphorpsum.com/
+description: Generate demo paragraphs giving number of words and sentences
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

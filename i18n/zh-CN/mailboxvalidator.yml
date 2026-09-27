@@ -1,0 +1,3 @@
+id: mailboxvalidator
+description: 邮箱验证服务 MailboxValidator，用来提高邮件送达率。链接指向其中的免费接口，判断一个地址是否来自 Gmail 这类免费邮箱服务商。
+group: 邮箱地址验证

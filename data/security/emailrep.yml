@@ -1,0 +1,15 @@
+id: emailrep
+kind: [api]
+name: EmailRep
+url: https://emailrep.io/
+description: Email address threat and risk prediction
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

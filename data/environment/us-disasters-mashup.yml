@@ -1,0 +1,22 @@
+id: us-disasters-mashup
+kind: [dataset]
+name: US Disasters Mashup
+url: https://github.com/data-poems/dataset-us-disasters
+description: '48,592 geocoded US disaster events merged into one JSON file: NTSB aviation accidents, NOAA storm events and historical shipwrecks, and recent USGS earthquakes'
+domain: environment
+tags: [natural-hazards, aviation-accidents, shipwrecks, storms, earthquakes]
+license: CC0-1.0
+license_url: https://github.com/data-poems/dataset-us-disasters/blob/main/LICENSE.md
+publisher:
+  name: Luke Steuber
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  spatial: [US]
+  update_frequency: static
+  size: 12.5 MB

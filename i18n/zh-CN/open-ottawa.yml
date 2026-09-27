@@ -1,0 +1,2 @@
+id: open-ottawa
+description: 加拿大渥太华市的开放数据门户（ArcGIS Hub），约 230 个数据集，包括选举结果、预算与合同、交通流量与事故、图书馆借阅、海滩和河流水质、公交运营指标以及分选区人口普查数据等。可下载 CSV、GeoJSON、KML、Shapefile，也可通过 ArcGIS REST 访问；采用基于加拿大开放政府许可 2.0 的渥太华开放数据许可。

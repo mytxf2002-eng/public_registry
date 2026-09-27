@@ -1,0 +1,26 @@
+id: usda-plants-database
+kind: [api, dataset]
+name: USDA PLANTS Database
+url: https://plants.usda.gov/
+description: Standard symbols, scientific and common names, taxonomy, native status, growth habit, state distribution and characteristics for plant taxa of the US and its territories
+domain: life-sciences
+tags: [plants, taxonomy, native-status, plant-distribution, botany]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: USDA Natural Resources Conservation Service (NRCS)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://plantsservices.sc.egov.usda.gov/
+dataset:
+  formats: [csv]
+  access: public
+  url: https://plants.usda.gov/downloads
+  spatial: [US]
+  update_frequency: irregular

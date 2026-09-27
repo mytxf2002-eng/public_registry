@@ -1,0 +1,3 @@
+id: product-hunt
+description: 新产品发布社区 Product Hunt 的官方 API（v2 是 GraphQL）：每日上榜产品、评论、投票、话题等数据。
+group: 论坛与新闻社区

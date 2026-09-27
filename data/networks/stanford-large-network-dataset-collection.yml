@@ -1,0 +1,19 @@
+id: stanford-large-network-dataset-collection
+kind: [dataset]
+name: Stanford Large Network Dataset Collection (SNAP)
+url: https://snap.stanford.edu/data/
+description: 'Large real-world network datasets from Stanford''s SNAP group: social, citation, collaboration, web, road, communication and temporal graphs, plus online reviews and community data'
+domain: networks
+tags: [social-networks, graphs, web-graphs, temporal-networks, network-science]
+license: unknown
+publisher:
+  name: Stanford Network Analysis Project (SNAP), Stanford University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: irregular

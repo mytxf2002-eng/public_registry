@@ -1,0 +1,15 @@
+id: graphql-pokemon
+kind: [api]
+name: GraphQL Pokemon
+url: https://github.com/favware/graphql-pokemon
+description: GraphQL powered Pokemon API. Supports generations 1 through 8
+domain: games
+license: unknown
+provenance:
+  added: 2022-01-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: windsock
+kind: [api]
+name: Windsock
+url: https://windsock.ai/app/docs
+description: Aircraft valuations, FAA registry lookups, cost of ownership and aviation market data
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: gw2spidy
+kind: [api]
+name: GW2Spidy
+url: https://github.com/rubensayshi/gw2spidy/wiki
+description: GW2Spidy API, Items data on the Guild Wars 2 Trade Market
+domain: games
+license: unknown
+provenance:
+  added: 2021-05-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,2 @@
+id: us-warn-act-layoff-notices
+description: 把美国 48 个州各自发布的 WARN 法案裁员和关厂通知整理成统一格式并去重，自 1988 年起约 6.1 万条，含雇主、地点、受影响人数和日期，每日更新。GitHub 与 Hugging Face 免费提供 CSV/JSON，CC BY 4.0；按雇主推送提醒的服务另行收费。早年和部分州覆盖较少。

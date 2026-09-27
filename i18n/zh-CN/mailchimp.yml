@@ -1,0 +1,3 @@
+id: mailchimp
+description: 邮件营销平台 Mailchimp 的开发者接口：管理受众名单、创建和发送营销活动、查看效果报表；事务邮件由 Mailchimp Transactional（原 Mandrill）负责。
+group: 邮件收发与邮件营销

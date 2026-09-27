@@ -1,0 +1,3 @@
+id: postcodedata-nl
+description: 按邮编和门牌号查询荷兰地址的位置数据。收录的链接本身就是一次查询示例，接口只支持 HTTP。
+group: 各国邮编与地址查询

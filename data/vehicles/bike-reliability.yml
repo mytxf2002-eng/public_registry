@@ -1,0 +1,15 @@
+id: bike-reliability
+kind: [api]
+name: Bike Reliability
+url: https://bikereliability.co.uk/developers
+description: UK motorcycle reliability ranked by first-time MOT pass rates
+domain: vehicles
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: 1pt
+kind: [api]
+name: 1pt
+url: https://github.com/1pt-co/api/blob/main/README.md
+description: A simple URL shortener
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-05-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

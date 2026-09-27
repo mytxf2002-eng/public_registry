@@ -1,0 +1,15 @@
+id: ai-for-thai
+kind: [api]
+name: AI For Thai
+url: https://aiforthai.in.th/index.php
+description: Free Various Thai AI API
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-07-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

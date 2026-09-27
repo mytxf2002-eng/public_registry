@@ -1,0 +1,3 @@
+id: git-io
+description: GitHub 官方的短链接服务，只能缩短 GitHub 的网址。2022 年起已停止生成新短链，只保留已有短链的跳转。
+group: 简单短链生成

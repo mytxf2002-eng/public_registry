@@ -1,0 +1,15 @@
+id: exactcup
+kind: [api]
+name: ExactCup
+url: https://exactcup.github.io/api/
+description: 'Cooking ingredient densities: grams per US cup, tablespoon, teaspoon and mL'
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

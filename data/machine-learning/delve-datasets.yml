@@ -1,0 +1,21 @@
+id: delve-datasets
+kind: [dataset]
+name: DELVE Datasets (Data for Evaluating Learning in Valid Experiments)
+url: https://www.cs.toronto.edu/~delve/data/datasets.html
+description: About 20 regression and classification datasets and families (abalone, adult, census-house, kin, pumadyn and others) packaged in 1995-1997 for comparing learning methods
+domain: machine-learning
+tags: [regression, classification, benchmark, uci]
+license: LicenseRef-Research-Only
+license_url: https://www.cs.toronto.edu/~delve/copyright.html
+publisher:
+  name: University of Toronto, DELVE project
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  url: https://ftp.cs.toronto.edu/pub/neuron/delve/data/tarfiles/
+  update_frequency: static

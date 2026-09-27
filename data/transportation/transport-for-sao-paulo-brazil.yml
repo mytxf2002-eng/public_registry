@@ -1,0 +1,15 @@
+id: transport-for-sao-paulo-brazil
+kind: [api]
+name: Transport for Sao Paulo, Brazil
+url: http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/
+description: SPTrans Olho Vivo real-time bus positions, arrival predictions, routes and stops
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: false
+  cors: unknown

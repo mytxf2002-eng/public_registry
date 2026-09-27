@@ -1,0 +1,15 @@
+id: neetix-liveliness
+kind: [api]
+name: Neetix Liveliness
+url: https://liveliness.neetix.in/api-reference
+description: Face liveness, presentation-attack detection and 1:1 face match for identity verification
+domain: security
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

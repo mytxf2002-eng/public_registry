@@ -1,0 +1,22 @@
+id: human-connectome-project-young-adult
+kind: [dataset]
+name: Human Connectome Project Young Adult (HCP-YA)
+url: https://www.humanconnectome.org/study/hcp-young-adult/data-releases/
+description: 3T and 7T MRI, MEG and behavioural data on 1,206 healthy young adults, many of them twins, with processed imaging for 1,071 subjects in the 2025 release
+domain: life-sciences
+tags: [connectomics, mri, fmri, meg, neuroimaging, twins]
+license: LicenseRef-Provider-Terms
+license_url: https://www.humanconnectome.org/study/hcp-young-adult/data-use-terms
+publisher:
+  name: WU-Minn Human Connectome Project consortium
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [nifti, csv]
+  access: registration
+  url: https://db.humanconnectome.org/
+  update_frequency: irregular
+  size: 1,206 subjects

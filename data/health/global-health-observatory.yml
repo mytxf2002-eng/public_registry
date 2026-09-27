@@ -1,0 +1,26 @@
+id: global-health-observatory
+kind: [api, dataset]
+name: Global Health Observatory (GHO)
+url: https://www.who.int/data/gho
+description: 'Health statistics for WHO''s 194 Member States: over 1,000 indicators on mortality, diseases, risk factors such as tobacco, health emergencies and universal health coverage'
+domain: health
+tags: [health-statistics, indicators, mortality, life-expectancy, sdg]
+license: LicenseRef-Research-Only
+license_url: https://www.who.int/about/policies/publishing/data-policy
+publisher:
+  name: World Health Organization
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://www.who.int/data/gho/info/gho-odata-api
+dataset:
+  formats: [json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

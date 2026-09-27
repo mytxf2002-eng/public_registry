@@ -1,0 +1,3 @@
+id: world-bank
+description: 世界银行的官方开放数据接口：世界发展指标等上万个时间序列指标（GDP、人口、贫困、教育、卫生等），可按国家和年份查询，免 key，支持 JSON 和 XML。
+group: 地球环境与全球统计

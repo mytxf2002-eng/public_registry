@@ -1,0 +1,15 @@
+id: noozra
+kind: [api]
+name: Noozra
+url: https://noozra.com/api
+description: Free news headlines from 200+ curated RSS sources
+domain: news-media
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

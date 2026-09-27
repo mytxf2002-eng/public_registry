@@ -1,0 +1,15 @@
+id: dribbble
+kind: [api]
+name: Dribbble
+url: https://developer.dribbble.com
+description: Discover the world’s top designers & creatives
+domain: art-design
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

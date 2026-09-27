@@ -1,0 +1,25 @@
+id: open-eor-dataset
+kind: [dataset]
+name: Open EOR Dataset
+url: https://besteor.co/data
+description: Published pricing for 63 employer-of-record providers, and statutory employer costs and employment terms for 139 countries, each figure cited to a primary source
+domain: business
+tags: [employer-of-record, payroll, employment-law, labor-costs]
+license: CC-BY-4.0
+license_url: https://besteor.co/data
+publisher:
+  name: BestEOR.co
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: '2026'
+    end: null
+  spatial: [global]
+  update_frequency: irregular
+  size: 63 providers, 139 countries

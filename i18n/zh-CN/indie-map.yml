@@ -1,0 +1,2 @@
+id: indie-map
+description: 2017 年 4 至 6 月对约 2,300 个活跃 IndieWeb 个人网站的完整抓取：570 万个页面、380 GB 带 microformats2 的 HTML（WARC 格式），以及由 6.31 亿条链接汇总出的站点社交图。可直接下载全部站点 JSON 压缩包、按域名调用 JSON 接口或在 BigQuery 中查询；原始 WARC 需 Google 账号获取。数据以 CC0 发布，抓取内容版权仍归各站点作者。

@@ -1,0 +1,16 @@
+id: detect-language
+kind: [api]
+name: Detect Language
+url: https://detectlanguage.com/
+description: Detects text language
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2018-01-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

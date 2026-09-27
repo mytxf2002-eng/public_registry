@@ -1,0 +1,25 @@
+id: data-commons
+kind: [api, dataset]
+name: Data Commons
+url: https://datacommons.org/
+description: Knowledge graph that merges public statistics from many agencies (population, economy, health, climate) into one schema, with explorers, CSV downloads and a REST API
+domain: open-data
+tags: [knowledge-graph, statistics, time-series, demographics, sdmx]
+license: unknown
+publisher:
+  name: Google
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://docs.datacommons.org/api/
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

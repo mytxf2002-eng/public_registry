@@ -1,0 +1,15 @@
+id: marketaux
+kind: [api]
+name: MarketAux
+url: https://www.marketaux.com/
+description: Live stock market news with tagged tickers + sentiment and stats JSON API
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

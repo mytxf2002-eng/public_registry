@@ -1,0 +1,15 @@
+id: alpha-vantage
+kind: [api]
+name: Alpha Vantage
+url: https://www.alphavantage.co/
+description: Realtime and historical stock data
+domain: finance
+license: unknown
+provenance:
+  added: 2017-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

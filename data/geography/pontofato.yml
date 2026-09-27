@@ -1,0 +1,16 @@
+id: pontofato
+kind: [api]
+name: PontoFato
+url: https://pontofato.com/api/
+description: Brazilian postal codes (CEP) with IBGE coordinates, addresses and the companies registered there
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

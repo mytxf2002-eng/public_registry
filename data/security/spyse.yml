@@ -1,0 +1,15 @@
+id: spyse
+kind: [api]
+name: Spyse
+url: https://spyse-dev.readme.io/reference/quick-start
+description: Search data on Internet assets for attack surface management
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

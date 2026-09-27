@@ -1,0 +1,15 @@
+id: therundown
+kind: [api]
+name: TheRundown
+url: https://therundown.io/
+description: 'Real-time sports data: odds, scores, stats & prediction markets, 30+ leagues, 18+ sportsbooks'
+domain: sports
+license: unknown
+provenance:
+  added: 2026-06-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

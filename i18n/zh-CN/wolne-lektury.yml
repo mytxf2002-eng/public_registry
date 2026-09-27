@@ -1,0 +1,3 @@
+id: wolne-lektury
+description: 波兰公益电子书网站 Wolne Lektury 的接口：查询站内公版图书的作者、体裁、时代等信息，并获取多种格式的下载链接，免 key。
+group: 公版电子书与文学作品

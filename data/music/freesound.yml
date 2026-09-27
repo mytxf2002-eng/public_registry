@@ -1,0 +1,15 @@
+id: freesound
+kind: [api]
+name: Freesound
+url: https://freesound.org/docs/api/
+description: Music Samples
+domain: music
+license: unknown
+provenance:
+  added: 2021-03-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

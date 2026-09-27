@@ -1,0 +1,3 @@
+id: geoapi
+description: 法国政府的行政区划接口（geo.api.gouv.fr）：查询市镇、省、大区等。
+group: 各国政府开放地理数据

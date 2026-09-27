@@ -1,0 +1,15 @@
+id: hotstoks
+kind: [api]
+name: Hotstoks
+url: https://hotstoks.com
+description: Stock market data powered by SQL
+domain: finance
+license: unknown
+provenance:
+  added: 2021-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

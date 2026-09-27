@@ -1,0 +1,16 @@
+id: biriyani-as-a-service
+kind: [api]
+name: Biriyani As A Service
+url: https://biriyani.anoram.com/
+description: Biriyani images placeholder
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

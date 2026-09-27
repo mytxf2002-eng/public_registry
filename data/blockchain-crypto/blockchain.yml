@@ -1,0 +1,16 @@
+id: blockchain
+kind: [api]
+name: Blockchain
+url: https://www.blockchain.com/explorer/docs
+description: Transaction, block and address data from the Blockchain.com Explorer
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-05-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,19 @@
+id: national-data
+kind: [dataset]
+name: National Data (National Bureau of Statistics of China)
+url: https://data.stats.gov.cn/dg/website/page.html#/pc/national/en/home
+description: 'China''s official statistics database: monthly, quarterly and annual national indicators, provincial and major-city series, census results and international comparisons'
+domain: government
+tags: [official-statistics, gdp, consumer-prices, regional-statistics, census]
+license: unknown
+publisher:
+  name: National Bureau of Statistics of China
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: public
+  spatial: [CN]

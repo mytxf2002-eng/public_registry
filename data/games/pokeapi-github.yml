@@ -1,0 +1,15 @@
+id: pokeapi-github
+kind: [api]
+name: PokéAPI (GraphQL)
+url: https://github.com/mazipan/graphql-pokeapi
+description: The Unofficial GraphQL for PokeAPI
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

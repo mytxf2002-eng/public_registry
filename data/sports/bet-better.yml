@@ -1,0 +1,15 @@
+id: bet-better
+kind: [api]
+name: Bet Better
+url: https://betbetter.world/api/
+description: Sports model win probabilities and fair odds across 13 leagues
+domain: sports
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

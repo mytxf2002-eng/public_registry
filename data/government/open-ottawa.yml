@@ -1,0 +1,26 @@
+id: open-ottawa
+kind: [api, dataset]
+name: Open Ottawa
+url: https://open.ottawa.ca/
+description: 'About 230 City of Ottawa datasets: election results, budgets and contracts, traffic volumes and collisions, library circulation, beach and river water quality, transit indicators and ward census data'
+domain: government
+tags: [municipal, elections, traffic, libraries, water-quality]
+license: LicenseRef-Open-Government
+license_url: https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data/open-data-licence-version-20
+publisher:
+  name: City of Ottawa
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [CA-ON]
+  update_frequency: irregular
+  size: 230 items

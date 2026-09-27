@@ -1,0 +1,21 @@
+id: open-government-italy
+kind: [api, dataset]
+name: Open Government, Italy
+url: https://www.dati.gov.it/
+description: Italy Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2019-02-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, xml, rdf, geojson, shapefile]
+  access: public
+  url: https://www.dati.gov.it/view-dataset
+  spatial: [IT]
+  size: 65,269 datasets

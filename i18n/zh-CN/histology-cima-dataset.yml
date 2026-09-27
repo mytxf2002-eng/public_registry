@@ -1,0 +1,2 @@
+id: histology-cima-dataset
+description: 组织切片图像配准数据集：肺部病灶、肺叶和乳腺组织的 9 组连续切片，每张切片使用不同染色（HE、CD31、Ki67、ER、PR 等），附 108 对图像的人工标志点，并提供 5%–100% 多种缩放比例；Kaggle 下载约 12.5 GB，需 Kaggle 账号，CC BY-SA 4.0。

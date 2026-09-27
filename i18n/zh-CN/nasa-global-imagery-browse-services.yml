@@ -1,0 +1,2 @@
+id: nasa-global-imagery-browse-services
+description: NASA 全球影像浏览服务（GIBS）以 WMTS、WMS 和 TWMS 标准瓦片服务提供全球全分辨率的地球科学卫星观测可视化影像，许多图层近实时每日更新，无需密钥即可调用，NASA 提倡数据完全开放共享，使用时请注明来源。

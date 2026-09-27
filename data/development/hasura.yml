@@ -1,0 +1,15 @@
+id: hasura
+kind: [api]
+name: Hasura
+url: https://hasura.io/opensource/
+description: GraphQL and REST API Engine with built in Authorization
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

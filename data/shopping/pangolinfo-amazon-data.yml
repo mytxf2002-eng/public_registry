@@ -1,0 +1,15 @@
+id: pangolinfo-amazon-data
+kind: [api]
+name: Pangolinfo Amazon Data
+url: https://docs.pangolinfo.com
+description: Amazon product, review, search and Best Sellers data across 20+ marketplaces
+domain: shopping
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

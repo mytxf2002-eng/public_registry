@@ -1,0 +1,3 @@
+id: katalis-uk-company-enrichment
+description: 基于英国公司注册处（Companies House）数据的公司资料，附 AI 摘要和准确度评分。同一个 key 还能查企业评分和公开记录（董事身份、付款、经营困境、合同、制裁等），有免费档。
+group: 企业信息查询与核验

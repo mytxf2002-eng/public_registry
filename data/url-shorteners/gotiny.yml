@@ -1,0 +1,15 @@
+id: gotiny
+kind: [api]
+name: GoTiny
+url: https://github.com/robvanbakel/gotiny-api
+description: A lightweight URL shortener, focused on ease-of-use for the developer and end-user
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

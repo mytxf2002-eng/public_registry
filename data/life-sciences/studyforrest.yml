@@ -1,0 +1,21 @@
+id: studyforrest
+kind: [dataset]
+name: StudyForrest
+url: https://studyforrest.org/
+description: 'Multimodal brain imaging data centred on the film Forrest Gump: 3T/7T fMRI during movie and audio-movie sessions, structural MRI, eye gaze, physiology and movie annotations'
+domain: life-sciences
+tags: [fmri, neuroimaging, eye-tracking, naturalistic-stimuli, movie-annotations]
+license: PDDL-1.0
+license_url: https://studyforrest.org/access.html
+publisher:
+  name: StudyForrest Project
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [nifti, tsv]
+  access: public
+  url: https://studyforrest.org/access.html
+  update_frequency: irregular

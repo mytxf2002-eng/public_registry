@@ -1,0 +1,2 @@
+id: ucsc-genome-browser-downloads
+description: 加州大学圣克鲁兹分校基因组浏览器的数据下载服务，提供人类、小鼠及大量其他物种组装版本的基因组序列与注释轨道，可通过 HTTP/FTP 下载、公共 MySQL 或 JSON REST API 获取；少数轨道在 README 中另有使用限制。

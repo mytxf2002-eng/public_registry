@@ -1,0 +1,15 @@
+id: hypixel
+kind: [api]
+name: Hypixel
+url: https://api.hypixel.net/
+description: Hypixel player stats
+domain: games
+license: unknown
+provenance:
+  added: 2019-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

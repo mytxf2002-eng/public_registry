@@ -1,0 +1,16 @@
+id: bitpanda
+kind: [api]
+name: BitPanda
+url: https://developers.bitpanda.com
+description: Cryptocurrency Information
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-06-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

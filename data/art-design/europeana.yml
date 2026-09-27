@@ -1,0 +1,15 @@
+id: europeana
+kind: [api]
+name: Europeana
+url: https://pro.europeana.eu/resources/apis/search
+description: European Museum and Galleries content
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

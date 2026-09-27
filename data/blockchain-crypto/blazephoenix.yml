@@ -1,0 +1,16 @@
+id: blazephoenix
+kind: [api]
+name: BlazePhoenix
+url: https://blazephoenix.xyz/api
+description: On-chain DEX aggregator quotes and route execution data
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

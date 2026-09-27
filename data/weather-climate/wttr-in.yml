@@ -1,0 +1,15 @@
+id: wttr-in
+kind: [api]
+name: wttr.in
+url: https://wttr.in/:help
+description: Weather in your terminal, supports JSON output
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

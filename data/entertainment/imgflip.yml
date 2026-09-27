@@ -1,0 +1,15 @@
+id: imgflip
+kind: [api]
+name: Imgflip
+url: https://imgflip.com/api
+description: Gets an array of popular memes
+domain: entertainment
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

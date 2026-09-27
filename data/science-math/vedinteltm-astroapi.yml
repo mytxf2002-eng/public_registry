@@ -1,0 +1,15 @@
+id: vedinteltm-astroapi
+kind: [api]
+name: VedIntel™ AstroAPI
+url: https://vedintelastroapi.com/docs
+description: Vedic astrology computation — birth charts, dashas, panchang, AI narratives
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

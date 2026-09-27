@@ -1,0 +1,20 @@
+id: google-books-ngram-datasets
+kind: [dataset]
+name: Google Books Ngram Datasets
+url: https://storage.googleapis.com/books/ngrams/books/datasetsv3.html
+description: Per-year counts of 1- to 5-word sequences in the scanned books behind the Google Books Ngram Viewer, for several language corpora, in 2009, 2012 and 2020 releases
+domain: language
+tags: [ngrams, word-frequency, books, corpus-linguistics, historical-linguistics]
+license: CC-BY-3.0
+license_url: https://storage.googleapis.com/books/ngrams/books/datasetsv3.html
+publisher:
+  name: Google
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  update_frequency: irregular

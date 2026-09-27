@@ -1,0 +1,15 @@
+id: clico
+kind: [api]
+name: Clico
+url: https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+description: URL shortener service
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

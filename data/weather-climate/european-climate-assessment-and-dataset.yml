@@ -1,0 +1,27 @@
+id: european-climate-assessment-and-dataset
+kind: [api, dataset]
+name: European Climate Assessment & Dataset (ECA&D)
+url: https://www.ecad.eu/
+description: Daily series from about 25,900 weather stations in 65 countries across Europe and the Mediterranean, with climate-extreme indices and the E-OBS gridded dataset
+domain: weather-climate
+tags: [weather-stations, daily-observations, climate-extremes, climate-indices, gridded-data]
+license: LicenseRef-Research-Only
+license_url: https://knmi-ecad-assets-prd.s3.amazonaws.com/documents/ECAD_datapolicy.pdf
+publisher:
+  name: Royal Netherlands Meteorological Institute (KNMI)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://api.meteogate.eu/eu-eumetnet-climate-observations/v1/docs
+dataset:
+  formats: [text, netcdf]
+  access: public
+  url: https://www.ecad.eu/dailydata/index.php
+  spatial: [europe]
+  update_frequency: monthly

@@ -1,0 +1,26 @@
+id: bts-statistical-products-and-data
+kind: [api, dataset]
+name: BTS Statistical Products and Data
+url: https://www.bts.gov/browse-statistical-products-and-data
+description: Catalogue of US Bureau of Transportation Statistics products such as freight flows, border crossings, airline data, the transportation atlas and economic indicators
+domain: transportation
+tags: [transportation-statistics, freight, border-crossings, aviation, geospatial]
+license: LicenseRef-US-Government-Work
+license_url: https://data.bts.gov/Research-and-Statistics/Transportation-Services-Index-and-Seasonally-Adjus/bw6n-ddqk
+publisher:
+  name: Bureau of Transportation Statistics (US DOT)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://data.bts.gov/
+  spatial: [US]
+  update_frequency: irregular

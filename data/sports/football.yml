@@ -1,0 +1,15 @@
+id: football
+kind: [api]
+name: Football
+url: https://rapidapi.com/GiulianoCrescimbeni/api/football98/
+description: A simple Open Source Football API to get squads’ stats, best scorers and more
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: x-mashape-key
+  https: true
+  cors: unknown

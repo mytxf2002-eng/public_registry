@@ -1,0 +1,15 @@
+id: refuge-restrooms
+kind: [api]
+name: REFUGE Restrooms
+url: https://www.refugerestrooms.org/api/docs/#!/restrooms
+description: Provides safe restroom access for transgender, intersex and gender nonconforming individuals
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

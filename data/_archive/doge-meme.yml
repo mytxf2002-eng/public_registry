@@ -1,0 +1,18 @@
+id: doge-meme
+kind: [api]
+name: Doge-Meme
+url: https://api.doge-meme.lol/docs
+description: Top meme posts from r/dogecoin which include 'Meme' flair
+domain: social
+license: unknown
+provenance:
+  added: 2021-08-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: api.doge-meme.lol no longer resolves and no successor was found.

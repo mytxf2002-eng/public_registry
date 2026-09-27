@@ -1,0 +1,26 @@
+id: cctv-camera-database
+kind: [api, dataset]
+name: CCTV Camera Database
+url: https://github.com/ch-bas/cctv-camera-database
+description: Technical specifications of 24,975 CCTV and IP camera models from 217 brands, transcribed from manufacturer datasheets with source links, as JSON and CSV
+domain: shopping
+tags: [cctv, ip-cameras, product-specifications, surveillance, frigate]
+license: CC0-1.0
+license_url: https://github.com/ch-bas/cctv-camera-database/blob/main/LICENSE
+publisher:
+  name: ch-bas
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://github.com/ch-bas/cctv-camera-database
+dataset:
+  formats: [json, csv]
+  access: public
+  update_frequency: irregular
+  size: 24,975 models

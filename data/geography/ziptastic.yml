@@ -1,0 +1,16 @@
+id: ziptastic
+kind: [api]
+name: Ziptastic
+url: https://ziptasticapi.com/
+description: Get the country, state, and city of any US zip-code
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-03-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

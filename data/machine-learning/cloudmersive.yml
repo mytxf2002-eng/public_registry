@@ -1,0 +1,15 @@
+id: cloudmersive
+kind: [api]
+name: Cloudmersive
+url: https://www.cloudmersive.com/image-recognition-and-processing-api
+description: Image captioning, face recognition, NSFW classification
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2018-04-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

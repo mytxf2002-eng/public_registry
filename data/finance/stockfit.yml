@@ -1,0 +1,15 @@
+id: stockfit
+kind: [api]
+name: StockFit
+url: https://api.stockfit.io/docs
+description: SEC filings, financial statements, earnings, ETF holdings and ownership data
+domain: finance
+license: unknown
+provenance:
+  added: 2026-06-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

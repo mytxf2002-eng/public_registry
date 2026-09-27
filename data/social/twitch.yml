@@ -1,0 +1,15 @@
+id: twitch
+kind: [api]
+name: Twitch
+url: https://dev.twitch.tv/docs
+description: Game Streaming API
+domain: social
+license: unknown
+provenance:
+  added: 2017-08-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

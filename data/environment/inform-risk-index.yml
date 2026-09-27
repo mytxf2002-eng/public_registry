@@ -1,0 +1,23 @@
+id: inform-risk-index
+kind: [dataset]
+name: INFORM Risk Index
+url: https://drmkc.jrc.ec.europa.eu/inform-index
+description: Country-level indices of humanitarian crisis and disaster risk, crisis severity and climate-change risk, published as Excel workbooks with all source data and calculation steps
+domain: environment
+tags: [disaster-risk, humanitarian, risk-index, natural-hazards, vulnerability]
+license: unknown
+publisher:
+  name: European Commission Joint Research Centre (INFORM partnership)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  url: https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data
+  temporal:
+    start: '2017'
+    end: null
+  spatial: [global]

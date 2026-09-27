@@ -1,0 +1,15 @@
+id: scoopkit
+kind: [api]
+name: Scoopkit
+url: https://scoopkit.dev
+description: AI-industry news deduplicated into structured events with a versioned category taxonomy
+domain: news-media
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

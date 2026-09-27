@@ -1,0 +1,15 @@
+id: google-keep
+kind: [api]
+name: Google Keep
+url: https://developers.google.com/keep/api/reference/rest
+description: API to read, write, and format Google Keep notes
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

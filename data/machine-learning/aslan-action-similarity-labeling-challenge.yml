@@ -1,0 +1,21 @@
+id: aslan-action-similarity-labeling-challenge
+kind: [dataset]
+name: ASLAN (Action Similarity Labeling) Challenge
+url: https://talhassner.github.io/home/projects/ASLAN/ASLAN-main.html
+description: 3,697 action clips cut from 1,571 YouTube videos in 432 action classes, with same/not-same pair splits and STIP descriptors for action similarity
+domain: machine-learning
+tags: [action-recognition, video-similarity, youtube, benchmark]
+license: unknown
+publisher:
+  name: Orit Kliper-Gross, Tal Hassner and Lior Wolf
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [video, matlab, text]
+  access: registration
+  url: https://talhassner.github.io/home/projects/ASLAN/ASLAN-downloads.html
+  update_frequency: static
+  size: 1.13 GB (MP4 videos)

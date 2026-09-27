@@ -1,0 +1,15 @@
+id: eod-historical-data
+kind: [api]
+name: EOD Historical Data
+url: https://eodhd.com/
+description: Real-time and historical stock market data with 150+ exchanges
+domain: finance
+license: unknown
+provenance:
+  added: 2026-08-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

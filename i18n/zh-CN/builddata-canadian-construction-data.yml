@@ -1,0 +1,2 @@
+id: builddata-canadian-construction-data
+description: BuildData 汇总加拿大 55 个城市发布的建筑许可、重大项目、分区、规划申请、营业执照、房产评估等约 1700 万条市政公开记录，统一格式并按地址关联，建筑许可每日更新。通过 REST API 提供，免费层每天 100 次请求、每次 100 行且只含 30 天以前的数据，完整访问和批量导出需付费。

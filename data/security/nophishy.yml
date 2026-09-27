@@ -1,0 +1,16 @@
+id: nophishy
+kind: [api]
+name: NoPhishy
+url: https://rapidapi.com/Amiichu/api/exerra-phishing-check/
+description: Check links to see if they're known phishing attempts
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2022-03-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

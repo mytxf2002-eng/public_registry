@@ -1,0 +1,25 @@
+id: ampds2-the-almanac-of-minutely-power-dataset
+kind: [dataset]
+name: 'AMPds2: The Almanac of Minutely Power Dataset'
+url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4
+description: Minute-level electricity, water and natural gas meter readings from one Canadian house over two years (2012-2014), with sub-metered circuits, weather and billing data
+domain: energy
+tags: [smart-meters, nilm, load-disaggregation, household-energy, water-consumption]
+license: CC-BY-4.0
+license_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4
+publisher:
+  name: Stephen Makonin et al., Simon Fraser University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, hdf5]
+  access: public
+  temporal:
+    start: '2012'
+    end: '2014'
+  spatial: [CA]
+  update_frequency: static
+  size: about 2.3 GB

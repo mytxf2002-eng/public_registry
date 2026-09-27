@@ -1,0 +1,15 @@
+id: an-api-of-ice-and-fire
+kind: [api]
+name: An API of Ice And Fire
+url: https://anapioficeandfire.com/
+description: Game Of Thrones API
+domain: video
+license: unknown
+provenance:
+  added: 2016-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

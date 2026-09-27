@@ -1,0 +1,18 @@
+id: punkapi
+kind: [api]
+name: PunkAPI
+url: https://punkapi.com/
+description: Brewdog Beer Recipes
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: PunkAPI shut down in 2024 and its domain no longer resolves.

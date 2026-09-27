@@ -1,0 +1,15 @@
+id: helious
+kind: [api]
+name: Helious
+url: https://helious.io/developers/
+description: US Treasury auction results with the tail and bidder split, plus scored economic releases
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

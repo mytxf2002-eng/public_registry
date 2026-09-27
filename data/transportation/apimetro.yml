@@ -1,0 +1,15 @@
+id: apimetro
+kind: [api]
+name: Apimetro
+url: https://apimetro.dev/swagger/index.html
+description: Geospatial data for Mexico City public transport system (Metro, Metrobús, Cablebús, RTP, etc.)
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

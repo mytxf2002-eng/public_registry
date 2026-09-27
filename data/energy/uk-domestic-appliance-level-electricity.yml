@@ -1,0 +1,26 @@
+id: uk-domestic-appliance-level-electricity
+kind: [dataset]
+name: UK Domestic Appliance-Level Electricity (UK-DALE)
+url: https://jack-kelly.com/data/
+description: Whole-house and per-appliance power demand every 6 seconds from five UK homes, plus 16 kHz voltage and current for three of them, up to 4.3 years per house
+domain: energy
+tags: [nilm, appliance-level, household-electricity, smart-meter, high-frequency]
+license: CC-BY-4.0
+license_url: https://jack-kelly.com/data/
+publisher:
+  name: Imperial College London (Jack Kelly, William Knottenbelt)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, hdf5, audio]
+  access: public
+  url: https://data.ceda.ac.uk/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017
+  temporal:
+    start: 2012-11
+    end: 2017-04
+  spatial: [GB]
+  update_frequency: static
+  size: 3.3 GB CSV zip; 3.6 TB 16 kHz FLAC

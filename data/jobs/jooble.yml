@@ -1,0 +1,15 @@
+id: jooble
+kind: [api]
+name: Jooble
+url: https://jooble.org/api/about
+description: Job search engine
+domain: jobs
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

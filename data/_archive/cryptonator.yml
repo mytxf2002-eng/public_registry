@@ -1,0 +1,19 @@
+id: cryptonator
+kind: [api]
+name: Cryptonator
+url: https://www.cryptonator.com/api/
+description: Cryptocurrencies Exchange Rates
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2017-12-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Cryptonator was shut down by U.S. and German authorities in 2024 and its domain no longer resolves.

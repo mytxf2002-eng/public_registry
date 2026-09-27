@@ -1,0 +1,2 @@
+id: election-watch-dataset-portuguese-presidential-elections
+description: 围绕 2021 年葡萄牙总统选举，从葡萄牙语推特圈采集的约 5,700 万条推文和 111 万个用户资料（2020 年 9 月至 2021 年 1 月），并标注了被封禁账号。数据为约 9.5 GB 的 MongoDB 导出压缩包，托管在 Google Drive，可直接下载。仓库代码为 MIT，数据本身未声明许可。

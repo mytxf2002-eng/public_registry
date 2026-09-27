@@ -1,0 +1,3 @@
+id: perspective
+description: 谷歌旗下 Jigsaw 的免费接口，给文本打“毒性”分，判断是否含侮辱、威胁、脏话等，常用于评论区审核。
+group: 内容审核

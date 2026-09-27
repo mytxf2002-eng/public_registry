@@ -1,0 +1,16 @@
+id: epo
+kind: [api]
+name: EPO
+url: https://developers.epo.org/
+description: European patent search system api
+domain: government
+tags: [patents]
+license: unknown
+provenance:
+  added: 2017-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

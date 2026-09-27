@@ -1,0 +1,2 @@
+id: sviro-synthetic-vehicle-interior-rear-seat-occupancy-dataset
+description: 德国人工智能研究中心（DFKI）发布的合成数据集，模拟十款车型后排座椅上的婴儿座椅、儿童座椅、成人和日常物品，共 2.5 万个场景，提供 RGB、模拟红外灰度和深度图像以及分类、分割、检测和关键点标注，另有多个扩展子集。按车型直接下载；采用 CC BY-NC-SA 4.0 许可，仅限非商业使用。

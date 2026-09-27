@@ -1,0 +1,2 @@
+id: oregon-open-data-portal
+description: 美国俄勒冈州政府的开放数据门户（Socrata），约 530 个数据集，包括企业登记记录、州雇员薪资、各机构支出与合同、公证人和执照名录以及医疗补助费率等。可导出 CSV、JSON 等格式并使用 SODA API；数据集多标注为公共领域。

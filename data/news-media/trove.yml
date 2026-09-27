@@ -1,0 +1,15 @@
+id: trove
+kind: [api]
+name: Trove
+url: https://trove.nla.gov.au/about/create-something/using-api
+description: Search through the National Library of Australia collection of 1000s of digitised newspapers
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

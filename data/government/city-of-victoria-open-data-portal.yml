@@ -1,0 +1,26 @@
+id: city-of-victoria-open-data-portal
+kind: [api, dataset]
+name: City of Victoria Open Data Portal
+url: https://opendata.victoria.ca/
+description: About 400 datasets from the City of Victoria, British Columbia, such as business and dog licences, council expenses, census areas, parks and permit layers
+domain: government
+tags: [municipal, business-licences, census-areas, gis]
+license: LicenseRef-Open-Government
+license_url: https://opendata.victoria.ca/pages/open-data-licence
+publisher:
+  name: City of Victoria
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://opendata.victoria.ca/api/search/definition/
+dataset:
+  formats: [csv, shapefile, geojson, kml, xlsx]
+  access: public
+  spatial: [CA-BC]
+  size: 417 datasets

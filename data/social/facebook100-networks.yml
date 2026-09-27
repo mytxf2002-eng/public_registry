@@ -1,0 +1,24 @@
+id: facebook100-networks
+kind: [dataset]
+name: Facebook100 Networks (Social Structure of Facebook Networks)
+url: https://archive.org/details/oxford-2005-facebook-matrix
+description: Facebook friendship networks inside 100 US colleges and universities from September 2005, with anonymised attributes such as gender, class year, major, dorm and high school
+domain: social
+tags: [facebook, friendship-networks, universities, network-science, facebook100]
+license: unknown
+publisher:
+  name: Amanda L. Traud, Peter J. Mucha and Mason A. Porter
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [matlab]
+  access: public
+  temporal:
+    start: 2005-09
+    end: 2005-09
+  spatial: [US]
+  update_frequency: static
+  size: 207 MB

@@ -1,0 +1,2 @@
+id: bykaranteli-crypto-datasets
+description: 加密衍生品数据平台 ByKaranteli 在 2026 年 7 月 23 日至 9 月 10 日每天发布到 GitHub 的市场数据快照：爆仓、永续合约资金费率和持仓量、美国现货 ETF 资金流、CFTC 持仓报告、Coinbase 溢价、Deribit DVOL 等，部分序列可追溯到 2017–2021 年。CSV/JSON 文件可直接下载，采用 CC0；该仓库已冻结，后续数据在官网需注册密钥且许可更严格。

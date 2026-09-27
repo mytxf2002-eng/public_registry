@@ -1,0 +1,3 @@
+id: pandadoc
+description: 文档自动化平台 PandaDoc 的 API：用模板生成报价单、合同等文档，发给对方电子签名并跟踪状态。
+group: 电子签名与合同

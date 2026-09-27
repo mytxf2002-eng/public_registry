@@ -1,0 +1,30 @@
+id: pakistan-fuel-prices
+kind: [api, dataset]
+name: Pakistan Fuel Prices (OilPrices.pk)
+url: https://oilprices.pk/fuel-price-api-pakistan
+description: Maximum ex-depot prices of petrol, diesel, kerosene and LPG notified by Pakistan's OGRA, as JSON and CSV history files plus a keyless JSON API
+domain: energy
+tags: [fuel-prices, petrol, diesel, lpg, kerosene]
+license: CC-BY-4.0
+license_url: https://github.com/quantanow/pakistan-fuel-prices/blob/main/LICENSE
+publisher:
+  name: OilPrices.pk
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://oilprices.pk/fuel-price-api-pakistan
+dataset:
+  formats: [json, csv]
+  access: public
+  url: https://github.com/quantanow/pakistan-fuel-prices
+  temporal:
+    start: 2015-07
+    end: null
+  spatial: [PK]
+  update_frequency: irregular

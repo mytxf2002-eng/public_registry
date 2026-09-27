@@ -1,0 +1,15 @@
+id: gitlab
+kind: [api]
+name: Gitlab
+url: https://docs.gitlab.com/ee/api/
+description: Automate GitLab interaction programmatically
+domain: development
+license: unknown
+provenance:
+  added: 2018-04-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

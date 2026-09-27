@@ -1,0 +1,16 @@
+id: flickr
+kind: [api]
+name: Flickr
+url: https://www.flickr.com/services/api/
+description: Flickr Services
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2016-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

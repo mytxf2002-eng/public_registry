@@ -1,0 +1,16 @@
+id: mojoauth
+kind: [api]
+name: MojoAuth
+url: https://mojoauth.com
+description: Secure and modern passwordless authentication platform
+domain: security
+tags: [authentication]
+license: unknown
+provenance:
+  added: 2021-09-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

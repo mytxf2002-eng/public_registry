@@ -1,0 +1,2 @@
+id: neurofinder-calcium-imaging-datasets
+description: CodeNeuro 发起的神经元识别基准数据：来自 Janelia、UCL、哥伦比亚大学和哈佛大学实验室的钙成像数据（按时间排列的 TIFF 图像序列），训练集附 JSON 格式的神经元轮廓标注。各数据集（每个约 1 GB）可从 Amazon S3 直接下载；未声明许可证，原结果提交网站已无法访问。

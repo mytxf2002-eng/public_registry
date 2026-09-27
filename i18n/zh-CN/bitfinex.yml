@@ -1,0 +1,3 @@
+id: bitfinex
+description: 老牌交易所 Bitfinex 的 API：公开行情接口不用鉴权，账户和交易接口需要 API key，支持 REST 和 WebSocket。
+group: 大型交易所交易接口

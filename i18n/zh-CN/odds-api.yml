@@ -1,0 +1,3 @@
+id: odds-api
+description: 34 项运动的实时博彩赔率，支持 REST 和 WebSocket，可用于做赔率比较、价值投注和套利工具。博彩公司数量英文描述写 265 家以上，官网写 365 家以上。和 The Odds API（the-odds-api.com）不是同一家。
+group: 博彩赔率与盘口

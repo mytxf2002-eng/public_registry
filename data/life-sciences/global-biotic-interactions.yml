@@ -1,0 +1,27 @@
+id: global-biotic-interactions
+kind: [api, dataset]
+name: Global Biotic Interactions (GloBI)
+url: https://www.globalbioticinteractions.org/
+description: Species interaction records such as predator-prey, plant-pollinator, parasite-host and pathogen-host, integrated from many open datasets, with versioned bulk exports and a web API
+domain: life-sciences
+tags: [species-interactions, ecology, food-webs, biodiversity, pollination]
+license: CC0-1.0
+license_url: https://zenodo.org/records/22691479
+publisher:
+  name: GloBI Community
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://github.com/globalbioticinteractions/globalbioticinteractions/wiki/API
+dataset:
+  formats: [tsv, csv, parquet, rdf]
+  access: public
+  url: https://www.globalbioticinteractions.org/data
+  update_frequency: irregular
+  size: ~2.4 GB (interactions.tsv.gz)

@@ -1,0 +1,15 @@
+id: postman-echo
+kind: [api]
+name: Postman Echo
+url: https://learning.postman.com/docs/reference/developer-resources/echo-api/
+description: Test api server to receive and return value from HTTP method
+domain: data-validation
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

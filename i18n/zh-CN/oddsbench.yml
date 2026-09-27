@@ -1,0 +1,3 @@
+id: oddsbench
+description: 每月对各家体育赔率 API 做一次独立的延迟测评，结果以免费 JSON 和 CSV 提供（CC BY 4.0 许可），可作为挑选赔率数据商的参考。
+group: 博彩赔率与盘口

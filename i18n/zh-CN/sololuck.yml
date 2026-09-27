@@ -1,0 +1,3 @@
+id: sololuck
+description: 比特币 solo 挖矿（独自争夺整块奖励）矿池 SoloLuck 的免费 JSON 接口：矿池算力、矿工数、最佳份额和已出块记录，可按地址查矿工数据，另有 solo 挖出区块的开放数据集。
+group: 区块浏览器与链上数据

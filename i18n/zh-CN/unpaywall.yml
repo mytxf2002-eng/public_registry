@@ -1,0 +1,3 @@
+id: unpaywall
+description: 输入论文的 DOI，返回它是否开放获取，以及合法的免费全文（PDF）链接。由 OurResearch 维护，免 key，请求时带上邮箱参数即可。
+group: 开放获取与科研数据仓储

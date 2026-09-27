@@ -1,0 +1,15 @@
+id: meirra
+kind: [api]
+name: Meirra
+url: https://meirra.com/api
+description: SEO monitoring, email verification, lead generation, and marketing analytics
+domain: business
+license: unknown
+provenance:
+  added: 2026-06-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

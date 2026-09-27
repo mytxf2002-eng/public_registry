@@ -1,0 +1,2 @@
+id: usda-nass-county-crop-yields-json
+description: 把美国农业部 NASS 县级玉米、大豆和小麦年度调查单产整理成静态 JSON 文件（约 3000 个县、42 个州），每周从 NASS 批量文件自动刷新，经 jsDelivr 分发，无需密钥；属个人维护的第三方镜像，数据为 CC0（原始数据为美国政府公有领域）。

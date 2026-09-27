@@ -1,0 +1,25 @@
+id: nsta-open-data
+kind: [api, dataset]
+name: NSTA Open Data
+url: https://open-data-ukcs-transition.hub.arcgis.com/
+description: GIS layers and tables on UK offshore and onshore England petroleum activity, such as wells, licences, fields, infrastructure, seismic surveys and production
+domain: energy
+tags: [oil-and-gas, wells, petroleum-licences, offshore, gis]
+license: LicenseRef-Research-Only
+license_url: https://www.nstauthority.co.uk/media/u51lhvio/nsta-user-agreeement-june-2023.pdf
+publisher:
+  name: North Sea Transition Authority
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, kml, shapefile, geojson]
+  access: public
+  spatial: [GB]
+  update_frequency: daily

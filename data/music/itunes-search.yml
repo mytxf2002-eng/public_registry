@@ -1,0 +1,15 @@
+id: itunes-search
+kind: [api]
+name: iTunes Search
+url: https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html
+description: Software products
+domain: music
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: tickerlayer
+description: 股票、外汇、加密货币、商品、指数、ETF 的实时和历史行情，支持 REST 和 WebSocket。
+group: 股票与多资产行情

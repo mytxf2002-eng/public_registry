@@ -1,0 +1,15 @@
+id: newsx
+kind: [api]
+name: NewsX
+url: https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/
+description: Get or Search Latest Breaking News with ML Powered Summaries 🤖
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-11-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

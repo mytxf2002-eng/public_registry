@@ -1,0 +1,15 @@
+id: shotanvil
+kind: [api]
+name: Shotanvil
+url: https://shotanvil.com
+description: Screenshot, PDF and HTML rendering API with a free tier, API key or x402 auth
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

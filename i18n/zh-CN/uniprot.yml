@@ -1,0 +1,2 @@
+id: uniprot
+description: UniProt 蛋白质序列与功能知识库，当前版本约 1.5 亿条 UniProtKB 记录（其中 Swiss-Prot 人工审阅 57.6 万条），另含 UniRef 聚类和 UniParc 序列档案，可从 FTP 下载 FASTA、XML、文本和 RDF 文件，也可通过 REST API 查询。

@@ -1,0 +1,2 @@
+id: oxford-iiit-pet-dataset
+description: 牛津大学视觉几何组与印度 IIIT 海得拉巴发布的宠物图像数据集，涵盖 37 个猫狗品种、每类约 200 张照片，标注有品种、头部边界框和像素级前景/背景三分图。图像和标注约 800 MB，可通过 HTTP 或 BitTorrent 直接下载；采用 CC BY-SA 4.0 许可，图像版权仍归原作者。

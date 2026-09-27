@@ -1,0 +1,16 @@
+id: coinigy
+kind: [api]
+name: Coinigy
+url: https://coinigy.docs.apiary.io
+description: Interacting with Coinigy Accounts and Exchange Directly
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-07-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

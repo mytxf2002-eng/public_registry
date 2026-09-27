@@ -1,0 +1,15 @@
+id: foreca
+kind: [api]
+name: Foreca
+url: https://developer.foreca.com
+description: Global weather forecasts, observations, weather maps and warnings
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-02-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

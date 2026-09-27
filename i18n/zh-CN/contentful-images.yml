@@ -1,0 +1,3 @@
+id: contentful-images
+description: 无头 CMS Contentful 的图片 API：对存放在 Contentful 里的图片用 URL 参数缩放、裁剪、转换格式（如 WebP）和调整质量。
+group: 内容管理与办公文档

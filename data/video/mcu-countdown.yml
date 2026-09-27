@@ -1,0 +1,15 @@
+id: mcu-countdown
+kind: [api]
+name: MCU Countdown
+url: https://github.com/DiljotSG/MCU-Countdown
+description: A Countdown to the next MCU Film
+domain: video
+license: unknown
+provenance:
+  added: 2021-03-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

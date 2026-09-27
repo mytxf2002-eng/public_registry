@@ -1,0 +1,15 @@
+id: globalentity
+kind: [api]
+name: GlobalEntity
+url: https://www.globalentityapi.com/docs
+description: Official company data from 56 European business registers as normalized JSON
+domain: business
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

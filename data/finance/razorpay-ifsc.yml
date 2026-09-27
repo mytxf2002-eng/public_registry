@@ -1,0 +1,15 @@
+id: razorpay-ifsc
+kind: [api]
+name: Razorpay IFSC
+url: https://razorpay.com/docs/
+description: Indian Financial Systems Code (Bank Branch Codes)
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: crates-io
+kind: [api]
+name: crates.io
+url: https://crates.io/data-access
+description: Rust crate versions, downloads and dependency metadata
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

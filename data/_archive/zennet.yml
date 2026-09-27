@@ -1,0 +1,19 @@
+id: zennet
+kind: [api]
+name: Zennet
+url: https://zennet.cloud
+description: 'Pay-per-use x402 APIs: Polymarket signals, CEX/DEX spreads, contract risk scores and gas oracle'
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: zennet.cloud refuses connections and no renamed or moved version was found.

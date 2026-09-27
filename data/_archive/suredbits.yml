@@ -1,0 +1,18 @@
+id: suredbits
+kind: [api]
+name: SuredBits
+url: https://suredbits.com/api/
+description: Query sports data, including teams, players, games, scores and statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: suredbits.com returns Cloudflare 522 (origin down) on every page and has done so since at least February 2026, and nothing shows the sports data API still exists.

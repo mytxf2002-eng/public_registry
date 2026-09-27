@@ -1,0 +1,21 @@
+id: builddata-canadian-construction-data
+kind: [api]
+name: BuildData Canadian Construction Data
+url: https://www.builddata.ca/
+description: 'REST API over about 17M normalised records from 55 Canadian cities: building permits, major projects, zoning, planning applications, business licences and inspections'
+domain: business
+tags: [building-permits, construction, zoning, property-assessments, business-licences]
+license: LicenseRef-Provider-Terms
+license_url: https://www.builddata.ca/licence/
+publisher:
+  name: BuildData
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://www.builddata.ca/docs/

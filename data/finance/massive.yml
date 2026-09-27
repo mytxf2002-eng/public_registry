@@ -1,0 +1,15 @@
+id: massive
+kind: [api]
+name: Massive
+url: https://massive.com/
+description: Historical stock market data
+domain: finance
+license: unknown
+provenance:
+  added: 2021-07-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

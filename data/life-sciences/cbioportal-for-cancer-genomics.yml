@@ -1,0 +1,26 @@
+id: cbioportal-for-cancer-genomics
+kind: [api, dataset]
+name: cBioPortal for Cancer Genomics
+url: https://www.cbioportal.org/
+description: Over 500 public cancer genomics studies (TCGA, MSK-IMPACT and others) with mutation, copy-number, expression and clinical data, downloadable study by study
+domain: life-sciences
+tags: [cancer-genomics, mutations, copy-number, gene-expression, clinical-data]
+license: ODbL-1.0
+license_url: https://github.com/cBioPortal/datahub
+publisher:
+  name: Memorial Sloan Kettering Cancer Center
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.cbioportal.org/web-api-and-clients/
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://www.cbioportal.org/datasets
+  update_frequency: irregular

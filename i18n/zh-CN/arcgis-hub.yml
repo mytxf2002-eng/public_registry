@@ -1,0 +1,2 @@
+id: arcgis-hub
+description: Esri 运营的 ArcGIS Hub 公共检索入口，可搜索世界各地政府、非营利和学术机构在 ArcGIS 上公开的数据集，多数可免费直接下载 CSV、GeoJSON、KML、Shapefile 等格式，并提供符合 OGC API - Records 的免密钥搜索接口。各数据集的许可由发布机构分别规定。

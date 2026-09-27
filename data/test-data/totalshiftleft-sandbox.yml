@@ -1,0 +1,15 @@
+id: totalshiftleft-sandbox
+kind: [api]
+name: TotalShiftLeft Sandbox
+url: https://demo.totalshiftleft.ai/
+description: 'Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec'
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

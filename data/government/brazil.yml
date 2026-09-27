@@ -1,0 +1,15 @@
+id: brazil
+kind: [api]
+name: Brazil
+url: https://brasilapi.com.br/
+description: Community driven API for Brazil Public Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-07-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

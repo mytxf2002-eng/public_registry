@@ -1,0 +1,21 @@
+id: ilthermo
+kind: [dataset]
+name: ILThermo (NIST Ionic Liquids Database)
+url: https://ilthermo.boulder.nist.gov/
+description: Experimental thermodynamic and transport property data for about 2,750 ionic liquids and their binary and ternary mixtures, some 863,000 data points with sources
+domain: science-math
+tags: [ionic-liquids, thermophysical-properties, chemistry, thermodynamics, reference-data]
+license: LicenseRef-Provider-Terms
+license_url: https://ilthermo.boulder.nist.gov/
+publisher:
+  name: NIST Thermodynamics Research Center
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, html]
+  access: public
+  update_frequency: irregular
+  size: 863,364 data points

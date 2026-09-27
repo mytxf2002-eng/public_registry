@@ -1,0 +1,15 @@
+id: mono
+kind: [api]
+name: Mono
+url: https://mono.co/
+description: Connect with users’ bank accounts and access transaction data in Africa
+domain: finance
+license: unknown
+provenance:
+  added: 2021-08-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

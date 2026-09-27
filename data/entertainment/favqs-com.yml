@@ -1,0 +1,16 @@
+id: favqs-com
+kind: [api]
+name: FavQs.com
+url: https://favqs.com/api
+description: FavQs allows you to collect, discover and share your favorite quotes
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2017-10-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

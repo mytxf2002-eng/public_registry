@@ -1,0 +1,20 @@
+id: city-toronto-open-data
+kind: [api, dataset]
+name: City, Toronto Open Data
+url: https://open.toronto.ca/
+description: Toronto (CA) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, shapefile, json, geojson, xlsx, gpkg]
+  access: public
+  spatial: [CA-ON]
+  size: 555 datasets

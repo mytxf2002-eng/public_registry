@@ -1,0 +1,15 @@
+id: shopee
+kind: [api]
+name: Shopee
+url: https://open.shopee.com/documents?version=1
+description: Shopee's official API for integration of various services from Shopee
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

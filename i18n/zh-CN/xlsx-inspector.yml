@@ -1,0 +1,3 @@
+id: xlsx-inspector
+description: 分析 Excel（XLSX/XLSM）文件的结构：列出工作表、公式、宏和外部链接，方便在处理文件前检查里面有没有宏或外部引用。
+group: 内容管理与办公文档

@@ -1,0 +1,22 @@
+id: multi-view-region-of-interest-prediction-dataset-for
+kind: [dataset]
+name: Multi-View Region of Interest Prediction Dataset for Autonomous Driving
+url: https://mediatum.ub.tum.de/1548761
+description: Multi-view camera images recorded in the CARLA driving simulator with manually labelled regions of interest, 13.3 GB in 21 HDF5 files
+domain: machine-learning
+tags: [autonomous-driving, region-of-interest, carla-simulator, synthetic-data, multi-view]
+license: CC-BY-4.0
+license_url: https://mediatum.ub.tum.de/services/export/node/1548761?format=json&attrspec=all
+publisher:
+  name: Technical University of Munich (Hofbauer, Kuhn, Meng, Petrovic, Steinbach)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [hdf5]
+  access: public
+  url: https://dataserv.ub.tum.de/index.php/s/m1548761
+  update_frequency: static
+  size: 13.3 GB

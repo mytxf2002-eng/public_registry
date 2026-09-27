@@ -1,0 +1,15 @@
+id: dog-facts-kinduff
+kind: [api]
+name: Dog Facts (kinduff.github.io)
+url: https://kinduff.github.io/dog-api/
+description: Random facts of Dogs
+domain: animals
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

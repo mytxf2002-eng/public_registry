@@ -1,0 +1,26 @@
+id: sinda
+kind: [api, dataset]
+name: SINDA (Sistema Nacional de Dados Ambientais)
+url: https://data.sinda.coene.inpe.br/
+description: Readings from satellite-linked automatic data collection platforms (PCDs) across Brazil, covering weather, river and reservoir levels, ocean buoys and air chemistry
+domain: weather-climate
+tags: [weather-stations, hydrology, environmental-monitoring, satellite-data-collection]
+license: CC0-1.0
+license_url: https://data.sinda.coene.inpe.br/sobre
+publisher:
+  name: National Institute for Space Research (INPE)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://pysinda-coene-inpe-p-d-sinda-portal-sinda-v2-d8559c9216d2ca8473.gitlab.io/
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [BR]
+  update_frequency: daily

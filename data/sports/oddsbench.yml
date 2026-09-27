@@ -1,0 +1,15 @@
+id: oddsbench
+kind: [api]
+name: OddsBench
+url: https://oddsbench.xyz/api/
+description: Independent monthly latency benchmark of sports odds APIs, with free JSON and CSV data
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

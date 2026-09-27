@@ -1,0 +1,15 @@
+id: tubetotranscript
+kind: [api]
+name: TubeToTranscript
+url: https://www.tubetotranscript.com/youtube-transcript-api
+description: Extract clean YouTube video transcripts via REST API
+domain: video
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

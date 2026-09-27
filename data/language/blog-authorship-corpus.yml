@@ -1,0 +1,25 @@
+id: blog-authorship-corpus
+kind: [dataset]
+name: Blog Authorship Corpus
+url: https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
+description: 681,288 posts by 19,320 blogger.com authors collected in August 2004, over 140 million words, each blog labelled with the writer's gender, age group, industry and star sign
+domain: language
+tags: [blogs, author-profiling, corpus, gender, age]
+license: LicenseRef-Research-Only
+license_url: https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
+publisher:
+  name: Bar-Ilan University (Moshe Koppel, Jonathan Schler)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  url: https://u.cs.biu.ac.il/~koppel/blogs/blogs.zip
+  temporal:
+    start: '2004'
+    end: '2004'
+  update_frequency: static
+  size: 313 MB

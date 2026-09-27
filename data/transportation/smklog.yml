@@ -1,0 +1,15 @@
+id: smklog
+kind: [api]
+name: SMKlog
+url: https://smklog.com/openapi.json
+description: Live parcel shipping rates and labels from a plain-words item description
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

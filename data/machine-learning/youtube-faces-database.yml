@@ -1,0 +1,20 @@
+id: youtube-faces-database
+kind: [dataset]
+name: YouTube Faces Database
+url: https://www.cs.tau.ac.il/~wolf/ytfaces/
+description: 3,425 YouTube videos of 1,595 people as frame images, with aligned faces, face descriptors and pair-matching splits for video face verification
+domain: machine-learning
+tags: [face-recognition, face-verification, video-frames, youtube]
+license: unknown
+publisher:
+  name: Lior Wolf, Tal Hassner and Itay Maoz (Tel Aviv University, Open University of Israel)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, matlab, text]
+  access: registration
+  update_frequency: static
+  size: 25 GB

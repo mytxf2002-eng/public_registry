@@ -1,0 +1,3 @@
+id: scrapingdog
+description: 网页抓取 API，代管代理和无头浏览器，直接返回页面数据；另有谷歌搜索结果等专用接口。
+group: 网页抓取、代理与反爬

@@ -1,0 +1,3 @@
+id: viacep
+description: 巴西免费的 CEP（邮编）查询：按邮编查地址，也能按州、城市和街道反查邮编，返回 JSON 或 XML，支持浏览器直接调用。
+group: 各国邮编与地址查询

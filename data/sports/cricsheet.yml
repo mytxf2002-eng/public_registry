@@ -1,0 +1,26 @@
+id: cricsheet
+kind: [dataset]
+name: Cricsheet
+url: https://cricsheet.org/
+description: Ball-by-ball data for about 23,000 men's and women's cricket matches since 2001, covering Tests, ODIs, T20 internationals and major leagues, plus a player identifier register
+domain: sports
+tags: [cricket, ball-by-ball, match-data, t20, test-cricket]
+license: ODC-By-1.0
+license_url: https://cricsheet.org/register/
+publisher:
+  name: Stephen Rushe (Cricsheet)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, yaml, csv, xml]
+  access: public
+  url: https://cricsheet.org/downloads/
+  temporal:
+    start: '2001'
+    end: null
+  spatial: [global]
+  update_frequency: daily
+  size: 22,983 matches

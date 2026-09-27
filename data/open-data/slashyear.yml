@@ -1,0 +1,26 @@
+id: slashyear
+kind: [api, dataset]
+name: SlashYear
+url: https://slashyear.com/api
+description: 86,902 historical events as JSON, each quoted from a cited Wikipedia revision
+domain: open-data
+tags: [history, historical-events, timeline, wikipedia]
+license: CC-BY-SA-4.0
+license_url: https://github.com/ctrl-maud/slashyear
+publisher:
+  name: slashyear (ctrl-maud)
+  kind: individual
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [jsonl, json]
+  access: public
+  url: https://github.com/ctrl-maud/slashyear
+  update_frequency: irregular
+  size: 121,329 entries

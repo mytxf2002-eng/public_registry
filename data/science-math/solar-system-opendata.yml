@@ -1,0 +1,15 @@
+id: solar-system-opendata
+kind: [api]
+name: Solar System OpenData
+url: https://api.le-systeme-solaire.net
+description: Data and facts on solar system bodies and planets
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

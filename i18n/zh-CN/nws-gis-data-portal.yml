@@ -1,0 +1,2 @@
+id: nws-gis-data-portal
+description: 美国国家气象局（NWS）的 GIS 数据门户：提供公众预报区、县级预警责任区、海洋区和火险天气区等 AWIPS 边界 Shapefile 下载，以及发布预警、雷达、NDFD 预报等图层的 WMS/WFS/WCS 地图服务。免费公开使用；旧的“GIS 格式数据下载”页面已停止维护。

@@ -1,0 +1,23 @@
+id: campsite-atlas-open-data
+kind: [dataset]
+name: Campsite Atlas Open Data
+url: https://campsiteatlas.com/data/
+description: About 5,560 US federal campgrounds with agency, coordinates, reservability, site counts, hookups, pet and campfire rules and maximum RV length, from Recreation.gov RIDB
+domain: geography
+tags: [campgrounds, outdoor-recreation, public-lands, rv-camping]
+license: CC0-1.0
+license_url: https://campsiteatlas.com/data/
+publisher:
+  name: Campsite Atlas (Publicopia)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://campsiteatlas.com/data/campgrounds.csv
+  spatial: [US]
+  update_frequency: daily
+  size: 5,564 rows

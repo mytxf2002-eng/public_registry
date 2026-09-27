@@ -1,0 +1,15 @@
+id: econdb
+kind: [api]
+name: Econdb
+url: https://www.econdb.com/api/
+description: Global macroeconomic data
+domain: economics
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

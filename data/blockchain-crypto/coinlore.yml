@@ -1,0 +1,16 @@
+id: coinlore
+kind: [api]
+name: Coinlore
+url: https://www.coinlore.com/cryptocurrency-data-api
+description: Cryptocurrencies prices, volume and more
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-12-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

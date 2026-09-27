@@ -1,0 +1,15 @@
+id: isitdownstatus
+kind: [api]
+name: isitdownstatus
+url: https://isitdownstatus.com
+description: Real-time status for GitHub, AWS, Discord and 90+ services
+domain: development
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

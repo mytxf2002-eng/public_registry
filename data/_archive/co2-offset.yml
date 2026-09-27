@@ -1,0 +1,18 @@
+id: co2-offset
+kind: [api]
+name: CO2 Offset
+url: https://co2offset.io/api.html
+description: API calculates and validates the carbon footprint
+domain: environment
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: co2offset.io now redirects to an unrelated framework page with no API, and its API host is gone.

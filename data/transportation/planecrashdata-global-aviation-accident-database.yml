@@ -1,0 +1,25 @@
+id: planecrashdata-global-aviation-accident-database
+kind: [dataset]
+name: PlaneCrashData Global Aviation Accident Database
+url: https://huggingface.co/datasets/MauroPello/planecrashdata
+description: Records of 27,598 civil and military aviation accidents from May 1918 to August 2026 with aircraft, operator, flight phase, fatalities, narrative, cause category and coordinates
+domain: transportation
+tags: [aviation-accidents, aviation-safety, plane-crashes, geocoded]
+license: CC-BY-4.0
+license_url: https://huggingface.co/datasets/MauroPello/planecrashdata
+publisher:
+  name: Mauro Pellonara
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet]
+  access: public
+  temporal:
+    start: 1918-05
+    end: 2026-08
+  spatial: [global]
+  update_frequency: irregular
+  size: 27,598 records

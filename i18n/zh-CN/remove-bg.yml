@@ -1,0 +1,3 @@
+id: remove-bg
+description: 自动抠图去背景服务 remove.bg 的接口：上传图片，返回去掉背景的结果，人像、商品、汽车等都能处理。免费额度只能输出低分辨率预览图，高清结果按积分付费。remove.bg 现属 Canva。
+group: 抠图、修图与 AI 生图

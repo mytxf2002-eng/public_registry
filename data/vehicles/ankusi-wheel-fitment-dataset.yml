@@ -1,0 +1,22 @@
+id: ankusi-wheel-fitment-dataset
+kind: [dataset]
+name: ANKUSI Wheel Fitment Dataset
+url: https://ankusiwheels.com/wheel-fitment-dataset/
+description: Factory wheel specifications (bolt pattern, centre bore, lug count, OE wheel size and offset) for 9,688 vehicle variants of 167 makes, model years 1940 to 2027
+domain: vehicles
+tags: [wheels, bolt-pattern, fitment, car-specs]
+license: CC-BY-4.0
+license_url: https://ankusiwheels.com/wheel-fitment-dataset/
+publisher:
+  name: ANKUSI Wheels
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 9,688 rows

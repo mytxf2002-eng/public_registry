@@ -1,0 +1,20 @@
+id: freecodecamp-open-data
+kind: [dataset]
+name: freeCodeCamp Open Data
+url: https://github.com/freeCodeCamp/open-data
+description: 'Datasets from the freeCodeCamp learning community: New Coder survey responses, Gitter chatroom history, Google Analytics extracts and Medium article titles, archived in 2021'
+domain: education
+tags: [developer-surveys, online-learning, chat-logs, web-analytics]
+license: ODbL-1.0
+license_url: https://github.com/freeCodeCamp/open-data/blob/master/LICENSE.md
+publisher:
+  name: freeCodeCamp
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, tsv]
+  access: public
+  update_frequency: static

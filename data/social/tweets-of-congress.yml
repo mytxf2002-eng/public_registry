@@ -1,0 +1,25 @@
+id: tweets-of-congress
+kind: [dataset]
+name: Tweets of Congress
+url: https://github.com/alexlitel/congresstweets
+description: Daily JSON files of tweets from more than 1,000 campaign, office, committee and party accounts of both houses of the US Congress, June 2017 to July 2023
+domain: social
+tags: [twitter, us-congress, legislators, political-communication, daily-json]
+license: MIT
+license_url: https://github.com/alexlitel/congresstweets/blob/master/LICENSE
+publisher:
+  name: Alex Litel
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  url: https://github.com/alexlitel/congresstweets/tree/master/data
+  temporal:
+    start: 2017-06
+    end: 2023-07
+  spatial: [US]
+  update_frequency: static

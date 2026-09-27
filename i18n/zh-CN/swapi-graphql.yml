@@ -1,0 +1,3 @@
+id: swapi-graphql
+description: GraphQL 官网上的演示服务：把 SWAPI 的星球大战数据包装成 GraphQL 接口，自带 GraphiQL 在线调试界面，适合学习 GraphQL 查询。
+group: 科幻与奇幻作品设定

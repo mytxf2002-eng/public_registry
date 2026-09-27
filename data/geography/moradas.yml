@@ -1,0 +1,16 @@
+id: moradas
+kind: [api]
+name: Moradas
+url: https://moradas.dev/docs
+description: Portuguese address autocomplete and 7-digit postal codes (CP7)
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

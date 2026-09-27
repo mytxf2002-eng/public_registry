@@ -1,0 +1,26 @@
+id: city-of-london-open-data
+kind: [api, dataset]
+name: City of London Open Data
+url: https://opendata.london.ca/
+description: 'About 200 datasets from the City of London, Ontario: operating and capital budgets since 2002, election results, zoning, parcels, roads, sewer and water networks, trees and traffic volumes'
+domain: government
+tags: [municipal, gis, budget, elections, infrastructure]
+license: LicenseRef-Open-Government
+license_url: https://london.ca/government/council-civic-administration/open-data
+publisher:
+  name: Corporation of the City of London (Ontario)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [CA-ON]
+  update_frequency: irregular
+  size: 232 items

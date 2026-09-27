@@ -1,0 +1,16 @@
+id: mailfornet
+kind: [api]
+name: Mailfornet
+url: https://mailfornet.com/api
+description: Disposable inboxes for end-to-end signup tests, with long-polling and HMAC-signed webhooks
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-09-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

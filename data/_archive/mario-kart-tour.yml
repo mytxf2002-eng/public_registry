@@ -1,0 +1,18 @@
+id: mario-kart-tour
+kind: [api]
+name: Mario Kart Tour
+url: https://mario-kart-tour-api.herokuapp.com/
+description: API for Drivers, Karts, Gliders and Courses
+domain: games
+license: unknown
+provenance:
+  added: 2021-07-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

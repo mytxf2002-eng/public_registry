@@ -1,0 +1,2 @@
+id: radiance-geojson-global-night-light-pollution-data-2024
+description: 基于 2024 年 VIIRS 夜间灯光影像生成的 173 个国家光污染数据，0.5 公里分辨率，每个点含辐亮度、天空亮度（MPSAS）和波特尔暗空等级。提供按国家的 GeoJSON 压缩文件和约 1.4 亿个点的 PostGIS 数据库转储，在互联网档案馆免费下载（共约 11 GB），CC BY 4.0 许可。

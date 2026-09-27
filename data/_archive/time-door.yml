@@ -1,0 +1,18 @@
+id: time-door
+kind: [api]
+name: Time Door
+url: https://timedoor.io
+description: A time series analysis API
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2019-10-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The domain now redirects to an unrelated arcade ad landing page.

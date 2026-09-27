@@ -1,0 +1,25 @@
+id: tracebase-appliance-power-consumption-data-set
+kind: [dataset]
+name: tracebase Appliance Power Consumption Data Set
+url: https://github.com/areinhardt/tracebase
+description: About 2,350 power consumption traces of individual electrical appliances at roughly one reading per second, recorded in Darmstadt in 2012 and Sydney in 2013
+domain: energy
+tags: [appliance-level, power-traces, nilm, smart-plugs]
+license: ODbL-1.0
+license_url: https://github.com/areinhardt/tracebase
+publisher:
+  name: TU Darmstadt and TU Clausthal (tracebase team)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2012'
+    end: '2013'
+  spatial: [DE, AU]
+  update_frequency: static
+  size: about 315 MB

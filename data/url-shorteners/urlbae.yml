@@ -1,0 +1,15 @@
+id: urlbae
+kind: [api]
+name: UrlBae
+url: https://urlbae.com/developers
+description: Simple and efficient short link creation
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2022-01-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,25 @@
+id: oklahoma-s-open-data
+kind: [api, dataset]
+name: Oklahoma's Open Data
+url: https://data.ok.gov/
+description: About 400 State of Oklahoma datasets such as state payroll, vendor payments, purchase-card transactions, revenue, occupational licences and agency performance statistics
+domain: government
+tags: [state-government, payroll, public-spending, licensing, revenue]
+license: unknown
+publisher:
+  name: State of Oklahoma (Office of Management and Enterprise Services)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, xlsx, json]
+  access: public
+  spatial: [US-OK]
+  update_frequency: irregular
+  size: 395 datasets

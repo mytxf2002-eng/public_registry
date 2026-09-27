@@ -1,0 +1,2 @@
+id: skytrax-user-reviews-dataset
+description: 从 Skytrax（airlinequality.com）抓取的约 6.26 万条用户评论（截至 2015 年 8 月），分为航空公司、机场、座椅和贵宾室四个 CSV 文件，含各项分项评分和是否推荐。GitHub 直接下载；仓库以 CC0 发布，但原评论本身的授权情况不明。

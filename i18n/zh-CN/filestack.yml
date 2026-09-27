@@ -1,0 +1,3 @@
+id: filestack
+description: APILayer 的产品。Filestack 提供可嵌入网页的文件上传组件和上传 API，支持从本地、Dropbox、Google Drive 等 20 多个来源上传，另有图片处理和 CDN 分发。
+group: 文件上传与分享

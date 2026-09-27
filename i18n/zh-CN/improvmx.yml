@@ -1,0 +1,3 @@
+id: improvmx
+description: 免费邮件转发服务 ImprovMX 的 API：管理自己域名的转发规则和别名，例如把 hi@example.com 转发到个人邮箱。
+group: 域名邮件配置与投递检测

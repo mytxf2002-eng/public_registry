@@ -1,0 +1,25 @@
+id: techrole-index
+kind: [api, dataset]
+name: TechRole Index
+url: https://techrole.ru/open-data-daily
+description: Russian IT profession, vacancy publication and salary aggregates
+domain: jobs
+license: LicenseRef-Open-Government
+license_url: https://techrole.ru/open-data-daily.croissant.json
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv]
+  access: public
+  temporal:
+    start: 2026-01-21
+    end: null
+  spatial: [RU]
+  update_frequency: daily
+  size: 2,319 rows

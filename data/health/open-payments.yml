@@ -1,0 +1,29 @@
+id: open-payments
+kind: [api, dataset]
+name: Open Payments
+url: https://openpaymentsdata.cms.gov/
+description: Payments and other transfers of value from drug and medical device makers to US physicians, other practitioners and teaching hospitals, about 17 million records per program year
+domain: health
+tags: [physician-payments, pharmaceutical-industry, conflicts-of-interest, sunshine-act]
+license: LicenseRef-US-Government-Work
+license_url: https://openpaymentsdata.cms.gov/
+publisher:
+  name: Centers for Medicare & Medicaid Services
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2019'
+    end: null
+  spatial: [US]
+  update_frequency: annual
+  size: 17.07 M records (PY2025)

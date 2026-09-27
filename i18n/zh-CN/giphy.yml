@@ -1,0 +1,3 @@
+id: giphy
+description: GIF 动图平台 GIPHY 的接口：搜索和获取热门 GIF、贴纸、表情，还能把一段文字“翻译”成对应的 GIF。测试 key 有调用上限，正式上线要申请生产 key。GIPHY 2023 年起归 Shutterstock 所有。
+group: GIF 动图平台

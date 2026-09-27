@@ -1,0 +1,16 @@
+id: github-contribution-chart-generator
+kind: [api]
+name: GitHub Contribution Chart Generator
+url: https://github-contributions.vercel.app
+description: Create an image of your GitHub contributions
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

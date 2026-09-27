@@ -1,0 +1,2 @@
+id: quantum-simulations-of-an-electron-in-a-two-dimensional
+description: 加拿大国家研究委员会与安大略理工大学发布的数值模拟数据：二维势阱中单个电子的定态薛定谔方程解（谐振子、无限深势阱、双负高斯和随机势），用于训练深度神经网络。共 411 个 HDF5 文件（约 700 GB，分 5 个 ZIP），另有 8.5 GB 样本包，可直接下载。

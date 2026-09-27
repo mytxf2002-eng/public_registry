@@ -1,0 +1,31 @@
+id: licitatii-medicale-open-dataset
+kind: [api, dataset]
+name: Licitații Medicale Open Dataset
+url: https://licitatiimedicale.com/dataset
+description: 'Contract awards by Romanian public hospitals from EU TED notices since 2018: 291 hazardous medical-waste procedures plus 16,072 medical-device procedures, as CSV and JSON'
+domain: government
+tags: [public-procurement, hospitals, medical-waste, medical-devices, tenders]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/22969690
+publisher:
+  name: Licitații Medicale
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+  docs: https://licitatiimedicale.com/api
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://licitatiimedicale.com/api/v1/awards.csv
+  temporal:
+    start: '2018'
+    end: null
+  spatial: [RO]
+  update_frequency: daily
+  size: 16,363 procedures

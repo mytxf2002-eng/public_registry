@@ -1,0 +1,3 @@
+id: emailjs
+description: 不用后端服务器，直接在前端 JavaScript 里发邮件：在后台连接 Gmail 等邮箱服务并配置模板，常用于静态网站的联系表单。
+group: 邮件发送服务

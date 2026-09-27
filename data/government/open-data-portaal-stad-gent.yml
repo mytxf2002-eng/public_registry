@@ -1,0 +1,27 @@
+id: open-data-portaal-stad-gent
+kind: [api, dataset]
+name: Open Data Portaal Stad Gent
+url: https://data.stad.gent/explore/
+description: About 300 City of Ghent datasets, mostly mobility such as live parking and bike-shed occupancy, shared bikes and bike counters, plus noise maps, trees, heritage and population figures
+domain: government
+tags: [municipal, mobility, parking, bike-sharing, noise-maps]
+license: LicenseRef-Open-Government
+license_url: https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik
+publisher:
+  name: Stad Gent
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://data.stad.gent/api-console/
+dataset:
+  formats: [csv, json, geojson, xlsx, shapefile, parquet]
+  access: public
+  spatial: [BE-VOV]
+  update_frequency: irregular
+  size: 308 datasets

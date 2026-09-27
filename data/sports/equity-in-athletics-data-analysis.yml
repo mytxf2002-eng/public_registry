@@ -1,0 +1,23 @@
+id: equity-in-athletics-data-analysis
+kind: [dataset]
+name: Equity in Athletics Data Analysis (EADA)
+url: https://ope.ed.gov/athletics/
+description: Annual reports from US colleges with intercollegiate athletics on participation, coaching staff, revenues and expenses by men's and women's teams, from 2000-01 onward
+domain: sports
+tags: [college-athletics, higher-education, title-ix, sports-finance, gender-equity]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: US Department of Education, Office of Postsecondary Education
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, sas, spss]
+  access: public
+  temporal:
+    start: '2000'
+    end: null
+  spatial: [US]
+  update_frequency: annual

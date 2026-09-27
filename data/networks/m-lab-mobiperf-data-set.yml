@@ -1,0 +1,24 @@
+id: m-lab-mobiperf-data-set
+kind: [dataset]
+name: M-Lab MobiPerf Data Set
+url: https://www.measurementlab.net/tests/mobiperf/
+description: Anonymized network performance measurements, such as latency and throughput tests, collected on phones running the open-source MobiPerf app from 2012 to 2020
+domain: networks
+tags: [mobile-networks, latency, throughput, network-measurement]
+license: CC0-1.0
+license_url: https://www.measurementlab.net/data/
+publisher:
+  name: Measurement Lab (M-Lab)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  temporal:
+    start: 2012-06
+    end: '2020'
+  spatial: [global]
+  update_frequency: static

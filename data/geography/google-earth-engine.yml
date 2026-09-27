@@ -1,0 +1,16 @@
+id: google-earth-engine
+kind: [api]
+name: Google Earth Engine
+url: https://developers.google.com/earth-engine/
+description: A cloud-based platform for planetary-scale environmental data analysis
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-01-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

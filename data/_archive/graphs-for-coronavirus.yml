@@ -1,0 +1,18 @@
+id: graphs-for-coronavirus
+kind: [api]
+name: Graphs for Coronavirus
+url: https://corona.dnsforfamily.com/api.txt
+description: Each Country separately and Worldwide Graphs for Coronavirus. Daily updates
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-04-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The corona.dnsforfamily.com subdomain no longer exists and there is no replacement.

@@ -1,0 +1,3 @@
+id: placedog
+description: 狗狗主题的占位图，按 URL 中的宽高返回图片。
+group: HTTP 状态码图与占位图

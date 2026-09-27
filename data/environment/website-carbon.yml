@@ -1,0 +1,15 @@
+id: website-carbon
+kind: [api]
+name: Website Carbon
+url: https://api.websitecarbon.com/
+description: API to estimate the carbon footprint of loading web pages
+domain: environment
+license: unknown
+provenance:
+  added: 2022-03-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

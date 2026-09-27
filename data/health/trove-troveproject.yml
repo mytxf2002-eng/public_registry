@@ -1,0 +1,25 @@
+id: trove-troveproject
+kind: [dataset]
+name: trove
+url: https://troveproject.com/
+description: 'Cleaned US healthcare data bundles: nonprofit hospital charity care from CMS cost reports matched to IRS 990 Schedule H, and 218 FDA novel drug approvals 2021-2024'
+domain: health
+tags: [hospital-finance, charity-care, medicare-cost-reports, irs-990, fda-approvals]
+license: MIT
+license_url: https://github.com/cbetz/trove/blob/main/LICENSE
+publisher:
+  name: Chris Betz
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet, json]
+  access: public
+  url: https://github.com/cbetz/trove
+  temporal:
+    start: '2021'
+    end: '2024'
+  spatial: [US]
+  update_frequency: irregular

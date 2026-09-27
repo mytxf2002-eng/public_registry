@@ -1,0 +1,15 @@
+id: tvmaze
+kind: [api]
+name: TVMaze
+url: http://www.tvmaze.com/api
+description: TV Show Data
+domain: video
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

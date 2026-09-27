@@ -1,0 +1,2 @@
+id: flossmole-data-archive
+description: FLOSSmole 项目在 2004 至 2017 年间从 SourceForge、GitHub、Google Code、Launchpad、Debian、Apache 等平台采集的开源项目与开发者数据，按平台和日期存为 SQL 转储和文本表格压缩包，可直接下载。项目已停止更新，网站未注明许可证，使用时需引用相关论文。

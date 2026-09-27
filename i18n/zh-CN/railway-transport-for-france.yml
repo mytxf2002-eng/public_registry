@@ -1,0 +1,3 @@
+id: railway-transport-for-france
+description: 法国国家铁路公司 SNCF 的公开接口：行程规划、车站发车和到达、实时运行信息等，基于开源的 Navitia 引擎。
+group: 欧洲全国铁路与公共交通

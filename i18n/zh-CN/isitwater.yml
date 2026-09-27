@@ -1,0 +1,3 @@
+id: isitwater
+description: 判断一个经纬度在水上还是陆地上。原名 OnWater，现在叫 IsItWater，需要 API key，注册送 1,000 次免费额度。
+group: 高程、遥感与空间计算

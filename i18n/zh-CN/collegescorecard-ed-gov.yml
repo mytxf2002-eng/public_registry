@@ -1,0 +1,3 @@
+id: collegescorecard-ed-gov
+description: 美国教育部 College Scorecard 的数据：各高校和各专业的费用、毕业率、毕业生收入和贷款等，最早可追溯到 1997 年，可以下载数据文件。另有 API，需要 api.data.gov 的免费 key。
+group: 教育与高校

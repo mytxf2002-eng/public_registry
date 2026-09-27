@@ -1,0 +1,15 @@
+id: genshin-impact
+kind: [api]
+name: Genshin Impact
+url: https://genshin.dev
+description: Genshin Impact game data
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

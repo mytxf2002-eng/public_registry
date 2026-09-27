@@ -1,0 +1,3 @@
+id: sonar
+description: GitHub 上的开源项目（非 Rapid7 官方），把 Rapid7 的 Project Sonar 全网 DNS 扫描数据做成查询接口，主要用来枚举子域名。
+group: 域名、DNS 与网络计算

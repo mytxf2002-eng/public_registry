@@ -1,0 +1,18 @@
+id: ergast-f1
+kind: [api]
+name: Ergast F1
+url: http://ergast.com/mrd/
+description: F1 data from the beginning of the world championships in 1950
+domain: sports
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The Ergast API was shut down (its API URLs return 404) and ergast.com now shows a betting site; the community successor is Jolpica-F1

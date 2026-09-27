@@ -1,0 +1,3 @@
+id: thunderbit
+description: 给大模型应用提取网页内容：把页面精简成 Markdown，或按结构抽取成 JSON，支持异步批量任务。
+group: 面向大模型的网页提取

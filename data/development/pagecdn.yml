@@ -1,0 +1,15 @@
+id: pagecdn
+kind: [api]
+name: PageCDN
+url: https://pagecdn.com/docs/public-api
+description: Public API for javascript, css and font libraries on PageCDN
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

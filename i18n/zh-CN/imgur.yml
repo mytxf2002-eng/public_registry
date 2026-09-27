@@ -1,0 +1,3 @@
+id: imgur
+description: 图床 Imgur 的接口：上传图片（用 Client-ID 可以匿名上传）、管理相册、浏览公共画廊和评论，用户相关操作走 OAuth 2.0。
+group: 相册、图床与素材管理

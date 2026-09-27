@@ -1,0 +1,3 @@
+id: oddsradarwire
+description: 第三方提供的 Betradar（Sportradar 旗下的赔率数据品牌）赛前和滚球赔率，附带去除抽水后的原始概率，支持 REST 和 SSE 推送。
+group: 博彩赔率与盘口

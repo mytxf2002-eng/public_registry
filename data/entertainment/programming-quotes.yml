@@ -1,0 +1,16 @@
+id: programming-quotes
+kind: [api]
+name: Programming Quotes
+url: https://github.com/skolakoda/programming-quotes-api
+description: Programming Quotes API for open source projects
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2019-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

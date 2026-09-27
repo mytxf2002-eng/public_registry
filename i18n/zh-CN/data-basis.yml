@@ -1,0 +1,2 @@
+id: data-basis
+description: 巴西非营利组织 Data Basis（Base dos Dados）维护的公共数据湖，将人口序列、企业登记（CNPJ）、公共预算等巴西公共社会经济数据清洗为标准化表格，可通过 BigQuery（SQL，谷歌每月 1 TB 免费查询额度）或 Python/R 包访问，20 万行以下的表可直接下载 CSV。部分独家数据需付费订阅 DB Pro；原始数据权利归各来源。

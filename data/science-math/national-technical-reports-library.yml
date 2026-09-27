@@ -1,0 +1,21 @@
+id: national-technical-reports-library
+kind: [dataset]
+name: National Technical Reports Library (NTRL)
+url: https://ntrl.ntis.gov/NTRL/
+description: Searchable archive of about 3 million US government-sponsored scientific and technical reports, with bibliographic records and free full-text PDF downloads
+domain: science-math
+tags: [technical-reports, full-text, bibliographic-records, research-reports, engineering]
+license: unknown
+publisher:
+  name: National Technical Information Service (NTIS)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [pdf]
+  access: public
+  spatial: [US]
+  update_frequency: irregular
+  size: 3M+ reports

@@ -1,0 +1,15 @@
+id: deepdna
+kind: [api]
+name: DeepDNA
+url: https://deepdna.ai/docs/
+description: Cited gene, variant and CPIC drug-gene lookups for developers and AI agents
+domain: health
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,2 @@
+id: international-neuroimaging-data-sharing-initiative
+description: 国际神经影像数据共享计划（INDI）及“千人功能连接组”项目汇集多个站点共享的脑 MRI（静息态 fMRI、结构像、弥散等）和表型数据，包括 ADHD-200、CoRR、Rockland 样本和 Healthy Brain Network 等。需在 NITRC 注册并申请访问（通常一天内批准），同样的数据也可从公开的 fcp-indi S3 存储桶匿名下载；仅限非商业用途。

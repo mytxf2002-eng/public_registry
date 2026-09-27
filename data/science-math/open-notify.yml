@@ -1,0 +1,15 @@
+id: open-notify
+kind: [api]
+name: Open Notify
+url: http://open-notify.org/Open-Notify-API/
+description: ISS astronauts, current location, etc
+domain: science-math
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

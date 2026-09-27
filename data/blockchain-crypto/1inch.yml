@@ -1,0 +1,16 @@
+id: 1inch
+kind: [api]
+name: 1inch
+url: https://business.1inch.com/portal/documentation
+description: API for querying decentralize exchange
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

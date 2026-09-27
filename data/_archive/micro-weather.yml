@@ -1,0 +1,18 @@
+id: micro-weather
+kind: [api]
+name: Micro Weather
+url: https://m3o.com/weather/api
+description: Real time weather forecasts and historic data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-10-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The M3O platform was shut down

@@ -1,0 +1,20 @@
+id: animals-with-attributes-2
+kind: [dataset]
+name: Animals with Attributes 2 (AwA2)
+url: https://cvml.ista.ac.at/AwA2/
+description: 37,322 images of 50 animal classes with an 85-attribute class matrix and pre-extracted ResNet features, a benchmark for attribute-based and zero-shot classification
+domain: machine-learning
+tags: [zero-shot-learning, attribute-classification, image-classification, animals]
+license: unknown
+publisher:
+  name: Institute of Science and Technology Austria (Christoph Lampert)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, text]
+  access: public
+  update_frequency: static
+  size: 13 GB

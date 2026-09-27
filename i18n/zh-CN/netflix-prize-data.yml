@@ -1,0 +1,2 @@
+id: netflix-prize-data
+description: Netflix 百万美元推荐算法大赛（Netflix Prize）所用数据：48 万余名匿名用户对 17770 部影片的 1–5 星评分及日期，另含比赛用的资格集和探测集。Kaggle 上的副本由个人用户从互联网档案馆转存，需 Kaggle 账号下载；未注明许可证，Netflix 官方已撤下原始数据。

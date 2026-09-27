@@ -1,0 +1,2 @@
+id: doi-urls
+description: 2014 年从 Crossref OAI-PMH 接口采集的近 5000 万个期刊论文 DOI 及其对应的文章网址，按年份分为多个 gzip 压缩的 CSV 文件（共约 470 MB），可在互联网档案馆直接下载；为一次性快照，未标注许可，数据已较陈旧。

@@ -1,0 +1,21 @@
+id: imdb-non-commercial-datasets
+kind: [dataset]
+name: IMDb Non-Commercial Datasets
+url: https://data.imdb.com/non-commercial-datasets/
+description: Daily-refreshed TSV extracts of IMDb titles, alternative titles, crew, TV episodes, principal cast, user ratings and person records
+domain: video
+tags: [movies, tv-series, ratings, cast-and-crew]
+license: LicenseRef-Research-Only
+license_url: https://data.imdb.com/non-commercial-datasets/
+publisher:
+  name: IMDb
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://datasets.imdbws.com/
+  update_frequency: daily

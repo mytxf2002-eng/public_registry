@@ -1,0 +1,15 @@
+id: transport-for-czech-republic
+kind: [api]
+name: Transport for Czech Republic
+url: https://www.chaps.cz/eng/products/idos-internet
+description: Czech transport API
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-10-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,2 @@
+id: childery-zip-level-daycare-quality-dataset
+description: 按美国邮编区（20,433 个 ZCTA）汇总的托育机构供给和质量指标：机构数量、每千名 5 岁以下儿童的持证名额、评分、NAEYC 认证和 QRIS 参与比例、婴儿照护和周末服务比例、检查违规情况等 22 列。CSV/JSON 直接下载，CC BY 4.0；机构少于 5 家的邮编区数据被隐去，检查数据约覆盖 20 个州。

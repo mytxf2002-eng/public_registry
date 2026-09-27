@@ -1,0 +1,15 @@
+id: wattfigure
+kind: [api]
+name: WattFigure
+url: https://api.wattfigure.com/
+description: US electricity rates by state, with appliance and EV charging running costs
+domain: energy
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

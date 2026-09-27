@@ -1,0 +1,2 @@
+id: oecd-data-explorer
+description: 经合组织（OECD）的统计数据平台，覆盖成员国及伙伴国家的国民账户、物价、劳动力、贸易、教育、卫生、环境等数百个数据流，可在线浏览筛选和下载，也可通过无需密钥的 SDMX REST 接口获取 CSV、XML 或 JSON。旧的 data.oecd.org 已并入 OECD 数据页面；许可条款未能在可读页面中核实。

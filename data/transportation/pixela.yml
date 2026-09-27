@@ -1,0 +1,16 @@
+id: pixela
+kind: [api]
+name: Pixela
+url: https://pixe.la
+description: API for recording and tracking habits or effort, routines
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-03-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: x-mashape-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: dummyimage
+description: 通过 URL 生成指定尺寸、颜色和文字的占位图（例如 dummyimage.com/600x400），免 key，常用于网页原型。
+group: 图片生成与处理

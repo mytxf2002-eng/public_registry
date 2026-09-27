@@ -1,0 +1,2 @@
+id: whatsapp-business-platform-open-data
+description: WhaTools 整理的 WhatsApp 商业平台参考数据：Meta 公布的各市场按条消息计费价目（16 种货币）、WhatsApp 各项使用上限，以及 2019 年以来价格变动的带出处记录，每周自动更新。提供 JSON 和 CSV，可在 GitHub、Zenodo 直接下载或通过公开 JSON 接口获取，采用 CC BY 4.0。

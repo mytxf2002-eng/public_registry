@@ -1,0 +1,15 @@
+id: onyx-bazaar
+kind: [api]
+name: Onyx Bazaar
+url: https://onyx-actions.onrender.com/bazaar
+description: Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

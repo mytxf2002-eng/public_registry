@@ -1,0 +1,2 @@
+id: medicare-coverage-database
+description: 美国联邦医疗保险与补助服务中心（CMS）的医保覆盖数据库，包含全国和地方覆盖决定（NCD/LCD）、编码文章等文件，每周更新，可下载含 CSV 和 Access 数据库的压缩包，也可通过无需密钥的 Coverage API 查询。其中 CPT/CDT 编码受美国医学会等许可限制。

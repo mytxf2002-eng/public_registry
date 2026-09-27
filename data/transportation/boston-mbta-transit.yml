@@ -1,0 +1,15 @@
+id: boston-mbta-transit
+kind: [api]
+name: Boston MBTA Transit
+url: https://www.mbta.com/developers/v3-api
+description: Stations and predicted arrivals for MBTA
+domain: transportation
+license: unknown
+provenance:
+  added: 2018-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: news
+description: 即 NewsAPI（newsapi.org），常用的新闻搜索 API：按关键词、来源、语言检索全球新闻网站和博客的文章，另有各国头条接口。免费的开发者档只能用于开发测试。
+group: 综合新闻搜索与聚合

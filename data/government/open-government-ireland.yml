@@ -1,0 +1,21 @@
+id: open-government-ireland
+kind: [api, dataset]
+name: Open Government, Ireland
+url: https://data.gov.ie/pages/developers
+description: Ireland Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xlsx, json, geojson, kml, gpkg]
+  access: public
+  url: https://data.gov.ie/dataset
+  spatial: [IE]
+  size: 22,749 datasets

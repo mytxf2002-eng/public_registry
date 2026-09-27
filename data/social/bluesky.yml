@@ -1,0 +1,15 @@
+id: bluesky
+kind: [api]
+name: Bluesky
+url: https://bsky.network/docs/bluesky-api/
+description: Decentralized social networking via the AT protocol
+domain: social
+license: unknown
+provenance:
+  added: 2026-05-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

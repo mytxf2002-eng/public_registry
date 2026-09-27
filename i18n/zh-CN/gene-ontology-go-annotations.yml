@@ -1,0 +1,2 @@
+id: gene-ontology-go-annotations
+description: 基因本体（GO）联盟发布的基因功能注释：将多种生物的基因产物与 GO 术语关联并注明证据代码，以 GAF、GPAD/GPI 文件按物种提供，需配合 OBO 格式的本体文件使用；可直接下载，采用 CC BY 4.0 许可。

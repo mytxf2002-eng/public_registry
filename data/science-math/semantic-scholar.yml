@@ -1,0 +1,15 @@
+id: semantic-scholar
+kind: [api]
+name: Semantic Scholar
+url: https://api.semanticscholar.org/
+description: Academic search engine for papers, authors, and citations
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

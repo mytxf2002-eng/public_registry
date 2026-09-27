@@ -1,0 +1,15 @@
+id: musicbrainz
+kind: [api]
+name: MusicBrainz
+url: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+description: Open music encyclopedia with metadata on artists, releases, recordings and labels
+domain: music
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

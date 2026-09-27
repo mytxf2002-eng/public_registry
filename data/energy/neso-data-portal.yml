@@ -1,0 +1,15 @@
+id: neso-data-portal
+kind: [api]
+name: NESO Data Portal
+url: https://www.neso.energy/data-portal
+description: Open data from Great Britain’s Electricity System Operator
+domain: energy
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,18 @@
+id: juju
+kind: [api]
+name: Juju
+url: http://www.juju.com/publisher/spec/
+description: Job search engine
+domain: jobs
+license: unknown
+provenance:
+  added: 2017-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Juju's publisher API spec and publisher program pages return 404 and no current API documentation exists, although the job search site still runs.

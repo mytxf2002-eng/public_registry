@@ -1,0 +1,15 @@
+id: open-government-germany
+kind: [api]
+name: Open Government, Germany
+url: https://www.govdata.de/daten/-/details/govdata-metadatenkatalog
+description: Germany Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,23 @@
+id: geonames
+kind: [api, dataset]
+name: GeoNames
+url: http://www.geonames.org/export/web-services.html
+description: Place names and other geographical data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://download.geonames.org/export/dump/
+  spatial: [global]
+  update_frequency: daily
+  size: 402 MB zipped (allCountries)

@@ -1,0 +1,23 @@
+id: openstreetmap
+kind: [api, dataset]
+name: OpenStreetMap
+url: http://wiki.openstreetmap.org/wiki/API
+description: Navigation, geolocation and geographical data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: false
+  cors: unknown
+dataset:
+  formats: [osm]
+  access: public
+  url: https://planet.openstreetmap.org/
+  spatial: [global]
+  update_frequency: weekly
+  size: 88 GB (planet PBF)

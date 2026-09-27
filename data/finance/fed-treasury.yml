@@ -1,0 +1,21 @@
+id: fed-treasury
+kind: [api, dataset]
+name: Fed Treasury
+url: https://fiscaldata.treasury.gov/api-documentation/
+description: U.S. Department of the Treasury Data
+domain: finance
+license: LicenseRef-Custom-Open
+license_url: https://fiscaldata.treasury.gov/api-documentation/
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, xml]
+  access: public
+  url: https://fiscaldata.treasury.gov/datasets/
+  spatial: [US]

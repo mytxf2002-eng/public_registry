@@ -1,0 +1,15 @@
+id: mozilla-tls-scanner
+kind: [api]
+name: Mozilla tls scanner
+url: https://github.com/mozilla/tls-observatory#api-endpoints
+description: Mozilla observatory tls scanner
+domain: security
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

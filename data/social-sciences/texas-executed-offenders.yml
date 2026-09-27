@@ -1,0 +1,25 @@
+id: texas-executed-offenders
+kind: [dataset]
+name: Texas Executed Offenders
+url: https://www.tdcj.texas.gov/death_row/executed_inmates.html
+description: Record of every execution carried out in Texas since December 1982, with age, race, county and date, plus linked offender details and last statements
+domain: social-sciences
+tags: [death-penalty, executions, criminal-justice, last-statements]
+license: LicenseRef-Provider-Terms
+license_url: https://www.tdcj.texas.gov/death_row/executed_inmates.html
+publisher:
+  name: Texas Department of Criminal Justice
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [html]
+  access: public
+  temporal:
+    start: '1982'
+    end: null
+  spatial: [US-TX]
+  update_frequency: irregular
+  size: 602 executions

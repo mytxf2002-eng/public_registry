@@ -1,0 +1,15 @@
+id: untappd
+kind: [api]
+name: Untappd
+url: https://untappd.com/api/docs
+description: Social beer sharing
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-11-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

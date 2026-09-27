@@ -1,0 +1,18 @@
+id: amethyste
+kind: [api]
+name: Améthyste
+url: https://api.amethyste.moe/
+description: Generate images for Discord users
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The Améthyste API server refuses connections on all hosts and its official client package has not been updated since 2023.

@@ -1,0 +1,15 @@
+id: the-lord-of-the-rings
+kind: [api]
+name: The Lord of the Rings
+url: https://the-one-api.dev/
+description: The Lord of the Rings API
+domain: video
+license: unknown
+provenance:
+  added: 2020-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

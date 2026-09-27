@@ -1,0 +1,18 @@
+id: zero-retention-pdf
+kind: [api]
+name: Zero Retention PDF
+url: https://xeropdf.com
+description: Zero-retention HTML to PDF conversion
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-06-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: xeropdf.com is unreachable from every network tried and it has no other official page.

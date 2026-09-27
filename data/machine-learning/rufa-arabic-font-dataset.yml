@@ -1,0 +1,21 @@
+id: rufa-arabic-font-dataset
+kind: [dataset]
+name: RuFa Arabic Font Dataset
+url: https://github.com/mhmoodlan/arabic-font-classification/releases/tag/v0.1.0
+description: 40,516 images of Arabic-script text in Ruqaa and Nastaliq (Farsi) fonts, 40,000 synthetic and 516 real, for font classification
+domain: machine-learning
+tags: [font-recognition, arabic-script, synthetic-data, image-classification]
+license: MIT
+license_url: https://github.com/mhmoodlan/arabic-font-classification/blob/master/LICENSE
+publisher:
+  name: Mahmoud Aslan
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv]
+  access: public
+  update_frequency: static
+  size: 121 MB

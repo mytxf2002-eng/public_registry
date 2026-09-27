@@ -1,0 +1,16 @@
+id: oxford
+kind: [api]
+name: Oxford
+url: https://developer.oxforddictionaries.com/
+description: Dictionary Data
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,15 @@
+id: stockdata
+kind: [api]
+name: StockData
+url: https://www.StockData.org
+description: Real-Time, Intraday & Historical Market Data, News and Sentiment API
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

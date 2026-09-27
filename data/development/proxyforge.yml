@@ -1,0 +1,15 @@
+id: proxyforge
+kind: [api]
+name: ProxyForge
+url: https://proxyforge.dev
+description: Free auto-updating list of live-tested proxies (HTTP/HTTPS/SOCKS4/SOCKS5), refreshed every 6 h
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

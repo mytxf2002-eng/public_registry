@@ -1,0 +1,3 @@
+id: kraken
+description: 美国老牌交易所 Kraken 的 REST API：公开的行情数据，以及需要 API key 的账户和下单接口。
+group: 大型交易所交易接口

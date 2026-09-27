@@ -1,0 +1,23 @@
+id: us-franchise-fdd-disclosure-statistics
+kind: [dataset]
+name: US Franchise FDD Disclosure Statistics
+url: https://franchisefactsreport.com/data/
+description: 'Headline facts from 3,018 US Franchise Disclosure Documents: initial investment range, fees, royalties, Item 19 earnings disclosure, outlet changes and franchisee lawsuits'
+domain: business
+tags: [franchises, franchise-disclosure, royalties, small-business]
+license: CC-BY-4.0
+license_url: https://franchisefactsreport.com/data/
+publisher:
+  name: Franchise Facts Report
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://franchisefactsreport.com/data/franchise-fdd-statistics.csv
+  spatial: [US]
+  update_frequency: irregular
+  size: 3,018 brands

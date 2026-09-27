@@ -1,0 +1,16 @@
+id: public-holidays
+kind: [api]
+name: Public Holidays
+url: https://www.abstractapi.com/holidays-api
+description: Data on national, regional, and religious holidays via API
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2021-03-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

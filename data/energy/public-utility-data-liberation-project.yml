@@ -1,0 +1,22 @@
+id: public-utility-data-liberation-project
+kind: [dataset]
+name: Public Utility Data Liberation Project (PUDL)
+url: https://catalyst.coop/pudl/
+description: Cleaned and linked US energy data from EIA, FERC, EPA CEMS and other agencies in more than 300 tables, rebuilt nightly as Parquet, DuckDB and SQLite
+domain: energy
+tags: [electric-utilities, power-plants, emissions, ferc, eia, data-pipeline]
+license: CC-BY-4.0
+license_url: https://github.com/catalyst-cooperative/pudl
+publisher:
+  name: Catalyst Cooperative
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet, sqlite, csv]
+  access: public
+  url: https://data.catalyst.coop/
+  spatial: [US]
+  update_frequency: daily

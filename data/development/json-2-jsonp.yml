@@ -1,0 +1,15 @@
+id: json-2-jsonp
+kind: [api]
+name: JSON 2 JSONP
+url: https://json2jsonp.com/
+description: Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript
+domain: development
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: pvgis
+kind: [api]
+name: PVGIS
+url: https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system/getting-started-pvgis/api-non-interactive-service
+description: EU solar radiation and photovoltaic performance estimates
+domain: energy
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

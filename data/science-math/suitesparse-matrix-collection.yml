@@ -1,0 +1,21 @@
+id: suitesparse-matrix-collection
+kind: [dataset]
+name: SuiteSparse Matrix Collection
+url: https://sparse.tamu.edu/
+description: 2,904 sparse matrices from engineering, physics, networks, optimisation and other applications, curated for benchmarking sparse linear algebra and graph algorithms
+domain: science-math
+tags: [sparse-matrices, linear-algebra, graphs, benchmarks, matrix-market]
+license: CC-BY-4.0
+license_url: https://sparse.tamu.edu/about
+publisher:
+  name: Timothy A. Davis (Texas A&M University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [matlab, text]
+  access: public
+  update_frequency: irregular
+  size: 2,904 matrices

@@ -1,0 +1,25 @@
+id: openneuro
+kind: [api, dataset]
+name: OpenNeuro
+url: https://openneuro.org/
+description: Openly shared brain imaging datasets, mostly fMRI plus structural and diffusion MRI, EEG, MEG and iEEG, organized in BIDS with a DOI per version
+domain: life-sciences
+tags: [neuroimaging, mri, eeg, meg, bids]
+license: CC0-1.0
+license_url: https://docs.openneuro.org/faq.html
+publisher:
+  name: Stanford Center for Reproducible Neuroscience
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.openneuro.org/api.html
+dataset:
+  formats: [nifti, tsv, json]
+  access: public
+  update_frequency: weekly

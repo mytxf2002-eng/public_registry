@@ -1,0 +1,3 @@
+id: json-2-jsonp
+description: 把任意 JSON 接口即时转换成 JSONP，让不支持 CORS 的接口也能在浏览器里跨域调用，结果缓存 4 小时。
+group: HTTP 测试与跨域代理

@@ -1,0 +1,16 @@
+id: wecantrack
+kind: [api]
+name: WeCanTrack
+url: https://docs.wecantrack.com
+description: Automatically place subids in affiliate links to attribute affiliate conversions to click data
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

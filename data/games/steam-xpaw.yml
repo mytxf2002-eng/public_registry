@@ -1,0 +1,15 @@
+id: steam-xpaw
+kind: [api]
+name: Steam (steamapi.xpaw.me)
+url: https://steamapi.xpaw.me/
+description: Steam Web API documentation
+domain: games
+license: unknown
+provenance:
+  added: 2021-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

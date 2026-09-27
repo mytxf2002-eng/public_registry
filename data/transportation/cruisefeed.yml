@@ -1,0 +1,15 @@
+id: cruisefeed
+kind: [api]
+name: CruiseFeed
+url: https://cruisefeed.io
+description: 'Normalized cruise line inventory: ships, sailings, itineraries, ports and lead-in fares'
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

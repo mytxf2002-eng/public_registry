@@ -1,0 +1,22 @@
+id: tz-world-time-zone-shapefile
+kind: [dataset]
+name: tz_world Time Zone Shapefile
+url: http://efele.net/maps/tz/world/
+description: Polygons of the IANA tz database time zones over the world's land areas, about 28,000 rows matching tz release 2016d, as shapefiles; not updated since May 2016
+domain: calendar-events
+tags: [time-zones, tz-database, boundaries, polygons]
+license: CC0-1.0
+license_url: http://efele.net/maps/tz/world/
+publisher:
+  name: Eric Muller
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [shapefile]
+  access: public
+  spatial: [global]
+  update_frequency: static
+  size: 16 MB

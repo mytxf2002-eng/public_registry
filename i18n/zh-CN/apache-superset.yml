@@ -1,0 +1,3 @@
+id: apache-superset
+description: 开源 BI 平台 Apache Superset 的 REST API，用来管理仪表盘、图表、数据集和数据库连接，适用于自己部署的 Superset 实例。
+group: 网站分析与 BI 报表

@@ -1,0 +1,16 @@
+id: geoapi
+kind: [api]
+name: GeoApi
+url: https://geo.api.gouv.fr/decoupage-administratif
+description: French geographical data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-12-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

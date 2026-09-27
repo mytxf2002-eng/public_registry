@@ -1,0 +1,18 @@
+id: random-stuff
+kind: [api]
+name: Random Stuff
+url: https://api-docs.pgamerx.com/
+description: Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: api-docs.pgamerx.com no longer resolves and pgamerx.com now redirects to a gambling site.

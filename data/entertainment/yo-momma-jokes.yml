@@ -1,0 +1,15 @@
+id: yo-momma-jokes
+kind: [api]
+name: Yo Momma Jokes
+url: https://github.com/beanboi7/yomomma-apiv2
+description: REST API for Yo Momma Jokes
+domain: entertainment
+license: unknown
+provenance:
+  added: 2021-05-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

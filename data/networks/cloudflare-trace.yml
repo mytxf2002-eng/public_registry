@@ -1,0 +1,15 @@
+id: cloudflare-trace
+kind: [api]
+name: Cloudflare Trace
+url: https://github.com/fawazahmed0/cloudflare-trace-api
+description: Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More
+domain: networks
+license: unknown
+provenance:
+  added: 2021-07-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

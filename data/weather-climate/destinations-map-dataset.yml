@@ -1,0 +1,22 @@
+id: destinations-map-dataset
+kind: [dataset]
+name: Destinations Map Dataset (formerly Sunshine Atlas)
+url: https://destinationsmap.com/data/
+description: 'Monthly climate normals for 3,833 airport-served destinations worldwide: sunshine score, day and night temperatures, rainfall, midday UV index and sea temperature'
+domain: weather-climate
+tags: [climate-normals, sunshine, temperature, travel, uv-index]
+license: CC-BY-4.0
+license_url: https://destinationsmap.com/data/
+publisher:
+  name: Destinations Map
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 3,833 destinations

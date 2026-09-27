@@ -1,0 +1,2 @@
+id: vta-open-data
+description: 美国加州圣克拉拉谷交通局（VTA）的开放数据站点（ArcGIS Hub），约 30 个数据集，包括公交和轻轨站点、线路、车站、停车换乘点、自行车道以及按线路和站点统计的客流量，可下载 CSV、GeoJSON、Shapefile、KML，并提供 ArcGIS 查询接口；多数数据未标注许可。

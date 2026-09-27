@@ -1,0 +1,21 @@
+id: openmercantil
+kind: [api, dataset]
+name: OpenMercantil
+url: https://openmercantil.es/api/documentacion
+description: Spanish company public data and BORME event timelines
+domain: government
+license: unknown
+provenance:
+  added: 2026-06-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: paid-tier
+  url: https://openmercantil.es/descargas
+  spatial: [ES]
+  size: 10,000 companies (free file)

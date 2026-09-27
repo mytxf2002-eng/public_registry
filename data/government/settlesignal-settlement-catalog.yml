@@ -1,0 +1,22 @@
+id: settlesignal-settlement-catalog
+kind: [dataset]
+name: SettleSignal Settlement Catalog
+url: https://settlesignal.com/data/
+description: About 880 US class-action and government refund settlements with claim deadlines, proof rules, payout, claim status and official claim links, marked by evidence status
+domain: government
+tags: [class-actions, settlements, consumer-refunds, legal]
+license: CC-BY-4.0
+license_url: https://settlesignal.com/data/
+publisher:
+  name: SettleSignal
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: daily
+  size: 879 settlements

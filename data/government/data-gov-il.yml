@@ -1,0 +1,27 @@
+id: data-gov-il
+kind: [api, dataset]
+name: Data.gov.il
+url: https://data.gov.il/he
+description: About 1,200 datasets from over 60 Israeli ministries, statutory bodies and local authorities on population, transport, finance, health, energy, housing, education and environment
+domain: government
+tags: [open-government, transport, health, public-finance, environment]
+license: LicenseRef-Open-Government
+license_url: https://data.gov.il/he/terms-of-use
+publisher:
+  name: National Digital Agency (Israel)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, xlsx, xls, xml, json, geojson, kml, shapefile]
+  access: public
+  url: https://data.gov.il/he/datasets
+  spatial: [IL]
+  update_frequency: irregular
+  size: 1,199 datasets

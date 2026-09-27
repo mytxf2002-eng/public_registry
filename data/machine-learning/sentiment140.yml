@@ -1,0 +1,25 @@
+id: sentiment140
+kind: [dataset]
+name: Sentiment140
+url: https://huggingface.co/datasets/stanfordnlp/sentiment140
+description: 1.6 million English tweets labelled positive or negative from their emoticons (distant supervision), plus 498 hand-labelled test tweets, for Twitter sentiment classification
+domain: machine-learning
+tags: [sentiment-analysis, twitter, text-classification, distant-supervision, nlp]
+license: unknown
+publisher:
+  name: Alec Go, Richa Bhayani and Lei Huang (Stanford University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
+  temporal:
+    start: '2009'
+    end: '2009'
+  spatial: [global]
+  update_frequency: static
+  size: 1.6 M tweets

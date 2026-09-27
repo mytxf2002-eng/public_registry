@@ -1,0 +1,21 @@
+id: british-oceanographic-data-centre
+kind: [dataset]
+name: British Oceanographic Data Centre
+url: https://www.bodc.ac.uk/data/
+description: Marine measurements held by the UK's national oceanographic data centre, including CTD profiles, current meter and wave series, water samples, tide gauges and Argo float data
+domain: science-math
+tags: [oceanography, ctd, sea-level, ocean-currents, marine-data]
+license: LicenseRef-Provider-Terms
+license_url: https://www.bodc.ac.uk/resources/help_and_hints/using_this_web_site/copyright/
+publisher:
+  name: British Oceanographic Data Centre (National Oceanography Centre)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [netcdf, text]
+  access: registration
+  spatial: [global]
+  update_frequency: irregular

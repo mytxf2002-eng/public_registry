@@ -1,0 +1,15 @@
+id: transport-for-budapest-hungary
+kind: [api]
+name: Transport for Budapest, Hungary
+url: https://bkkfutar.docs.apiary.io
+description: Budapest public transport API
+domain: transportation
+license: unknown
+provenance:
+  added: 2019-04-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

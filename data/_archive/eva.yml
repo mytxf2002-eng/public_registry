@@ -1,0 +1,19 @@
+id: eva
+kind: [api]
+name: EVA
+url: https://eva.pingutil.com/
+description: Validate email addresses
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2021-04-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The EVA email validation API host no longer resolves, and pingutil.com now offers a different product.

@@ -1,0 +1,2 @@
+id: domains-project
+description: Domains Project 在 GitHub 公开的互联网域名数据集，约 17 亿个通过网页爬取和 DNS 检查收集的域名，按国家/顶级域分成 xz 压缩的纯文本文件（每行一个域名），需用 Git LFS 下载后解压。更大的未过滤数据（约 30 亿）和 DNS JSON 仅向付费订阅者提供。

@@ -1,0 +1,27 @@
+id: catalogue-of-life
+kind: [api, dataset]
+name: Catalogue of Life
+url: https://www.catalogueoflife.org/
+description: Global checklist of accepted species names and synonyms, about 2.3 million species in the base release and 8.1 million names in the extended release, published monthly
+domain: life-sciences
+tags: [taxonomy, species, biodiversity, checklist, nomenclature]
+license: CC-BY-4.0
+license_url: https://www.catalogueoflife.org/data/download
+publisher:
+  name: Catalogue of Life (Species 2000 and ITIS)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.checklistbank.org/about/API
+dataset:
+  formats: [tsv, text]
+  access: public
+  url: https://www.catalogueoflife.org/data/download
+  spatial: [global]
+  update_frequency: monthly

@@ -1,0 +1,21 @@
+id: cancer-cell-line-encyclopedia
+kind: [dataset]
+name: Cancer Cell Line Encyclopedia (CCLE)
+url: https://sites.broadinstitute.org/ccle
+description: 'Molecular profiles of about 1,000 human cancer cell lines: mutations, copy number, RNA-seq expression, fusions, DNA methylation, histone marks, proteomics and metabolomics'
+domain: life-sciences
+tags: [cancer-cell-lines, genomics, gene-expression, dna-methylation, proteomics]
+license: unknown
+publisher:
+  name: Broad Institute (with Novartis Institutes for BioMedical Research)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://sites.broadinstitute.org/ccle/datasets
+  update_frequency: irregular
+  size: ~1,000 cell lines

@@ -1,0 +1,15 @@
+id: wander-atlas
+kind: [api]
+name: Wander Atlas
+url: https://wanderatlasguides.com/api/
+description: Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

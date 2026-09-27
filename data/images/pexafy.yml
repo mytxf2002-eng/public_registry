@@ -1,0 +1,16 @@
+id: pexafy
+kind: [api]
+name: Pexafy
+url: https://docs.pexafy.com
+description: Semantic image search across 9+ free stock photo sources with a unified JSON schema
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2026-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

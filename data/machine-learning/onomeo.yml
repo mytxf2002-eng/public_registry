@@ -1,0 +1,15 @@
+id: onomeo
+kind: [api]
+name: onomeo
+url: https://onomeo.com/docs
+description: OpenAI-compatible, 47 LLMs, small check-in credits, strict limits, optional paid top-up, public beta
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

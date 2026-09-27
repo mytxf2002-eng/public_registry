@@ -1,0 +1,15 @@
+id: inspirehep-net
+kind: [api]
+name: inspirehep.net
+url: https://github.com/inspirehep/rest-api-doc
+description: High Energy Physics info. system
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-07-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

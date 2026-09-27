@@ -1,0 +1,15 @@
+id: deezer
+kind: [api]
+name: Deezer
+url: https://developers.deezer.com/api
+description: Search Deezer's catalogue of tracks, albums, artists and playlists, with charts and previews
+domain: music
+license: unknown
+provenance:
+  added: 2016-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

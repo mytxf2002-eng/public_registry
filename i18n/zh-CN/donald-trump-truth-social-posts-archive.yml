@@ -1,0 +1,2 @@
+id: donald-trump-truth-social-posts-archive
+description: 根据 Trumpstruth 公开页面整理的特朗普 Truth Social 账号帖子存档，共 36,170 条（2022 年 2 月起），含时间、正文、原始 HTML、图片和视频转写，以 Parquet/JSONL 在 Hugging Face 免费下载，每周一更新。为个人整理的非官方数据，未授予任何许可，使用前需自行核查版权和平台条款。

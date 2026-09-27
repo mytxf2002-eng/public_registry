@@ -1,0 +1,24 @@
+id: city-of-berkeley-open-data-portal
+kind: [api, dataset]
+name: City of Berkeley Open Data Portal
+url: https://data.cityofberkeley.info/
+description: About 45 datasets from the City of Berkeley, California, including business licences, city finances, energy and environment, natural resources and demographics
+domain: government
+tags: [open-government, city-data, business-licenses, environment, socrata]
+license: unknown
+publisher:
+  name: City of Berkeley
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml]
+  access: public
+  spatial: [US-CA]

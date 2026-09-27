@@ -1,0 +1,2 @@
+id: getty-vocabularies-linked-open-data
+description: 以关联开放数据形式发布盖蒂研究所的艺术与建筑叙词表（AAT）、地理名称叙词表（TGN）和艺术家名称联合列表（ULAN），提供 SPARQL 查询端点、URI 解析和按词表打包的 N-Triples 全量下载，无需注册。采用 ODC 署名许可，使用时需注明出处。

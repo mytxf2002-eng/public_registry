@@ -1,0 +1,29 @@
+id: ensembl-genomes
+kind: [api, dataset]
+name: Ensembl Genomes
+url: https://ensemblgenomes.org/
+description: 'Genome assemblies, gene annotation, comparative genomics and variation data for non-vertebrate species in five divisions: plants, metazoa, protists, fungi and bacteria'
+domain: life-sciences
+tags: [genomics, genome-annotation, plants, fungi, bacteria, comparative-genomics]
+license: LicenseRef-Custom-Open
+license_url: https://jun2026.archive.ensembl.org/info/about/legal/disclaimer.html
+publisher:
+  name: EMBL-EBI (Ensembl)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://rest.ensembl.org/
+dataset:
+  formats: [fasta, bed, vcf, json, sql]
+  access: public
+  url: https://ftp.ensemblgenomes.ebi.ac.uk/pub/
+  temporal:
+    start: '2010'
+    end: null
+  update_frequency: irregular

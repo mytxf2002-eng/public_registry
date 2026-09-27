@@ -1,0 +1,15 @@
+id: humble-bundle
+kind: [api]
+name: Humble Bundle
+url: https://rapidapi.com/Ziggoto/api/humble-bundle
+description: Humble Bundle's current bundles
+domain: games
+license: unknown
+provenance:
+  added: 2021-04-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

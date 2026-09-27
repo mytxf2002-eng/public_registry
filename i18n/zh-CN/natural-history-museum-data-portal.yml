@@ -1,0 +1,2 @@
+id: natural-history-museum-data-portal
+description: 英国伦敦自然历史博物馆的数据门户，提供约 627 万条馆藏标本记录（Darwin Core，CC0）以及约 300 个研究数据集（表格、图像、三维扫描等），可在线检索下载，也可通过 CKAN/datastore API 免费查询。各数据集许可不同，以 CC BY 和 CC0 为主；网站首页设有防机器人验证。

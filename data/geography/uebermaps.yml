@@ -1,0 +1,16 @@
+id: uebermaps
+kind: [api]
+name: Uebermaps
+url: https://uebermaps.com/api/v2
+description: Discover and share maps with friends
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

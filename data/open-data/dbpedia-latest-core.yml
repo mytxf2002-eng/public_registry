@@ -1,0 +1,27 @@
+id: dbpedia-latest-core
+kind: [api, dataset]
+name: DBpedia Latest Core
+url: https://www.dbpedia.org/resources/latest-core/
+description: Monthly RDF extraction of facts, infobox data, labels, abstracts and type statements from Wikipedia, about 900 million triples, also loaded into the public DBpedia SPARQL endpoint
+domain: open-data
+tags: [knowledge-graph, linked-data, wikipedia, rdf, sparql]
+license: CC-BY-SA-3.0
+license_url: https://www.dbpedia.org/about/
+publisher:
+  name: DBpedia Association
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.dbpedia.org/resources/sparql/
+dataset:
+  formats: [rdf]
+  access: public
+  url: https://databus.dbpedia.org/dbpedia/collections/latest-core
+  update_frequency: monthly
+  size: 900 M triples

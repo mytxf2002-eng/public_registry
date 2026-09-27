@@ -1,0 +1,16 @@
+id: bitfinex
+kind: [api]
+name: Bitfinex
+url: https://docs.bitfinex.com/docs
+description: Cryptocurrency Trading Platform
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2017-12-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

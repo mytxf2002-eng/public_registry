@@ -1,0 +1,3 @@
+id: cloudflare
+description: Cloudflare 官方 API：管理 DNS 记录、CDN 缓存、防火墙规则、Workers、R2 存储等大部分服务，官方提供 OpenAPI 3.0 描述文件。
+group: 云平台与后端服务

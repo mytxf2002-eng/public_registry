@@ -1,0 +1,15 @@
+id: linkedin
+kind: [api]
+name: LinkedIn
+url: https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context
+description: The foundation of all digital integrations with LinkedIn
+domain: social
+license: unknown
+provenance:
+  added: 2021-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

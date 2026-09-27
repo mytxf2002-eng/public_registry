@@ -1,0 +1,15 @@
+id: cure-cancer-with-ai
+kind: [api]
+name: Cure Cancer With AI
+url: https://www.curecancerwithai.com/developers
+description: Oncology research, clinical trials, FDA approvals, news, and MAMMAL predictions
+domain: health
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

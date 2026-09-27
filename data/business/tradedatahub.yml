@@ -1,0 +1,15 @@
+id: tradedatahub
+kind: [api]
+name: TradeDataHub
+url: https://www.tradedatahub.net
+description: U.S. contractor datasets with a free discovery API for coverage, pricing and masked previews
+domain: business
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: mediacraft-ai
+kind: [api]
+name: MediaCraft AI
+url: https://mediacraft-x402-api.onrender.com
+description: Chinese content compliance review for 17 platforms, EN↔CN translation and SEO, paid via x402
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

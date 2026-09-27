@@ -1,0 +1,21 @@
+id: wordbank
+kind: [dataset]
+name: Wordbank
+url: https://langcog.github.io/wordbank-datapage/
+description: Open database of parent-reported vocabulary checklists (MacArthur-Bates CDI and adaptations) for young children in many languages, with item-level responses and demographics
+domain: language
+tags: [language-acquisition, child-development, vocabulary, cdi]
+license: CC-BY-4.0
+license_url: https://langcog.github.io/wordbank-datapage/about.html
+publisher:
+  name: Language and Cognition Lab, Stanford University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://langcog.github.io/wordbank-datapage/data.html
+  update_frequency: irregular

@@ -1,0 +1,16 @@
+id: madeonsol
+kind: [api]
+name: MadeOnSol
+url: https://madeonsol.com/developer
+description: Real-time Solana & Robinhood Chain KOL trades, deployer reputation, and DEX activity
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

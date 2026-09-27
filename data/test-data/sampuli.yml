@@ -1,0 +1,15 @@
+id: sampuli
+kind: [api]
+name: Sampuli
+url: https://sampuli.site/api
+description: 'Format-true synthetic test data for 90 countries: IDs, IBANs, cards, addresses'
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

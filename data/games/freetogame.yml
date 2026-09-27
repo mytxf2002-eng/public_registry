@@ -1,0 +1,15 @@
+id: freetogame
+kind: [api]
+name: FreeToGame
+url: https://www.freetogame.com/api-doc
+description: Free-To-Play Games Database
+domain: games
+license: unknown
+provenance:
+  added: 2021-05-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

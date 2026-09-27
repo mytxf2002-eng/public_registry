@@ -1,0 +1,15 @@
+id: word-cloud
+kind: [api]
+name: Word Cloud
+url: https://wordcloudapi.com/
+description: Easily create word clouds
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

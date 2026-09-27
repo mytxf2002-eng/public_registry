@@ -1,0 +1,24 @@
+id: cmap-household-travel-survey-data-collection
+kind: [dataset]
+name: CMAP Household Travel Survey Data Collection
+url: https://www.arcgis.com/home/item.html?id=2e0719dce2c34eeea81039eca35def80
+description: Public-release data and documentation of five household travel surveys of the Chicago region, from the 1990 CATS survey to My Daily Travel 2024-2025, used for travel demand modelling
+domain: transportation
+tags: [household-travel-survey, travel-behavior, survey-microdata, travel-demand]
+license: LicenseRef-Custom-Open
+license_url: https://www.arcgis.com/home/item.html?id=2e0719dce2c34eeea81039eca35def80
+publisher:
+  name: Chicago Metropolitan Agency for Planning (CMAP)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  temporal:
+    start: '1990'
+    end: '2025'
+  spatial: [US-IL]
+  update_frequency: irregular

@@ -1,0 +1,16 @@
+id: one-map-singapore
+kind: [api]
+name: One Map, Singapore
+url: https://www.onemap.gov.sg/docs/
+description: Singapore Land Authority REST API services for Singapore addresses
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

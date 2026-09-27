@@ -1,0 +1,15 @@
+id: mockaroo
+kind: [api]
+name: Mockaroo
+url: https://www.mockaroo.com/docs
+description: Generate fake data to JSON, CSV, TXT, SQL and XML
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

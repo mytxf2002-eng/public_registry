@@ -1,0 +1,15 @@
+id: city-prague-open-data
+kind: [api]
+name: City, Prague Open Data
+url: https://lkod.cz/catalog/praha
+description: Prague(CZ) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2017-03-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

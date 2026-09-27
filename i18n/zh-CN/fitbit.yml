@@ -1,0 +1,3 @@
+id: fitbit
+description: Fitbit（2021 年起归 Google 所有）的开发者平台：Web API 经 OAuth 读取用户的步数、心率、睡眠等健康数据，SDK 用来给 Fitbit 手表开发应用和表盘。
+group: 健身与运动记录

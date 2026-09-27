@@ -1,0 +1,21 @@
+id: oxford-iiit-pet-dataset
+kind: [dataset]
+name: Oxford-IIIT Pet Dataset
+url: https://www.robots.ox.ac.uk/~vgg/data/pets/
+description: 37 cat and dog breeds with about 200 photos each, annotated with breed, a head bounding box and a pixel-level trimap segmentation
+domain: machine-learning
+tags: [pet-breeds, image-classification, image-segmentation, fine-grained-classification]
+license: CC-BY-SA-4.0
+license_url: https://www.robots.ox.ac.uk/~vgg/data/pets/
+publisher:
+  name: Visual Geometry Group, University of Oxford and IIIT Hyderabad
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  update_frequency: static
+  size: ~800 MB

@@ -1,0 +1,19 @@
+id: walltime
+kind: [api]
+name: Walltime
+url: https://walltime.info/api.html
+description: To retrieve Walltime's market info
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-10-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: walltime.info no longer resolves, and no successor site for the Walltime API was found.

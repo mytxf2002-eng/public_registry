@@ -1,0 +1,16 @@
+id: etherscan
+kind: [api]
+name: Etherscan
+url: https://etherscan.io/apis
+description: Ethereum explorer API
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: nasa
+kind: [api]
+name: NASA
+url: https://api.nasa.gov
+description: NASA data, including imagery
+domain: science-math
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

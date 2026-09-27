@@ -1,0 +1,23 @@
+id: collegescorecard-ed-gov
+kind: [api, dataset]
+name: CollegeScoreCard.ed.gov
+url: https://collegescorecard.ed.gov/data/
+description: Data on higher education institutions in the United States
+domain: education
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '1996'
+    end: null
+  spatial: [US]
+  size: 470 MB zipped

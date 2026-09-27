@@ -1,0 +1,3 @@
+id: oikolab
+description: 全球逐小时的历史和预报天气数据，时间跨度 70 多年，数据来自 NOAA 和 ECMWF，适合做数据分析和建模。
+group: 历史天气与实测数据

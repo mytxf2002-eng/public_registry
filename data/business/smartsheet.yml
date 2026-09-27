@@ -1,0 +1,15 @@
+id: smartsheet
+kind: [api]
+name: Smartsheet
+url: https://smartsheet.redoc.ly/
+description: Allows you to programmatically access and Smartsheet data and account information
+domain: business
+license: unknown
+provenance:
+  added: 2021-08-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'no'

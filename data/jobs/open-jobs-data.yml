@@ -1,0 +1,22 @@
+id: open-jobs-data
+kind: [dataset]
+name: open-jobs-data
+url: https://github.com/ConorsCode/open-jobs-data
+description: Daily snapshot of about 38,000 open job postings from roughly 380 tech companies, pulled from nine applicant tracking systems and normalised into one schema
+domain: jobs
+tags: [job-postings, ats, tech-industry, recruiting, remote-work]
+license: MIT
+license_url: https://github.com/ConorsCode/open-jobs-data/blob/main/LICENSE
+publisher:
+  name: ConorsCode
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv, xml]
+  access: public
+  spatial: [global]
+  update_frequency: daily
+  size: 38,433 postings

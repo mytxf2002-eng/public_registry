@@ -1,0 +1,3 @@
+id: hyperliquid-market-data
+description: 第三方在 RapidAPI 上发布的 Hyperliquid（链上永续合约交易所）数据：各币种的未平仓合约、资金费率，以及跨交易所的预测资金费率。
+group: DeFi 与去中心化应用

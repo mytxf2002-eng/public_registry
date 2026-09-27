@@ -1,0 +1,15 @@
+id: perspective
+kind: [api]
+name: Perspective
+url: https://perspectiveapi.com
+description: NLP API to return probability that if text is toxic, obscene, insulting or threatening
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-08-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: cloverly
+kind: [api]
+name: Cloverly
+url: https://docs.cloverly.com/docs/cloverly-api/33503fa0888fc-cloverly-api
+description: API calculates the impact of common carbon-intensive activities in real time
+domain: environment
+license: unknown
+provenance:
+  added: 2021-05-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

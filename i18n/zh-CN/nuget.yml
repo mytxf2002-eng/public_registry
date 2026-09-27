@@ -1,0 +1,3 @@
+id: nuget
+description: .NET 官方包仓库 NuGet 的服务端 API：搜索包、获取版本和元数据、下载包，发布包也走这套接口。
+group: 软件包仓库与 CDN

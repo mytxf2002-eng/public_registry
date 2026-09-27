@@ -1,0 +1,15 @@
+id: gurbaninow
+kind: [api]
+name: GurbaniNow
+url: https://github.com/GurbaniNow/api-public
+description: Fast and Accurate Gurbani RESTful API
+domain: books
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

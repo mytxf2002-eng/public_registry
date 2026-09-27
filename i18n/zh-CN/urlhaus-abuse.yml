@@ -1,0 +1,3 @@
+id: urlhaus-abuse
+description: abuse.ch 运营的恶意 URL 库，收录正被用来传播恶意软件的链接，社区 API 可以按 URL、主机名、文件哈希等查询。
+group: 威胁情报与恶意软件分析

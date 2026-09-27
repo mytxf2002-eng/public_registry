@@ -1,0 +1,15 @@
+id: bay-area-rapid-transit
+kind: [api]
+name: Bay Area Rapid Transit
+url: http://api.bart.gov
+description: Stations and predicted arrivals for BART
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

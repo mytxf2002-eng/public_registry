@@ -1,0 +1,2 @@
+id: source-d-github-commit-messages
+description: source{d} 从 GHTorrent 的 GitHub 数据转储（截至 2019 年 3 月）中提取的约 12.9 亿条提交信息，附提交哈希和仓库名，分为三个文件（共约 46 GB），可从 Google Drive 下载，采用 ODbL。可能含重复提交，发布公司已停止运营。

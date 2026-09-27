@@ -1,0 +1,2 @@
+id: lexington-s-data-hub
+description: 美国肯塔基州列克星敦-费耶特城县政府的数据平台（ArcGIS Hub），约 75 个数据集，主要为分区、地块、建筑、门牌地址、道路、公园和各类行政区划等地理图层，另有 311 服务请求数据。可下载 CSV、GeoJSON、KML、Shapefile，也可通过 ArcGIS REST 接口访问；使用受该政府数据使用条款约束，未采用开放许可。

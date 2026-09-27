@@ -1,0 +1,23 @@
+id: international-hapmap-project-data
+kind: [dataset]
+name: International HapMap Project Data
+url: https://ftp.ncbi.nlm.nih.gov/hapmap/
+description: 'Archived HapMap releases up to phase III (2010): SNP genotypes, allele frequencies, phased haplotypes, linkage disequilibrium and recombination data for 11 human populations'
+domain: life-sciences
+tags: [snp, genotypes, haplotypes, linkage-disequilibrium, population-genetics]
+license: unknown
+publisher:
+  name: National Center for Biotechnology Information (NCBI)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  temporal:
+    start: '2003'
+    end: '2010'
+  spatial: [global]
+  update_frequency: static

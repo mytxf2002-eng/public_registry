@@ -1,0 +1,15 @@
+id: florida-man
+kind: [api]
+name: Florida Man
+url: https://github.com/juliayxhuang/florida-man-api#readme
+description: Static JSON dataset of 10,000+ Florida Man headlines by date
+domain: news-media
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

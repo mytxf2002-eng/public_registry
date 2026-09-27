@@ -1,0 +1,15 @@
+id: railway-transport-for-france
+kind: [api]
+name: Railway Transport for France
+url: https://numerique.sncf.com/startup/api/
+description: SNCF public API
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

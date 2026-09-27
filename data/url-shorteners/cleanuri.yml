@@ -1,0 +1,15 @@
+id: cleanuri
+kind: [api]
+name: CleanURI
+url: https://cleanuri.com/docs
+description: URL shortener service
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2019-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

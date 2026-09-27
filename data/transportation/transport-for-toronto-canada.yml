@@ -1,0 +1,15 @@
+id: transport-for-toronto-canada
+kind: [api]
+name: Transport for Toronto, Canada
+url: https://myttc.ca/developers
+description: Toronto TTC transit data from the unofficial MyTTC site
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

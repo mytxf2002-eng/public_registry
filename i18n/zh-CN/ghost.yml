@@ -1,0 +1,3 @@
+id: ghost
+description: 开源博客和新闻通讯平台 Ghost 的接口：Content API 把已发布的文章、页面、标签和作者读到自己的网站或应用里，Admin API 用来管理内容。
+group: 内容管理与办公文档

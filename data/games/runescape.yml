@@ -1,0 +1,15 @@
+id: runescape
+kind: [api]
+name: RuneScape
+url: https://runescape.wiki/w/Application_programming_interface
+description: RuneScape and OSRS RPGs information
+domain: games
+license: unknown
+provenance:
+  added: 2021-04-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

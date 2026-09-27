@@ -1,0 +1,21 @@
+id: merklemap-dns-records-database
+kind: [dataset]
+name: Merklemap DNS Records Database
+url: https://www.merklemap.com/dns-records-database
+description: DNS lookup results for more than 700 million hostnames, about 4 billion A, AAAA, MX, NS, TXT and other records, in a single JSON Lines file
+domain: networks
+tags: [dns, dns-records, hostnames, subdomains]
+license: CC-BY-NC-SA-4.0
+license_url: https://www.merklemap.com/dns-records-database
+publisher:
+  name: Merklemap
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [jsonl]
+  access: public
+  spatial: [global]
+  size: 41 GiB compressed

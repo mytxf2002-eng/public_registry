@@ -1,0 +1,15 @@
+id: railworks
+kind: [api]
+name: Railworks
+url: https://railworks.paddez.com/docs
+description: 'Irish Rail planned engineering works: affected stations, DART closures, change log and ICS feeds'
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

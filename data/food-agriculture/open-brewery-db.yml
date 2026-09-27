@@ -1,0 +1,15 @@
+id: open-brewery-db
+kind: [api]
+name: Open Brewery DB
+url: https://www.openbrewerydb.org
+description: Breweries, Cideries and Craft Beer Bottle Shops
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2018-08-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

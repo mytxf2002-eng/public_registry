@@ -1,0 +1,3 @@
+id: exchangerate-host
+description: APILayer 的产品：外汇和加密货币的实时与历史汇率。原本以免费免 key 著称，被 APILayer 接手后改为需要注册 access key。
+group: 商业汇率接口（含免费档）

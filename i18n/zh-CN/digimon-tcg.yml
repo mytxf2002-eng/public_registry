@@ -1,0 +1,3 @@
+id: digimon-tcg
+description: 数码宝贝卡牌游戏（Digimon TCG）的卡牌搜索，数据来自卡牌网站 digimoncard.io。限流为每 10 秒 15 次，超出会被封禁 1 小时。
+group: 卡牌、桌游与跑团

@@ -1,0 +1,15 @@
+id: urban-observatory
+kind: [api]
+name: Urban Observatory
+url: https://urbanobservatory.ac.uk
+description: The largest set of publicly available real time urban data in the UK
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

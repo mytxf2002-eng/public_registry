@@ -1,0 +1,16 @@
+id: correios
+kind: [api]
+name: Correios
+url: https://cws.correios.com.br/ajuda
+description: Integration to provide information and prepare shipments using Correio's services
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

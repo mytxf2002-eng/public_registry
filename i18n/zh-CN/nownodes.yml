@@ -1,0 +1,3 @@
+id: nownodes
+description: 区块链节点服务（BaaS），官网称支持 120 多个网络，提供 JSON-RPC、WebSocket、Webhook、gRPC 和数据 API，需要 key。
+group: 节点与 RPC 服务

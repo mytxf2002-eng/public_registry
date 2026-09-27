@@ -1,0 +1,15 @@
+id: katalis-uk-company-enrichment
+kind: [api]
+name: Katalis UK Company Enrichment
+url: https://meetkatalis.com/apis
+description: Verified UK company profiles with an AI summary and accuracy score, from Companies House data
+domain: business
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

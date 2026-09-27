@@ -1,0 +1,2 @@
+id: ukrstat-energy-statistics
+description: 乌克兰国家统计局发布的能源统计，包括能源平衡、燃料使用与库存、电厂装机容量以及天然气和电力消费价格等指标。可在新门户的数据浏览器中查看，或通过无需密钥的 SDMX REST 接口获取，部分历史资料以 Excel 压缩包提供；内容采用 CC BY 4.0 许可。

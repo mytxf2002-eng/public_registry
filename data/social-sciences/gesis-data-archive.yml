@@ -1,0 +1,20 @@
+id: gesis-data-archive
+kind: [dataset]
+name: GESIS Data Archive
+url: https://www.gesis.org/en/services/finding-and-accessing-data
+description: Social science data archive of more than 7,400 studies and 546,000 variables, including ALLBUS, the GESIS Panel, Eurobarometer, ISSP, EVS and German election studies
+domain: social-sciences
+tags: [survey-data, data-archive, election-studies, microdata, secondary-analysis]
+license: unknown
+publisher:
+  name: GESIS - Leibniz Institute for the Social Sciences
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, stata]
+  access: registration
+  url: https://search.gesis.org/
+  spatial: [global]

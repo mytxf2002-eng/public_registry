@@ -1,0 +1,21 @@
+id: personal-genome-project
+kind: [dataset]
+name: Personal Genome Project
+url: https://www.personalgenomes.org/
+description: Genome sequences, genotyping files, health records and trait surveys that volunteers publish openly under their own names, including several hundred whole genomes
+domain: life-sciences
+tags: [human-genetics, genomics, whole-genome-sequencing, health-records, open-consent]
+license: CC0-1.0
+license_url: https://www.personalgenomes.org/
+publisher:
+  name: PersonalGenomes.org
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [vcf, text, csv, xml]
+  access: public
+  url: https://my.pgp-hms.org/public_genetic_data
+  update_frequency: irregular

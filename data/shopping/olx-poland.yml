@@ -1,0 +1,15 @@
+id: olx-poland
+kind: [api]
+name: OLX Poland
+url: https://developer.olx.pl/api/doc#section/
+description: Integrate with local sites by posting, managing adverts and communicating with OLX users
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: contentful-images
+kind: [api]
+name: Contentful Images
+url: https://www.contentful.com/developers/docs/references/images-api/
+description: Used to retrieve and apply transformations to images
+domain: development
+license: unknown
+provenance:
+  added: 2021-08-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

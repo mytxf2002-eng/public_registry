@@ -1,0 +1,15 @@
+id: football-data
+kind: [api]
+name: Football-Data
+url: https://www.football-data.org
+description: Football data with matches info, players, teams, and competitions
+domain: sports
+license: unknown
+provenance:
+  added: 2021-09-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: x-mashape-key
+  https: true
+  cors: unknown

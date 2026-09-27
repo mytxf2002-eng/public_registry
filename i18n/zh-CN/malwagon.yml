@@ -1,0 +1,3 @@
+id: malwagon
+description: 在带监控的虚拟机里运行（“引爆”）文件和网址，返回行为记录、失陷指标（IOC）和对应的 MITRE ATT&CK 技术，另有 MCP 服务。
+group: 沙箱动态分析

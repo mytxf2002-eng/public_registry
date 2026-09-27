@@ -1,0 +1,15 @@
+id: monster-hunter-world
+kind: [api]
+name: Monster Hunter World
+url: https://docs.mhw-db.com/
+description: Monster Hunter World data
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

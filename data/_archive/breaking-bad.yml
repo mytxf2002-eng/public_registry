@@ -1,0 +1,18 @@
+id: breaking-bad
+kind: [api]
+name: Breaking Bad
+url: https://breakingbadapi.com/documentation
+description: Breaking Bad API
+domain: video
+license: unknown
+provenance:
+  added: 2019-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: breakingbadapi.com no longer resolves, and no moved version was found.

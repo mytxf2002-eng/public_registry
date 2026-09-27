@@ -1,0 +1,15 @@
+id: noun-project
+kind: [api]
+name: Noun Project
+url: http://api.thenounproject.com/index.html
+description: Search and retrieve icons and symbols from the Noun Project collection
+domain: art-design
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: false
+  cors: unknown

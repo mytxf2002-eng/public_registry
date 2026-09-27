@@ -1,0 +1,3 @@
+id: sales-tax-calculator
+description: 在结账和开票时计算美国销售税的金额和明细，每笔请求都有可追溯的 ID，月费 5 美元起。
+group: 税务

@@ -1,0 +1,2 @@
+id: open-data-portaal-stad-gent
+description: 比利时根特市的开放数据门户，约 300 个数据集，以交通出行为主（停车场和自行车停车点实时占用、共享单车、自行车计数器等），另有噪声地图、树木、文化遗产和人口统计等。可直接导出 CSV、JSON、GeoJSON、Excel、Shapefile、Parquet 等格式，并提供 Opendatasoft Explore API；大多采用弗拉芒政府免费再利用示范许可。

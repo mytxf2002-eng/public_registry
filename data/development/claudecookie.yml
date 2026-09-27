@@ -1,0 +1,15 @@
+id: claudecookie
+kind: [api]
+name: claudecookie
+url: https://claudecookie.com/api/
+description: Convert cookie formats, check Claude sessions and generate Claude Code credentials
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

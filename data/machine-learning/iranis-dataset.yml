@@ -1,0 +1,23 @@
+id: iranis-dataset
+kind: [dataset]
+name: Iranis Dataset
+url: https://alitourani.github.io/Iranis-dataset/
+description: 83,844 images of Farsi digits, letters and symbols cropped from real Iranian licence plates, in 28 classes, for plate character recognition
+domain: machine-learning
+tags: [license-plates, ocr, farsi, character-recognition]
+license: GPL-3.0-only
+license_url: https://github.com/alitourani/Iranis-dataset
+publisher:
+  name: Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami and Alireza Akoushideh
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  url: https://github.com/alitourani/Iranis-dataset
+  spatial: [IR]
+  update_frequency: static
+  size: 83,844 images

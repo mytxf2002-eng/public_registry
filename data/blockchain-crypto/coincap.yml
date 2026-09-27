@@ -1,0 +1,16 @@
+id: coincap
+kind: [api]
+name: CoinCap
+url: https://docs.coincap.io/
+description: Real time Cryptocurrency prices through a RESTful API
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

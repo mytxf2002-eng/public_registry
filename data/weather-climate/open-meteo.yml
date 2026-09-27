@@ -1,0 +1,22 @@
+id: open-meteo
+kind: [api, dataset]
+name: Open-Meteo
+url: https://open-meteo.com/
+description: Global weather forecast API for non-commercial use
+domain: weather-climate
+license: CC-BY-4.0
+license_url: https://open-meteo.com/en/licence
+provenance:
+  added: 2021-08-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [binary]
+  access: public
+  url: https://github.com/open-meteo/open-data
+  spatial: [global]
+  update_frequency: realtime

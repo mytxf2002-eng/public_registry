@@ -1,0 +1,15 @@
+id: terrace-weather
+kind: [api]
+name: Terrace Weather
+url: https://terrace.javiermateo.dev/swagger-ui.html
+description: Terrace open/closed verdict for restaurants, from the weather forecast
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-09-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

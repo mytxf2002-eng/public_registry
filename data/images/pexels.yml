@@ -1,0 +1,16 @@
+id: pexels
+kind: [api]
+name: Pexels
+url: https://www.pexels.com/api/
+description: Free Stock Photos and Videos
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

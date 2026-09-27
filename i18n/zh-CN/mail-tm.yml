@@ -1,0 +1,3 @@
+id: mail-tm
+description: 免费临时邮箱服务：通过 REST 接口创建一次性邮箱账号并收信，免 key。
+group: 临时邮箱

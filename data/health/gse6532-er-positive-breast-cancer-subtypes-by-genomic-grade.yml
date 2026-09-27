@@ -1,0 +1,25 @@
+id: gse6532-er-positive-breast-cancer-subtypes-by-genomic-grade
+kind: [dataset]
+name: 'GSE6532: ER-positive Breast Cancer Subtypes by Genomic Grade'
+url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6532
+description: Affymetrix expression profiles of 741 breast tumour samples used to define high and low genomic-grade subtypes of estrogen-receptor-positive cancer, with clinical outcome data
+domain: health
+tags: [breast-cancer, gene-expression, microarray, tamoxifen]
+license: LicenseRef-Custom-Open
+license_url: https://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html
+publisher:
+  name: Loi et al. via NCBI Gene Expression Omnibus
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, rdata, text]
+  access: public
+  url: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6532/
+  temporal:
+    start: '2007'
+    end: '2007'
+  update_frequency: static
+  size: 741 samples, 2.7 GB raw

@@ -1,0 +1,25 @@
+id: ftc-robocall-complaint-dataset
+kind: [dataset]
+name: FTC Robocall Complaint Dataset
+url: https://github.com/usacallerlookup/ftc-robocall-dataset
+description: About 297,000 US phone numbers named in FTC Do Not Call complaints since 2016, with complaint and robocall counts, subjects and NANPA rate centre and carrier
+domain: communication
+tags: [robocalls, do-not-call, phone-numbers, consumer-complaints]
+license: CC0-1.0
+license_url: https://github.com/usacallerlookup/ftc-robocall-dataset
+publisher:
+  name: USA Caller Lookup
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2016'
+    end: null
+  spatial: [US]
+  update_frequency: monthly
+  size: 296,559 numbers

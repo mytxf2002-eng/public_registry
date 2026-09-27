@@ -1,0 +1,20 @@
+id: carskit-context-aware-recommendation-datasets
+kind: [dataset]
+name: CARSKit Context-Aware Recommendation Datasets
+url: https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets
+description: 'Eight user-item preference datasets with contextual conditions for context-aware recommendation: Frappe apps, DePaul movies, in-car music, restaurants, STS and TripAdvisor travel'
+domain: machine-learning
+tags: [recommender-systems, context-aware, user-preferences, benchmark]
+license: unknown
+publisher:
+  name: Yong Zheng (irecsys)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  update_frequency: static
+  size: 8 zip files

@@ -1,0 +1,18 @@
+id: ksoft-si-lyrics
+kind: [api]
+name: KSoft.Si Lyrics
+url: https://docs.ksoft.si/api/lyrics-api
+description: API to get lyrics for songs
+domain: music
+license: unknown
+provenance:
+  added: 2021-07-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The KSoft.Si API is shut down and its domain now redirects to an unrelated software agency.

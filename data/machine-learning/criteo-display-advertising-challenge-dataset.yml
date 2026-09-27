@@ -1,0 +1,22 @@
+id: criteo-display-advertising-challenge-dataset
+kind: [dataset]
+name: Criteo Display Advertising Challenge Dataset
+url: https://www.kaggle.com/c/criteo-display-ad-challenge
+description: Anonymized display-ad impression logs with click labels, released by Criteo for the Kaggle Display Advertising Challenge on predicting ad click-through rates
+domain: machine-learning
+tags: [ctr-prediction, online-advertising, click-logs, tabular]
+license: CC-BY-NC-SA-4.0
+license_url: https://ailab.criteo.com/criteo-1tb-click-logs-dataset/
+publisher:
+  name: Criteo AI Lab
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  url: https://ailab.criteo.com/ressources/
+  update_frequency: static
+  size: 4.6 GB compressed

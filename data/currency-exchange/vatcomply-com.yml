@@ -1,0 +1,15 @@
+id: vatcomply-com
+kind: [api]
+name: VATComply.com
+url: https://www.vatcomply.com/
+description: Exchange rates, geolocation and VAT number validation
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2020-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

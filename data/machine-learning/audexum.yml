@@ -1,0 +1,15 @@
+id: audexum
+kind: [api]
+name: Audexum
+url: https://audexum.com/docs
+description: Speech-to-text in 25 languages and text-to-speech with 43 voices in 32 languages
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-05-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

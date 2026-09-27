@@ -1,0 +1,3 @@
+id: serpstack
+description: APILayer 的产品：实时获取谷歌搜索结果（网页、图片、视频等）并返回 JSON，自带验证码处理，有免费档。
+group: 搜索引擎结果（SERP）

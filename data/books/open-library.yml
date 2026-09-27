@@ -1,0 +1,21 @@
+id: open-library
+kind: [api, dataset]
+name: Open Library
+url: https://openlibrary.org/developers/api
+description: Books, book covers and related data
+domain: books
+license: unknown
+provenance:
+  added: 2017-09-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [tsv, json]
+  access: public
+  url: https://openlibrary.org/developers/dumps
+  update_frequency: monthly
+  size: 29.6 GB (complete dump)

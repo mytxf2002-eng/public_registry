@@ -1,0 +1,16 @@
+id: keycdn-ip-location-finder
+kind: [api]
+name: keycdn IP Location Finder
+url: https://tools.keycdn.com/geo
+description: Get the IP geolocation data through the simple REST API. All the responses are JSON encoded
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

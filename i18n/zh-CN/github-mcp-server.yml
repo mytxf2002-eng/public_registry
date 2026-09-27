@@ -1,0 +1,2 @@
+id: github-mcp-server
+description: GitHub 官方的 MCP 服务器：让 AI 智能体读写仓库、议题和拉取请求并搜索代码，通过 OAuth 授权，可以本地以 stdio 运行，也可以连接远程 HTTP 服务。

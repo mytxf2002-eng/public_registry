@@ -1,0 +1,19 @@
+id: keel-dataset-repository
+kind: [dataset]
+name: KEEL-dataset Repository
+url: https://sci2s.ugr.es/keel/datasets.php
+description: 908 benchmark datasets in KEEL format for classification (standard, imbalanced, noisy, multi-label), semi-supervised learning, regression, time series and clustering
+domain: machine-learning
+tags: [classification, imbalanced-data, regression, benchmark, data-mining]
+license: unknown
+publisher:
+  name: KEEL project, SCI2S group, University of Granada
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  size: 908 datasets

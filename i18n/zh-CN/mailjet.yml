@@ -1,0 +1,3 @@
+id: mailjet
+description: 邮件发送服务 Mailjet 的 API：发送营销邮件和事务邮件，模板可以用 HTML 或 MJML（Mailjet 开源的响应式邮件模板语言）编写。
+group: 邮件收发与邮件营销

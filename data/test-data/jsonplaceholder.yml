@@ -1,0 +1,15 @@
+id: jsonplaceholder
+kind: [api]
+name: JSONPlaceholder
+url: https://jsonplaceholder.typicode.com/
+description: Fake data for testing and prototyping
+domain: test-data
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

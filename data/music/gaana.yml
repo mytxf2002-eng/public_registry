@@ -1,0 +1,15 @@
+id: gaana
+kind: [api]
+name: Gaana
+url: https://github.com/cyberboysumanjay/GaanaAPI
+description: API to retrieve song information from Gaana
+domain: music
+license: unknown
+provenance:
+  added: 2021-11-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

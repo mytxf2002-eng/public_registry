@@ -1,0 +1,26 @@
+id: open-calgary
+kind: [api, dataset]
+name: Open Calgary
+url: https://data.calgary.ca/
+description: About 410 datasets from the City of Calgary on transit and transportation, environment, demographics, health and safety, recreation, city services and base maps
+domain: government
+tags: [open-government, city-data, transit, base-maps, socrata]
+license: LicenseRef-Open-Government
+license_url: https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa
+publisher:
+  name: The City of Calgary
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [CA-AB]
+  update_frequency: daily

@@ -1,0 +1,22 @@
+id: adience-benchmark-of-unfiltered-faces
+kind: [dataset]
+name: Adience Benchmark of Unfiltered Faces
+url: https://talhassner.github.io/home/projects/Adience/Adience-data.html
+description: 26,580 unconstrained Flickr face photos of 2,284 people labelled with eight age groups and gender, with cropped and aligned versions and five-fold evaluation splits
+domain: machine-learning
+tags: [computer-vision, age-estimation, gender-classification, faces]
+license: LicenseRef-Research-Only
+license_url: https://talhassner.github.io/home/projects/Adience/LICENSE.txt
+publisher:
+  name: The Open University of Israel (Tal Hassner)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, text]
+  access: registration
+  url: http://www.cslab.openu.ac.il/download/
+  update_frequency: static
+  size: 2.8 GB

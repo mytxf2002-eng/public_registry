@@ -1,0 +1,15 @@
+id: brawl-stars
+kind: [api]
+name: Brawl Stars
+url: https://developer.brawlstars.com
+description: Brawl Stars Game Information
+domain: games
+license: unknown
+provenance:
+  added: 2021-03-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

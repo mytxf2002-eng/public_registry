@@ -1,0 +1,3 @@
+id: clickup
+description: 项目管理工具 ClickUp 的 API：读写任务、列表、文件夹、空间、评论、时间记录等数据，也支持 webhook。开发者文档在 developer.clickup.com。
+group: 项目管理与团队协作

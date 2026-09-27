@@ -1,0 +1,3 @@
+id: genderize-io
+description: 根据名字推断性别并给出概率，可以指定国家提高准确度，支持批量查询，有每日免费额度。与 Agify.io、Nationalize.io 是同一家公司的服务。
+group: 姓名推断与邮箱查找

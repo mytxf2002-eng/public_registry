@@ -1,0 +1,15 @@
+id: threatcluster
+kind: [api]
+name: ThreatCluster
+url: https://threatcluster.io/api/public/v1/docs
+description: 'Threat intelligence: incident clusters, validated IOCs, CVEs, ransomware leak-site victims'
+domain: security
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

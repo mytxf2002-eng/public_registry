@@ -1,0 +1,16 @@
+id: sololuck
+kind: [api]
+name: SoloLuck
+url: https://sololuck.io/api
+description: Bitcoin solo mining pool stats, per-address miner stats and an open dataset of solo-mined blocks
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

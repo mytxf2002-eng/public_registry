@@ -1,0 +1,20 @@
+id: covid-19-data-lake
+kind: [dataset]
+name: COVID-19 Data Lake
+url: https://registry.opendata.aws/aws-covid19-lake/
+description: 'Public S3 bucket of curated COVID-19 datasets: JHU and NYT case counts, testing, vaccination and hospital-bed data, plus 45,000+ research articles from the Allen Institute for AI'
+domain: health
+tags: [covid-19, epidemiology, case-counts, vaccinations, hospital-beds]
+license: unknown
+publisher:
+  name: Amazon Web Services
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://dj2taa9i652rf.cloudfront.net/
+  spatial: [global]

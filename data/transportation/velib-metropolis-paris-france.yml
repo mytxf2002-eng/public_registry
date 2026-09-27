@@ -1,0 +1,15 @@
+id: velib-metropolis-paris-france
+kind: [api]
+name: Velib metropolis, Paris, France
+url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+description: Velib Open Data API
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: x-twitter
+description: X（原 Twitter）官方 API：读取帖子、用户、趋势等数据，也可以发帖。2023 年起大幅收紧了免费权限，官网现在写的是按用量付费。
+group: 主流社交平台

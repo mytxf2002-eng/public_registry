@@ -1,0 +1,23 @@
+id: lila-bc
+kind: [dataset]
+name: 'LILA BC (Labeled Information Library of Alexandria: Biology and Conservation)'
+url: https://lila.science/
+description: Repository of labelled biology and conservation datasets for machine learning, mostly camera-trap, drone and aerial images, with over ten million labelled images
+domain: machine-learning
+tags: [camera-traps, wildlife, conservation, biodiversity, image-annotations]
+license: CDLA-Permissive-1.0
+license_url: https://lila.science/datasets/wcscameratraps
+publisher:
+  name: LILA BC
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, json, csv]
+  access: public
+  url: https://lila.science/datasets
+  spatial: [global]
+  update_frequency: irregular
+  size: 10M+ labelled images

@@ -1,0 +1,15 @@
+id: financial-modeling-prep
+kind: [api]
+name: Financial Modeling Prep
+url: https://site.financialmodelingprep.com/developer/docs
+description: Realtime and historical stock data
+domain: finance
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

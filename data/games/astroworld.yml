@@ -1,0 +1,15 @@
+id: astroworld
+kind: [api]
+name: Astroworld
+url: https://api.astroworldmc.com
+description: 'Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions and trades'
+domain: games
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

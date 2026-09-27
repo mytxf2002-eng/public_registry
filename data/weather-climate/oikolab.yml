@@ -1,0 +1,15 @@
+id: oikolab
+kind: [api]
+name: Oikolab
+url: https://docs.oikolab.com
+description: 70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-11-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

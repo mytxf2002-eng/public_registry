@@ -1,0 +1,3 @@
+id: face-shape-guide-lookup
+description: 只读接口，查询 myfaceshapechart.com 已发布的脸型指南条目。收录的链接就是它的 OpenAPI 描述文件，公开资料很少。
+group: 设计作品与参考资料

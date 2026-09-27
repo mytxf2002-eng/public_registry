@@ -1,0 +1,16 @@
+id: postnord
+kind: [api]
+name: PostNord
+url: https://developer.postnord.com/api
+description: Provides information about parcels in transport for Sweden and Denmark
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

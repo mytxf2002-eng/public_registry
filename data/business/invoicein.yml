@@ -1,0 +1,15 @@
+id: invoicein
+kind: [api]
+name: InvoiceIn
+url: https://invoicein.peculiar.systems/
+description: 'Parse and validate received e-invoices: XRechnung, ZUGFeRD, Peppol, FatturaPA, KSeF'
+domain: business
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

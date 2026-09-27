@@ -1,0 +1,3 @@
+id: cloudmersive-validate-cloudmersive
+description: Cloudmersive 校验 API 中的电话号码功能：校验国际号码是否有效，返回号码类型和标准化格式。同一套 Validate API 还能校验邮箱、增值税号和域名，Email 分类也收录了它。
+group: 号码校验与运营商查询

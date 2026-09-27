@@ -1,0 +1,23 @@
+id: banned-books-open-censorship-core
+kind: [dataset]
+name: Banned Books Open Censorship Core
+url: https://www.banned-books.org/dataset
+description: About 35,700 documented book bans covering some 20,300 books in 119 countries, with year, action type, scope, reason categories and a source citation for each ban
+domain: books
+tags: [censorship, banned-books, book-bans, freedom-of-expression, citations]
+license: CC-BY-4.0
+license_url: https://www.banned-books.org/dataset
+publisher:
+  name: Ludo Raedts (Banned Books)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://doi.org/10.5281/zenodo.20511553
+  spatial: [global]
+  update_frequency: irregular
+  size: 35,687 ban records

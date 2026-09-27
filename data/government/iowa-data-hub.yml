@@ -1,0 +1,23 @@
+id: iowa-data-hub
+kind: [dataset]
+name: Iowa Data Hub
+url: https://data.iowa.gov/
+description: 'About 500 State of Iowa data assets from state agencies: budgets and state workforce counts, local government finance, schools, labour market, GDP and census estimates'
+domain: government
+tags: [state-government, public-finance, education, workforce, demographics]
+license: CC-BY-4.0
+license_url: https://data.iowa.gov/catalog/dataset/1038
+publisher:
+  name: Iowa Department of Management
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://data.iowa.gov/catalog
+  spatial: [US-IA]
+  update_frequency: irregular
+  size: 523 assets

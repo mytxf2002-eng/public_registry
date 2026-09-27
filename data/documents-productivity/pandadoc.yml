@@ -1,0 +1,15 @@
+id: pandadoc
+kind: [api]
+name: PandaDoc
+url: https://developers.pandadoc.com
+description: DocGen and eSignatures API
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

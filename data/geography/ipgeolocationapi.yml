@@ -1,0 +1,16 @@
+id: ipgeolocationapi
+kind: [api]
+name: ipgeolocationapi
+url: https://ipgeolocationapi.io/docs
+description: IP geolocation with ASN, timezone, currency and threat data, 5,000 keyless calls a day
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

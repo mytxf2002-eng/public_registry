@@ -1,0 +1,18 @@
+id: owen-wilson-wow
+kind: [api]
+name: Owen Wilson Wow
+url: https://owen-wilson-wow-api.herokuapp.com
+description: API for actor Owen Wilson's "wow" exclamations in movies
+domain: video
+license: unknown
+provenance:
+  added: 2022-03-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

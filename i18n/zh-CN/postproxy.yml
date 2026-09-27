@@ -1,0 +1,3 @@
+id: postproxy
+description: 代发社交媒体内容：连接社交账号后，通过 API 发帖、发评论、发私信，也支持 MCP，以及 Zapier、n8n 等无代码工具。
+group: 多平台发帖与内容运营

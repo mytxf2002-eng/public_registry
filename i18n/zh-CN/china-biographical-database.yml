@@ -1,0 +1,2 @@
+id: china-biographical-database
+description: 哈佛大学、中研院史语所和北京大学合作建设的中国历代人物传记资料库，收录约 65 万人（以 7 至 19 世纪为主）的生平、任官、亲属、籍贯和社会关系。SQLite 版本经 Hugging Face 每周发布，可免费下载，另有在线查询 API。网站内容采用 CC BY-NC-SA 4.0，学术使用免费，商业使用需另行授权。

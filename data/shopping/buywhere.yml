@@ -1,0 +1,15 @@
+id: buywhere
+kind: [api]
+name: BuyWhere
+url: https://buywhere.ai
+description: Real-time product catalog for AI agents across merchants in 7 countries (SG, MY, TH, VN, PH, ID, US)
+domain: shopping
+license: unknown
+provenance:
+  added: 2026-06-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

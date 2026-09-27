@@ -1,0 +1,29 @@
+id: broad-gdac-firehose
+kind: [api, dataset]
+name: Broad GDAC Firehose
+url: https://gdac.broadinstitute.org/
+description: Analysis-ready TCGA tumour data (clinical, mutations, copy number, expression, methylation, RPPA) and automated analysis reports for 38 cancer cohorts, runs from 2011 to 2016
+domain: health
+tags: [cancer, tcga, cancer-genomics, gene-expression, mutations]
+license: LicenseRef-Provider-Terms
+license_url: https://broadinstitute.atlassian.net/wiki/spaces/GDAC/pages/844333156/Data+Usage+Policy
+publisher:
+  name: Broad Institute of MIT and Harvard
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://firebrowse.org/api-docs/
+dataset:
+  formats: [tsv]
+  access: public
+  url: https://gdac.broadinstitute.org/runs/
+  temporal:
+    start: '2011'
+    end: '2016'
+  update_frequency: static

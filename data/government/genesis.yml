@@ -1,0 +1,19 @@
+id: genesis
+kind: [api, dataset]
+name: GENESIS
+url: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
+description: Federal Statistical Office Germany
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  url: https://genesis.destatis.de/datenbank/online/

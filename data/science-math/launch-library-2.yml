@@ -1,0 +1,15 @@
+id: launch-library-2
+kind: [api]
+name: Launch Library 2
+url: https://thespacedevs.com/llapi
+description: Spaceflight launches and events database
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-02-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

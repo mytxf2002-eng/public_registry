@@ -1,0 +1,15 @@
+id: ebird
+kind: [api]
+name: eBird
+url: https://documenter.getpostman.com/view/664302/S1ENwy59
+description: Retrieve recent or notable birding observations within a region
+domain: animals
+license: unknown
+provenance:
+  added: 2021-10-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: azure-devops
+description: 微软 Azure DevOps 的 REST API，云服务版（Services）和自建版（Server）通用，可以操作代码仓库、工作项、构建和发布流水线、测试计划等。链接是入门页，讲请求和响应的基本格式。
+group: 代码托管与开发者社区

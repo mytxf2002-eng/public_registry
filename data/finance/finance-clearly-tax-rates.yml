@@ -1,0 +1,15 @@
+id: finance-clearly-tax-rates
+kind: [api]
+name: Finance Clearly Tax Rates
+url: https://financeclearly.com/tax-rates-api/
+description: Current UK and US tax rates, allowances and thresholds
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,20 @@
+id: stanford-dogs-dataset
+kind: [dataset]
+name: Stanford Dogs Dataset
+url: http://vision.stanford.edu/aditya86/ImageNetDogs/
+description: 20,580 ImageNet images of 120 dog breeds with class labels, bounding boxes, train/test splits and precomputed features, for fine-grained categorization
+domain: machine-learning
+tags: [fine-grained-classification, dog-breeds, image-classification, bounding-boxes]
+license: unknown
+publisher:
+  name: Stanford University (Khosla, Jayadevaprakash, Yao, Fei-Fei)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, matlab]
+  access: public
+  update_frequency: static
+  size: 20,580 images (757 MB)

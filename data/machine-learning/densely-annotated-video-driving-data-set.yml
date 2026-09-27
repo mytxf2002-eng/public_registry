@@ -1,0 +1,22 @@
+id: densely-annotated-video-driving-data-set
+kind: [dataset]
+name: Densely Annotated Video Driving Data Set
+url: https://mediatum.ub.tum.de/1596437
+description: 28 driving video sequences simulated in CARLA under changing weather and traffic, 10,767 frames with pixel-wise semantic segmentation labels
+domain: machine-learning
+tags: [semantic-segmentation, autonomous-driving, synthetic-data, carla, video]
+license: CC-BY-4.0
+license_url: https://mediatum.ub.tum.de/1596437
+publisher:
+  name: Technical University of Munich
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  url: https://dataserv.ub.tum.de/index.php/s/m1596437
+  update_frequency: static
+  size: 5.87 GB

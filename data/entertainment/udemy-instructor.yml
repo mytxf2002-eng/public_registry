@@ -1,0 +1,16 @@
+id: udemy-instructor
+kind: [api]
+name: Udemy(instructor)
+url: https://www.udemy.com/developers/instructor/
+description: API for instructors on Udemy
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

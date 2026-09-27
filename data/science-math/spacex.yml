@@ -1,0 +1,15 @@
+id: spacex
+kind: [api]
+name: SpaceX (api.spacex.land)
+url: https://api.spacex.land/graphql/
+description: GraphQL, Company, Ships, launchpad and launch data
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

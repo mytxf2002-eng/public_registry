@@ -1,0 +1,15 @@
+id: quizapi-io
+kind: [api]
+name: quizapi.io
+url: https://quizapi.io/
+description: Access to various kind of quiz questions
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

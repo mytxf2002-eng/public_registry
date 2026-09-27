@@ -1,0 +1,26 @@
+id: rfam
+kind: [api, dataset]
+name: Rfam
+url: https://rfam.org/
+description: Database of non-coding RNA families with curated seed alignments, consensus secondary structures and covariance models, 4,227 families in release 15.1
+domain: life-sciences
+tags: [rna, non-coding-rna, sequence-alignments, covariance-models, bioinformatics]
+license: CC0-1.0
+license_url: https://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/README
+publisher:
+  name: EMBL-EBI (Rfam team)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://docs.rfam.org/en/latest/api.html
+dataset:
+  formats: [fasta, text, sql, tsv]
+  access: public
+  url: https://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/
+  update_frequency: irregular

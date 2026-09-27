@@ -1,0 +1,3 @@
+id: fanline-wire
+description: 第三方提供的美国博彩平台 FanDuel Sportsbook 实时赔率（赛前和滚球），通过 GraphQL WebSocket 推送，同时给出美式和小数赔率；另有免 key 的 REST 快照接口。
+group: 博彩赔率与盘口

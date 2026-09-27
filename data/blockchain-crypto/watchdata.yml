@@ -1,0 +1,16 @@
+id: watchdata
+kind: [api]
+name: Watchdata
+url: https://docs.watchdata.io
+description: Provide simple and reliable API access to Ethereum blockchain
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2022-01-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: verome
+kind: [api]
+name: Verome
+url: https://github.com/Kirazul/Verome-API
+description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
+domain: music
+license: unknown
+provenance:
+  added: 2026-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

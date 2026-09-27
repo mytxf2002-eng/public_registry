@@ -1,0 +1,2 @@
+id: 9th-dimacs-implementation-challenge-shortest-paths
+description: 第九届 DIMACS 实现挑战赛（最短路径）的基准数据，包含 12 个美国道路网络图，从纽约市（约 26 万节点）到全美（2390 万节点、5830 万条弧），分别提供距离和行驶时间权重及节点坐标，可直接下载，属公有领域；数据存在部分道路缺失等已知错误。

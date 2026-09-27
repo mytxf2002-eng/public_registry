@@ -1,0 +1,27 @@
+id: usda-nass-county-crop-yields-json
+kind: [api, dataset]
+name: USDA NASS County Crop Yields JSON
+url: https://productofamerica.github.io/usda-county-yields/
+description: County-level annual survey yields for corn, soybeans and wheat from USDA NASS for about 3,000 counties in 42 states, served as static JSON files refreshed weekly
+domain: food-agriculture
+tags: [crop-yields, corn, soybeans, wheat, county-level]
+license: CC0-1.0
+license_url: https://github.com/ProductOfAmerica/usda-county-yields/blob/main/LICENSE
+publisher:
+  name: ProductOfAmerica
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://productofamerica.github.io/usda-county-yields/county-crop-yields-api.html
+dataset:
+  formats: [json]
+  access: public
+  url: https://github.com/ProductOfAmerica/usda-county-yields
+  spatial: [US]
+  update_frequency: weekly

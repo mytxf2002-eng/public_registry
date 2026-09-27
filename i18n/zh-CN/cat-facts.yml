@@ -1,0 +1,3 @@
+id: cat-facts
+description: 每日猫咪冷知识的开源项目，接口可以随机返回猫的趣闻，与 catfact.ninja 是不同的服务。
+group: 动物冷知识

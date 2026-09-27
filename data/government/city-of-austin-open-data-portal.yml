@@ -1,0 +1,25 @@
+id: city-of-austin-open-data-portal
+kind: [api, dataset]
+name: City of Austin Open Data Portal
+url: https://data.austintexas.gov/
+description: About 700 datasets from the City of Austin, Texas, on public safety, transportation, utilities, building permits, budget and city services, many updated daily
+domain: government
+tags: [open-government, city-data, public-safety, transportation, socrata]
+license: unknown
+publisher:
+  name: City of Austin
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-TX]
+  update_frequency: daily

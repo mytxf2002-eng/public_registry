@@ -1,0 +1,2 @@
+id: covid-19-case-surveillance-public-use-data
+description: 美国疾控中心（CDC）发布的去标识化 COVID-19 个案数据，约 1.06 亿条，含年龄组、性别、种族、住院、重症监护、死亡等 12 个字段，不含地理信息。可下载 CSV 或通过 SODA API 查询，2024 年 7 月起停止更新。

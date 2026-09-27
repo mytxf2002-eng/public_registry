@@ -1,0 +1,15 @@
+id: epa
+kind: [api]
+name: EPA
+url: https://www.epa.gov/developers/data-data-products#apis
+description: Web services and data sets from the US Environmental Protection Agency
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

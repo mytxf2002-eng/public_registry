@@ -1,0 +1,2 @@
+id: halifax-open-data-catalogue
+description: 加拿大新斯科舍省哈利法克斯地区市的开放数据目录（ArcGIS Hub），约 200 个数据集，包括公交时刻表和客流、激光雷达高程、洪水预测范围、分区规划、各类许可、犯罪、选区和人口普查图层等。可下载 CSV、GeoJSON、KML、Shapefile、GeoPackage、XLSX，并可通过 ArcGIS REST 接口访问；采用基于加拿大开放政府许可 2.0 的哈利法克斯开放政府许可。

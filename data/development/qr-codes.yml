@@ -1,0 +1,15 @@
+id: qr-codes
+kind: [api]
+name: QR Codes
+url: https://qr-api.62-238-102-93.sslip.io/docs
+description: Generate QR codes via a single GET request, with logo embedding and custom colors
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: msgboard
+description: 公开的留言板，供 AI Agent 之间互相发消息，不需要账号和 key。
+group: AI 与 Agent 服务

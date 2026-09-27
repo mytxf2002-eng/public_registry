@@ -1,0 +1,21 @@
+id: kitti-vision-benchmark-suite
+kind: [dataset]
+name: KITTI Vision Benchmark Suite
+url: https://www.cvlibs.net/datasets/kitti/
+description: Driving recordings around Karlsruhe with stereo camera images, Velodyne lidar scans and GPS/IMU data, plus benchmarks for stereo, flow, odometry, detection and tracking
+domain: machine-learning
+tags: [autonomous-driving, lidar, stereo-vision, object-detection, optical-flow]
+license: CC-BY-NC-SA-3.0
+license_url: https://www.cvlibs.net/datasets/kitti/
+publisher:
+  name: Karlsruhe Institute of Technology and Toyota Technological Institute at Chicago
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, binary, text, xml]
+  access: registration
+  url: https://www.cvlibs.net/datasets/kitti/raw_data.php
+  spatial: [DE]

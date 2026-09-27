@@ -1,0 +1,19 @@
+id: coindesk
+kind: [api]
+name: CoinDesk
+url: https://old.coindesk.com/coindesk-api/
+description: CoinDesk's Bitcoin Price Index (BPI) in multiple currencies
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The legacy CoinDesk BPI API is gone (old.coindesk.com and api.coindesk.com no longer resolve), and CoinDesk's replacement Data API retired its free tier on 21 May 2026.

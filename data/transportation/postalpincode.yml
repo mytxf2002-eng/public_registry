@@ -1,0 +1,16 @@
+id: postalpincode
+kind: [api]
+name: PostalPinCode
+url: http://www.postalpincode.in/Api-Details
+description: API for getting Pincode details in India
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

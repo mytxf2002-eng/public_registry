@@ -1,0 +1,15 @@
+id: ciprand
+kind: [api]
+name: Ciprand
+url: https://github.com/polarspetroll/ciprand
+description: Secure random string generator
+domain: development
+license: unknown
+provenance:
+  added: 2021-06-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

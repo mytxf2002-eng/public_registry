@@ -1,0 +1,15 @@
+id: pinnwire
+kind: [api]
+name: PinnWire
+url: https://pinnwire.com/docs.html
+description: Real-time Pinnacle odds for 13 sports — live and prematch over REST, WebSocket and SSE drop alerts
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

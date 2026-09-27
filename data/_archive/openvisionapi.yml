@@ -1,0 +1,18 @@
+id: openvisionapi
+kind: [api]
+name: OpenVisionAPI
+url: https://openvisionapi.com
+description: Open source computer vision API based on open source models
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-05-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The hosted service is offline and all of the project's repositories are archived.

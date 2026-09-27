@@ -1,0 +1,15 @@
+id: can-i-enter
+kind: [api]
+name: Can I enter
+url: https://canienter.com
+description: Visa and entry requirements for 199 passports, cited to official sources, verified daily
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

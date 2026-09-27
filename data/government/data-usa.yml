@@ -1,0 +1,15 @@
+id: data-usa
+kind: [api]
+name: Data USA
+url: https://datausa.io/about/api/
+description: US Public Data
+domain: government
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

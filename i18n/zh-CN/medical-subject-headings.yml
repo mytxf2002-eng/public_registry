@@ -1,0 +1,2 @@
+id: medical-subject-headings
+description: 美国国家医学图书馆编制的层级化生物医学主题词表，用于 PubMed 标引，含主题词、副主题词和补充概念记录。可免费下载 XML、RDF、MARC 21 格式，并提供 RDF/SPARQL 查询接口；使用时需注明 NLM 来源并标明版本。

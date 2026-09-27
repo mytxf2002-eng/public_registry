@@ -1,0 +1,16 @@
+id: hebrew-calendar
+kind: [api]
+name: Hebrew Calendar
+url: https://www.hebcal.com/home/developer-apis
+description: Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2017-11-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

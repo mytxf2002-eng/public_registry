@@ -1,0 +1,25 @@
+id: jcb-image-data-collection
+kind: [api, dataset]
+name: JCB Image Data Collection (BioStudies)
+url: https://www.ebi.ac.uk/biostudies/JCB/studies
+description: Original microscopy image files behind figures of 424 Journal of Cell Biology articles, grouped by study and figure panel, released up to 2018
+domain: life-sciences
+tags: [cell-biology, microscopy, bioimages, research-data]
+license: unknown
+publisher:
+  name: EMBL-EBI BioStudies (Journal of Cell Biology collection)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ebi.ac.uk/biostudies/help
+dataset:
+  formats: [image, other]
+  access: public
+  update_frequency: static
+  size: 424 studies

@@ -1,0 +1,18 @@
+id: napster
+kind: [api]
+name: Napster
+url: https://developer.napster.com/api/v2.2
+description: Music
+domain: music
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Napster's developer site and API hosts no longer respond.

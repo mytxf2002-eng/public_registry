@@ -1,0 +1,15 @@
+id: toolcarton
+kind: [api]
+name: Toolcarton
+url: https://testimonialapi.vercel.app/
+description: Generate random testimonial data
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

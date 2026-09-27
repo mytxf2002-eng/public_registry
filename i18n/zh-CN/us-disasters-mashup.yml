@@ -1,0 +1,2 @@
+id: us-disasters-mashup
+description: 把美国 NTSB 航空事故、NOAA 风暴事件与历史沉船记录、USGS 近年地震数据合并为一个带经纬度的 JSON 文件，共 48,592 条事件。个人整理项目，CC0 许可，可在 GitHub、Hugging Face 或 Kaggle 下载，不再持续更新。

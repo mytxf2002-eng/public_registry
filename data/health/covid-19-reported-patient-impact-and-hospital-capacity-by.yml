@@ -1,0 +1,30 @@
+id: covid-19-reported-patient-impact-and-hospital-capacity-by
+kind: [api, dataset]
+name: COVID-19 Reported Patient Impact and Hospital Capacity by Facility
+url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+description: Weekly facility-level bed capacity, occupancy and COVID-19 and influenza patient counts for US hospitals from 2020 to May 2024, about 1 million rows with 129 fields
+domain: health
+tags: [covid-19, hospital-capacity, bed-occupancy, influenza]
+license: LicenseRef-US-Government-Work
+license_url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+publisher:
+  name: U.S. Department of Health and Human Services
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/foundry/healthdata.gov/anag-cw7u
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: '2020'
+    end: 2024-05
+  spatial: [US]
+  update_frequency: static
+  size: 1.05 M rows

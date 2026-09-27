@@ -1,0 +1,15 @@
+id: open-government-czech-republic
+kind: [api]
+name: Open Government, Czech Republic
+url: https://data.gov.cz/english/
+description: Czech Republic Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

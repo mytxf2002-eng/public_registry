@@ -1,0 +1,16 @@
+id: urlscan-io
+kind: [api]
+name: URLScan.io
+url: https://urlscan.io/about-api/
+description: Scan and Analyse URLs
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2020-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

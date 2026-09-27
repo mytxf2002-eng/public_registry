@@ -1,0 +1,15 @@
+id: tourneyradar
+kind: [api]
+name: TourneyRadar
+url: https://tourneyradar-api.vercel.app
+description: Upcoming chess tournaments from 140+ national federations worldwide
+domain: sports
+license: unknown
+provenance:
+  added: 2026-05-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

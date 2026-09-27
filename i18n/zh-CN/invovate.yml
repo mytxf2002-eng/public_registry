@@ -1,0 +1,3 @@
+id: invovate
+description: 发票生成：POST 一段 JSON，返回 PDF、JSON 或 UBL 格式的发票，支持 11 种语言、20 种货币和 5 种模板，免费档每小时 40 次。
+group: 收款与电子发票

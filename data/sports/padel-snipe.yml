@@ -1,0 +1,23 @@
+id: padel-snipe
+kind: [api, dataset]
+name: Padel Snipe
+url: https://padelsnipe.com/fr/world/api
+description: 4,000+ mapped padel clubs across 9 European countries with GPS and courts
+domain: sports
+license: CC-BY-4.0
+license_url: https://padelsnipe.com/fr/world/api
+provenance:
+  added: 2026-06-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv]
+  access: public
+  url: https://padelsnipe.com/fr/world
+  spatial: [global]
+  update_frequency: daily
+  size: 6,176 clubs

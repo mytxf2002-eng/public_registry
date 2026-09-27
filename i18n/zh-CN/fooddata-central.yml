@@ -1,0 +1,3 @@
+id: fooddata-central
+description: 美国农业部（USDA）官方的食物营养数据库，收录普通食物和品牌包装食品的营养成分，原来的 National Nutrient Database for Standard Reference 已并入其中。免费，key 在 api.data.gov 申请。
+group: 营养与食品数据

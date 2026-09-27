@@ -1,0 +1,2 @@
+id: castlemap-castle-dataset
+description: 从 Wikidata 整理的全球 154 个国家 8,672 座城堡、要塞、宫殿和遗址，含坐标、类型、建造年代、维基百科链接和知名度排名，可免费直接下载 GeoJSON 或 CSV，另有免密钥的只读 MCP 接口。数据事实以 CC0 发布，照片不在下载包内。

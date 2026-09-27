@@ -1,0 +1,15 @@
+id: movebank
+kind: [api]
+name: Movebank
+url: https://github.com/movebank/movebank-api-doc
+description: Movement and Migration data of animals
+domain: animals
+license: unknown
+provenance:
+  added: 2017-08-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

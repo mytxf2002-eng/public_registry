@@ -1,0 +1,15 @@
+id: metro-lisboa
+kind: [api]
+name: Metro Lisboa
+url: http://app.metrolisboa.pt/status/getLinhas.php
+description: Delays in subway lines
+domain: transportation
+license: unknown
+provenance:
+  added: 2019-11-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

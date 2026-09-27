@@ -1,0 +1,15 @@
+id: techy
+kind: [api]
+name: Techy
+url: https://techy-api.vercel.app/
+description: JSON and Plaintext API for tech-savvy sounding phrases
+domain: entertainment
+license: unknown
+provenance:
+  added: 2022-03-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

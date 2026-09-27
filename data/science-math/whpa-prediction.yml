@@ -1,0 +1,21 @@
+id: whpa-prediction
+kind: [dataset]
+name: WHPA Prediction
+url: https://www.kaggle.com/datasets/robustus/whpa-prediction
+description: Simulated tracer breakthrough curves and wellhead protection zones from MODFLOW groundwater runs with random hydraulic conductivity fields, stored as NumPy arrays
+domain: science-math
+tags: [groundwater, hydrogeology, simulation, modflow, tracer-tests]
+license: CC-BY-SA-4.0
+license_url: https://www.kaggle.com/datasets/robustus/whpa-prediction
+publisher:
+  name: Robin Thibaut
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [numpy]
+  access: registration
+  update_frequency: static
+  size: 8.2 GB

@@ -1,0 +1,15 @@
+id: real-time-finance
+kind: [api]
+name: Real Time Finance
+url: https://github.com/Real-time-finance/finance-websocket-API/
+description: Websocket API to access realtime stock data
+domain: finance
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

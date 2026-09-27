@@ -1,0 +1,15 @@
+id: aletheia
+kind: [api]
+name: Aletheia
+url: https://aletheiaapi.com/
+description: Insider trading data, earnings call analysis, financial statements, and more
+domain: finance
+license: unknown
+provenance:
+  added: 2021-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: botd
+kind: [api]
+name: Botd
+url: https://github.com/fingerprintjs/botd
+description: Botd is a browser library for JavaScript bot detection
+domain: security
+license: unknown
+provenance:
+  added: 2021-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

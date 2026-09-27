@@ -1,0 +1,3 @@
+id: openmercantil
+description: 西班牙企业的公开数据，以及根据《商业登记公报》（BORME）整理的公司事件时间线，接口有 /empresa、/search、/eventos 等，免 key。
+group: 企业登记与税号查询

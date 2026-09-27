@@ -1,0 +1,3 @@
+id: aniapi
+description: 动画检索、播放源信息，以及与第三方追番网站同步观看进度的接口，需要 OAuth。
+group: 番剧数据库与追番记录

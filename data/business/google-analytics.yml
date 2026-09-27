@@ -1,0 +1,15 @@
+id: google-analytics
+kind: [api]
+name: Google Analytics
+url: https://developers.google.com/analytics/
+description: Collect, configure and analyze your data to reach the right audience
+domain: business
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

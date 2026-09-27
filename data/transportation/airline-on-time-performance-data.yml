@@ -1,0 +1,23 @@
+id: airline-on-time-performance-data
+kind: [dataset]
+name: Airline On-Time Performance Data
+url: https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r%FDb0-gvzr%FDcr4s14zn0pr%FDQn6n&QO_fu146_anzr=b0-gvzr
+description: Flight-level records of US airlines' domestic non-stop flights since 1987 with scheduled and actual times, delay causes, cancellations, diversions, taxi times and distance
+domain: transportation
+tags: [flights, airline-delays, on-time-performance, aviation]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: Bureau of Transportation Statistics (US DOT)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '1987'
+    end: null
+  spatial: [US]
+  update_frequency: monthly

@@ -1,0 +1,15 @@
+id: path-of-exile
+kind: [api]
+name: Path of Exile
+url: https://www.pathofexile.com/developer/docs
+description: Path of Exile Game Information
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

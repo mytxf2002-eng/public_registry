@@ -1,0 +1,2 @@
+id: umn-sarwat-foursquare-dataset
+description: 明尼苏达大学 Sarwat 等人通过 Foursquare 公开接口采集的匿名数据，含 215 万用户、114 万个场所、102 万次签到、2,710 万条好友关系和 281 万条场所评分，用于位置感知推荐研究。由 Archive Team 镜像至互联网档案馆，约 161 MB ZIP 可直接下载；使用需引用 LARS 论文，未声明许可。

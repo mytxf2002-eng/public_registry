@@ -1,0 +1,26 @@
+id: federal-data-terminations-tracker
+kind: [dataset]
+name: Federal Data Terminations Tracker
+url: https://dataindex.us/terminations-tracker
+description: Verified list of about 375 US federal datasets, data elements and tools terminated or removed since January 2025, with agency, topic, caveats and archived-copy links
+domain: government
+tags: [federal-statistics, data-terminations, open-government, data-availability]
+license: CC-BY-SA-4.0
+license_url: https://dataindex.us/about-us
+publisher:
+  name: dataindex.us
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://dataindex.us/terminations-tracker/download.csv
+  temporal:
+    start: 2025-01
+    end: null
+  spatial: [US]
+  update_frequency: irregular
+  size: 375 entries

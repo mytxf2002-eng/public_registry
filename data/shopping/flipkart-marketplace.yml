@@ -1,0 +1,15 @@
+id: flipkart-marketplace
+kind: [api]
+name: Flipkart Marketplace
+url: https://seller.flipkart.com/api-docs/FMSAPI.html
+description: Product listing management, Order Fulfilment in the Flipkart Marketplace
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

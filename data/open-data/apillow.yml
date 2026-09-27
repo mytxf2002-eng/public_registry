@@ -1,0 +1,15 @@
+id: apillow
+kind: [api]
+name: APIllow
+url: https://apillow.co/docs.html
+description: 'Zillow property data: 50+ fields per listing by address, URL, ZPID or ZIP, with sold data and comps'
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

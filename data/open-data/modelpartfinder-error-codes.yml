@@ -1,0 +1,15 @@
+id: modelpartfinder-error-codes
+kind: [api]
+name: ModelPartFinder Error Codes
+url: https://modelpartfinder.com/docs/api
+description: Lookup appliance and equipment error codes by brand and code, with recommended replacement parts
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

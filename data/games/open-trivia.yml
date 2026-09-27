@@ -1,0 +1,15 @@
+id: open-trivia
+kind: [api]
+name: Open Trivia
+url: https://opentdb.com/api_config.php
+description: Trivia Questions
+domain: games
+license: unknown
+provenance:
+  added: 2016-11-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

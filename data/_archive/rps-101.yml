@@ -1,0 +1,18 @@
+id: rps-101
+kind: [api]
+name: RPS 101
+url: https://rps101.pythonanywhere.com/api
+description: Rock, Paper, Scissors with 101 objects
+domain: games
+license: unknown
+provenance:
+  added: 2022-03-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The PythonAnywhere app was deleted, and no new home was found.

@@ -1,0 +1,21 @@
+id: mnist
+kind: [dataset]
+name: MNIST
+url: https://huggingface.co/datasets/ylecun/mnist
+description: 70,000 greyscale 28x28 images of handwritten digits 0-9 derived from NIST data, split into 60,000 training and 10,000 test examples
+domain: machine-learning
+tags: [handwritten-digits, image-classification, benchmark, computer-vision]
+license: MIT
+license_url: https://huggingface.co/datasets/ylecun/mnist
+publisher:
+  name: Yann LeCun, Corinna Cortes and Christopher Burges
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet]
+  access: public
+  update_frequency: static
+  size: 70,000 images (18 MB)

@@ -1,0 +1,15 @@
+id: myiprightnow
+kind: [api]
+name: MyIPRightNow
+url: https://myiprightnow.com
+description: Public IP address with network, location, and connection details
+domain: networks
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

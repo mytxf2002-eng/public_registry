@@ -1,0 +1,20 @@
+id: ipstack-mcp
+kind: [mcp-server]
+name: IPstack MCP
+url: https://ipstack.com/mcp
+description: IP geolocation, threat and timezone lookups for agents
+domain: geography
+tags: [mcp]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+mcp:
+  auth: api-key
+  transport: [stdio, http]
+  install:
+    - name: Cursor
+      url: https://cursor.directory/plugins/apilayer-mcp-adapter
+    - name: Glama
+      url: https://glama.ai/mcp/connectors/com.apilayer.mcp/apilayer-mcp-adapter

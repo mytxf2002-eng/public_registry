@@ -1,0 +1,3 @@
+id: guild-wars-2
+description: ArenaNet 官方的《激战 2》接口，文档在官方 wiki 上：物品、配方、交易所价格、成就、世界之战（WvW）等公开数据免 key，读取账号、角色和仓库需要玩家自己生成的 API key。
+group: 游戏厂商官方接口

@@ -1,0 +1,2 @@
+id: geofabrik-openstreetmap-data-extracts
+description: 德国 Geofabrik 公司免费提供的 OpenStreetMap 分区数据下载服务，按大洲、国家和次级区域每日更新切分，提供 OSM PBF 原始数据，以及多数国家和地区的 Shapefile、GeoPackage 图层。公开文件不含贡献者用户名等个人信息，数据遵循 ODbL 1.0。

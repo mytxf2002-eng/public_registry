@@ -1,0 +1,2 @@
+id: city-of-vancouver-open-data-portal
+description: 加拿大温哥华市政府开放数据门户（Opendatasoft），约 200 个数据集，涵盖街道交通、预算、物业与开发、公园、供水排水、选举投票点、LiDAR 高程和营业执照等，可导出 CSV、JSON、GeoJSON、Shapefile、Excel、Parquet，并可通过 Explore API 查询；采用温哥华市开放政府许可。

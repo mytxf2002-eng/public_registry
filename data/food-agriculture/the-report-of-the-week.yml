@@ -1,0 +1,15 @@
+id: the-report-of-the-week
+kind: [api]
+name: The Report of the Week
+url: https://github.com/andyklimczak/TheReportOfTheWeek-API
+description: Food & Drink Reviews
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

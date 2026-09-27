@@ -1,0 +1,21 @@
+id: homeland-infrastructure-foundation-level-data
+kind: [dataset]
+name: Homeland Infrastructure Foundation-Level Data (HIFLD)
+url: https://www.hsdl.org/hifld/
+description: US critical-infrastructure GIS layers such as hospitals, power plants, airports, schools and emergency services, preserved from the retired HIFLD Open portal
+domain: government
+tags: [critical-infrastructure, gis, emergency-management, facilities, feature-services]
+license: LicenseRef-Public-Domain
+license_url: https://www.hsdl.org/hifld/
+publisher:
+  name: Homeland Security Digital Library (Naval Postgraduate School CHDS)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geojson, json]
+  access: public
+  spatial: [US]
+  update_frequency: irregular

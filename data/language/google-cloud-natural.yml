@@ -1,0 +1,16 @@
+id: google-cloud-natural
+kind: [api]
+name: Google Cloud Natural
+url: https://cloud.google.com/natural-language/docs/
+description: Natural language understanding technology, including sentiment, entity and syntax analysis
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

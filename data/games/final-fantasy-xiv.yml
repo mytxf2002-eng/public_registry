@@ -1,0 +1,15 @@
+id: final-fantasy-xiv
+kind: [api]
+name: Final Fantasy XIV
+url: https://xivapi.com/
+description: Final Fantasy XIV Game data API
+domain: games
+license: unknown
+provenance:
+  added: 2019-10-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: redirhub
+kind: [api]
+name: RedirHub
+url: https://redirhub.com
+description: URL redirect management with custom domains, HTTPS, analytics, and REST API
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2026-05-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

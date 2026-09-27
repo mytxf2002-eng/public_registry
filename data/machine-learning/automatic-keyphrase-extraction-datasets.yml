@@ -1,0 +1,19 @@
+id: automatic-keyphrase-extraction-datasets
+kind: [dataset]
+name: Automatic Keyphrase Extraction Datasets
+url: https://github.com/snkim/AutomaticKeyphraseExtraction
+description: Seven archived benchmark sets for automatic keyphrase extraction (Hulth2003, Krapivin2009, MAUI, Nguyen2007, Schutz2008, SemEval2010, Wan2008) gathered in one repository
+domain: machine-learning
+tags: [keyphrase-extraction, nlp, benchmark, scientific-articles]
+license: unknown
+publisher:
+  name: Su Nam Kim
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  update_frequency: static

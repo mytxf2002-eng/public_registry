@@ -1,0 +1,22 @@
+id: livetrafficcam
+kind: [api, dataset]
+name: LiveTrafficCam
+url: https://bzsasson.github.io/traffic-camera-sources/api.html
+description: Live US state DOT traffic cameras with verified live status and measured uptime
+domain: transportation
+license: LicenseRef-Provider-Terms
+license_url: https://livetrafficcam.com/terms/
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [json, geojson, csv]
+  access: public
+  url: https://github.com/bzsasson/traffic-camera-sources
+  spatial: [US]
+  update_frequency: weekly

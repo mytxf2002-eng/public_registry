@@ -1,0 +1,3 @@
+id: neuronto-ard-registry
+description: MCP 服务、AI Agent 和 API 的搜索索引，会列出每个 MCP 服务实际暴露的工具。ARD 指“智能体资源发现”（Agentic Resource Discovery）。
+group: 软件包与项目目录

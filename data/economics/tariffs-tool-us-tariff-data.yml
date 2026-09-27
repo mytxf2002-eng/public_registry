@@ -1,0 +1,29 @@
+id: tariffs-tool-us-tariff-data
+kind: [api, dataset]
+name: Tariffs Tool US Tariff Data
+url: https://www.tariffstool.com/developers
+description: Current US import tariff rates for 36 partner countries across 14 product sectors, with Section 122, 232 and 301 layers and a dated feed of regime changes since 2025
+domain: economics
+tags: [tariffs, trade-policy, import-duties, customs]
+license: LicenseRef-Provider-Terms
+license_url: https://www.tariffstool.com/developers
+publisher:
+  name: Master Plan Bookkeeping
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.tariffstool.com/developers
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: '2025'
+    end: null
+  spatial: [US]
+  update_frequency: irregular

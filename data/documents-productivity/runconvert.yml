@@ -1,0 +1,15 @@
+id: runconvert
+kind: [api]
+name: RunConvert
+url: https://www.runconvert.com/docs
+description: Convert video, audio, image, and document files programmatically
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

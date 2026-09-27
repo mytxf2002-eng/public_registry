@@ -1,0 +1,15 @@
+id: open-skills
+kind: [api]
+name: Open Skills
+url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+description: Job titles, skills and related jobs data
+domain: jobs
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

@@ -1,0 +1,16 @@
+id: dictum
+kind: [api]
+name: Dictum
+url: https://github.com/fisenkodv/dictum
+description: API to get access to the collection of the most inspiring expressions of mankind
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

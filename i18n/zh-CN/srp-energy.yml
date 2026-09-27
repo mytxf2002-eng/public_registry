@@ -1,0 +1,3 @@
+id: srp-energy
+description: 美国亚利桑那州电力公司 Salt River Project（SRP）客户的每小时用电报告。链接是第三方 Python 客户端库的文档，需要用自己的 SRP 账户登录。
+group: 电网、电价与碳强度

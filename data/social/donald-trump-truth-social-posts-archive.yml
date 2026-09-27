@@ -1,0 +1,23 @@
+id: donald-trump-truth-social-posts-archive
+kind: [dataset]
+name: Donald Trump Truth Social Posts Archive
+url: https://huggingface.co/datasets/Cameronk199/donald-trump-truth-social-posts
+description: 36,170 Truth Social posts from Donald Trump's account since February 2022, with timestamps, text, source HTML, images and video transcripts, refreshed weekly
+domain: social
+tags: [truth-social, politics, social-media-posts, nlp, public-figures]
+license: unknown
+publisher:
+  name: Cameronk199 (Hugging Face user)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet, jsonl, image]
+  access: public
+  temporal:
+    start: 2022-02
+    end: null
+  update_frequency: weekly
+  size: 36,170 posts

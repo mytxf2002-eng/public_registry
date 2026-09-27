@@ -1,0 +1,30 @@
+id: health-inspection-scores
+kind: [api, dataset]
+name: Health Inspection Scores (2016-2019)
+url: https://data.sf.gov/Health-and-Social-Services/Health-Inspection-Scores-2016-2019-/pyih-qa8i
+description: 53,973 San Francisco restaurant and food facility inspection records from October 2016 to November 2019, with scores, risk-rated violations and addresses
+domain: health
+tags: [restaurant-inspections, food-safety, public-health, violations]
+license: PDDL-1.0
+license_url: https://data.sf.gov/api/views/pyih-qa8i.json
+publisher:
+  name: San Francisco Department of Public Health
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/foundry/data.sf.gov/pyih-qa8i
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: 2016-10
+    end: 2019-11
+  spatial: [US-CA]
+  update_frequency: static
+  size: 53,973 records

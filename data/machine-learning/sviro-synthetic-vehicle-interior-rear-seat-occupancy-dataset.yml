@@ -1,0 +1,22 @@
+id: sviro-synthetic-vehicle-interior-rear-seat-occupancy-dataset
+kind: [dataset]
+name: 'SVIRO: Synthetic Vehicle Interior Rear Seat Occupancy Dataset'
+url: https://sviro.kl.dfki.de/
+description: Synthetic rear-seat scenes in ten vehicle interiors, 25,000 sceneries as RGB, simulated infrared and depth images with masks, boxes and keypoints
+domain: machine-learning
+tags: [synthetic-data, vehicle-interior, occupancy-detection, semantic-segmentation, pose-estimation]
+license: CC-BY-NC-SA-4.0
+license_url: https://sviro.kl.dfki.de/licenses/
+publisher:
+  name: German Research Center for Artificial Intelligence (DFKI)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  url: https://sviro.kl.dfki.de/download/
+  update_frequency: irregular
+  size: 25,000 sceneries

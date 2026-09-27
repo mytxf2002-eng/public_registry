@@ -1,0 +1,15 @@
+id: 24-pull-requests
+kind: [api]
+name: 24 Pull Requests
+url: https://24pullrequests.com/api
+description: Project to promote open source collaboration during December
+domain: development
+license: unknown
+provenance:
+  added: 2018-11-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

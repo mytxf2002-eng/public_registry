@@ -1,0 +1,26 @@
+id: ncbi-taxonomy
+kind: [api, dataset]
+name: NCBI Taxonomy
+url: https://www.ncbi.nlm.nih.gov/taxonomy
+description: Curated classification and names for all organisms represented in the public sequence databases, with taxon identifiers, lineages and accession-to-taxon mappings
+domain: life-sciences
+tags: [taxonomy, nomenclature, organisms, bioinformatics]
+license: LicenseRef-Custom-Open
+license_url: https://www.ncbi.nlm.nih.gov/home/about/policies/
+publisher:
+  name: National Center for Biotechnology Information (NCBI/NLM/NIH)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ncbi.nlm.nih.gov/books/NBK25501/
+dataset:
+  formats: [text]
+  access: public
+  url: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/
+  update_frequency: daily

@@ -1,0 +1,2 @@
+id: airborne-object-tracking-dataset
+description: 亚马逊 Prime Air 发布的空中目标检测与跟踪数据集，含 4,943 段机载摄像飞行序列（约 164 小时，10 Hz），590 多万帧灰度 PNG 图像和 330 多万个空中目标标注，托管在 AWS 公共存储桶中，无需账号即可下载，CDLA-Permissive-1.0 许可。

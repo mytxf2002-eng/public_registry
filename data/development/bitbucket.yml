@@ -1,0 +1,15 @@
+id: bitbucket
+kind: [api]
+name: Bitbucket
+url: https://developer.atlassian.com/bitbucket/api/2/reference/
+description: Bitbucket API
+domain: development
+license: unknown
+provenance:
+  added: 2020-04-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

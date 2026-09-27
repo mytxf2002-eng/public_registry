@@ -1,0 +1,2 @@
+id: international-genome-sample-resource-igsr-1000-genomes
+description: 千人基因组计划及后续针对其样本研究的人类遗传变异数据，包括序列比对文件（BAM/CRAM）和变异调用集（VCF），可按样本、人群、测序技术和数据集合浏览；通过 FTP、Globus、Aspera 或 AWS 镜像免费下载，无需密码。

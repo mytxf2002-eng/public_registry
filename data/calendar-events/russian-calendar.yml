@@ -1,0 +1,16 @@
+id: russian-calendar
+kind: [api]
+name: Russian Calendar
+url: https://github.com/egno/work-calendar
+description: Check if a date is a Russian holiday or not
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2018-07-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

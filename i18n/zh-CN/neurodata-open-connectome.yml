@@ -1,0 +1,2 @@
+id: neurodata-open-connectome
+description: 约翰斯·霍普金斯大学 NeuroData 团队的开放神经数据：电子显微镜、阵列断层、透明化光片显微和磁共振等多尺度脑影像体数据（含分割与网格，Neuroglancer 预计算格式），以及猫、果蝇、猕猴、小鼠等动物连接组图（GraphML）。数据公开托管于 AWS，可直接下载，除另有说明外采用 ODC-By 1.0 许可。

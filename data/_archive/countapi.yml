@@ -1,0 +1,18 @@
+id: countapi
+kind: [api]
+name: CountAPI
+url: https://countapi.xyz
+description: Free and simple counting service. You can use it to track page hits and specific events
+domain: development
+license: unknown
+provenance:
+  added: 2019-03-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: countapi.xyz no longer resolves in DNS, so the service is gone.

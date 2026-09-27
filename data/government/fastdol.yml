@@ -1,0 +1,15 @@
+id: fastdol
+kind: [api]
+name: FastDOL
+url: https://www.fastdol.com/docs
+description: 'Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more'
+domain: government
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

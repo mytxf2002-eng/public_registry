@@ -1,0 +1,21 @@
+id: aicrowd
+kind: [dataset]
+name: AIcrowd
+url: https://www.aicrowd.com/
+description: Platform hosting machine-learning challenges set by research groups and companies, each with its own dataset, rules and leaderboard, on topics such as dialogue, chess and game agents
+domain: machine-learning
+tags: [competitions, benchmarks, challenge-datasets, leaderboards]
+license: LicenseRef-Provider-Terms
+license_url: https://www.aicrowd.com/participation_terms
+publisher:
+  name: AIcrowd
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: registration
+  url: https://www.aicrowd.com/challenges
+  update_frequency: irregular

@@ -1,0 +1,15 @@
+id: votepredictor
+kind: [api]
+name: VotePredictor
+url: https://votepredictor.com/developers
+description: US election forecasts, congressional voting records and forecaster accuracy ratings
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

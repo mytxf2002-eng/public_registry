@@ -1,0 +1,18 @@
+id: gitter
+kind: [api]
+name: Gitter
+url: https://developer.gitter.im/docs/welcome
+description: Chat for Developers
+domain: development
+license: unknown
+provenance:
+  added: 2016-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Gitter's own API was discontinued when Gitter moved to Matrix in February 2023, and developer.gitter.im no longer resolves.

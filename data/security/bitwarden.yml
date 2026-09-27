@@ -1,0 +1,15 @@
+id: bitwarden
+kind: [api]
+name: BitWarden
+url: https://bitwarden.com/help/api/
+description: 'Public API of the open-source password manager for organisations: members, groups, collections, policies and event logs'
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

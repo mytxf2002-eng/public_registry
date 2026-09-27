@@ -1,0 +1,2 @@
+id: crystallography-open-database
+description: 开放获取的晶体结构数据库，收录约 53.5 万条有机、无机、金属有机化合物和矿物的晶体结构（不含生物大分子），以 CIF 文件提供。可通过 rsync、SVN 或压缩包整体下载，也可用只读 MySQL 账户或 REST 接口查询；数据以 CC0 发布。

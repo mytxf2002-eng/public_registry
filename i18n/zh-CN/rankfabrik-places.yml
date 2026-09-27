@@ -1,0 +1,3 @@
+id: rankfabrik-places
+description: 按城市搜索本地商家和兴趣点，结果去重并附覆盖率报告，数据在调用时实时采集。
+group: 商家与专业机构名录

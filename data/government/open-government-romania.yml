@@ -1,0 +1,21 @@
+id: open-government-romania
+kind: [api, dataset]
+name: Open Government, Romania
+url: http://data.gov.ro/
+description: Romania Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2019-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+dataset:
+  formats: [xlsx, xls, csv, xml, ods]
+  access: public
+  url: https://data.gov.ro/dataset
+  spatial: [RO]
+  size: 5,251 datasets

@@ -1,0 +1,18 @@
+id: xmath
+kind: [api]
+name: xMath
+url: https://x-math.herokuapp.com/
+description: Random mathematical expressions
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

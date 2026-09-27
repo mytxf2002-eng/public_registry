@@ -1,0 +1,21 @@
+id: istanbul-ibb-open-data
+kind: [api, dataset]
+name: Istanbul (İBB) Open Data
+url: https://data.ibb.gov.tr
+description: Data sets from the İstanbul Metropolitan Municipality (İBB)
+domain: government
+license: LicenseRef-Open-Government
+license_url: https://data.ibb.gov.tr/en/license
+provenance:
+  added: 2021-07-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [xlsx, csv, geojson, xml, kml]
+  access: public
+  spatial: [TR]
+  size: 557 datasets

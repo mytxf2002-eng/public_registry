@@ -1,0 +1,3 @@
+id: premier-league-standings
+description: 托管在 RapidAPI 上的接口，提供英超当前积分榜和统计数据。
+group: 足球数据

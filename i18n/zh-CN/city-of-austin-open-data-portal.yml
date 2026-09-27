@@ -1,0 +1,2 @@
+id: city-of-austin-open-data-portal
+description: 美国得克萨斯州奥斯汀市政府开放数据门户（Socrata 平台），约 700 个数据集，涵盖公共安全、交通、公用事业、建筑许可、预算和市政服务等，许多每日更新，可导出 CSV、JSON 等格式并通过免密钥的 SODA API 调用。各数据集许可分别标注，多为公有领域，约半数未注明。

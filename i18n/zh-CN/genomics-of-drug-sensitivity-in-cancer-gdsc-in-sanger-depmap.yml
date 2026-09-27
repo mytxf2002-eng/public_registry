@@ -1,0 +1,2 @@
+id: genomics-of-drug-sensitivity-in-cancer-gdsc-in-sanger-depmap
+description: 癌症药物敏感性基因组学（GDSC）数据，现并入桑格研究所的癌症依赖图谱：约 970 个癌细胞系的药物筛选，GDSC1 含 403 种化合物（2009–2015），GDSC2 含 297 种（2015 年起），附剂量反应拟合；经 Cell Model Passports 下载或 API 获取，仅限研究与教育用途。

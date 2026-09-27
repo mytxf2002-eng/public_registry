@@ -1,0 +1,21 @@
+id: stanford-internet-research-data-repository
+kind: [dataset]
+name: Stanford Internet Research Data Repository
+url: https://scans.io/
+description: Archive of research datasets on Internet hosts, services and websites, such as Internet-wide scan results, cloud honeypot traffic and other paper artifacts
+domain: networks
+tags: [internet-scans, network-security, honeypots, port-scanning]
+license: LicenseRef-Research-Only
+license_url: https://scans.io/
+publisher:
+  name: Stanford Empirical Security Research Group
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, archive]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

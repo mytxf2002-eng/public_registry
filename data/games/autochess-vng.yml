@@ -1,0 +1,15 @@
+id: autochess-vng
+kind: [api]
+name: Autochess VNG
+url: https://github.com/didadadida93/autochess-vng-api
+description: Rest Api for Autochess VNG
+domain: games
+license: unknown
+provenance:
+  added: 2021-04-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

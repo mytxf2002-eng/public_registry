@@ -1,0 +1,3 @@
+id: opentiendas
+description: 电商平台 OpenTiendas 的官方 API 和 webhook，链接直接是一个 OpenAPI 描述文件（YAML）。
+group: 自建网店与电商系统

@@ -1,0 +1,24 @@
+id: getty-vocabularies-linked-open-data
+kind: [api, dataset]
+name: Getty Vocabularies Linked Open Data
+url: https://vocab.getty.edu/
+description: Linked-data editions of the Art & Architecture Thesaurus, the Thesaurus of Geographic Names and the Union List of Artist Names, with a SPARQL endpoint and N-Triples dumps
+domain: art-design
+tags: [thesaurus, linked-data, sparql, artist-names, place-names, cultural-heritage]
+license: ODC-By-1.0
+license_url: https://vocab.getty.edu/doc/
+publisher:
+  name: J. Paul Getty Trust
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://vocab.getty.edu/doc/
+dataset:
+  formats: [rdf]
+  access: public

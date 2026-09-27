@@ -1,0 +1,15 @@
+id: csr-plus
+kind: [api]
+name: CSR.plus
+url: https://csr.plus/docs/api
+description: Generate certificate signing requests and private keys without OpenSSL
+domain: security
+license: unknown
+provenance:
+  added: 2026-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

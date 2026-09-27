@@ -1,0 +1,18 @@
+id: sport-vision
+kind: [api]
+name: Sport Vision
+url: https://developers.decathlon.com/products/sport-vision
+description: Identify sport, brands and gear in an image. Also does image sports captioning
+domain: sports
+license: unknown
+provenance:
+  added: 2021-08-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Decathlon's developer portal no longer resolves and there is no replacement page for the Sport Vision API.

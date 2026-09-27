@@ -1,0 +1,3 @@
+id: verifnow
+description: 多种数据的实时校验：邮箱、电话、IBAN、欧盟增值税号（查询 VIES 系统），以及加拿大、西班牙、美国的身份证件号码。
+group: 税号、证件与电子发票

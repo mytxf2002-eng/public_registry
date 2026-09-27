@@ -1,0 +1,3 @@
+id: telegraph
+description: Telegram 推出的极简发布工具 Telegra.ph 的接口：创建账号、发布和编辑图文页面、查看浏览量，页面在 Telegram 里可以用 Instant View 直接打开。
+group: 博客、发布与评论

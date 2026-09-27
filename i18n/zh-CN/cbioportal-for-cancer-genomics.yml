@@ -1,0 +1,2 @@
+id: cbioportal-for-cancer-genomics
+description: 纪念斯隆-凯特琳癌症中心等机构维护的癌症基因组数据门户，收录 500 多项公开研究（含 TCGA、MSK-IMPACT 等）的突变、拷贝数、表达和临床数据。每项研究可打包下载，也可通过 GitHub datahub 或免认证的 REST API 获取，数据采用 ODbL 许可。

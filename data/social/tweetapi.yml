@@ -1,0 +1,15 @@
+id: tweetapi
+kind: [api]
+name: TweetAPI
+url: https://tweetapi.com/docs
+description: Public Twitter data for posts, profiles, followers, search, lists and communities
+domain: social
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

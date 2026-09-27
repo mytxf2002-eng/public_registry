@@ -1,0 +1,20 @@
+id: sec-edgar-data
+kind: [api, dataset]
+name: SEC EDGAR Data
+url: https://www.sec.gov/edgar/sec-api-documentation
+description: API to access annual reports of public US companies
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json]
+  access: public
+  spatial: [US]
+  update_frequency: daily

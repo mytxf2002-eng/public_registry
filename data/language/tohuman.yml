@@ -1,0 +1,16 @@
+id: tohuman
+kind: [api]
+name: ToHuman
+url: https://tohuman.io/ai-humanizer-api
+description: Rewrite AI-assisted drafts into natural, human-sounding text that reads like you wrote it
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

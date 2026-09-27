@@ -1,0 +1,15 @@
+id: open-charge-map
+kind: [api]
+name: Open Charge Map
+url: https://openchargemap.org/site/develop/api
+description: Global public registry of electric vehicle charging locations
+domain: transportation
+license: unknown
+provenance:
+  added: 2020-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

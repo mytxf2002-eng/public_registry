@@ -1,0 +1,3 @@
+id: geocode-xyz
+description: 全球正向、反向和批量地理编码，还支持 geoparsing（从一段文本中识别并定位地名）。
+group: 地理编码与反向地理编码

@@ -1,0 +1,18 @@
+id: sport-places
+kind: [api]
+name: Sport Places
+url: https://developers.decathlon.com/products/sport-places
+description: Crowd-source sports places around the world
+domain: sports
+license: unknown
+provenance:
+  added: 2021-08-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: Decathlon's developer portal and Sport Places API hosts no longer exist.

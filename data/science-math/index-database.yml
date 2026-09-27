@@ -1,0 +1,21 @@
+id: index-database
+kind: [api]
+name: Index DataBase (IDB)
+url: https://www.indexdatabase.de/
+description: Database of remote-sensing spectral indices and satellite and airborne sensors that maps each index formula to sensor bands, applications and literature references
+domain: science-math
+tags: [remote-sensing, vegetation-indices, satellite-sensors, spectral-bands]
+license: LicenseRef-Research-Only
+license_url: https://www.indexdatabase.de/info/impressum.php
+publisher:
+  name: IDB Project, University of Bonn
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://www.indexdatabase.de/info/docs/Json-IDB.pdf

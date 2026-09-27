@@ -1,0 +1,18 @@
+id: catch-the-show
+kind: [api]
+name: Catch The Show
+url: https://catchtheshow.herokuapp.com/api/documentation
+description: REST API for next-episode.net
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

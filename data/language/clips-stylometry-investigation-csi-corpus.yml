@@ -1,0 +1,21 @@
+id: clips-stylometry-investigation-csi-corpus
+kind: [dataset]
+name: CLiPS Stylometry Investigation (CSI) Corpus
+url: https://zenodo.org/records/4639616
+description: Dutch student essays and reviews annotated with author traits (gender, age, region, personality) and document data such as genre, veracity, sentiment and grade
+domain: language
+tags: [stylometry, author-profiling, dutch, essays, reviews]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/4639616
+publisher:
+  name: CLiPS Research Center, University of Antwerp
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  update_frequency: static
+  size: 3.4 MB

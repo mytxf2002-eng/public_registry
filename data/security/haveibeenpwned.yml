@@ -1,0 +1,15 @@
+id: haveibeenpwned
+kind: [api]
+name: HaveIBeenPwned
+url: https://haveibeenpwned.com/API/v3
+description: Passwords which have previously been exposed in data breaches
+domain: security
+license: unknown
+provenance:
+  added: 2017-08-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

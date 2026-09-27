@@ -1,0 +1,16 @@
+id: ticketmaster
+kind: [api]
+name: Ticketmaster
+url: http://developer.ticketmaster.com/products-and-docs/apis/getting-started/
+description: Search events, attractions, or venues
+domain: calendar-events
+tags: [events]
+license: unknown
+provenance:
+  added: 2017-08-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

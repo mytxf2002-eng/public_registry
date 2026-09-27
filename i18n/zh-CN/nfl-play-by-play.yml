@@ -1,0 +1,2 @@
+id: nfl-play-by-play
+description: 约 94.3 万条 NFL 比赛回合（play-by-play）记录及球队、球员表，大致覆盖 2000–2019 赛季，2020 年由 nflfastR 抓取结果导入 Dolt 版本化 SQL 数据库。可在 DoltHub 网页或 SQL 接口在线查询，也可克隆或导出 CSV；此后未再更新，仓库未注明许可。

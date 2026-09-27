@@ -1,0 +1,30 @@
+id: melbourne-pedestrian-counting-system
+kind: [api, dataset]
+name: Melbourne Pedestrian Counting System (counts per hour)
+url: https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-monthly-counts-per-hour/
+description: Hourly pedestrian counts from sensors across the City of Melbourne since May 2009, about 1.6 million records, refreshed monthly
+domain: transportation
+tags: [pedestrians, foot-traffic, sensors, urban-mobility]
+license: CC-BY-4.0
+license_url: https://data.melbourne.vic.gov.au/pages/about-our-data/
+publisher:
+  name: City of Melbourne
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://data.melbourne.vic.gov.au/api-console/explore/v2.1/
+dataset:
+  formats: [csv, json, geojson]
+  access: public
+  temporal:
+    start: 2009-05
+    end: null
+  spatial: [AU-VIC]
+  update_frequency: monthly
+  size: 1.62 M records

@@ -1,0 +1,15 @@
+id: stream
+kind: [api]
+name: Stream
+url: https://api.stream.cz/graphiql
+description: Czech internet television, films, series and online videos for free
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,23 @@
+id: evidaxis
+kind: [dataset]
+name: Evidaxis
+url: https://evidaxis.org/
+description: 'Weekly snapshots of public activity signals for about 5,900 open AI systems: commits per week, citations to date and verified dependents, each with source and date'
+domain: development
+tags: [open-source, ai-systems, github-activity, citations, time-series]
+license: CC0-1.0
+license_url: https://evidaxis.org/about/
+publisher:
+  name: Evidaxis
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  temporal:
+    start: '2026'
+    end: null
+  update_frequency: weekly

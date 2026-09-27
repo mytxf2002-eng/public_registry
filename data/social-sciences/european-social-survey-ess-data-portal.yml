@@ -1,0 +1,24 @@
+id: european-social-survey-ess-data-portal
+kind: [dataset]
+name: European Social Survey (ESS) Data Portal
+url: https://www.europeansocialsurvey.org/data-portal
+description: Microdata from the biennial European Social Survey (set up in 2001) on attitudes, beliefs and behaviour of people aged 15 and over across European countries, plus CRONOS panel data
+domain: social-sciences
+tags: [survey-microdata, attitudes, cross-national, values, public-opinion]
+license: LicenseRef-Research-Only
+license_url: https://www.europeansocialsurvey.org/about/faq
+publisher:
+  name: European Social Survey ERIC
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, stata, csv]
+  access: registration
+  url: https://ess.sikt.no/en/
+  temporal:
+    start: '2002'
+    end: null
+  spatial: [europe]

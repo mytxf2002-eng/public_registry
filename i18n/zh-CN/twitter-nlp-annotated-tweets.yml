@@ -1,0 +1,2 @@
+id: twitter-nlp-annotated-tweets
+description: Alan Ritter 等人在 twitter_nlp 仓库中发布的人工标注英文推文，用于命名实体识别、词性标注和组块分析，另含 WNUT 2016 推特命名实体识别评测的训练、开发和测试数据（10 类实体，CoNLL 格式）。可从 GitHub 直接下载，仓库整体采用 GPL-3.0 许可。

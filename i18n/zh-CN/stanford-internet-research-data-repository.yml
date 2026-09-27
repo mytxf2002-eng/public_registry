@@ -1,0 +1,2 @@
+id: stanford-internet-research-data-repository
+description: 斯坦福大学实证安全研究组维护的互联网研究数据仓库（scans.io），收录全网扫描结果、云蜜罐流量等论文配套数据，并链接 Censys、Rapid7 等外部数据源。可直接下载，提供 JSON 格式的数据集清单；数据仅限非商业用途，近年更新较少。

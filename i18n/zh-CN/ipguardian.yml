@@ -1,0 +1,3 @@
+id: ipguardian
+description: 拿 IP 地址比对 140 多个公开的威胁情报黑名单（共约 21 亿个地址），不用注册、不用 key，一次最多查 100 个 IP。
+group: 威胁情报与恶意软件分析

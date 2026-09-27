@@ -1,0 +1,15 @@
+id: kinopipe
+kind: [api]
+name: KinoPipe
+url: https://kinopipe.com/docs
+description: Typed hosted video editing operations for agents and automation
+domain: video
+license: unknown
+provenance:
+  added: 2026-08-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

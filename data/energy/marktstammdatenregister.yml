@@ -1,0 +1,27 @@
+id: marktstammdatenregister
+kind: [api, dataset]
+name: Marktstammdatenregister (MaStR)
+url: https://www.marktstammdatenregister.de/MaStR/Datendownload
+description: Daily XML export of Germany's official register of electricity and gas generation, storage and consumption units and energy market actors, about 3 GB zipped
+domain: energy
+tags: [power-plants, renewables, energy-register, market-actors, storage]
+license: DL-DE-BY-2.0
+license_url: https://www.marktstammdatenregister.de/MaStR/Datendownload
+publisher:
+  name: Bundesnetzagentur
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://www.marktstammdatenregister.de/MaStRHilfe/subpages/webdienst.html
+dataset:
+  formats: [xml]
+  access: public
+  spatial: [DE]
+  update_frequency: daily
+  size: 3.1 GB (zip)

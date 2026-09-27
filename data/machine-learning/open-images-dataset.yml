@@ -1,0 +1,21 @@
+id: open-images-dataset
+kind: [dataset]
+name: Open Images Dataset
+url: https://storage.googleapis.com/openimages/web/index.html
+description: About 9 million Flickr images with image-level labels on 20,638 classes, plus 15.9 million boxes on 600 classes, segmentations, relationships and narratives
+domain: machine-learning
+tags: [object-detection, image-segmentation, image-labels, visual-relationships, computer-vision]
+license: CC-BY-4.0
+license_url: https://storage.googleapis.com/openimages/web/factsfigures_v7.html
+publisher:
+  name: Google
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv, json]
+  access: public
+  url: https://storage.googleapis.com/openimages/web/download_v7.html
+  size: ~9M images (~0.5 TiB)

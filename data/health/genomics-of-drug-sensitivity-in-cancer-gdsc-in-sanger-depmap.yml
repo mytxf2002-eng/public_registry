@@ -1,0 +1,29 @@
+id: genomics-of-drug-sensitivity-in-cancer-gdsc-in-sanger-depmap
+kind: [api, dataset]
+name: Genomics of Drug Sensitivity in Cancer (GDSC) in Sanger DepMap
+url: https://depmap.sanger.ac.uk/documentation/datasets/drug-sensitivity/
+description: 'Drug response screens of about 970 cancer cell lines: GDSC1 with 403 compounds (2009-2015) and GDSC2 with 297 compounds (since 2015), with dose-response fits linked to cell-model data'
+domain: health
+tags: [drug-sensitivity, cancer-cell-lines, pharmacogenomics, dose-response]
+license: LicenseRef-Research-Only
+license_url: https://depmap.sanger.ac.uk/documentation/data-usage-policy/
+publisher:
+  name: Wellcome Sanger Institute (Sanger DepMap)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://api.cellmodelpassports.sanger.ac.uk/swagger
+dataset:
+  formats: [csv]
+  access: public
+  url: https://cellmodelpassports.sanger.ac.uk/downloads
+  temporal:
+    start: '2009'
+    end: null
+  update_frequency: irregular

@@ -1,0 +1,15 @@
+id: spacex-github
+kind: [api]
+name: SpaceX (github.com/r-spacex)
+url: https://github.com/r-spacex/SpaceX-API
+description: Company, vehicle, launchpad and launch data
+domain: science-math
+license: unknown
+provenance:
+  added: 2017-08-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

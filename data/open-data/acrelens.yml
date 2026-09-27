@@ -1,0 +1,15 @@
+id: acrelens
+kind: [api]
+name: AcreLens
+url: https://www.acrelens.com
+description: 'Land suitability scoring API for any US property: off-grid, rural, recreational, investment'
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-05-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

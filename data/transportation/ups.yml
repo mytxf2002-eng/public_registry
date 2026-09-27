@@ -1,0 +1,16 @@
+id: ups
+kind: [api]
+name: UPS
+url: https://www.ups.com/upsdeveloperkit
+description: Shipment and Address information
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2018-01-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

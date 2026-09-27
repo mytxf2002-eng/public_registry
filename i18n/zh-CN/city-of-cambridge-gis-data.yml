@@ -1,0 +1,2 @@
+id: city-of-cambridge-gis-data
+description: 美国马萨诸塞州剑桥市 GIS 部门在 GitHub 上发布的城市地理图层，包括地址点、按财年划分的地块、行政边界、交通和环境要素等，提供 GeoJSON 和 TopoJSON 格式，可直接下载整个仓库或单个图层；高程、栅格等大文件需到市政府 GIS 数据字典网站获取。

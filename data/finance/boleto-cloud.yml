@@ -1,0 +1,15 @@
+id: boleto-cloud
+kind: [api]
+name: Boleto.Cloud
+url: https://boleto.cloud/
+description: A api to generate boletos in Brazil
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

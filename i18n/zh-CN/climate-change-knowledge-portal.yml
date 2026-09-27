@@ -1,0 +1,2 @@
+id: climate-change-knowledge-portal
+description: 世界银行气候变化知识门户，提供 ERA5、CRU 观测数据和 CMIP6 降尺度预估数据（1950–2100 年，70 多个变量和指数），既有 0.25° 全球格点 netCDF（AWS 公开存储桶），也有按国家、次国家区域和流域汇总的统计表，可免费下载；前身为已停用的世界银行气候数据 API。

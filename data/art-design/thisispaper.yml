@@ -1,0 +1,15 @@
+id: thisispaper
+kind: [api]
+name: Thisispaper
+url: https://www.thisispaper.com/intelligence/api-docs
+description: Curated architecture, design, photography and art projects with visual-similarity and taste metadata
+domain: art-design
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

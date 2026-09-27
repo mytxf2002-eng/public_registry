@@ -1,0 +1,3 @@
+id: wallhaven
+description: 壁纸站 Wallhaven 的接口：按关键词、标签、分类、分辨率、比例搜索壁纸，查看壁纸详情和标签。大部分接口不用 key，查看 NSFW 内容和个人收藏才需要，每分钟限 45 次。
+group: 图库与图片素材

@@ -1,0 +1,3 @@
+id: cleanuri
+description: 免费短链接接口，免 key，POST 一个长网址就返回短链。
+group: 简单短链生成

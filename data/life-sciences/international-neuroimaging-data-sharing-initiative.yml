@@ -1,0 +1,21 @@
+id: international-neuroimaging-data-sharing-initiative
+kind: [dataset]
+name: International Neuroimaging Data-sharing Initiative (INDI)
+url: http://fcon_1000.projects.nitrc.org/
+description: Shared brain MRI collections with phenotypic data from many sites, including the 1000 Functional Connectomes Project, ADHD-200, CoRR, the Rockland Sample and the Healthy Brain Network
+domain: life-sciences
+tags: [neuroimaging, fmri, mri, connectomics, resting-state]
+license: LicenseRef-Research-Only
+license_url: http://fcon_1000.projects.nitrc.org/indi/req_access.html
+publisher:
+  name: Child Mind Institute (INDI)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [nifti]
+  access: registration
+  url: http://fcon_1000.projects.nitrc.org/indi/s3/index.html
+  update_frequency: irregular

@@ -1,0 +1,15 @@
+id: namomemes
+kind: [api]
+name: NaMoMemes
+url: https://github.com/theIYD/NaMoMemes
+description: Memes on Narendra Modi
+domain: entertainment
+license: unknown
+provenance:
+  added: 2019-10-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

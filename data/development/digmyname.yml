@@ -1,0 +1,15 @@
+id: digmyname
+kind: [api]
+name: DigMyName
+url: https://digmyname.com/api
+description: Domain availability and registrar pricing across 52 TLDs
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

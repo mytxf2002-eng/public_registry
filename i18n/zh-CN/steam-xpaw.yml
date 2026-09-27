@@ -1,0 +1,3 @@
+id: steam-xpaw
+description: xPaw 维护的 Steam Web API 参考文档：收录 200 多个接口（包括官方没有公开说明的），可以直接在浏览器里填参数试调。实际调用需要 Steam Web API key。
+group: Steam、战绩与电竞

@@ -1,0 +1,25 @@
+id: ucsc-genome-browser-downloads
+kind: [api, dataset]
+name: UCSC Genome Browser Downloads
+url: https://hgdownload.soe.ucsc.edu/downloads.html
+description: Genome sequences and annotation tracks for the assemblies in the UCSC Genome Browser, from human and mouse to many other vertebrates, insects and other species
+domain: life-sciences
+tags: [genomics, genome-assemblies, genome-annotation, bioinformatics]
+license: LicenseRef-Custom-Open
+license_url: https://hgdownload.soe.ucsc.edu/downloads.html
+publisher:
+  name: UC Santa Cruz Genomics Institute
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://genome.ucsc.edu/goldenPath/help/api.html
+dataset:
+  formats: [fasta, tsv, sql, bed]
+  access: public
+  update_frequency: irregular

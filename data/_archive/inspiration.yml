@@ -1,0 +1,19 @@
+id: inspiration
+kind: [api]
+name: Inspiration
+url: https://inspiration.goprogram.ai/docs/
+description: Motivational and Inspirational quotes
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-06-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: goprogram.ai and its inspiration subdomain no longer exist in DNS, so the quotes API is gone.

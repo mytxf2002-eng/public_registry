@@ -1,0 +1,15 @@
+id: hugging-face
+kind: [api]
+name: Hugging Face
+url: https://huggingface.co
+description: AI model hub with inference API for NLP, computer vision, and audio
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-05-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

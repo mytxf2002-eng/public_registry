@@ -1,0 +1,26 @@
+id: undata
+kind: [api, dataset]
+name: UNdata
+url: https://data.un.org/
+description: Statistics from UN agencies and other international bodies in 22 databases, covering population, national accounts, trade, energy, environment and more for all countries
+domain: open-data
+tags: [international-statistics, sdmx, population, national-accounts, environment-accounts]
+license: LicenseRef-Custom-Open
+license_url: https://data.un.org/Host.aspx?Content=UNdataUse
+publisher:
+  name: United Nations Statistics Division
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://data.un.org/Host.aspx?Content=API
+dataset:
+  formats: [csv, xml, json, sdmx]
+  access: public
+  url: https://data.un.org/Explorer.aspx
+  spatial: [global]

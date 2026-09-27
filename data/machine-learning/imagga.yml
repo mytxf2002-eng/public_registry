@@ -1,0 +1,15 @@
+id: imagga
+kind: [api]
+name: Imagga
+url: https://imagga.com/
+description: Image Recognition Solutions like Tagging, Visual Search, NSFW moderation
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

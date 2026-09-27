@@ -1,0 +1,21 @@
+id: open-government-usa
+kind: [api, dataset]
+name: Open Government, USA
+url: https://www.data.gov/
+description: United States Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2016-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, xml]
+  access: public
+  url: https://catalog.data.gov/
+  spatial: [US]
+  size: 559,229 datasets

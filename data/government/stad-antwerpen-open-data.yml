@@ -1,0 +1,26 @@
+id: stad-antwerpen-open-data
+kind: [api, dataset]
+name: Stad Antwerpen Open Data
+url: https://www.antwerpen.be/open-data
+description: 'City of Antwerp open data: about 480 GIS datasets on its geoportal, neighbourhood statistics with an OData service, a 3D city model, museum images and a street-name list'
+domain: government
+tags: [open-government, city-data, gis, neighbourhood-statistics, 3d-city-model]
+license: LicenseRef-Open-Government
+license_url: https://www.antwerpen.be/info/gratis-open-data-licentie
+publisher:
+  name: Stad Antwerpen
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://www.antwerpen.be/info/stad-in-cijfers
+dataset:
+  formats: [csv, geojson, shapefile, kml, json]
+  access: public
+  url: https://portaal-stadantwerpen.opendata.arcgis.com/
+  spatial: [BE-VAN]

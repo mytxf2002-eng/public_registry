@@ -1,0 +1,15 @@
+id: core
+kind: [api]
+name: CORE
+url: https://core.ac.uk/services#api
+description: Access the world's Open Access research papers
+domain: science-math
+license: unknown
+provenance:
+  added: 2017-08-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

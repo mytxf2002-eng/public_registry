@@ -1,0 +1,21 @@
+id: localytics-data-visualization-challenge
+kind: [dataset]
+name: Localytics Data Visualization Challenge
+url: https://github.com/localytics/data-viz-challenge
+description: Sample of 50,000 mobile-app analytics events for a fictional crowdfunding app, each with user age, gender, US location, device, project category and donation amount
+domain: test-data
+tags: [app-analytics, events, sample-data, visualization]
+license: unknown
+publisher:
+  name: Localytics
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  spatial: [US]
+  update_frequency: static
+  size: 50,000 events

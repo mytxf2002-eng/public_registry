@@ -1,0 +1,25 @@
+id: znajdz-najem-rental-market-reports
+kind: [dataset]
+name: Znajdź Najem Rental Market Reports
+url: https://znajdznajem.pl/raporty
+description: 'Monthly and weekly asking-rent statistics for 21-34 Polish cities from about 10 rental portals: averages, medians, price per square metre, districts and room counts'
+domain: economics
+tags: [rent-prices, housing, rental-market, real-estate]
+license: CC-BY-4.0
+license_url: https://znajdznajem.pl/raporty
+publisher:
+  name: Znajdź Najem
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://github.com/Maciek-roboblog/znajdznajem-open-data
+  temporal:
+    start: 2026-03
+    end: null
+  spatial: [PL]
+  update_frequency: weekly

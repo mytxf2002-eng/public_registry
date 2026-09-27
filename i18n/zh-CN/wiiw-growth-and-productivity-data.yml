@@ -1,0 +1,2 @@
+id: wiiw-growth-and-productivity-data
+description: 维也纳国际经济研究所（wiiw）基于欧盟统计局数据编制的欧盟成员国分行业（NACE Rev.2）增长与生产率数据，自 1995 年起，含增加值和劳动生产率增长分解、多种全要素生产率口径及劳动收入、ICT 与无形资本份额，是早期 EU KLEMS 的延续。CSV、Stata、R 格式直接下载，CC BY 4.0。

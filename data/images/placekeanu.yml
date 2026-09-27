@@ -1,0 +1,16 @@
+id: placekeanu
+kind: [api]
+name: PlaceKeanu
+url: https://placekeanu.com/
+description: Resizable Keanu Reeves placeholder images with grayscale and young Keanu options
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

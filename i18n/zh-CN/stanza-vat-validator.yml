@@ -1,0 +1,3 @@
+id: stanza-vat-validator
+description: 校验欧盟 27 国和英国的增值税号，包括格式、校验位和欧盟 VIES 系统的登记状态，还能查 2026 年增值税税率。不支持 CORS。
+group: 税务

@@ -1,0 +1,16 @@
+id: stytch
+kind: [api]
+name: Stytch
+url: https://stytch.com/
+description: User infrastructure for modern applications
+domain: security
+tags: [authentication]
+license: unknown
+provenance:
+  added: 2021-07-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,27 @@
+id: worldpop
+kind: [api, dataset]
+name: WorldPop
+url: https://hub.worldpop.org/
+description: About 92,000 open high-resolution gridded datasets on population counts and density, age and sex structure, births, pregnancies, urbanisation and migration
+domain: social-sciences
+tags: [population, gridded-data, demography, raster, urbanisation]
+license: CC-BY-4.0
+license_url: https://hub.worldpop.org/
+publisher:
+  name: WorldPop, University of Southampton
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://www.worldpop.org/sdi/introapi
+dataset:
+  formats: [geotiff, csv]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 92,419 datasets

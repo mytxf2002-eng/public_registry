@@ -1,0 +1,15 @@
+id: open-government-switzerland
+kind: [api]
+name: Open Government, Switzerland
+url: https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html
+description: Switzerland Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

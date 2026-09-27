@@ -1,0 +1,2 @@
+id: encode-portal
+description: ENCODE（DNA 元件百科全书）联盟的数据门户：人类和小鼠的功能基因组学实验（ChIP-seq、RNA 表达等）元数据和处理后文件，并托管 Roadmap 表观基因组、modENCODE 等项目数据；可网页检索、用 REST 接口批量获取，另有 AWS 开放数据镜像，数据使用不受限制。

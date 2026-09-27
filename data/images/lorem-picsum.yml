@@ -1,0 +1,16 @@
+id: lorem-picsum
+kind: [api]
+name: Lorem Picsum
+url: https://picsum.photos/
+description: Images from Unsplash
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2018-08-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,25 @@
+id: datained-ined-survey-and-data-catalogue
+kind: [dataset]
+name: 'DataIned: INED Survey and Data Catalogue'
+url: https://data.ined.fr/
+description: Catalogue of about 275 surveys and demographic databases produced by the French Institute for Demographic Studies since the 1940s, with documentation and open data files
+domain: social-sciences
+tags: [demography, survey-microdata, fertility, migration, population]
+license: unknown
+publisher:
+  name: Institut national d'études démographiques (INED)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, other]
+  access: public
+  url: https://data.ined.fr/index.php/catalog/open_data/
+  temporal:
+    start: '1942'
+    end: null
+  spatial: [FR]
+  update_frequency: irregular
+  size: 275 datasets

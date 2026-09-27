@@ -1,0 +1,2 @@
+id: hdnet-tiktok-dataset
+description: 明尼苏达大学 Jafarian 和 Park 为 CVPR 2021 论文构建的数据集：从 TikTok 舞蹈合集中挑选约 340 段单人舞蹈视频，按 30 帧/秒提取出 10 万多张图像，附人像分割掩码和 DensePose UV 坐标，以及原始视频。需注册免费 Kaggle 账号后下载；仅限研究用途，不得用于商业产品。

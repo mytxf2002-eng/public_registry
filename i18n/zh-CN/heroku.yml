@@ -1,0 +1,3 @@
+id: heroku
+description: Heroku 平台 API：用程序创建应用、部署、扩缩容、配置环境变量和添加附加组件（add-on）。Heroku 在 2022 年取消了免费套餐。
+group: 云平台与后端服务

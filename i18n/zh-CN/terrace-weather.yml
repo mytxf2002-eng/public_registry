@@ -1,0 +1,3 @@
+id: terrace-weather
+description: 根据天气预报判断餐厅露台适不适合开放，直接给出“开”或“关”的结论。公开资料只有一个 Swagger 文档页。
+group: 航空、海洋与其他专项

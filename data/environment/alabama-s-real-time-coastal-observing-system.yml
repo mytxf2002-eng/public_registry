@@ -1,0 +1,23 @@
+id: alabama-s-real-time-coastal-observing-system
+kind: [dataset]
+name: Alabama's Real-Time Coastal Observing System (ARCOS)
+url: https://www.disl.edu/arcos/
+description: Meteorological and hydrographic readings from about a dozen monitoring stations in and around Mobile Bay, Alabama, collected since 2003
+domain: environment
+tags: [coastal-monitoring, hydrography, meteorology, estuaries]
+license: unknown
+publisher:
+  name: Dauphin Island Sea Lab
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2003'
+    end: null
+  spatial: [US-AL]
+  update_frequency: annual

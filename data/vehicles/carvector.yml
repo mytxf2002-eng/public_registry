@@ -1,0 +1,15 @@
+id: carvector
+kind: [api]
+name: CarVector
+url: https://carvector.io/docs
+description: Vehicle specs, images, recalls, and DTC codes across 1925-2029
+domain: vehicles
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,16 @@
+id: phone-validation
+kind: [api]
+name: Phone Validation
+url: https://www.abstractapi.com/phone-validation-api
+description: Validate phone numbers globally
+domain: communication
+tags: [phone]
+license: unknown
+provenance:
+  added: 2021-03-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

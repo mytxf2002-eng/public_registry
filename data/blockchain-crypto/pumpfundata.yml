@@ -1,0 +1,16 @@
+id: pumpfundata
+kind: [api]
+name: PumpFunData
+url: https://pumpfundata.com/docs
+description: Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-05-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

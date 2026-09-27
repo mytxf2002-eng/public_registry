@@ -1,0 +1,3 @@
+id: snoopscan
+description: 给 AI Agent 用的网页抓取 API：单页抓取、整站爬取、站点链接映射（map）和搜索，返回干净的 Markdown 或 JSON，有每月免费额度。
+group: 面向大模型的网页提取

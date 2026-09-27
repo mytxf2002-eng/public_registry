@@ -1,0 +1,16 @@
+id: nager-holidays
+kind: [api]
+name: Nager.Holidays
+url: https://nagerholidays.com/
+description: Public holidays for more than 90 countries
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2018-10-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

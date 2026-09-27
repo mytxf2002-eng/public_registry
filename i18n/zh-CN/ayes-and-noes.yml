@@ -1,0 +1,3 @@
+id: ayes-and-noes
+description: 英国下议院议员、政党、分组表决（记名投票）和早期动议（Early Day Motions）的免费 JSON API，数据来自议会官方开放数据。少量使用不用 key，免费 key（要求加回链）可以提高每日上限。
+group: 议会、选举与政治人物

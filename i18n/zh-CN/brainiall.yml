@@ -1,0 +1,3 @@
+id: brainiall
+description: 巴西葡萄牙语和西班牙语的语音转写，能区分说话人，输出 JSON、SRT 或 WebVTT 字幕。链接是一个给 AI Agent 用的 Skill 的 GitHub 仓库，调用需要 BRAINIALL 的 key。
+group: 语音识别与合成

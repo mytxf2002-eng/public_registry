@@ -1,0 +1,15 @@
+id: openweathermap
+kind: [api]
+name: OpenWeatherMap
+url: https://openweathermap.org/api
+description: Current weather, forecasts, history, air pollution and weather map layers
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

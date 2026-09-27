@@ -1,0 +1,15 @@
+id: stapi
+kind: [api]
+name: STAPI
+url: http://stapi.co
+description: Information on all things Star Trek
+domain: video
+license: unknown
+provenance:
+  added: 2018-08-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

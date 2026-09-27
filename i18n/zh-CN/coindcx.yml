@@ -1,0 +1,3 @@
+id: coindcx
+description: 印度交易所 CoinDCX 的 API：行情数据和交易接口，另有 WebSocket 推送。
+group: 地区交易所与其他交易平台

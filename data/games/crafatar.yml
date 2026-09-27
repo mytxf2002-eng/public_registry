@@ -1,0 +1,15 @@
+id: crafatar
+kind: [api]
+name: Crafatar
+url: https://crafatar.com
+description: API for Minecraft skins and faces
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

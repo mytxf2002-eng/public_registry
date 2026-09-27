@@ -1,0 +1,21 @@
+id: eth-entomological-collection-ethec-dataset
+kind: [dataset]
+name: ETH Entomological Collection (ETHEC) Dataset
+url: https://www.research-collection.ethz.ch/handle/20.500.11850/365379
+description: Photographs of Palearctic butterfly and moth (Macrolepidoptera) specimens from ETH Zurich's Entomological Collection, a 6 GB set of JPEG images with data splits
+domain: life-sciences
+tags: [entomology, lepidoptera, specimen-images, museum-collections, image-classification]
+license: LicenseRef-Research-Only
+license_url: https://www.research-collection.ethz.ch/handle/20.500.11850/365379
+publisher:
+  name: ETH Zurich
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  update_frequency: static
+  size: 5.98 GB

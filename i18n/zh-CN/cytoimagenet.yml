@@ -1,0 +1,2 @@
+id: cytoimagenet
+description: 面向显微图像迁移学习的大规模预训练数据集：来自 Recursion、IDR、BBBC、Kaggle、细胞图像库等 40 个公开数据集的 890,737 张灰度显微图像，按元数据弱标注为 894 类（化合物、表型、细胞类型、基因等）；Kaggle 下载约 52 GB，需 Kaggle 账号，CC0。

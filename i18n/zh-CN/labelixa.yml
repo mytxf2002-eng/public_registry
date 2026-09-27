@@ -1,0 +1,3 @@
+id: labelixa
+description: 渲染和校验 Zebra 标签打印机的 ZPL 指令（Zebra Programming Language），把带条码的标签生成 PNG 或 PDF 预览。
+group: 二维码与条码

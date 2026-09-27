@@ -1,0 +1,15 @@
+id: playerdb
+kind: [api]
+name: PlayerDB
+url: https://playerdb.co/
+description: Query Minecraft, Steam and XBox Accounts
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

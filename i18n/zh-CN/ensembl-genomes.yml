@@ -1,0 +1,2 @@
+id: ensembl-genomes
+description: EMBL-EBI 提供的非脊椎动物基因组数据：植物、后生动物、原生生物、真菌和细菌五个分部的基因组序列、基因注释、比较基因组和变异数据；FTP 按版本提供 FASTA、GFF3/GTF、VCF、MySQL 等文件，并可用 Ensembl REST 接口查询。网页浏览正并入新版 Ensembl 网站。

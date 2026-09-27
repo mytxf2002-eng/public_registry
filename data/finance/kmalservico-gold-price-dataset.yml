@@ -1,0 +1,15 @@
+id: kmalservico-gold-price-dataset
+kind: [api]
+name: KmalServico Gold Price Dataset
+url: https://www.kmalservico.com/data
+description: Current gold price per gram at 6 purities for 188 countries, JSON, no auth
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

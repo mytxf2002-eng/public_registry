@@ -1,0 +1,2 @@
+id: filesystem-mcp-server
+description: MCP 官方参考实现之一：让 AI 智能体在允许的目录内读写本地文件，无需鉴权，以 stdio 方式运行。

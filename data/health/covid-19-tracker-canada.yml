@@ -1,0 +1,15 @@
+id: covid-19-tracker-canada
+kind: [api]
+name: COVID-19 Tracker Canada
+url: https://api.covid19tracker.ca/docs/1.0/overview
+description: Details on Covid-19 cases across Canada
+domain: health
+license: unknown
+provenance:
+  added: 2021-05-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

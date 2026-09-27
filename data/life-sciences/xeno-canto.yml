@@ -1,0 +1,15 @@
+id: xeno-canto
+kind: [api]
+name: xeno-canto
+url: https://xeno-canto.org/explore/api
+description: Bird recordings
+domain: life-sciences
+license: unknown
+provenance:
+  added: 2022-03-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

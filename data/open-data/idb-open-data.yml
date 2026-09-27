@@ -1,0 +1,27 @@
+id: idb-open-data
+kind: [api, dataset]
+name: IDB Open Data
+url: https://data.iadb.org/
+description: Catalogue of 222 datasets, 1,344 indicators and research replication data from the Inter-American Development Bank on economic and social development in Latin America and the Caribbean
+domain: open-data
+tags: [development-data, economic-indicators, social-indicators, research-data, ckan]
+license: CC-BY-NC-ND-3.0-IGO
+license_url: https://data.iadb.org/dataset/?license_id=cc-by-nc-nd
+publisher:
+  name: Inter-American Development Bank (IDB)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://docs.ckan.org/en/latest/api/
+dataset:
+  formats: [csv, xlsx, stata, pdf]
+  access: public
+  spatial: [south-america, north-america]
+  update_frequency: irregular
+  size: 1,591 catalogue entries

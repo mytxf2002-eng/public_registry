@@ -1,0 +1,15 @@
+id: namegender
+kind: [api]
+name: NameGender
+url: https://namegender.com/docs
+description: Gender from a first name, full name, email or username, with probability
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

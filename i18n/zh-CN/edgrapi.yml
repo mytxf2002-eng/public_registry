@@ -1,0 +1,3 @@
+id: edgrapi
+description: 把美国政府的 SAM.gov 合同商机、USAspending 授标记录、Grants.gov 资助机会整理成统一的 JSON，提供 REST API 和给 AI Agent 用的 MCP 服务。
+group: 政府采购、支出与补助

@@ -1,0 +1,15 @@
+id: open-data-minneapolis
+kind: [api]
+name: Open Data Minneapolis
+url: https://opendata.minneapolismn.gov/
+description: Spatial (GIS) and non-spatial city data for Minneapolis
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,15 @@
+id: audiomack
+kind: [api]
+name: Audiomack
+url: https://www.audiomack.com/data-api/docs
+description: Api of the streaming music hub Audiomack
+domain: music
+license: unknown
+provenance:
+  added: 2021-05-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

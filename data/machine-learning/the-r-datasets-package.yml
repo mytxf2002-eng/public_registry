@@ -1,0 +1,20 @@
+id: the-r-datasets-package
+kind: [dataset]
+name: The R Datasets Package
+url: https://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html
+description: About 100 classic small datasets bundled with base R, such as iris, mtcars, airquality, AirPassengers and Mauna Loa CO2, each documented with source and variables
+domain: machine-learning
+tags: [r, statistics, teaching, classic-datasets, time-series]
+license: GPL-2.0-only
+license_url: https://www.r-project.org/Licenses/
+publisher:
+  name: R Core Team
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [rdata]
+  access: public
+  update_frequency: static

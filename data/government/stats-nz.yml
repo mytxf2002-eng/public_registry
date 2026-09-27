@@ -1,0 +1,22 @@
+id: stats-nz
+kind: [dataset]
+name: Stats NZ
+url: https://www.stats.govt.nz/
+description: New Zealand official statistics on population and census, economy, labour, trade, prices and environment, published with CSV downloads, Infoshare tables and the Aotearoa Data Explorer
+domain: government
+tags: [official-statistics, census, labour-market, trade, prices]
+license: CC-BY-4.0
+license_url: https://www.stats.govt.nz/
+publisher:
+  name: Stats NZ Tatauranga Aotearoa
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://www.stats.govt.nz/large-datasets/csv-files-for-download/
+  spatial: [NZ]
+  update_frequency: irregular

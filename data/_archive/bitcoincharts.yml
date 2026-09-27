@@ -1,0 +1,19 @@
+id: bitcoincharts
+kind: [api]
+name: BitcoinCharts
+url: https://bitcoincharts.com/about/exchanges/
+description: Financial and Technical Data related to the Bitcoin Network
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-01-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: bitcoincharts.com has been unreachable since mid-2024.

@@ -1,0 +1,24 @@
+id: cosmic
+kind: [dataset]
+name: COSMIC (Catalogue of Somatic Mutations in Cancer)
+url: https://www.cosmickb.org/
+description: Expert-curated catalogue of somatic mutations in human cancer, founded in 2004 at the Wellcome Sanger Institute, searchable online and downloadable as flat files updated twice a year
+domain: health
+tags: [cancer, somatic-mutations, oncology, genomics]
+license: LicenseRef-Research-Only
+license_url: https://www.cosmickb.org/licensing/
+publisher:
+  name: Wellcome Sanger Institute (COSMIC)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: registration
+  url: https://cancer.sanger.ac.uk/cosmic
+  temporal:
+    start: '2004'
+    end: null
+  update_frequency: irregular

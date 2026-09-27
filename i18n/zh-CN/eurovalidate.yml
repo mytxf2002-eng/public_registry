@@ -1,0 +1,3 @@
+id: eurovalidate
+description: 欧盟企业信息校验：增值税号（通过 VIES）、IBAN 和 EORI（欧盟海关的经营者编号），并返回公司名称和地址。
+group: 企业信息查询与核验

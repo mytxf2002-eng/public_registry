@@ -1,0 +1,3 @@
+id: icon-horse
+description: 获取任意网站的 favicon 图标，找不到时返回备用图标，可以直接用 icon.horse/icon/域名 这样的 URL 引用，免 key。
+group: 图标与表情符号

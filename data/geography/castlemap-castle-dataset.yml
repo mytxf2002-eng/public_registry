@@ -1,0 +1,27 @@
+id: castlemap-castle-dataset
+kind: [api, dataset]
+name: Castlemap Castle Dataset
+url: https://thecastlemap.com/data/
+description: 8,672 castles, fortresses, palaces and ruins in 154 countries with coordinates, type, founding year, Wikipedia link and a fame rank, curated from Wikidata
+domain: geography
+tags: [castles, cultural-heritage, landmarks, wikidata, points-of-interest]
+license: CC0-1.0
+license_url: https://thecastlemap.com/data/
+publisher:
+  name: Flightmussy
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://thecastlemap.com/data/
+dataset:
+  formats: [geojson, csv]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 8,672 records

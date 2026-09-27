@@ -1,0 +1,24 @@
+id: big-data-explained
+kind: [api, dataset]
+name: Big Data Explained
+url: https://bigdataexplained.com/data
+description: Cloud data warehouse list prices, read daily from AWS and Azure pricing APIs, with price history
+domain: open-data
+license: CC-BY-4.0
+license_url: https://bigdataexplained.com/data
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, jsonl]
+  access: public
+  temporal:
+    start: 2026-08-22
+    end: null
+  update_frequency: daily
+  size: 19 price points

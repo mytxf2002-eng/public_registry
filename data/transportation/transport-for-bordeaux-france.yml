@@ -1,0 +1,15 @@
+id: transport-for-bordeaux-france
+kind: [api]
+name: Transport for Bordeaux, France
+url: https://opendata.bordeaux-metropole.fr/explore/
+description: Bordeaux Métropole public transport and more (France)
+domain: transportation
+license: unknown
+provenance:
+  added: 2019-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

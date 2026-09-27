@@ -1,0 +1,20 @@
+id: transtats
+kind: [dataset]
+name: TranStats
+url: https://www.transtats.bts.gov/DataIndex.asp
+description: US DOT statistical portal whose directory lists 21 databases, mostly airline traffic, finances, on-time performance, origin-destination surveys and employment, with downloadable tables
+domain: transportation
+tags: [aviation, airline-statistics, transportation-statistics, air-traffic]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: Bureau of Transportation Statistics (US DOT)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [US]
+  update_frequency: monthly

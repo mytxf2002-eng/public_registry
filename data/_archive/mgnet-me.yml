@@ -1,0 +1,18 @@
+id: mgnet-me
+kind: [api]
+name: Mgnet.me
+url: http://mgnet.me/api.html
+description: Torrent URL shorten API
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: Redirects to the hosting provider's 'service expired' page

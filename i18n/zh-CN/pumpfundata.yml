@@ -1,0 +1,3 @@
+id: pumpfundata
+description: Pump.fun（Solana 上的 meme 币发射平台）及其 PumpSwap AMM 的历史兑换数据，按小时打包成 Parquet 文件，通过 REST API 下载，另有代币创建和流动性数据。
+group: DeFi 与去中心化应用

@@ -1,0 +1,15 @@
+id: ffxiv-collect
+kind: [api]
+name: FFXIV Collect
+url: https://ffxivcollect.com/
+description: Final Fantasy XIV data on collectables
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

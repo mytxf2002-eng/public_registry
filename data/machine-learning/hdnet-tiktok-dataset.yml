@@ -1,0 +1,22 @@
+id: hdnet-tiktok-dataset
+kind: [dataset]
+name: HDNet TikTok Dataset
+url: https://www.yasamin.page/hdnet_tiktok
+description: Over 100,000 frames from about 340 single-person TikTok dance videos with person masks and DensePose UV maps, for learning human depth and shape
+domain: machine-learning
+tags: [human-depth-estimation, dance-videos, 3d-human, segmentation-masks]
+license: LicenseRef-Research-Only
+license_url: https://www.yasamin.page/hdnet_tiktok
+publisher:
+  name: University of Minnesota (Yasamin Jafarian, Hyun Soo Park)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, video, text]
+  access: registration
+  url: https://www.kaggle.com/datasets/yasaminjafarian/tiktokdataset
+  update_frequency: static
+  size: 100K+ frames

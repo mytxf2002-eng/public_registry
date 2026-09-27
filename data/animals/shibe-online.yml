@@ -1,0 +1,15 @@
+id: shibe-online
+kind: [api]
+name: Shibe.Online
+url: http://shibe.online/
+description: Random pictures of Shiba Inu, cats or birds
+domain: animals
+license: unknown
+provenance:
+  added: 2018-03-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

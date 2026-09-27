@@ -1,0 +1,19 @@
+id: massive-memory-stimuli
+kind: [dataset]
+name: Massive Memory Stimuli
+url: http://olivalab.mit.edu/MM/stimuli.html
+description: 'Photo stimulus sets from MIT visual long-term memory studies: 2,400 distinct objects, object categories with many exemplars, 4,672 scenes, and state/exemplar pairs'
+domain: social-sciences
+tags: [visual-memory, psychology, stimulus-images, object-images, scene-images]
+license: unknown
+publisher:
+  name: MIT Computational Visual Cognition Lab (Brady, Konkle, Alvarez, Oliva)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, xls]
+  access: public
+  update_frequency: static

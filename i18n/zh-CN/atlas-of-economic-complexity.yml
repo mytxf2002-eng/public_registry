@@ -1,0 +1,2 @@
+id: atlas-of-economic-complexity
+description: 哈佛增长实验室整理的国际贸易数据：约 250 个国家和地区的双边商品贸易（HS 与 SITC 分类，SITC 自 1962 年起）、服务贸易，以及经济复杂度排名和增长预测。可在 Harvard Dataverse 批量下载 CSV（CC0），也可通过无需认证的 GraphQL 接口查询。

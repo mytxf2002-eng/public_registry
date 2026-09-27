@@ -1,0 +1,15 @@
+id: apicagent
+kind: [api]
+name: ApicAgent
+url: https://www.apicagent.com
+description: Extract device details from user-agent string
+domain: development
+license: unknown
+provenance:
+  added: 2021-05-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: artificial-intelligence-jobs
+kind: [api]
+name: Artificial Intelligence Jobs
+url: https://artificialintelligencejobs.co/developers
+description: AI/ML job listings from 260+ company career pages, with salary, location and seniority filters
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

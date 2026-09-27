@@ -1,0 +1,16 @@
+id: metabase
+kind: [api]
+name: Metabase
+url: https://www.metabase.com/
+description: An open source Business Intelligence server to share data and analytics inside your company
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

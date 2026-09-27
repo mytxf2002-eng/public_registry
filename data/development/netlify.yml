@@ -1,0 +1,15 @@
+id: netlify
+kind: [api]
+name: Netlify
+url: https://docs.netlify.com/api/get-started/
+description: Netlify is a hosting service for the programmable web
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

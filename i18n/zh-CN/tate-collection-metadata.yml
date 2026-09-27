@@ -1,0 +1,2 @@
+id: tate-collection-metadata
+description: 提供泰特美术馆约 7 万件馆藏艺术品及约 3500 位相关艺术家的元数据，包括逐条 JSON 文件和扁平化 CSV 表，可从 GitHub 直接下载。元数据以 CC0 发布，但仓库已停止维护，最后更新于 2014 年 10 月，且不含作品图片。

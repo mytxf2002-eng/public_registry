@@ -1,0 +1,15 @@
+id: umea-open-data
+kind: [api]
+name: Umeå Open Data
+url: https://opendata.umea.se/api/
+description: Open data of the city Umeå in northen Sweden
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

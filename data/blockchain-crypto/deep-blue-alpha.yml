@@ -1,0 +1,16 @@
+id: deep-blue-alpha
+kind: [api]
+name: Deep Blue Alpha
+url: https://deepbluealpha.io/whale-api
+description: Real-time Ethereum whale wallet tracking, DEX trades, net flow, and conviction scoring
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

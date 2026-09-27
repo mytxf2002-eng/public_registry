@@ -1,0 +1,26 @@
+id: mass-mobilization-protest-data
+kind: [dataset]
+name: Mass Mobilization Protest Data
+url: https://dataverse.harvard.edu/dataverse/MMdata
+description: Coded anti-government protest events in 162 countries from 1990 to March 2020, recording protester demands, identities, locations and state responses
+domain: social-sciences
+tags: [protests, political-science, civil-unrest, event-data]
+license: CC0-1.0
+license_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HTTWYL
+publisher:
+  name: Mass Mobilization Project (Binghamton University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, stata]
+  access: public
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HTTWYL
+  temporal:
+    start: '1990'
+    end: 2020-03
+  spatial: [global]
+  update_frequency: static
+  size: about 15 MB

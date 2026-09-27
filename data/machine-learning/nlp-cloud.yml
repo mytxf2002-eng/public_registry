@@ -1,0 +1,15 @@
+id: nlp-cloud
+kind: [api]
+name: NLP Cloud
+url: https://nlpcloud.com/
+description: NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-04-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

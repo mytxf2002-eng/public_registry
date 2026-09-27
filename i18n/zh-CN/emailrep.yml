@@ -1,0 +1,3 @@
+id: emailrep
+description: 查询邮箱地址的信誉和风险：是否出现在数据泄露中、有没有恶意活动记录、是否一次性邮箱等。文档现在放在邮件安全公司 Sublime Security 的网站上。
+group: 威胁情报与恶意软件分析

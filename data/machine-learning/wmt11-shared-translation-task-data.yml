@@ -1,0 +1,22 @@
+id: wmt11-shared-translation-task-data
+kind: [dataset]
+name: WMT11 Shared Translation Task Data
+url: https://statmt.org/wmt11/translation-task.html
+description: Training and development data of the 2011 WMT news translation task for French, Spanish, German and Czech paired with English, from Europarl, News Commentary, UN texts and news crawls
+domain: machine-learning
+tags: [machine-translation, parallel-corpus, europarl, benchmark]
+license: unknown
+publisher:
+  name: Workshop on Statistical Machine Translation (WMT)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  temporal:
+    start: '2011'
+    end: '2011'
+  update_frequency: static

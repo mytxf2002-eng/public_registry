@@ -1,0 +1,15 @@
+id: crossref-metadata-search
+kind: [api]
+name: Crossref Metadata Search
+url: https://github.com/CrossRef/rest-api-doc
+description: Books & Articles Metadata
+domain: books
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

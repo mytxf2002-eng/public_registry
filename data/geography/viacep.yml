@@ -1,0 +1,16 @@
+id: viacep
+kind: [api]
+name: ViaCep
+url: https://viacep.com.br
+description: Brazil RESTful zip codes API
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

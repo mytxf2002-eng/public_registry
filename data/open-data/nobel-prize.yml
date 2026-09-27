@@ -1,0 +1,15 @@
+id: nobel-prize
+kind: [api]
+name: Nobel Prize
+url: https://www.nobelprize.org/about/developer-zone-2/
+description: Open data about nobel prizes and events
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

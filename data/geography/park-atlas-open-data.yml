@@ -1,0 +1,23 @@
+id: park-atlas-open-data
+kind: [dataset]
+name: Park Atlas Open Data
+url: https://github.com/kirkwood-justin/park-atlas-data
+description: 'CSV tables on the 474 US National Park System units: designation, states, 2025 visits, timed entry, entrance fees, campgrounds and bird and mammal species counts'
+domain: geography
+tags: [national-parks, visitation, entrance-fees, campgrounds, protected-areas]
+license: CC0-1.0
+license_url: https://github.com/kirkwood-justin/park-atlas-data
+publisher:
+  name: Park Atlas (Publicopia)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://theparkatlas.com/data/
+  spatial: [US]
+  update_frequency: daily
+  size: 474 park units

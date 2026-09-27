@@ -1,0 +1,16 @@
+id: stoicism-quote
+kind: [api]
+name: Stoicism Quote
+url: https://github.com/tlcheah2/stoic-quote-lambda-public-api
+description: Quotes about Stoicism
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

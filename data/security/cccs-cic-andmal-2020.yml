@@ -1,0 +1,22 @@
+id: cccs-cic-andmal-2020
+kind: [dataset]
+name: CCCS-CIC-AndMal-2020
+url: https://www.unb.ca/cic/datasets/andmal2020.html
+description: Static and dynamic analysis features for 400,000 Android apps, half benign and half malware labeled into 14 categories and 191 families
+domain: security
+tags: [android-malware, malware-classification, static-analysis, dynamic-analysis]
+license: LicenseRef-Custom-Open
+license_url: https://www.unb.ca/cic/datasets/andmal2020.html
+publisher:
+  name: Canadian Institute for Cybersecurity, University of New Brunswick
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  url: https://cicresearch.ca/CICDataset/CICAndMal2020/
+  update_frequency: static
+  size: 400,000 apps

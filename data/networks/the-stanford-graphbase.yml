@@ -1,0 +1,21 @@
+id: the-stanford-graphbase
+kind: [dataset]
+name: The Stanford GraphBase
+url: https://cs.stanford.edu/~knuth/sgb.html
+description: 'Donald Knuth''s public-domain benchmark data for combinatorial computing: 5,757 five-letter words, Roget''s thesaurus, character co-appearances in five literary works, city mileages and football scores'
+domain: networks
+tags: [graph-benchmarks, combinatorics, word-lists, literate-programming]
+license: LicenseRef-Public-Domain
+license_url: https://cs.stanford.edu/~knuth/sgb.html
+publisher:
+  name: Donald E. Knuth (Stanford University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  url: https://cs.stanford.edu/pub/sgb/
+  update_frequency: irregular

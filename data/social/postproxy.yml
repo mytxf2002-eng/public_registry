@@ -1,0 +1,15 @@
+id: postproxy
+kind: [api]
+name: Postproxy
+url: https://postproxy.dev/getting-started/quickstart/
+description: Publish posts, comments, DMs, and more
+domain: social
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

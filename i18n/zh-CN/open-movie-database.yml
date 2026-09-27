@@ -1,0 +1,3 @@
+id: open-movie-database
+description: 即 OMDb，按片名或 IMDb 编号查询电影和剧集的基本信息：年份、演职员、剧情简介、海报，以及 IMDb、烂番茄、Metacritic 的评分。需要 key，免费 key 每天限 1000 次。
+group: 电影与剧集数据库

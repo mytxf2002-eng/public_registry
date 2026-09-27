@@ -1,0 +1,22 @@
+id: cms-gov
+kind: [api, dataset]
+name: CMS.gov
+url: https://data.cms.gov/provider-data/
+description: Access to the data from the CMS - medicare.gov
+domain: health
+license: LicenseRef-US-Government-Work
+license_url: https://data.cms.gov/data.json
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv]
+  access: public
+  url: https://data.cms.gov/
+  spatial: [US]
+  size: about 400 datasets

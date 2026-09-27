@@ -1,0 +1,3 @@
+id: ups
+description: UPS 官方接口：运单追踪、地址校验、运费计算和创建运单等。UPS 已迁移到新的开发者门户 developer.ups.com，改用 OAuth 2.0 鉴权。
+group: 快递与包裹追踪

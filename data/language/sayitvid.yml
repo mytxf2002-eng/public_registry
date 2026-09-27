@@ -1,0 +1,16 @@
+id: sayitvid
+kind: [api]
+name: SayItVid
+url: https://sayitvid.com
+description: English video pronunciation search with timestamps, IPA phonetics and subtitle context
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

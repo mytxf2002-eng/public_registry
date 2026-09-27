@@ -1,0 +1,19 @@
+id: hirak-ocr
+kind: [api]
+name: Hirak OCR
+url: https://ocr.hirak.site/
+description: Image to text -text recognition- from image more than 100 language, accurate, unlimited requests
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2022-03-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: ocr.hirak.site now serves a JavaScript redirect to an ad click tracker, so the domain has been taken over.

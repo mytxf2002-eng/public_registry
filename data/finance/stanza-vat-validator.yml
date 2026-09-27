@@ -1,0 +1,15 @@
+id: stanza-vat-validator
+kind: [api]
+name: Stanza VAT Validator
+url: https://stanzaapi.com/tools/vat-validator
+description: Validate EU and UK VAT numbers with country formats, checksums, and VIES status
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

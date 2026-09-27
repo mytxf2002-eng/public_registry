@@ -1,0 +1,16 @@
+id: bitmex
+kind: [api]
+name: Bitmex
+url: https://www.bitmex.com/app/apiOverview
+description: Real-Time Cryptocurrency derivatives trading platform based in Hong Kong
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-02-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: ocr-space
+description: OCR 文字识别接口：输入图片或多页 PDF，返回识别出的文字，有免费档。
+group: OCR、内容提取与图像增强

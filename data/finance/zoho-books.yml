@@ -1,0 +1,15 @@
+id: zoho-books
+kind: [api]
+name: Zoho Books
+url: https://www.zoho.com/books/api/v3/
+description: Online accounting software, built for your business
+domain: finance
+license: unknown
+provenance:
+  added: 2021-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: kutt
+kind: [api]
+name: Kutt
+url: https://docs.kutt.to/
+description: Free Modern URL Shortener
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-05-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

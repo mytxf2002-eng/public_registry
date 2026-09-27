@@ -1,0 +1,15 @@
+id: serpstack
+kind: [api]
+name: serpstack
+url: https://serpstack.com/
+description: Real-Time & Accurate Google Search Results API
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

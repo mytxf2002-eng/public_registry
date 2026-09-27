@@ -1,0 +1,20 @@
+id: netflix-prize-data
+kind: [dataset]
+name: Netflix Prize data
+url: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+description: Star ratings from 480,189 anonymized Netflix customers on 17,770 movie titles with rating dates, plus the qualifying and probe sets used in the Netflix Prize competition
+domain: machine-learning
+tags: [recommender-systems, movie-ratings, collaborative-filtering, netflix-prize]
+license: unknown
+publisher:
+  name: Netflix
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: registration
+  update_frequency: static
+  size: 2.1 GB

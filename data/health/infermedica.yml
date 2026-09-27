@@ -1,0 +1,15 @@
+id: infermedica
+kind: [api]
+name: Infermedica
+url: https://developer.infermedica.com/docs/
+description: NLP based symptom checker and patient triage API for health diagnosis from text
+domain: health
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

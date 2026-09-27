@@ -1,0 +1,25 @@
+id: coworkingview
+kind: [api, dataset]
+name: CoworkingView
+url: https://coworkingview.com/openapi.json
+description: Coworking spaces and offices in 63 European and Gulf cities with operator-published prices
+domain: open-data
+license: CC-BY-4.0
+license_url: https://coworkingview.com/openapi.json
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [json, csv]
+  access: public
+  url: https://coworkingview.com/en/tools/price-index
+  temporal:
+    start: 2026-08
+    end: null
+  spatial: [europe, asia]
+  size: 63 cities

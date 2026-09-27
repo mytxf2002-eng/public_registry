@@ -1,0 +1,3 @@
+id: exchangerate-api
+description: 2010 年起运营的汇率接口，覆盖全部主流货币，免费档需要 key；另有一个免 key 的 Open Access 端点，每天更新一次，要求注明数据来源。
+group: 商业汇率接口（含免费档）

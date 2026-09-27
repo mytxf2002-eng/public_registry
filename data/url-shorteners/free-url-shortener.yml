@@ -1,0 +1,15 @@
+id: free-url-shortener
+kind: [api]
+name: Free Url Shortener
+url: https://ulvis.net/developer.html
+description: Free URL shortening without a key, with up to 8 parameters that control the link and the response
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2022-03-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

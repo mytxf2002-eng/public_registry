@@ -1,0 +1,3 @@
+id: guerrilla-mail
+description: 老牌临时邮箱服务 Guerrilla Mail 的接口：获取一次性邮箱地址、查看收到的邮件，免 key。
+group: 临时邮箱

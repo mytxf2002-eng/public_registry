@@ -1,0 +1,21 @@
+id: wikilinks
+kind: [dataset]
+name: Wikilinks
+url: https://code.google.com/archive/p/wiki-links/downloads
+description: About 59 million hyperlinks to English Wikipedia found in some 13 million web pages, with anchor text as entity mentions and byte offsets, for cross-document coreference research
+domain: machine-learning
+tags: [entity-linking, coreference, wikipedia, web-pages]
+license: CC-BY-3.0
+license_url: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/wiki-links/README.txt
+publisher:
+  name: UMass Amherst IESL and Google Research
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  update_frequency: static
+  size: 1.8 GB

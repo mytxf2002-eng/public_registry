@@ -1,0 +1,15 @@
+id: road511
+kind: [api]
+name: Road511
+url: https://road511.com/docs.html
+description: 'Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes'
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

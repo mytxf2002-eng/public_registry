@@ -1,0 +1,15 @@
+id: robohash
+kind: [api]
+name: RoboHash
+url: https://robohash.org/
+description: Generate random robot/alien avatars
+domain: test-data
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

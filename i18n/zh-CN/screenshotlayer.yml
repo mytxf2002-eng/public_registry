@@ -1,0 +1,3 @@
+id: screenshotlayer
+description: APILayer 的产品：输入网址返回网页截图，可以设置视口尺寸、整页截图、缩略图宽度和输出格式，个人使用有免费档，调用需要 access key。
+group: 网页截图

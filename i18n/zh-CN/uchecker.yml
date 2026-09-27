@@ -1,0 +1,3 @@
+id: uchecker
+description: 批量邮箱验证，返回收件服务器的完整 SMTP 响应。
+group: 邮箱地址验证

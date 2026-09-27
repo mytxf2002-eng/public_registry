@@ -1,0 +1,2 @@
+id: passport-photo-specs
+description: 100 多个国家 276 种证件（护照、签证、身份证、驾照、居留许可等）的照片规格数据，含尺寸、像素、分辨率和背景颜色等，依据各国官方要求整理。GitHub 提供 JSON 文件及 npm/PyPI 包，另有免认证的 JSON 接口，并有 Zenodo DOI；采用 MIT 许可，发布方为证件照应用公司。

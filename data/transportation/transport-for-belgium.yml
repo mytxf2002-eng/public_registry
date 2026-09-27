@@ -1,0 +1,15 @@
+id: transport-for-belgium
+kind: [api]
+name: Transport for Belgium
+url: https://docs.irail.be/
+description: The iRail API is a third-party API for Belgian public transport by train
+domain: transportation
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

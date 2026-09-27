@@ -1,0 +1,15 @@
+id: czech-television
+kind: [api]
+name: Czech Television
+url: http://www.ceskatelevize.cz/xml/tv-program/
+description: TV programme of Czech TV
+domain: video
+license: unknown
+provenance:
+  added: 2017-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

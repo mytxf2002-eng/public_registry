@@ -1,0 +1,18 @@
+id: dummy-products
+kind: [api]
+name: Dummy Products
+url: https://dummyproducts-api.herokuapp.com/
+description: An api to fetch dummy e-commerce products JSON data with placeholder images
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-04-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

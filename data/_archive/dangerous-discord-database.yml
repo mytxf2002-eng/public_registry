@@ -1,0 +1,18 @@
+id: dangerous-discord-database
+kind: [api]
+name: Dangerous Discord Database
+url: https://discord.riverside.rocks/docs/index.php
+description: Database of malicious Discord accounts
+domain: social
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: discord.riverside.rocks no longer resolves, and riverside.rocks now redirects to the owner's personal site.

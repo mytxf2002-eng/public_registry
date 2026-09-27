@@ -1,0 +1,20 @@
+id: open-government-greece
+kind: [api, dataset]
+name: Open Government, Greece
+url: https://data.gov.gr/
+description: Greece Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xlsx, json]
+  access: public
+  spatial: [GR]
+  size: 22,469 datasets

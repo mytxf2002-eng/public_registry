@@ -1,0 +1,3 @@
+id: bng2latlong
+description: 把英国国家格网（OSGB36）的东距、北距坐标转换成 WGS84 经纬度，免 key，支持 CORS。
+group: 高程、遥感与空间计算

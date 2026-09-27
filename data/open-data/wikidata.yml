@@ -1,0 +1,21 @@
+id: wikidata
+kind: [api, dataset]
+name: Wikidata
+url: https://www.wikidata.org/w/api.php?action=help
+description: Collaboratively edited knowledge base operated by the Wikimedia Foundation
+domain: open-data
+license: unknown
+provenance:
+  added: 2017-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+dataset:
+  formats: [json, rdf, xml]
+  access: public
+  url: https://www.wikidata.org/wiki/Wikidata:Database_download
+  update_frequency: weekly
+  size: 130+ GB (JSON, gzipped)

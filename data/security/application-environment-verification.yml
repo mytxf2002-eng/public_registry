@@ -1,0 +1,15 @@
+id: application-environment-verification
+kind: [api]
+name: Application Environment Verification
+url: https://github.com/fingerprintjs/aev
+description: Android library and API to verify the safety of user devices, detect rooted devices and other risks
+domain: security
+license: unknown
+provenance:
+  added: 2021-11-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

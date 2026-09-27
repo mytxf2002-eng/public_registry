@@ -1,0 +1,26 @@
+id: kegg
+kind: [api, dataset]
+name: KEGG (Kyoto Encyclopedia of Genes and Genomes)
+url: https://www.kegg.jp/
+description: Curated database of about 590 pathway maps, BRITE hierarchies, 28,500 KEGG orthologs, genes of about 12,000 genomes, compounds, reactions, drugs and diseases
+domain: life-sciences
+tags: [pathways, genomes, orthology, metabolism, drugs]
+license: LicenseRef-Research-Only
+license_url: https://www.kegg.jp/kegg/legal.html
+publisher:
+  name: Kanehisa Laboratories
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://www.kegg.jp/kegg/rest/
+dataset:
+  formats: [text, xml, json]
+  access: paid-tier
+  url: https://www.kegg.jp/kegg/download/
+  update_frequency: daily

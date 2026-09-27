@@ -1,0 +1,15 @@
+id: yu-gi-oh
+kind: [api]
+name: Yu-Gi-Oh!
+url: https://db.ygoprodeck.com/api-guide/
+description: Yu-Gi-Oh! TCG Information
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

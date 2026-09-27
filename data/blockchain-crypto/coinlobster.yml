@@ -1,0 +1,16 @@
+id: coinlobster
+kind: [api]
+name: CoinLobster
+url: https://coinlobster.com/developers
+description: Live executed whale trades across 15 exchanges and on-chain DEX with an unusualness radar
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,21 @@
+id: the-chars74k-dataset
+kind: [dataset]
+name: The Chars74K Dataset
+url: https://info-ee.surrey.ac.uk/CVSSP/demos/chars74k/
+description: Over 74,000 images of English and Kannada characters cropped from natural scene photos, drawn by hand on a tablet or rendered from computer fonts, with training and test splits
+domain: machine-learning
+tags: [ocr, character-recognition, scene-text, handwriting, kannada]
+license: LicenseRef-Custom-Open
+license_url: https://info-ee.surrey.ac.uk/CVSSP/demos/chars74k/
+publisher:
+  name: University of Surrey CVSSP and Microsoft Research India
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, matlab, text]
+  access: public
+  update_frequency: static
+  size: 1.2 GB

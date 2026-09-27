@@ -1,0 +1,18 @@
+id: vagalume
+kind: [api]
+name: Vagalume
+url: https://api.vagalume.com.br/docs/
+description: Crowdsourced lyrics and music knowledge
+domain: music
+license: unknown
+provenance:
+  added: 2017-01-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The Vagalume API host is down for both docs and endpoints, and Vagalume no longer links to an API.

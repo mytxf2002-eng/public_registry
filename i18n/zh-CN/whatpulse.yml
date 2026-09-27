@@ -1,0 +1,3 @@
+id: whatpulse
+description: WhatPulse 是统计键盘敲击、鼠标点击、网络流量和开机时长的小程序；Web API 可以查询用户和团队的公开统计，客户端 API 能读取本机的实时数据。
+group: 习惯、使用量与转化追踪

@@ -1,0 +1,19 @@
+id: aylien-text-analysis
+kind: [api]
+name: Aylien Text Analysis
+url: https://docs.aylien.com/textapi/#getting-started
+description: A collection of information retrieval and natural language APIs
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: After Quantexa acquired Aylien in 2023, both docs.aylien.com and aylien.com stopped resolving and no current page for the Text Analysis API exists.

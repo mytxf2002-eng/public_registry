@@ -1,0 +1,15 @@
+id: tallytopia
+kind: [api]
+name: Tallytopia
+url: https://tallytopia.com/api-docs
+description: Calculators for finance, health, math, space and sports with step-by-step results
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

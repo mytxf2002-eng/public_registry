@@ -1,0 +1,15 @@
+id: keyvalue
+kind: [api]
+name: Keyvalue
+url: https://keyvalue.immanuel.co/
+description: Simple key-value storage REST API for quick prototyping
+domain: development
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

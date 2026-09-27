@@ -1,0 +1,15 @@
+id: screenshot
+kind: [api]
+name: Screenshot
+url: https://www.abstractapi.com/website-screenshot-api
+description: Take programmatic screenshots of web pages from any website
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

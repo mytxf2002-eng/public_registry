@@ -1,0 +1,21 @@
+id: national-transfer-accounts-database
+kind: [dataset]
+name: National Transfer Accounts Database
+url: https://ntaccounts.org/web/nta/show/
+description: Age profiles of consumption, labour income, public and private transfers and asset-based reallocations for about 90 countries, plus support-ratio indicators for 180+ countries
+domain: economics
+tags: [population-ageing, generational-economy, consumption, labor-income, transfers]
+license: unknown
+publisher:
+  name: National Transfer Accounts Project
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  url: https://ntaccounts.org/web/nta/show/Browse%20database
+  spatial: [global]
+  update_frequency: irregular

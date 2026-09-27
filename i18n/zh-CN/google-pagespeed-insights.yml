@@ -1,0 +1,3 @@
+id: google-pagespeed-insights
+description: Google 官方接口：对网页运行 Lighthouse 测试，返回性能、无障碍、SEO 等评分，以及真实用户的 Core Web Vitals 数据。
+group: 网页元数据与网站检测

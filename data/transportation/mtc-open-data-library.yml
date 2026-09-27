@@ -1,0 +1,27 @@
+id: mtc-open-data-library
+kind: [api, dataset]
+name: MTC Open Data Library
+url: https://mtc.ca.gov/tools-resources/data-tools/open-data-library
+description: 'About 150 San Francisco Bay Area planning datasets from MTC and ABAG: Plan Bay Area forecasts, transit stops and priority areas, bike network, housing sites, permits and census geographies'
+domain: transportation
+tags: [regional-planning, transit, land-use, housing, forecasts]
+license: LicenseRef-Provider-Terms
+license_url: https://mtc.ca.gov/terms-use
+publisher:
+  name: Metropolitan Transportation Commission
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile, xlsx, gpkg]
+  access: public
+  url: https://opendata.mtc.ca.gov/
+  spatial: [US-CA]
+  update_frequency: irregular
+  size: 151 datasets

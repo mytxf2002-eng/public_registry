@@ -1,0 +1,3 @@
+id: edamam-recipes
+description: Edamam 的菜谱搜索 API：按关键词、饮食类型（低碳、高蛋白等）、过敏原和热量筛选从大量网站收录的菜谱，返回配料和营养信息。
+group: 菜谱与烹饪数据

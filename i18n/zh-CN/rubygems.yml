@@ -1,0 +1,3 @@
+id: rubygems
+description: Ruby 官方包仓库 RubyGems.org 的 API，可以查询 gem 的元数据、版本、依赖和搜索结果；发布 gem 等写操作需要 API key。
+group: 软件包仓库与 CDN

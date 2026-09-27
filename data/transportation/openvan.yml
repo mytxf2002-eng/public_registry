@@ -1,0 +1,15 @@
+id: openvan
+kind: [api]
+name: OpenVan
+url: https://openvan.camp/docs
+description: Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,27 @@
+id: nci-genomic-data-commons
+kind: [api, dataset]
+name: NCI Genomic Data Commons
+url: https://gdc.cancer.gov/
+description: 'Harmonized cancer genomic, transcriptomic and clinical data from TCGA, TARGET and other programs: about 50,000 cases and 1.3 million files across 93 projects'
+domain: health
+tags: [cancer, genomics, tcga, sequencing, clinical-data]
+license: LicenseRef-Provider-Terms
+license_url: https://gdc.cancer.gov/access-data/data-access-policies
+publisher:
+  name: National Cancer Institute
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.gdc.cancer.gov/API/Users_Guide/Getting_Started/
+dataset:
+  formats: [bam, vcf, tsv, json, image]
+  access: public
+  url: https://portal.gdc.cancer.gov/
+  update_frequency: irregular
+  size: 1.34 M files

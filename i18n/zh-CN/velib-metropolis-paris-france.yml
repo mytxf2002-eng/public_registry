@@ -1,0 +1,3 @@
+id: velib-metropolis-paris-france
+description: 巴黎公共自行车 Vélib' Métropole 的开放数据，采用 GBFS 标准格式：站点信息，以及各站实时可借车辆和空车位数量，免 key。
+group: 欧洲城市与地区公共交通

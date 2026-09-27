@@ -1,0 +1,15 @@
+id: gamerpower
+kind: [api]
+name: GamerPower
+url: https://www.gamerpower.com/api-read
+description: Game Giveaways Tracker
+domain: games
+license: unknown
+provenance:
+  added: 2021-05-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

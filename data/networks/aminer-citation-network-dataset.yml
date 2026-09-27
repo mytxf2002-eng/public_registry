@@ -1,0 +1,21 @@
+id: aminer-citation-network-dataset
+kind: [dataset]
+name: AMiner Citation Network Dataset (DBLP-Citation-network)
+url: https://www.aminer.cn/aboutus/zh-CN/articles/655db2202ab17a072284bc0c
+description: Citation graph of computer-science papers compiled from DBLP, ACM and MAG with titles, authors, venues, years and abstracts; version 19 has 7.3 million papers and 85 million citations
+domain: networks
+tags: [citation-network, bibliometrics, dblp, scholarly-papers]
+license: LicenseRef-Research-Only
+license_url: https://www.aminer.cn/aboutus/zh-CN/articles/655db2202ab17a072284bc0c
+publisher:
+  name: AMiner (Tsinghua University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, text]
+  access: public
+  update_frequency: irregular
+  size: 5.96 GB (V19 zip)

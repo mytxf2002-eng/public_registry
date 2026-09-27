@@ -1,0 +1,15 @@
+id: national-bank-of-poland
+kind: [api]
+name: National Bank of Poland
+url: http://api.nbp.pl/en.html
+description: A collection of currency exchange rates (data in XML and JSON)
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-04-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

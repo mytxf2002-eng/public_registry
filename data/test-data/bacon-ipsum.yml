@@ -1,0 +1,15 @@
+id: bacon-ipsum
+kind: [api]
+name: Bacon Ipsum
+url: https://baconipsum.com/json-api/
+description: A Meatier Lorem Ipsum Generator
+domain: test-data
+license: unknown
+provenance:
+  added: 2017-08-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

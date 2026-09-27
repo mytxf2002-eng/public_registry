@@ -1,0 +1,15 @@
+id: ais-hub
+kind: [api]
+name: AIS Hub
+url: http://www.aishub.net/api
+description: Real-time data of any marine and inland vessel equipped with AIS tracking system
+domain: transportation
+license: unknown
+provenance:
+  added: 2018-01-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

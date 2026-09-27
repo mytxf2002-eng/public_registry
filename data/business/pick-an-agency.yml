@@ -1,0 +1,15 @@
+id: pick-an-agency
+kind: [api]
+name: Pick an Agency
+url: https://www.pickanagency.com/developers
+description: Search 47,000+ marketing agencies by service, location and rating
+domain: business
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

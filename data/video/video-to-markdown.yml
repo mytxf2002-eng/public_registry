@@ -1,0 +1,15 @@
+id: video-to-markdown
+kind: [api]
+name: Video to Markdown
+url: https://video-to-markdown.com/api
+description: Turn a YouTube URL into a markdown thumbnail image link
+domain: video
+license: unknown
+provenance:
+  added: 2026-09-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

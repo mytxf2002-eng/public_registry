@@ -1,0 +1,15 @@
+id: openalex
+kind: [api]
+name: OpenAlex
+url: https://docs.openalex.org/
+description: Open catalog of scholarly works, authors, institutions, sources, and concepts
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

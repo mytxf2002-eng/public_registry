@@ -1,0 +1,15 @@
+id: transport-for-switzerland
+kind: [api]
+name: Transport for Switzerland (opentransportdata.swiss)
+url: https://opentransportdata.swiss/en/
+description: Official Swiss Public Transport Open Data
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

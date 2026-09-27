@@ -1,0 +1,15 @@
+id: bucketlist-dream-of-the-day
+kind: [api]
+name: Bucketlist Dream of the Day
+url: https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag
+description: Daily travel and life-experience inspiration with canonical links and images
+domain: entertainment
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

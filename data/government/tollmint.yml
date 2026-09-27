@@ -1,0 +1,15 @@
+id: tollmint
+kind: [api]
+name: Tollmint
+url: https://api.tollmint.com
+description: Advertising, subscription, AI-disclosure and accessibility rules across the US, EU and UK
+domain: government
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

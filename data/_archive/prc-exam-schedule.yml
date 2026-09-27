@@ -1,0 +1,18 @@
+id: prc-exam-schedule
+kind: [api]
+name: PRC Exam Schedule
+url: https://api.whenisthenextboardexam.com/docs/
+description: Unofficial Philippine Professional Regulation Commission's examination schedule
+domain: government
+license: unknown
+provenance:
+  added: 2022-03-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The API subdomain no longer exists and whenisthenextboardexam.com now redirects to a gambling spam site, so the domain has been taken over.

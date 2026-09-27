@@ -1,0 +1,20 @@
+id: proton-exchange-membrane-pem-fuel-cell-dataset
+kind: [dataset]
+name: Proton Exchange Membrane (PEM) Fuel Cell Dataset
+url: https://github.com/ECSIM/pem-dataset1
+description: Polarization and impedance measurements from Nafion 112 membrane tests and MEA activation tests of a PEM fuel cell under varied pressure, voltage and humidity
+domain: science-math
+tags: [fuel-cell, electrochemistry, impedance, polarization-curves, membranes]
+license: CC-BY-4.0
+license_url: https://github.com/ECSIM/pem-dataset1/blob/master/LICENSE
+publisher:
+  name: ECSIM
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  update_frequency: static

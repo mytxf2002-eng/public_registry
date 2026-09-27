@@ -1,0 +1,16 @@
+id: fraudcoins
+kind: [api]
+name: FraudCoins
+url: https://fraudcoins.com/data/
+description: On-chain top-10 holder concentration and contract permissions for crypto tokens
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

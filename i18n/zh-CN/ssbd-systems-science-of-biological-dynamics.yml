@@ -1,0 +1,2 @@
+id: ssbd-systems-science-of-biological-dynamics
+description: 日本理化学研究所维护的生物影像与生命动态定量数据库，收录约 277 个已发表项目的显微图像和细胞、胚胎等动态定量数据（BDML/BD5、OME-Zarr 等格式），可直接下载，也提供 REST API。数据库整体仅限科研、教育等非商业用途，各数据集另有各自许可。

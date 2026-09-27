@@ -1,0 +1,15 @@
+id: linkpreview
+kind: [api]
+name: LinkPreview
+url: https://www.linkpreview.net
+description: Get JSON formatted summary with title, description and preview image for any requested URL
+domain: open-data
+license: unknown
+provenance:
+  added: 2018-01-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

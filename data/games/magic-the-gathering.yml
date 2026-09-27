@@ -1,0 +1,15 @@
+id: magic-the-gathering
+kind: [api]
+name: Magic The Gathering
+url: http://magicthegathering.io/
+description: Magic The Gathering Game Information
+domain: games
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

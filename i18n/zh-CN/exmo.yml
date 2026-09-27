@@ -1,0 +1,3 @@
+id: exmo
+description: 总部在英国的交易所 EXMO 的 API，文档放在 Postman 上：公开行情、交易下单，也有杠杆交易的 WebSocket 接口。
+group: 地区交易所与其他交易平台

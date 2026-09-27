@@ -1,0 +1,21 @@
+id: yelp-open-dataset
+kind: [dataset]
+name: Yelp Open Dataset
+url: https://business.yelp.com/data/resources/open-dataset/
+description: Subset of Yelp data with about 7 million reviews of 150,346 businesses in 11 metropolitan areas, plus business attributes, check-ins and 200,100 photos
+domain: social
+tags: [reviews, local-businesses, check-ins, photos, sentiment-analysis]
+license: LicenseRef-Research-Only
+license_url: https://business.yelp.com/data/resources/open-dataset/
+publisher:
+  name: Yelp
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, image]
+  access: public
+  update_frequency: irregular
+  size: 4.35 GB JSON + 7.45 GB photos

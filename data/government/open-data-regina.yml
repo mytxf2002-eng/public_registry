@@ -1,0 +1,21 @@
+id: open-data-regina
+kind: [dataset]
+name: Open Data Regina
+url: https://openregina.ca/
+description: About 1,360 City of Regina datasets, mostly bylaws, policies and job descriptions as PDF, plus building permit reports, maps and GIS layers
+domain: government
+tags: [municipal, bylaws, building-permits, gis]
+license: LicenseRef-Open-Government
+license_url: https://www.regina.ca/city-government/open-data/open-government-licence/
+publisher:
+  name: City of Regina
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [pdf, xlsx, xls, shapefile, kml, json, csv]
+  access: public
+  spatial: [CA-SK]
+  size: 1,364 datasets

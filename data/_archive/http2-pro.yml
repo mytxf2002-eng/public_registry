@@ -1,0 +1,18 @@
+id: http2-pro
+kind: [api]
+name: HTTP2.Pro
+url: https://http2.pro/doc/api
+description: Test endpoints for client and server HTTP/2 protocol support
+domain: development
+license: unknown
+provenance:
+  added: 2017-11-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: http2.pro now serves a Vietnamese betting site; the API is gone (hijacked domain)

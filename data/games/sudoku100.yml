@@ -1,0 +1,15 @@
+id: sudoku100
+kind: [api]
+name: Sudoku100
+url: https://www.sudoku100.com/api
+description: Free Sudoku puzzle generation and embedding with images, solver links and interactive games
+domain: games
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

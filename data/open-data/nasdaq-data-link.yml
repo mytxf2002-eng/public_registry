@@ -1,0 +1,20 @@
+id: nasdaq-data-link
+kind: [api, dataset]
+name: Nasdaq Data Link
+url: https://data.nasdaq.com/tools/api
+description: Stock market data
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-12-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv]
+  access: paid-tier
+  url: https://data.nasdaq.com/
+  spatial: [global]

@@ -1,0 +1,21 @@
+id: sms-spam-collection
+kind: [dataset]
+name: SMS Spam Collection
+url: https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+description: 5,574 English SMS messages labelled spam or ham, gathered from a UK spam-complaint forum, the NUS SMS Corpus and other public sources, for mobile spam filtering research
+domain: machine-learning
+tags: [spam-detection, sms, text-classification, nlp]
+license: CC-BY-4.0
+license_url: https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+publisher:
+  name: Tiago A. Almeida and José María Gómez Hidalgo
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: static
+  size: 5,574 messages

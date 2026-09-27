@@ -1,0 +1,3 @@
+id: wander-atlas
+description: 英文描述写的是 20 个国家 620 多个景点每小时的人流高低峰时段。官网已注明公开人流数据接口停止提供，建议改用 BestTime.app 的 API，或嵌入 Wander Atlas 提供的人流小组件。
+group: 旅行预订、签证与出行信息

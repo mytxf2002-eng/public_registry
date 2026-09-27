@@ -1,0 +1,15 @@
+id: domainsdb-info
+kind: [api]
+name: Domainsdb.info
+url: https://domainsdb.info/
+description: Registered Domain Names Search
+domain: networks
+license: unknown
+provenance:
+  added: 2017-09-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

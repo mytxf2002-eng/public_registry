@@ -1,0 +1,15 @@
+id: lumify
+kind: [api]
+name: Lumify
+url: https://lumify.ai/docs
+description: 'Real-time sports intelligence: scores, odds, betting splits & AI bet analysis across 8 sports'
+domain: sports
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

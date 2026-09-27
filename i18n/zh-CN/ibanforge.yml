@@ -1,0 +1,3 @@
+id: ibanforge
+description: IBAN 校验、BIC 查询（89 个国家、12 万多条）和合规风险评分。有免费档，也可以按次付费（x402 小额支付），原生支持 MCP。
+group: 银行代码与卡号查询

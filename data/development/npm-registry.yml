@@ -1,0 +1,15 @@
+id: npm-registry
+kind: [api]
+name: npm Registry
+url: https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+description: Query information about your favorite Node.js libraries programatically
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

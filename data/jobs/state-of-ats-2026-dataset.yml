@@ -1,0 +1,26 @@
+id: state-of-ats-2026-dataset
+kind: [dataset]
+name: State of ATS 2026 Dataset
+url: https://github.com/Kayvan-Zahiri/state-of-ats-2026
+description: Applicant tracking system used by each of 738 large employers, with a verification flag, careers-portal apply host, industry and headquarters country
+domain: jobs
+tags: [applicant-tracking, recruiting, employers, hr-tech]
+license: MIT
+license_url: https://github.com/Kayvan-Zahiri/state-of-ats-2026/blob/main/LICENSE
+publisher:
+  name: ResumeAI
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://github.com/Kayvan-Zahiri/state-of-ats-2026/blob/main/data/companies.csv
+  temporal:
+    start: '2026'
+    end: '2026'
+  spatial: [global]
+  update_frequency: irregular
+  size: 738 rows

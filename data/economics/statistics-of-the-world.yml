@@ -1,0 +1,21 @@
+id: statistics-of-the-world
+kind: [api, dataset]
+name: Statistics of the World
+url: https://statisticsoftheworld.com/api-docs
+description: GDP, population, inflation and 440+ other indicators for 218 countries from the IMF and World Bank
+domain: economics
+license: LicenseRef-Provider-Terms
+license_url: https://statisticsoftheworld.com/terms
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: paid-tier
+  url: https://statisticsoftheworld.com/data
+  spatial: [global]

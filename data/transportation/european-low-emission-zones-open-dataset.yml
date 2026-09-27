@@ -1,0 +1,22 @@
+id: european-low-emission-zones-open-dataset
+kind: [dataset]
+name: European Low Emission Zones Open Dataset
+url: https://github.com/f4tihwin57/europe-emission-zones
+description: Catalogue of 596 low-emission and restricted-traffic zones in European cities (459 in force in 19 countries) with Euro-class rules, stickers, fines, hours and official source links
+domain: transportation
+tags: [low-emission-zones, air-quality, driving-restrictions, vehicle-emissions]
+license: CC-BY-4.0
+license_url: https://github.com/f4tihwin57/europe-emission-zones
+publisher:
+  name: TyreMap
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json, geojson]
+  access: public
+  spatial: [europe]
+  update_frequency: irregular
+  size: 596 zones

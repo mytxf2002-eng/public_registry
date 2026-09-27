@@ -1,0 +1,15 @@
+id: gdbrowser
+kind: [api]
+name: GDBrowser
+url: https://gdbrowser.com/api
+description: Easy way to use the Geometry Dash Servers
+domain: games
+license: unknown
+provenance:
+  added: 2022-02-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

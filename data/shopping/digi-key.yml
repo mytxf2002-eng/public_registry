@@ -1,0 +1,15 @@
+id: digi-key
+kind: [api]
+name: Digi-Key
+url: https://www.digikey.com/en/resources/api-solutions
+description: Retrieve price and inventory of electronic components as well as place orders
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

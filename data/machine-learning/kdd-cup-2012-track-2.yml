@@ -1,0 +1,20 @@
+id: kdd-cup-2012-track-2
+kind: [dataset]
+name: KDD Cup 2012, Track 2
+url: https://www.kaggle.com/c/kddcup2012-track2
+description: Search-ad impressions built from Tencent soso.com search sessions, with query, ad and user features, released for the KDD Cup 2012 click-through-rate prediction task
+domain: machine-learning
+tags: [ctr-prediction, search-advertising, kdd-cup, click-logs]
+license: unknown
+publisher:
+  name: Tencent / ACM SIGKDD (KDD Cup 2012)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: registration
+  spatial: [CN]
+  update_frequency: static

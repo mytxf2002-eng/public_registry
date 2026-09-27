@@ -1,0 +1,15 @@
+id: jobven
+kind: [api]
+name: Jobven
+url: https://jobven.com/docs/getting-started
+description: Job postings tracked as roles open and close, with webhooks on changes, from employer career pages
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-09-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

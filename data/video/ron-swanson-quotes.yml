@@ -1,0 +1,15 @@
+id: ron-swanson-quotes
+kind: [api]
+name: Ron Swanson Quotes
+url: https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+description: Television
+domain: video
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

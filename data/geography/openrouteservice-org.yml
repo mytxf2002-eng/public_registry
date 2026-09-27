@@ -1,0 +1,16 @@
+id: openrouteservice-org
+kind: [api]
+name: openrouteservice.org
+url: https://openrouteservice.org/
+description: Directions, POIs, isochrones, geocoding (+reverse), elevation, and more
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-04-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

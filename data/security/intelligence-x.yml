@@ -1,0 +1,15 @@
+id: intelligence-x
+kind: [api]
+name: Intelligence X
+url: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
+description: Perform OSINT via Intelligence X
+domain: security
+license: unknown
+provenance:
+  added: 2020-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

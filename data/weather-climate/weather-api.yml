@@ -1,0 +1,15 @@
+id: weather-api
+kind: [api]
+name: weather-api
+url: https://github.com/robertoduessmann/weather-api
+description: A RESTful free API to check the weather
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-04-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

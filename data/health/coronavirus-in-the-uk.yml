@@ -1,0 +1,15 @@
+id: coronavirus-in-the-uk
+kind: [api]
+name: Coronavirus in the UK
+url: https://coronavirus.data.gov.uk/details/developers-guide
+description: UK Government coronavirus data, including deaths and cases by region
+domain: health
+license: unknown
+provenance:
+  added: 2021-04-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

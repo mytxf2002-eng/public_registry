@@ -1,0 +1,25 @@
+id: seer-cancer-statistics
+kind: [dataset]
+name: SEER Cancer Statistics
+url: https://seer.cancer.gov/statistics/
+description: US cancer incidence, survival and trend statistics from registries covering about 46% of the population, with interactive tables and case-level data for 1975-2023
+domain: health
+tags: [cancer-incidence, cancer-registry, survival, mortality, epidemiology]
+license: LicenseRef-Research-Only
+license_url: https://seer.cancer.gov/data/agreements.html
+publisher:
+  name: National Cancer Institute (SEER Program)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, csv]
+  access: registration
+  url: https://seer.cancer.gov/data/
+  temporal:
+    start: '1975'
+    end: '2023'
+  spatial: [US]
+  update_frequency: annual

@@ -1,0 +1,15 @@
+id: getxapi
+kind: [api]
+name: GetXAPI
+url: https://www.getxapi.com/
+description: Read Twitter / X data and post tweets, likes, retweets, follows, DMs via REST
+domain: social
+license: unknown
+provenance:
+  added: 2026-06-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

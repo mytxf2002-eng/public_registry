@@ -1,0 +1,3 @@
+id: hotstoks
+description: 用 SQL 语句查询股票数据，适合习惯写 SQL 做筛选的人。
+group: 股票与多资产行情

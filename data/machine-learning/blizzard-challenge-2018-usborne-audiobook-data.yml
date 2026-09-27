@@ -1,0 +1,21 @@
+id: blizzard-challenge-2018-usborne-audiobook-data
+kind: [dataset]
+name: Blizzard Challenge 2018 Usborne Audiobook Data
+url: https://www.cstr.ed.ac.uk/projects/blizzard/2018/usborne_blizzard2018/
+description: Children's audiobook recordings read by one female British English speaker, with text and sentence alignments, used as the voice data of the 2017 and 2018 Blizzard TTS challenges
+domain: machine-learning
+tags: [speech-synthesis, tts, audiobooks, speech]
+license: LicenseRef-Research-Only
+license_url: https://www.cstr.ed.ac.uk/projects/blizzard/2017/usborne_blizzard2017/license.html
+publisher:
+  name: Centre for Speech Technology Research, University of Edinburgh
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [audio, text]
+  access: application
+  update_frequency: static
+  size: 765 MB

@@ -1,0 +1,25 @@
+id: dallas-opendata
+kind: [api, dataset]
+name: Dallas OpenData
+url: https://www.dallasopendata.com/
+description: About 340 datasets from the City of Dallas, Texas, such as police calls, incidents and arrests, 311 requests, code violations, building permits, animal shelter and payments
+domain: government
+tags: [open-government, city-data, police-incidents, 311-requests, socrata]
+license: unknown
+publisher:
+  name: City of Dallas
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-TX]
+  update_frequency: daily

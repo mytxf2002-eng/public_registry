@@ -1,0 +1,2 @@
+id: hyperspectral-benchmark-dataset-on-soil-moisture
+description: 2017 年 5 月在德国卡尔斯鲁厄进行的五天土壤样本（蒸渗仪）野外试验数据：125 个波段（450–950 nm）的高光谱测量与土壤含水量、土温一一对应，可作回归基准数据集；GitHub 提供 CSV，Zenodo 有版本存档，CC BY 4.0。

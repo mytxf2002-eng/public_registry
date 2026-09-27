@@ -1,0 +1,15 @@
+id: ads-b-exchange
+kind: [api]
+name: ADS-B Exchange
+url: https://www.adsbexchange.com/data/
+description: Access real-time and historical data of any and all airborne aircraft
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-07-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: chinese-text-project
+description: 中国哲学书电子化计划（ctext.org）的接口：按 URN 获取古籍的篇章结构和原文、检索书目，适合批量读取文本做研究。
+group: 汉字与中文古籍

@@ -1,0 +1,22 @@
+id: ccagt-images-of-cervical-cells-with-agnor-stain-technique
+kind: [dataset]
+name: 'CCAgT: Images of Cervical Cells with AgNOR Stain Technique'
+url: https://data.mendeley.com/datasets/wg4bpm33hj/2
+description: 9,339 microscopy images (1600x1200) of AgNOR-stained cervical cells from 15 slides with more than 63,000 annotations, collected at a Brazilian university hospital
+domain: machine-learning
+tags: [medical-imaging, cytology, image-segmentation, cervical-cancer]
+license: CC-BY-NC-3.0
+license_url: https://data.mendeley.com/datasets/wg4bpm33hj/2
+publisher:
+  name: Universidade Federal de Santa Catarina
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  spatial: [BR]
+  update_frequency: static
+  size: 9,339 images

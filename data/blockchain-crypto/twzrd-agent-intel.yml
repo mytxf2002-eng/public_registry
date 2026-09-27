@@ -1,0 +1,16 @@
+id: twzrd-agent-intel
+kind: [api]
+name: TWZRD Agent Intel
+url: https://intel.twzrd.xyz
+description: Solana on-chain trust scoring for AI agent wallets via MCP, with 4 free tools
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

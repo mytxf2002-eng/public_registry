@@ -1,0 +1,24 @@
+id: uk-police
+kind: [api, dataset]
+name: UK Police
+url: https://data.police.uk/docs/
+description: UK Police data
+domain: security
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv]
+  access: public
+  url: https://data.police.uk/data/
+  temporal:
+    start: 2010-12
+    end: null
+  spatial: [GB]
+  update_frequency: monthly

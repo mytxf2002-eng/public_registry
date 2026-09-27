@@ -1,0 +1,15 @@
+id: spacetradersapi
+kind: [api]
+name: SpaceTradersAPI
+url: https://spacetraders.io?rel=pub-apis
+description: A playable inter-galactic space trading MMOAPI
+domain: games
+license: unknown
+provenance:
+  added: 2021-05-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

@@ -1,0 +1,2 @@
+id: faang-complete-stock-data
+description: Kaggle 用户整理的 Facebook、亚马逊、苹果、奈飞和谷歌五家公司股票从上市起至 2020 年 9 月的每日开盘价、最高价、最低价、收盘价和成交量，每家公司一个 CSV 文件，共约 1.9 MB。免费注册 Kaggle 后可下载，采用 CC0 公共领域贡献；数据未再更新，页面未说明价格来源。

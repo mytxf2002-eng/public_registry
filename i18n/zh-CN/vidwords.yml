@@ -1,0 +1,3 @@
+id: vidwords
+description: 把 YouTube 视频的字幕导出为 TXT、SRT、VTT 或 DOCX，另有 AI 视频内容分析，支持 REST 调用和 MCP 接入，提供批量工具。
+group: YouTube 字幕与辅助工具

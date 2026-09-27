@@ -1,0 +1,21 @@
+id: procuredata
+kind: [api]
+name: ProcureData
+url: https://www.procuredata.ca/
+description: Canadian federal, provincial and municipal procurement records, including tenders, contract awards and disclosures since 2009, over 2.6 M records via a JSON API
+domain: government
+tags: [public-procurement, tenders, contract-awards, standing-offers]
+license: LicenseRef-Provider-Terms
+license_url: https://www.procuredata.ca/tos/
+publisher:
+  name: ProcureData
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+  docs: https://www.procuredata.ca/docs/

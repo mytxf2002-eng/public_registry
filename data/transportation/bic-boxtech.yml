@@ -1,0 +1,15 @@
+id: bic-boxtech
+kind: [api]
+name: BIC-Boxtech
+url: https://docs.bic-boxtech.org/
+description: Container technical detail for the global container fleet
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-11-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

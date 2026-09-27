@@ -1,0 +1,22 @@
+id: problemsbyvin
+kind: [api, dataset]
+name: ProblemsByVin
+url: https://problemsbyvin.com/data/
+description: Owner complaints, recalls and failure-mileage statistics by vehicle make, model and year
+domain: vehicles
+license: CC-BY-4.0
+license_url: https://problemsbyvin.com/data/
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: weekly
+  size: 6,251 vehicles (scorecard)

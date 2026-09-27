@@ -1,0 +1,25 @@
+id: hyperspectral-benchmark-dataset-on-soil-moisture
+kind: [dataset]
+name: Hyperspectral Benchmark Dataset on Soil Moisture
+url: https://github.com/felixriese/hyperspectral-soilmoisture-dataset
+description: Readings in 125 hyperspectral bands (450-950 nm) paired with soil moisture and temperature, from a five-day lysimeter field campaign on a bare soil sample in Karlsruhe in May 2017
+domain: machine-learning
+tags: [hyperspectral, soil-moisture, regression, remote-sensing]
+license: CC-BY-4.0
+license_url: https://github.com/felixriese/hyperspectral-soilmoisture-dataset/blob/master/LICENSE
+publisher:
+  name: Karlsruhe Institute of Technology (F. M. Riese, S. Keller)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://doi.org/10.5281/zenodo.1227836
+  temporal:
+    start: 2017-05
+    end: 2017-05
+  spatial: [DE]
+  update_frequency: static

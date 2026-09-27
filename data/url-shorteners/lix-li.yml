@@ -1,0 +1,15 @@
+id: lix-li
+kind: [api]
+name: Lix.li
+url: https://lix.li/api
+description: URL shortener with analytics, QR codes, UTM tags and custom domains
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

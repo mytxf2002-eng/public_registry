@@ -1,0 +1,3 @@
+id: email-validator-by-lifestep
+description: 校验邮箱语法和 MX 记录，识别一次性邮箱和 admin@、info@ 这类角色邮箱，还能给出拼写纠错建议，免 key。
+group: 邮箱地址验证

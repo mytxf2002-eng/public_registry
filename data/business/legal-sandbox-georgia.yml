@@ -1,0 +1,15 @@
+id: legal-sandbox-georgia
+kind: [api]
+name: Legal Sandbox Georgia
+url: https://legal.ge/api/openapi.json
+description: Find verified legal specialists in Georgia from natural-language queries
+domain: business
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

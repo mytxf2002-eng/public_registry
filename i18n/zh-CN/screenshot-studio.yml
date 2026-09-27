@@ -1,0 +1,3 @@
+id: screenshot-studio
+description: 公开的网页截图 HTTP 接口，不需要 API key，文档附 OpenAPI 3.1 规范，有调用频率限制。
+group: 网页截图

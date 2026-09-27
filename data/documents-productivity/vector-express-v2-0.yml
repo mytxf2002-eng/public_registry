@@ -1,0 +1,15 @@
+id: vector-express-v2-0
+kind: [api]
+name: Vector Express v2.0
+url: https://vector.express
+description: Free vector file converting API
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2018-01-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

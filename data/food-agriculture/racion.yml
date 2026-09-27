@@ -1,0 +1,15 @@
+id: racion
+kind: [api]
+name: Racion
+url: https://racion.app/developers
+description: Weekly meal plans with grocery prices and shopping lists, 22 countries
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

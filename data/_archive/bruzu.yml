@@ -1,0 +1,19 @@
+id: bruzu
+kind: [api]
+name: Bruzu
+url: https://docs.bruzu.com
+description: Image generation with query string
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Both docs.bruzu.com and bruzu.com no longer resolve.

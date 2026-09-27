@@ -1,0 +1,3 @@
+id: opensubtitles
+description: 字幕网站 OpenSubtitles 的 REST 接口：按片名、IMDb 或 TMDB 编号、视频文件哈希搜索电影和剧集字幕并下载。需要 key，下载次数有每日限额。
+group: 片源、预告片与字幕

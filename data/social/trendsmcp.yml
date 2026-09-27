@@ -1,0 +1,15 @@
+id: trendsmcp
+kind: [api]
+name: TrendsMCP
+url: https://www.trendsmcp.ai/docs
+description: Live keyword trend data from Google, TikTok, YouTube, Amazon and Reddit
+domain: social
+license: unknown
+provenance:
+  added: 2026-09-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

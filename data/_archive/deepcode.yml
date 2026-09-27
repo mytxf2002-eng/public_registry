@@ -1,0 +1,18 @@
+id: deepcode
+kind: [api]
+name: Deepcode
+url: https://www.deepcode.ai
+description: AI for code review
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: DeepCode was absorbed into Snyk and deepcode.ai now redirects to a Snyk marketing page with no public DeepCode API.

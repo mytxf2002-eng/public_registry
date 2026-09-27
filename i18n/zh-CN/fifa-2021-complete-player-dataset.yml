@@ -1,0 +1,2 @@
+id: fifa-2021-complete-player-dataset
+description: 电子游戏《FIFA 21》的球员数据，含能力评分、潜力、年龄、国籍、俱乐部和场上位置，整理自 fifaindex.com，于 2020 年 8 月游戏发售前发布，单个 CSV 约 1.2 MB，托管于 Kaggle（需免费账号下载），标注为 CC0。

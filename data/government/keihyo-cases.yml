@@ -1,0 +1,25 @@
+id: keihyo-cases
+kind: [dataset]
+name: keihyo-cases
+url: https://github.com/eoylab/keihyo-cases
+description: 151 orders issued by Japan's Consumer Affairs Agency under the premiums and misleading representations act from 2021 to 2026, with company, product, provisions and source URL
+domain: government
+tags: [advertising-law, consumer-protection, enforcement-actions, misleading-advertising]
+license: LicenseRef-Open-Government
+license_url: https://github.com/eoylab/keihyo-cases/blob/main/DATA-LICENSE.md
+publisher:
+  name: eoylab
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, jsonl, csv]
+  access: public
+  temporal:
+    start: 2021-04
+    end: null
+  spatial: [JP]
+  update_frequency: irregular
+  size: 151 records

@@ -1,0 +1,16 @@
+id: trustydata
+kind: [api]
+name: TrustyData
+url: https://trustydata.fr/docs/
+description: French address checks, INSEE company search and routing on official open data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

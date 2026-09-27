@@ -1,0 +1,3 @@
+id: genesis
+description: 德国联邦统计局（Destatis）的 GENESIS-Online 数据库接口，可以用程序获取德国官方统计的数据表和时间序列。
+group: 政府与城市开放数据

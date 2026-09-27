@@ -1,0 +1,16 @@
+id: auth0
+kind: [api]
+name: Auth0
+url: https://auth0.com
+description: Easy to implement, adaptable authentication and authorization platform
+domain: security
+tags: [authentication]
+license: unknown
+provenance:
+  added: 2021-07-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

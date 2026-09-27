@@ -1,0 +1,31 @@
+id: zenodo
+kind: [api, dataset]
+name: Zenodo
+url: https://zenodo.org/
+description: General-purpose research repository operated by CERN with over 7 million records from all disciplines, including datasets, software and papers, each with a DOI
+domain: open-data
+tags: [research-data, repository, doi, open-science, oai-pmh]
+license: unknown
+license_url: https://about.zenodo.org/policies/
+publisher:
+  name: CERN
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://developers.zenodo.org/
+dataset:
+  formats: [json, xml, other]
+  access: public
+  url: https://zenodo.org/search?q=&f=resource_type%3Adataset
+  temporal:
+    start: '2013'
+    end: null
+  spatial: [global]
+  update_frequency: daily
+  size: 7.3 M records

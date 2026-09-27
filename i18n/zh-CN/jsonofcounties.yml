@@ -1,0 +1,2 @@
+id: jsonofcounties
+description: 按美国县汇总的数据集，每县一条记录，整合人口普查人口结构、历届选举结果、就业与收入、气象、健康、出行和新冠病例等多源数据（多为 2010 年代），提供 counties.json 和 counties.csv 可直接下载；仓库未声明许可，各来源条款不一。

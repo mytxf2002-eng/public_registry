@@ -1,0 +1,22 @@
+id: paycrunch
+kind: [api, dataset]
+name: PayCrunch
+url: https://paycrunch.co/api.html
+description: US wages for 1,008 occupations and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0
+domain: open-data
+license: CC-BY-4.0
+license_url: https://paycrunch.co/api.html
+provenance:
+  added: 2026-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://paycrunch.co/best-paying-states.html
+  spatial: [US]
+  size: 824 occupations

@@ -1,0 +1,3 @@
+id: extendsclass-json-storage
+description: 免费的 JSON 存储，可以通过 HTTP 接口或网页界面增删改查 JSON 数据，可以设置密钥保护。
+group: 数据存储与临时托管

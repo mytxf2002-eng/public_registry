@@ -1,0 +1,15 @@
+id: weatherbit
+kind: [api]
+name: Weatherbit
+url: https://www.weatherbit.io/api
+description: Current weather, forecasts, historical data, air quality and weather maps
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2017-03-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

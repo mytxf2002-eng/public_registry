@@ -1,0 +1,26 @@
+id: passport-photo-specs
+kind: [api, dataset]
+name: passport-photo-specs
+url: https://github.com/BlondDev-Art/passport-photo-specs
+description: Photo specifications for 276 passport, visa, ID card, driving licence and residence permit formats in over 100 countries, with sizes, pixels, DPI and background colours
+domain: government
+tags: [passport-photos, visas, id-documents, photo-requirements, icao]
+license: MIT
+license_url: https://github.com/BlondDev-Art/passport-photo-specs/blob/main/LICENSE
+publisher:
+  name: IDPhotoSnap
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 276 document formats

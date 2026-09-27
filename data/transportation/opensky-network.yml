@@ -1,0 +1,15 @@
+id: opensky-network
+kind: [api]
+name: OpenSky Network
+url: https://openskynetwork.github.io/opensky-api/
+description: Free real-time ADS-B aviation data
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-06-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: idigbio
+kind: [api]
+name: iDigBio
+url: https://github.com/idigbio/idigbio-search-api/wiki
+description: Access millions of museum specimens from organizations around the world
+domain: science-math
+license: unknown
+provenance:
+  added: 2019-07-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: readme-typing-svg
+kind: [api]
+name: Readme typing SVG
+url: https://github.com/DenverCoder1/readme-typing-svg
+description: Customizable typing and deleting text SVG
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

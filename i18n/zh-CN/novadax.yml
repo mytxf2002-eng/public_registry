@@ -1,0 +1,3 @@
+id: novadax
+description: 巴西交易所 NovaDAX 的 API：获取全部行情数据，以及下单和订单管理接口。
+group: 地区交易所与其他交易平台

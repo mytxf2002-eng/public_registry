@@ -1,0 +1,2 @@
+id: polish-public-tenders-dataset
+description: 汇集波兰国家采购公告平台 BZP 与欧盟 TED 的约 140 万条公共采购公告（2024 年起），另含买方和承包商汇总档案，按季度发布 CSV 与 Parquet 文件，可在 GitHub 直接下载；个人承包商信息已匿名化，数据采用 CC BY 4.0 许可。

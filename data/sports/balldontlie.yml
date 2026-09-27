@@ -1,0 +1,15 @@
+id: balldontlie
+kind: [api]
+name: balldontlie
+url: https://www.balldontlie.io
+description: Balldontlie provides access to stats data from the NBA
+domain: sports
+license: unknown
+provenance:
+  added: 2019-02-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

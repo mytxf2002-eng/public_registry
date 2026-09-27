@@ -1,0 +1,15 @@
+id: homebrew-formulae
+kind: [api]
+name: Homebrew Formulae
+url: https://formulae.brew.sh/api/
+description: Package and cask data for the Homebrew package manager
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,29 @@
+id: dsny-monthly-tonnage-data
+kind: [api, dataset]
+name: DSNY Monthly Tonnage Data
+url: https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
+description: Monthly tonnages of refuse, paper, metal-glass-plastic and organics collected by the NYC Department of Sanitation, by borough and community district, from 1990 to the present
+domain: environment
+tags: [waste, recycling, sanitation, organics, time-series]
+license: unknown
+publisher:
+  name: NYC Department of Sanitation (DSNY)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/foundry/data.cityofnewyork.us/ebb7-mvp5
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: 1990-01
+    end: null
+  spatial: [US-NY]
+  update_frequency: monthly
+  size: 25,237 rows

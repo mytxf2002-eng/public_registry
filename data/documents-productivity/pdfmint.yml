@@ -1,0 +1,15 @@
+id: pdfmint
+kind: [api]
+name: PDFMint
+url: https://pdf.mintapis.com/docs
+description: HTML, Markdown or a URL to PDF or PNG, with a no-key demo endpoint and a free tier
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

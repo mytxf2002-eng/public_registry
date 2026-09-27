@@ -1,0 +1,16 @@
+id: bybit
+kind: [api]
+name: Bybit
+url: https://bybit-exchange.github.io/docs/v5/intro
+description: Cryptocurrency data feed and algorithmic trading
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: ig
+kind: [api]
+name: IG
+url: https://labs.ig.com/gettingstarted
+description: Spreadbetting and CFD Market Data
+domain: finance
+license: unknown
+provenance:
+  added: 2017-10-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

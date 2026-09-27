@@ -1,0 +1,19 @@
+id: cryptomarket
+kind: [api]
+name: CryptoMarket
+url: https://api.exchange.cryptomkt.com/
+description: Cryptocurrencies Trading platform
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: CryptoMarket's API host no longer exists, and the legacy API is deprecated in favour of that dead host.

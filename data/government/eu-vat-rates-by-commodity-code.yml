@@ -1,0 +1,23 @@
+id: eu-vat-rates-by-commodity-code
+kind: [api, dataset]
+name: EU VAT Rates by Commodity Code
+url: https://github.com/humora2504/eu-vat-by-commodity-code
+description: EU VAT rates mapped to CN and CPA commodity codes, all 27 member states
+domain: government
+license: CC-BY-4.0
+license_url: https://github.com/humora2504/eu-vat-by-commodity-code/blob/main/LICENSE
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json]
+  access: public
+  url: https://humora2504.github.io/eu-vat-by-commodity-code/
+  spatial: [europe]
+  update_frequency: daily
+  size: 2,667 commodity codes

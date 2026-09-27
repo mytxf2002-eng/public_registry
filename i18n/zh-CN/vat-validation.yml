@@ -1,0 +1,3 @@
+id: vat-validation
+description: Abstract API 的增值税号校验和各国税率查询，适合跨境电商按规定收税。
+group: 税务

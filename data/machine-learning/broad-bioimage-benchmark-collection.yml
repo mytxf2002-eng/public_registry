@@ -1,0 +1,21 @@
+id: broad-bioimage-benchmark-collection
+kind: [dataset]
+name: Broad Bioimage Benchmark Collection (BBBC)
+url: https://bbbc.broadinstitute.org/
+description: About 50 annotated microscopy image sets of cells and small organisms, each with ground truth such as counts, outlines, labels or bounding boxes, for testing image-analysis methods
+domain: machine-learning
+tags: [microscopy, image-segmentation, cell-images, ground-truth, bioimage-analysis]
+license: unknown
+publisher:
+  name: Broad Institute Imaging Platform
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: public
+  url: https://bbbc.broadinstitute.org/image_sets
+  update_frequency: irregular
+  size: ~50 image sets

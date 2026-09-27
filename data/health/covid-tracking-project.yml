@@ -1,0 +1,24 @@
+id: covid-tracking-project
+kind: [api, dataset]
+name: Covid Tracking Project
+url: https://covidtracking.com/data/api/version-2
+description: Covid-19 data for the US
+domain: health
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://covidtracking.com/data/download/
+  temporal:
+    start: '2020'
+    end: 2021-03-07
+  spatial: [US]
+  update_frequency: static

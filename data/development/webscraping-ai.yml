@@ -1,0 +1,15 @@
+id: webscraping-ai
+kind: [api]
+name: WebScraping.AI
+url: https://webscraping.ai/
+description: Web Scraping API with built-in proxies and JS rendering
+domain: development
+license: unknown
+provenance:
+  added: 2021-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

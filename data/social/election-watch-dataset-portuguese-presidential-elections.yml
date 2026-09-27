@@ -1,0 +1,25 @@
+id: election-watch-dataset-portuguese-presidential-elections
+kind: [dataset]
+name: 'Election Watch Dataset: Portuguese Presidential Elections 2021'
+url: https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md
+description: About 57 million tweets and 1.1 million user profiles from the Portuguese Twittersphere, collected Sep 2020 to Jan 2021 around the presidential election, with suspension labels
+domain: social
+tags: [twitter, elections, disinformation, political-communication, suspended-accounts]
+license: unknown
+publisher:
+  name: Miguel Sozinho Ramalho
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary]
+  access: public
+  url: https://drive.google.com/file/d/1mpm6zXLxavF88DPpp6Xn5Q4zgl8Vobr3/view
+  temporal:
+    start: 2020-09-02
+    end: 2021-01-30
+  spatial: [PT]
+  update_frequency: static
+  size: 9.5 GB

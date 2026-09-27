@@ -1,0 +1,3 @@
+id: filingrail
+description: 在 SEC EDGAR 之上加工出来的结构化数据：财务报表、Form 4 内部人交易、8-K 重大事件、13F 机构持仓、公司搜索。托管在 RapidAPI 上。
+group: 公司基本面、监管披露与研究数据

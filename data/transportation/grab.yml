@@ -1,0 +1,15 @@
+id: grab
+kind: [api]
+name: Grab
+url: https://developer.grab.com/docs/
+description: Track deliveries, ride fares, payments and loyalty points
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

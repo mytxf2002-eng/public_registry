@@ -1,0 +1,15 @@
+id: 5dollarfootball
+kind: [api]
+name: 5DollarFootball
+url: https://5dollarfootballapi.com/
+description: Football fixtures, results, standings and historical odds with corner and card lines
+domain: sports
+license: unknown
+provenance:
+  added: 2026-08-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

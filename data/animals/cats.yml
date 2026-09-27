@@ -1,0 +1,15 @@
+id: cats
+kind: [api]
+name: Cats
+url: https://docs.thecatapi.com/
+description: Pictures of cats from Tumblr
+domain: animals
+license: unknown
+provenance:
+  added: 2019-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

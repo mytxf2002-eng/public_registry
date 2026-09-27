@@ -1,0 +1,22 @@
+id: openaddresses
+kind: [dataset]
+name: OpenAddresses
+url: https://openaddresses.io/
+description: Address points worldwide, plus parcels, building footprints and street centerlines, gathered from openly licensed government and other sources and processed weekly into GeoJSON
+domain: geography
+tags: [addresses, geocoding, parcels, building-footprints, street-centerlines]
+license: unknown
+publisher:
+  name: OpenAddresses
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geojson]
+  access: registration
+  url: https://batch.openaddresses.io/
+  spatial: [global]
+  update_frequency: weekly
+  size: 60 GB (global collection)

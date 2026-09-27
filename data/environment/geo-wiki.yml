@@ -1,0 +1,22 @@
+id: geo-wiki
+kind: [dataset]
+name: Geo-Wiki
+url: https://www.geo-wiki.org/
+description: Crowdsourced land-cover and land-use reference data from IIASA's citizen-science platform, such as global cropland, field-size, forest-management and deforestation-driver sets
+domain: environment
+tags: [land-cover, land-use, crowdsourcing, cropland, forest, citizen-science]
+license: CC-BY-4.0
+license_url: https://zenodo.org/communities/geo-wiki/records
+publisher:
+  name: International Institute for Applied Systems Analysis (IIASA)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx, archive]
+  access: public
+  url: https://zenodo.org/communities/geo-wiki/records
+  spatial: [global]
+  update_frequency: irregular

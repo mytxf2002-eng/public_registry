@@ -1,0 +1,20 @@
+id: drivendata-competitions
+kind: [dataset]
+name: DrivenData Competitions
+url: https://www.drivendata.org/competitions/
+description: Data science competitions with released datasets on social-impact problems such as disease spread, water access, disaster damage, health and climate, including ongoing practice tasks
+domain: machine-learning
+tags: [competitions, social-impact, benchmarks, challenge-datasets]
+license: LicenseRef-Provider-Terms
+license_url: https://www.drivendata.org/termsofuse/
+publisher:
+  name: DrivenData
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: registration
+  update_frequency: irregular

@@ -1,0 +1,16 @@
+id: tisane
+kind: [api]
+name: Tisane
+url: https://tisane.ai/
+description: Text Analytics with focus on detection of abusive content and law enforcement applications
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2021-03-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

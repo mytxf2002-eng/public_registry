@@ -1,0 +1,15 @@
+id: transport-for-chicago-us
+kind: [api]
+name: Transport for Chicago, US
+url: http://www.transitchicago.com/developers/
+description: Chicago Transit Authority (CTA)
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

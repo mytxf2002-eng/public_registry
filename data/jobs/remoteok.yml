@@ -1,0 +1,15 @@
+id: remoteok
+kind: [api]
+name: RemoteOK
+url: https://remoteok.com/api
+description: Remote job board for digital nomads
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

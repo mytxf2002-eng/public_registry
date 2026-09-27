@@ -1,0 +1,2 @@
+id: geo-maps
+description: 由 OpenStreetMap 数据程序化生成的全球 GeoJSON 地图，包括国家陆地边界、含海岸线的边界、海洋边界以及陆地、海洋、湖泊、河流等图层，每种提供多种简化精度；可从 GitHub Releases 或 npm 直接下载。最新版本发布于 2017 年，此后未再更新。

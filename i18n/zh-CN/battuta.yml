@@ -1,0 +1,3 @@
+id: battuta
+description: 国家、地区、城市三级联动的位置数据，适合做级联下拉选择框。需要 key，收录信息标注不支持 HTTPS。
+group: 国家、行政区与城市数据

@@ -1,0 +1,22 @@
+id: tapwaterdata-us-water-hardness-dataset
+kind: [dataset]
+name: TapWaterData US Water Hardness Dataset
+url: https://www.tapwaterdata.com/water-hardness/dataset
+description: Tap water hardness values for 16,537 US cities, each with its source, quality tier and sample date, drawn from utility reports and USGS/EPA Water Quality Portal samples
+domain: environment
+tags: [water-hardness, drinking-water, water-quality, cities]
+license: CC-BY-4.0
+license_url: https://www.tapwaterdata.com/water-hardness/dataset
+publisher:
+  name: TapWaterData
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: irregular
+  size: 16,537 cities

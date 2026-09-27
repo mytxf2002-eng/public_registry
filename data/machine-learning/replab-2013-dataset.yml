@@ -1,0 +1,25 @@
+id: replab-2013-dataset
+kind: [dataset]
+name: RepLab 2013 Dataset
+url: https://nlp.uned.es/replab2013/
+description: CLEF evaluation collection of over 142,000 English and Spanish tweets about 61 companies, universities and artists, annotated for relevance, polarity, topic and priority in 2012
+domain: machine-learning
+tags: [online-reputation, twitter, text-classification, topic-detection, clef]
+license: unknown
+publisher:
+  name: UNED NLP & IR Group (LiMoSINe project)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  url: https://nlp.uned.es/replab2013/replab2013-dataset.tar.gz
+  temporal:
+    start: 2012-06-01
+    end: 2012-12-31
+  spatial: [global]
+  update_frequency: static
+  size: 76 MB

@@ -1,0 +1,3 @@
+id: fec
+description: 美国联邦选举委员会的 OpenFEC API：候选人、政党和政治行动委员会（PAC）的竞选筹款与支出申报数据，使用 api.data.gov 的免费 key。
+group: 议会、选举与政治人物

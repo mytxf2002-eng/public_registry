@@ -1,0 +1,15 @@
+id: open-government-slovakia
+kind: [api]
+name: Open Government, Slovakia
+url: https://data.slovensko.sk/
+description: Slovakia Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

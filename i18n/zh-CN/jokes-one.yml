@@ -1,0 +1,3 @@
+id: jokes-one
+description: 提供“每日一笑”和按类别整理的大量笑话的 REST 接口，需要 key。
+group: 笑话与趣味文本

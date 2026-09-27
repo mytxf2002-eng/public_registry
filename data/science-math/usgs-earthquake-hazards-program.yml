@@ -1,0 +1,21 @@
+id: usgs-earthquake-hazards-program
+kind: [api, dataset]
+name: USGS Earthquake Hazards Program
+url: https://earthquake.usgs.gov/fdsnws/event/1/
+description: Earthquakes data real-time
+domain: science-math
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [csv, geojson, kml, xml]
+  access: public
+  url: https://earthquake.usgs.gov/earthquakes/search/
+  spatial: [global]
+  update_frequency: realtime

@@ -1,0 +1,3 @@
+id: pvwatts
+description: 美国能源部下属国家实验室（原 NREL，现名 National Laboratory of the Rockies）的 PVWatts：根据地点和系统参数估算光伏系统的发电量，现行版本为 v8。
+group: 太阳能与光伏估算

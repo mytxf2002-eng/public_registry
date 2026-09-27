@@ -1,0 +1,15 @@
+id: citi
+kind: [api]
+name: Citi
+url: https://sandbox.developerhub.citi.com/api-catalog-list
+description: All Citigroup account and statement data APIs
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

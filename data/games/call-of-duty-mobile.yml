@@ -1,0 +1,15 @@
+id: call-of-duty-mobile
+kind: [api]
+name: Call of Duty Mobile
+url: https://github.com/Harry260/codm-api
+description: Unofficial API for CODM player data and daily cache claiming
+domain: games
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

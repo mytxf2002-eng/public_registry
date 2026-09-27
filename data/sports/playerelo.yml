@@ -1,0 +1,15 @@
+id: playerelo
+kind: [api]
+name: PlayerElo
+url: https://playerelo.football/api-access
+description: Player-level Elo ratings, predictions and history for 176 football leagues
+domain: sports
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

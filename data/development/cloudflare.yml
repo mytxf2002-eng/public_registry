@@ -1,0 +1,15 @@
+id: cloudflare
+kind: [api]
+name: Cloudflare
+url: https://developers.cloudflare.com/api/
+description: Manage DNS, CDN, Workers and other services; documented with an official OpenAPI 3.0 spec
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

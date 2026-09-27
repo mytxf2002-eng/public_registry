@@ -1,0 +1,16 @@
+id: adresse-data-gouv-fr
+kind: [api]
+name: adresse.data.gouv.fr
+url: https://adresse.data.gouv.fr
+description: Address database of France, geocoding and reverse
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-04-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

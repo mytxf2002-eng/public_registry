@@ -1,0 +1,18 @@
+id: 18f
+kind: [api]
+name: 18F
+url: http://18f.github.io/API-All-the-X/
+description: Unofficial US Federal Government API Development
+domain: open-data
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The GitHub Pages site is gone, the repository has not been updated since 2019, and 18F was shut down in March 2025.

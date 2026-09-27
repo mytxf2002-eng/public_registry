@@ -1,0 +1,16 @@
+id: abuseipdb
+kind: [api]
+name: AbuseIPDB
+url: https://docs.abuseipdb.com/
+description: IP/domain/URL reputation
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2019-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

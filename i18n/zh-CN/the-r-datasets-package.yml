@@ -1,0 +1,2 @@
+id: the-r-datasets-package
+description: R 语言基础发行版自带的 datasets 包，含约 100 个经典小型数据集（如 iris、mtcars、airquality、AirPassengers、莫纳罗亚 CO2 等），每个附来源和变量说明，安装 R 后即可直接调用。随 R 以 GPL-2/GPL-3 发布。

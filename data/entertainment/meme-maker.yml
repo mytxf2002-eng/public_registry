@@ -1,0 +1,15 @@
+id: meme-maker
+kind: [api]
+name: Meme Maker
+url: https://mememaker.github.io/API/
+description: REST API for create your own meme
+domain: entertainment
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

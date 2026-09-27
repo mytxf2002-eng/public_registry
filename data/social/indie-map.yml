@@ -1,0 +1,31 @@
+id: indie-map
+kind: [api, dataset]
+name: Indie Map
+url: https://indiemap.org/
+description: Crawl of 2,300 active IndieWeb sites from April to June 2017 with 5.7 million pages, a site-to-site social graph, per-site JSON files and BigQuery tables
+domain: social
+tags: [indieweb, social-graph, web-crawl, microformats, warc]
+license: CC0-1.0
+license_url: https://indiemap.org/docs.html
+publisher:
+  name: Ryan Barrett
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://indiemap.org/docs.html#social-graph-api
+dataset:
+  formats: [json, warc]
+  access: public
+  url: https://indiemap.org/docs.html
+  temporal:
+    start: 2017-04
+    end: 2017-06
+  spatial: [global]
+  update_frequency: static
+  size: 380 GB

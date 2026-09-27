@@ -1,0 +1,15 @@
+id: staffsign
+kind: [api]
+name: staffSign
+url: https://staffsign.de/docs
+description: Digital employment contract API with QES/eIDAS support for HR and staffing
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-05-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

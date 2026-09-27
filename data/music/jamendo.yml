@@ -1,0 +1,15 @@
+id: jamendo
+kind: [api]
+name: Jamendo
+url: https://developer.jamendo.com/v3.0/docs
+description: 'Independent music under Creative Commons licences: search, stream and download tracks'
+domain: music
+license: unknown
+provenance:
+  added: 2016-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

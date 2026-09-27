@@ -1,0 +1,15 @@
+id: scrax
+kind: [api]
+name: Scrax
+url: https://rapidapi.com/mtaahoperators/api/scrax
+description: Web scraping API that only bills for successful scrapes
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

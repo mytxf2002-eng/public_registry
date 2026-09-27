@@ -1,0 +1,19 @@
+id: datasets-for-the-elements-of-statistical-learning
+kind: [dataset]
+name: Datasets for The Elements of Statistical Learning
+url: https://hastie.su.domains/ElemStatLearn/data.html
+description: 22 small datasets used in the textbook, e.g. prostate cancer PSA, spam, ZIP-code digits, South African heart disease and gene-expression microarrays, each with an info file
+domain: machine-learning
+tags: [statistical-learning, teaching, regression, classification, microarray]
+license: unknown
+publisher:
+  name: Trevor Hastie, Robert Tibshirani and Jerome Friedman (Stanford University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, csv, rdata]
+  access: public
+  update_frequency: static

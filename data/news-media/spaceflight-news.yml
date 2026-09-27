@@ -1,0 +1,15 @@
+id: spaceflight-news
+kind: [api]
+name: Spaceflight News
+url: https://spaceflightnewsapi.net
+description: Spaceflight related news 🚀
+domain: news-media
+license: unknown
+provenance:
+  added: 2020-11-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

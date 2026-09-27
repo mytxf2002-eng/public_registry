@@ -1,0 +1,15 @@
+id: transport-for-norway
+kind: [api]
+name: Transport for Norway
+url: https://developer.entur.org/
+description: Transport APIs and dataset for Norway
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-07-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

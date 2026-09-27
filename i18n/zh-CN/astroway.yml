@@ -1,0 +1,3 @@
+id: astroway
+description: 占星计算接口：本命盘、人类图（Human Design）、吠陀占星和星座运势，基于 Swiss Ephemeris（瑞士星历表）计算，提供 OpenAPI 描述、SDK 和 MCP 服务。
+group: 性格测评与占星

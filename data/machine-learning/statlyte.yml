@@ -1,0 +1,15 @@
+id: statlyte
+kind: [api]
+name: Statlyte
+url: https://statlyte.com/api
+description: Live pricing, context windows and model ids for major LLM APIs
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

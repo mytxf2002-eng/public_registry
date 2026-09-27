@@ -1,0 +1,21 @@
+id: nllb-mined-bitext
+kind: [dataset]
+name: NLLB Mined Bitext (allenai/nllb)
+url: https://huggingface.co/datasets/allenai/nllb
+description: Web-mined parallel sentences for 148 English-centric and 1,465 other language pairs with LASER3 alignment scores, rebuilt from Meta AI's NLLB metadata, about 450 GB
+domain: machine-learning
+tags: [machine-translation, parallel-corpus, bitext, multilingual, low-resource-languages]
+license: ODC-By-1.0
+license_url: https://huggingface.co/datasets/allenai/nllb
+publisher:
+  name: Allen Institute for AI
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  update_frequency: static
+  size: 450 GB

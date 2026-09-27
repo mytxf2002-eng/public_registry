@@ -1,0 +1,2 @@
+id: lemons-quality-control-dataset
+description: 2690 张柠檬照片（1056×1056 像素），以 COCO 格式标注果实是否健康、霉变、坏疽、斑点等缺陷区域和图像质量问题，用于水果质检的计算机视觉研究；GitHub 直接下载 zip，MIT 许可。仓库已于 2025 年归档，不再更新。

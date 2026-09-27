@@ -1,0 +1,16 @@
+id: latlng
+kind: [api]
+name: LatLng
+url: https://www.latlng.work/docs
+description: Geocoding, reverse geocoding, places, and static maps
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

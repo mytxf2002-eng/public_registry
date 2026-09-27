@@ -1,0 +1,15 @@
+id: sonar
+kind: [api]
+name: Sonar
+url: https://github.com/Cgboal/SonarSearch
+description: Project Sonar DNS Enumeration API
+domain: networks
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

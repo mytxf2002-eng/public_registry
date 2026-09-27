@@ -1,0 +1,16 @@
+id: virustotal
+kind: [api]
+name: VirusTotal
+url: https://docs.virustotal.com/reference/overview
+description: VirusTotal File/URL Analysis
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2026-05-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

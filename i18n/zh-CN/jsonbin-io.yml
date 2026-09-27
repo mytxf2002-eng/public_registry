@@ -1,0 +1,3 @@
+id: jsonbin-io
+description: 在线 JSON 存储：通过 REST 接口创建、读取、更新 JSON 数据，适合小型网站和移动应用存配置或做 Mock，有免费档。
+group: 数据存储与临时托管

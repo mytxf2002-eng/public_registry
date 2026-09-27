@@ -1,0 +1,16 @@
+id: worldcoinindex
+kind: [api]
+name: WorldCoinIndex
+url: https://www.worldcoinindex.com/apiservice
+description: Cryptocurrencies Prices
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-04-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

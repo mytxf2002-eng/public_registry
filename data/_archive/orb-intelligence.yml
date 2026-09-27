@@ -1,0 +1,18 @@
+id: orb-intelligence
+kind: [api]
+name: ORB Intelligence
+url: https://api.orb-intelligence.com/docs/
+description: Company lookup
+domain: business
+license: unknown
+provenance:
+  added: 2021-07-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Orb Intelligence was acquired by Dun & Bradstreet in January 2020 and its API host is no longer served.

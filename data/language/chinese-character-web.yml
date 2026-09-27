@@ -1,0 +1,16 @@
+id: chinese-character-web
+kind: [api]
+name: Chinese Character Web
+url: http://ccdb.hemiola.com/
+description: Chinese character definitions and pronunciations
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2021-05-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

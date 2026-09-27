@@ -1,0 +1,15 @@
+id: justmeme-wtf
+kind: [api]
+name: justmeme.wtf
+url: https://justmeme.wtf/api-docs
+description: Free meme API with 2400+ templates, search, trending, and AI generation
+domain: entertainment
+license: unknown
+provenance:
+  added: 2026-05-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

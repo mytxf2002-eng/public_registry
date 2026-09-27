@@ -1,0 +1,3 @@
+id: aviation-safety-data
+description: 航空事故数据库：164,068 份事故调查叙述，另含 FAA 数据，做了事件级去重，免费 JSON 接口，可自助申请 key。英文描述称来自 128 家官方调查机构，官网写的是 80 多家。
+group: 航班、机场与飞机数据

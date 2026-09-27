@@ -1,0 +1,2 @@
+id: transfermarkt-datasets
+description: 基于 Transfermarkt 网站整理的足球数据集，含比赛、球员、出场、身价、转会、国家队等 12 张可关联表（8.8 万余场比赛、5 万余名球员），提供 CSV 和 DuckDB 文件免费下载，采用 CC0 许可。自动更新已于 2026 年 7 月暂停，数据截至 2026-07-06。

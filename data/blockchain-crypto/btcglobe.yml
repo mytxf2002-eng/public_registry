@@ -1,0 +1,16 @@
+id: btcglobe
+kind: [api]
+name: BTCGlobe
+url: https://btcglobe.live/join#makers
+description: Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-08-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,16 @@
+id: smtpfast
+kind: [api]
+name: SMTPfast
+url: https://smtpfa.st/docs
+description: Send transactional email, manage contacts and broadcasts, free 3,000 emails/month
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-08-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

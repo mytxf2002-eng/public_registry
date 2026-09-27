@@ -1,0 +1,19 @@
+id: coinlib
+kind: [api]
+name: Coinlib
+url: https://coinlib.io/apidocs
+description: Crypto Currency Prices
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2019-04-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Coinlib no longer offers a crypto price API.

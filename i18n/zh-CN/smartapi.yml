@@ -1,0 +1,3 @@
+id: smartapi
+description: 印度券商 Angel One（原 Angel Broking）的交易 API，可以下单、查持仓、订阅行情推送，面向它的开户客户。
+group: 券商交易接口

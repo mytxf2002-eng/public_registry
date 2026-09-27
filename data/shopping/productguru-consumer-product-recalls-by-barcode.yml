@@ -1,0 +1,21 @@
+id: productguru-consumer-product-recalls-by-barcode
+kind: [dataset]
+name: ProductGuru Consumer Product Recalls by Barcode
+url: https://zenodo.org/records/22685727
+description: About 36,600 consumer product recall notices matched to 32,600 retail barcodes (EAN/GTIN) from 11 government registers in Europe, North America and Australia
+domain: shopping
+tags: [product-recalls, barcodes, gtin, product-safety, consumer-protection]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/22685727
+publisher:
+  name: ProductGuru
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [europe, US, CA, AU]
+  size: 36.6 k rows, 11.5 MB CSV

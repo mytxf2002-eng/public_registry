@@ -1,0 +1,3 @@
+id: photoroom
+description: 修图应用 Photoroom 的接口：去除图片背景、编辑图片，并能用 AI 生成新的背景，常用于电商商品图。
+group: 抠图、修图与 AI 生图

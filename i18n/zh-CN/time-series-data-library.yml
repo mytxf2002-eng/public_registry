@@ -1,0 +1,2 @@
+id: time-series-data-library
+description: 由 Rob Hyndman 创建的时间序列数据库（TSDL）的 R 包版本，收录 648 条涉及水文、金融、宏观经济、气象、销售、树轮等主题的时间序列，频率从年度到日度不等，常用于预测方法研究和教学。通过 GitHub 安装 R 包即可使用，采用 GPL-3 许可。

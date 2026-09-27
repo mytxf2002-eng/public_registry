@@ -1,0 +1,15 @@
+id: host-io
+kind: [api]
+name: Host.io
+url: https://host.io
+description: Domains Data API for Developers
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

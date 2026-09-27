@@ -1,0 +1,3 @@
+id: redash
+description: 开源查询和可视化工具 Redash 的 API：读取查询、查询结果和仪表盘。Redash 于 2020 年被 Databricks 收购，开源版仍可自行部署。
+group: 网站分析与 BI 报表

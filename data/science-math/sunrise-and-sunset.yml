@@ -1,0 +1,15 @@
+id: sunrise-and-sunset
+kind: [api]
+name: Sunrise and Sunset
+url: https://sunrise-sunset.org/api
+description: Sunset and sunrise times for a given latitude and longitude
+domain: science-math
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

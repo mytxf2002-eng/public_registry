@@ -1,0 +1,15 @@
+id: pantry
+kind: [api]
+name: Pantry
+url: https://getpantry.cloud/
+description: Free JSON storage for small projects
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-04-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

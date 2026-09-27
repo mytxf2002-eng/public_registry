@@ -1,0 +1,3 @@
+id: uk-companies-house
+description: 英国公司注册处的官方 API：公司基本信息、董事和高管、实际控制人（PSC）、申报文件、抵押登记等，另有实时推送的 Streaming API，免费注册 key。
+group: 企业登记与税号查询

@@ -1,0 +1,3 @@
+id: wikidata
+description: 维基媒体基金会运营的协作式知识库，以“实体-属性-值”的形式存储结构化数据，采用 CC0 许可。可以通过 MediaWiki API 读写，复杂查询用 SPARQL 查询服务；读取不用登录，编辑需要账号。
+group: 百科、知识库与历史

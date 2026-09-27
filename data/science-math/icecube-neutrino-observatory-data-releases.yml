@@ -1,0 +1,19 @@
+id: icecube-neutrino-observatory-data-releases
+kind: [dataset]
+name: IceCube Neutrino Observatory Data Releases
+url: https://icecube.wisc.edu/science/data-releases/
+description: Published event samples and analysis data from the South Pole neutrino detector and its predecessor AMANDA, including 14 years of track events and alert catalogs
+domain: science-math
+tags: [neutrinos, astroparticle-physics, cosmic-rays, astronomy]
+license: unknown
+publisher:
+  name: IceCube Collaboration
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, fits]
+  access: public
+  update_frequency: irregular

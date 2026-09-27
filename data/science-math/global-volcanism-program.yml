@@ -1,0 +1,20 @@
+id: global-volcanism-program
+kind: [dataset]
+name: Global Volcanism Program
+url: https://volcano.si.edu/
+description: Smithsonian databases of Earth's volcanoes and their eruptions over the last 12,000 years, plus weekly and monthly reports on current volcanic activity
+domain: science-math
+tags: [volcanoes, eruptions, volcanic-activity, geology]
+license: unknown
+publisher:
+  name: Smithsonian Institution
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, xml]
+  access: public
+  spatial: [global]
+  update_frequency: weekly

@@ -1,0 +1,21 @@
+id: fluorescent-neuronal-cells-v2
+kind: [dataset]
+name: Fluorescent Neuronal Cells v2
+url: https://amsacta.unibo.it/id/eprint/7347/
+description: 1,874 fluorescence microscopy images of stained rodent neuronal cells in three marker collections, 750 of them annotated for segmentation, detection and counting
+domain: machine-learning
+tags: [fluorescence-microscopy, cell-counting, semantic-segmentation, neuroscience, object-detection]
+license: CC-BY-4.0
+license_url: https://amsacta.unibo.it/id/eprint/7347/
+publisher:
+  name: University of Bologna (Clissa et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv, xlsx]
+  access: public
+  update_frequency: static
+  size: ~5 GB

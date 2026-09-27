@@ -1,0 +1,2 @@
+id: public-utility-data-liberation-project
+description: Catalyst Cooperative 维护的开源项目，把美国能源信息署（EIA）、联邦能源管理委员会（FERC）、环保署排放监测（CEMS）等机构发布的电力和燃气数据清洗、关联成 300 多张表，每晚自动构建，以 Parquet、DuckDB 和 SQLite 格式发布。可通过在线数据查看器、AWS 开放数据云存储、Kaggle 和 Zenodo 免费获取，数据采用 CC BY 4.0 许可。

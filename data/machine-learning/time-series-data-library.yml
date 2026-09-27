@@ -1,0 +1,20 @@
+id: time-series-data-library
+kind: [dataset]
+name: Time Series Data Library (tsdl)
+url: https://pkg.yangzhuoranyang.com/tsdl/
+description: Library of 648 time series on subjects such as hydrology, finance, economics, meteorology, sales and tree rings at yearly to daily frequencies, collected for forecasting research and teaching
+domain: machine-learning
+tags: [time-series, forecasting, statistics, r-package]
+license: GPL-3.0-only
+license_url: https://pkg.yangzhuoranyang.com/tsdl/
+publisher:
+  name: Rob Hyndman and Yangzhuoran Yang (Monash University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [rdata]
+  access: public
+  update_frequency: static

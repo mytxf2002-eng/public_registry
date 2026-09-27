@@ -1,0 +1,15 @@
+id: swapi-graphql
+kind: [api]
+name: SWAPI GraphQL
+url: https://graphql.org/swapi-graphql
+description: Star Wars GraphQL API
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

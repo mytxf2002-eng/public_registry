@@ -1,0 +1,15 @@
+id: gofile
+kind: [api]
+name: GoFile
+url: https://gofile.io/api
+description: Unlimited size file uploads for free
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

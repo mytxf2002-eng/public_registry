@@ -1,0 +1,3 @@
+id: gtfs-scorecard
+description: 给公交 GTFS 数据源（GTFS 是公交时刻表的通用数据格式）打质量分并列出优先修复项，面向小型公交机构，基于 MobilityData 的校验器。英文描述写的是 2,400 多条数据源记录，项目页写的是 2,600 多条。
+group: 公共交通数据平台与聚合

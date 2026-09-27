@@ -1,0 +1,15 @@
+id: universalis
+kind: [api]
+name: Universalis
+url: https://universalis.app/docs/index.html
+description: Final Fantasy XIV market board data
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

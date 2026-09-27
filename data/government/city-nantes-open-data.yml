@@ -1,0 +1,15 @@
+id: city-nantes-open-data
+kind: [api]
+name: City, Nantes Open Data
+url: https://data.nantesmetropole.fr/pages/home/
+description: Nantes(FR) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2019-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

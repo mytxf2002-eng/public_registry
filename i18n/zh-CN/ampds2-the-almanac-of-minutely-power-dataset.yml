@@ -1,0 +1,2 @@
+id: ampds2-the-almanac-of-minutely-power-dataset
+description: 加拿大一户住宅 2012-2014 年两年间逐分钟的电、水、天然气计量数据（含各分路电表），附同期气象数据和账单信息，常用于负荷分解（NILM）研究。数据托管在 Harvard Dataverse，免费下载 CSV/HDF5（约 2.3 GB），CC BY 4.0，使用须引用 Scientific Data 论文。

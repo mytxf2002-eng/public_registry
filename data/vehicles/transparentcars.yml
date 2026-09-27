@@ -1,0 +1,15 @@
+id: transparentcars
+kind: [api]
+name: TransparentCars
+url: https://transparent.pt/en/api
+description: Fair-price valuation and yearly road tax (IUC) for used cars in Portugal
+domain: vehicles
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

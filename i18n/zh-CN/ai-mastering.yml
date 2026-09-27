@@ -1,0 +1,3 @@
+id: ai-mastering
+description: 上传音频后由 AI 自动完成母带处理（mastering，混音之后统一响度和音色的最后一道工序）的服务接口。
+group: 音乐生成与后期处理

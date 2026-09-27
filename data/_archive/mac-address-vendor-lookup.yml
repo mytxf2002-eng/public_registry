@@ -1,0 +1,18 @@
+id: mac-address-vendor-lookup
+kind: [api]
+name: MAC address vendor lookup
+url: https://macaddress.io/api
+description: Retrieve vendor details and other information regarding a given MAC address or an OUI
+domain: development
+license: unknown
+provenance:
+  added: 2018-11-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The macaddress.io origin server is down (Cloudflare 522 on every check) and no working official page for the API was found.

@@ -1,0 +1,22 @@
+id: maddison-project-database
+kind: [dataset]
+name: Maddison Project Database
+url: https://www.rug.nl/ggdc/historicaldevelopment/maddison/
+description: Long-run estimates of GDP per capita and population for 169 countries up to 2022, continuing Angus Maddison's historical series, with all releases since 2010
+domain: economics
+tags: [economic-history, gdp-per-capita, population, long-run-growth]
+license: CC-BY-4.0
+license_url: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023
+publisher:
+  name: Groningen Growth and Development Centre, University of Groningen
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, stata]
+  access: public
+  url: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023
+  spatial: [global]
+  update_frequency: irregular

@@ -1,0 +1,24 @@
+id: nyc-taxi-trip-data-2013
+kind: [dataset]
+name: NYC Taxi Trip Data 2013 (FOIA/FOIL)
+url: https://archive.org/details/nycTaxiTripData2013
+description: New York City taxi trip and fare records for 2013 obtained through a FOIL request, with medallion and hack licence IDs, times, coordinates, distances and fare components
+domain: transportation
+tags: [taxi, trip-records, foil, fares]
+license: unknown
+publisher:
+  name: NYC Taxi and Limousine Commission (FOIL release by Chris Whong)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2013'
+    end: '2013'
+  spatial: [US-NY]
+  update_frequency: static
+  size: 5.8 GB (7z)

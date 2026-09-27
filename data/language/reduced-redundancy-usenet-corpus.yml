@@ -1,0 +1,24 @@
+id: reduced-redundancy-usenet-corpus
+kind: [dataset]
+name: Reduced Redundancy USENET Corpus (2005-2011)
+url: https://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
+description: Over 7 billion words of English USENET postings from 47,860 newsgroups collected between 2005 and 2011, with headers removed, duplicates and quotes pruned, and emails and URLs masked
+domain: language
+tags: [usenet, corpus, forum-posts, english]
+license: CC-BY-NC-SA-3.0
+license_url: https://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
+publisher:
+  name: Westbury Lab, University of Alberta
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: registration
+  temporal:
+    start: '2005'
+    end: '2011'
+  update_frequency: static
+  size: 8 GB

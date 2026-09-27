@@ -1,0 +1,15 @@
+id: open-government-west-australia
+kind: [api]
+name: Open Government, West Australia
+url: https://data.wa.gov.au/
+description: West Australia Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

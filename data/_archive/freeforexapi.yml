@@ -1,0 +1,18 @@
+id: freeforexapi
+kind: [api]
+name: FreeForexAPI
+url: https://freeforexapi.com/Home/Api
+description: Real-time foreign exchange rates for major currency pairs
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: The freeforexapi.com origin server is down (Cloudflare 522 on every check) and no other official page exists.

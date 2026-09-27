@@ -1,0 +1,24 @@
+id: gapminder-data
+kind: [dataset]
+name: Gapminder Data
+url: https://www.gapminder.org/data/
+description: Hundreds of country-level indicators on population, health, income, education and environment, many reaching back to 1800, as CSV/XLSX files and bulk GitHub repositories
+domain: open-data
+tags: [development-indicators, time-series, population, life-expectancy, income]
+license: CC-BY-4.0
+license_url: https://www.gapminder.org/free-material/
+publisher:
+  name: Gapminder Foundation
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  temporal:
+    start: '1800'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

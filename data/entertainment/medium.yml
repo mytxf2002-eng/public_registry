@@ -1,0 +1,16 @@
+id: medium
+kind: [api]
+name: Medium
+url: https://github.com/Medium/medium-api-docs
+description: Community of readers and writers offering unique perspectives on ideas
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2016-03-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

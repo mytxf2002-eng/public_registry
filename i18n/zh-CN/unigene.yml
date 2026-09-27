@@ -1,0 +1,2 @@
+id: unigene
+description: NCBI UniGene 将 mRNA 和 EST 等转录本序列按基因聚类，覆盖数十种动植物和真菌，最终版本以压缩文本和 FASTA 式序列文件保存在 FTP 上可直接下载。该数据库已停止维护，文件仅作存档、不再更新。

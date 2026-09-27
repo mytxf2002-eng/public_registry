@@ -1,0 +1,15 @@
+id: rappi
+kind: [api]
+name: Rappi
+url: https://dev-portal.rappi.com/
+description: Manage orders from Rappi's app
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

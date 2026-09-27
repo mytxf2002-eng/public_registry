@@ -1,0 +1,25 @@
+id: fetchseries-average-city-temperatures
+kind: [dataset]
+name: FetchSeries Average City Temperatures
+url: https://www.fetchseries.com/climate/average-city-temperatures-fsr/
+description: Daily mean air temperature series for about 1,900 cities worldwide since January 2015, calculated from NASA POWER data and offered as one Excel workbook
+domain: weather-climate
+tags: [temperature, cities, daily-data, time-series, reanalysis]
+license: CC-BY-4.0
+license_url: https://www.fetchseries.com/climate/average-city-temperatures-fsr/average-temperature-in-herat-degree-celsius-afghanistan-fsr-daily
+publisher:
+  name: FetchSeries
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  temporal:
+    start: 2015-01-01
+    end: null
+  spatial: [global]
+  update_frequency: daily
+  size: 39 MB

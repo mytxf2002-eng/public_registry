@@ -1,0 +1,19 @@
+id: roadgoat-cities
+kind: [api]
+name: RoadGoat Cities
+url: https://www.roadgoat.com/business/cities-api
+description: Cities content & photos API
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-05-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: RoadGoat's website and developer docs no longer respond, and during 2026 the Cities API page returned 503, then 404, then unrelated content.

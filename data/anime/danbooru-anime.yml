@@ -1,0 +1,15 @@
+id: danbooru-anime
+kind: [api]
+name: Danbooru Anime
+url: https://danbooru.donmai.us/wiki_pages/help:api
+description: Thousands of anime artist database to find good anime art
+domain: anime
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

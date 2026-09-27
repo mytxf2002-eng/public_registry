@@ -1,0 +1,21 @@
+id: bruteforce-database
+kind: [dataset]
+name: Bruteforce Database
+url: https://github.com/duyet/bruteforce-database
+description: 'Wordlists with over 11 million entries for authorized security testing: common and leaked passwords, usernames, subdomain names and web paths'
+domain: security
+tags: [wordlists, passwords, usernames, penetration-testing]
+license: MIT
+license_url: https://github.com/duyet/bruteforce-database/blob/master/LICENSE
+publisher:
+  name: duyet (GitHub user)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  update_frequency: irregular
+  size: 135 MB

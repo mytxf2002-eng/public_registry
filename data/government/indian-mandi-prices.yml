@@ -1,0 +1,15 @@
+id: indian-mandi-prices
+kind: [api]
+name: Indian Mandi Prices
+url: https://mandi-api.vercel.app/docs
+description: Free, keyless daily wholesale mandi prices for 5 Indian states, sourced from data.gov.in
+domain: government
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

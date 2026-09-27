@@ -1,0 +1,15 @@
+id: eve-online
+kind: [api]
+name: Eve Online
+url: https://developers.eveonline.com/api-explorer
+description: Third-Party Developer Documentation
+domain: games
+license: unknown
+provenance:
+  added: 2018-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

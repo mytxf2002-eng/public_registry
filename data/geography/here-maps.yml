@@ -1,0 +1,16 @@
+id: here-maps
+kind: [api]
+name: HERE Maps
+url: https://developer.here.com
+description: Create/customize digital maps based on HERE Maps data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-04-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

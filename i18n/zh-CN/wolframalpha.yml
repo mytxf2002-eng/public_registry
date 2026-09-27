@@ -1,0 +1,3 @@
+id: wolframalpha
+description: Wolfram|Alpha 计算知识引擎的 API：用自然语言提问数学、科学、单位换算、地理等问题，返回计算结果。有完整结果、简短答案、LLM 专用等多种接口，非商业用途每月免费 2,000 次。
+group: 计算、分析与预测

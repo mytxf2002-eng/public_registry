@@ -1,0 +1,15 @@
+id: pubg
+kind: [api]
+name: PUBG
+url: https://developer.pubg.com/
+description: Access in-game PUBG data
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

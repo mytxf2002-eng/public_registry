@@ -1,0 +1,20 @@
+id: crawdad-collection
+kind: [dataset]
+name: CRAWDAD Collection
+url: https://ieee-dataport.org/collections/crawdad
+description: Archive of wireless and mobile network measurements contributed by researchers since 2004, such as campus Wi-Fi logs and packet captures, LTE drive tests and mobility traces
+domain: networks
+tags: [wireless, wifi, mobility, network-traces]
+license: CC-BY-4.0
+license_url: https://ieee-dataport.org/help/crawdad-faq
+publisher:
+  name: CRAWDAD project (Dartmouth College)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, csv, binary]
+  access: registration
+  update_frequency: irregular

@@ -1,0 +1,15 @@
+id: whiskyhunter
+kind: [api]
+name: WhiskyHunter
+url: https://whiskyhunter.net/api/
+description: Past online whisky auctions statistical data
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-03-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

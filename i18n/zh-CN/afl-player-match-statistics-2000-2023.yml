@@ -1,0 +1,2 @@
+id: afl-player-match-statistics-2000-2023
+description: 澳式足球联赛（AFL）2000-2023 年 4,670 场比赛的球员单场数据，共 206,722 行、81 列，含基础与进阶技术统计、天气、上座人数以及 AFL Fantasy 和 SuperCoach 得分。单个 CSV（约 60 MB）可在 Zenodo 直接下载，CC BY 4.0；天气仅覆盖 2010 年起，进阶数据自 2012 年起。

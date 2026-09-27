@@ -1,0 +1,3 @@
+id: deck-of-cards
+description: 模拟扑克牌：洗牌（可以多副一起）、抽牌、把牌放进自定义牌堆（pile），返回牌面和图片，适合做纸牌小游戏，免 key。
+group: 卡牌、桌游与跑团

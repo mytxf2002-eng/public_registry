@@ -1,0 +1,2 @@
+id: donnees-quebec
+description: 加拿大魁北克省政府与各市政府共建的开放数据门户，约 1600 个数据集，多为 CSV、GeoJSON、Shapefile、XLSX 等格式，可直接下载，并可通过 CKAN API 检索；绝大多数数据采用 CC BY 4.0，少数数据集为非商业等其他许可。

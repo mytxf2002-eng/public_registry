@@ -1,0 +1,21 @@
+id: nightingale-open-science
+kind: [dataset]
+name: Nightingale Open Science
+url: https://docs.ngsci.org/
+description: 'De-identified medical imaging datasets linked to patient outcomes: ECG waveforms, biopsy and TB smear slides, knee and chest X-rays from health systems in the US and abroad'
+domain: machine-learning
+tags: [medical-imaging, ecg, digital-pathology, x-ray, clinical-outcomes]
+license: LicenseRef-Research-Only
+license_url: https://docs.ngsci.org/
+publisher:
+  name: Nightingale Open Science
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [dicom, image, other]
+  access: application
+  url: https://docs.ngsci.org/access-data
+  update_frequency: irregular

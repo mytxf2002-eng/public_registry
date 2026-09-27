@@ -1,0 +1,15 @@
+id: spotify
+kind: [api]
+name: Spotify
+url: https://beta.developer.spotify.com/documentation/web-api/
+description: View Spotify music catalog, manage users' libraries, get recommendations and more
+domain: music
+license: unknown
+provenance:
+  added: 2018-01-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

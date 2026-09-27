@@ -1,0 +1,15 @@
+id: vk
+kind: [api]
+name: vk
+url: https://vk.com/dev/sites
+description: Read and write vk data
+domain: social
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

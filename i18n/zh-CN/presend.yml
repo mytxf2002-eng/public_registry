@@ -1,0 +1,3 @@
+id: presend
+description: 免注册、免 key 的安全与开发工具接口：软件供应链检查（仿冒包名、npm 维护者变更、OSV 漏洞库）、网站安全响应头、DNS 和 RDAP 查询，以及邮箱和 IBAN 校验。
+group: 域名、证书与网站检查

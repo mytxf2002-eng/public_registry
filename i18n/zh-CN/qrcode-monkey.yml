@@ -1,0 +1,3 @@
+id: qrcode-monkey
+description: QRCode Monkey 网站自己在用的二维码接口，可以批量生成带 Logo、自定义颜色和码点样式的二维码。
+group: 二维码与条码

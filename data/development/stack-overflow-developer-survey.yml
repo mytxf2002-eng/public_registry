@@ -1,0 +1,24 @@
+id: stack-overflow-developer-survey
+kind: [dataset]
+name: Stack Overflow Developer Survey
+url: https://survey.stackoverflow.co/
+description: Yearly survey of developers worldwide on languages, tools, learning, work and pay, 2011-2025, with anonymized response-level data files for every year
+domain: development
+tags: [developer-survey, programming-languages, salaries, survey-microdata, technology-usage]
+license: ODbL-1.0
+license_url: https://survey.stackoverflow.co/
+publisher:
+  name: Stack Overflow
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2011'
+    end: null
+  spatial: [global]
+  update_frequency: annual

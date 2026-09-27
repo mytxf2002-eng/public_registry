@@ -1,0 +1,29 @@
+id: whatsapp-business-platform-open-data
+kind: [api, dataset]
+name: WhatsApp Business Platform Open Data
+url: https://github.com/procom-dev/whatsapp-open-data
+description: Per-message prices of the WhatsApp Business API for dozens of markets in 16 currencies, current WhatsApp usage limits and a sourced log of pricing changes since 2019, refreshed weekly
+domain: communication
+tags: [whatsapp, messaging-prices, rate-card, business-api, pricing-history]
+license: CC-BY-4.0
+license_url: https://github.com/procom-dev/whatsapp-open-data/blob/main/LICENSE
+publisher:
+  name: WhaTools
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://github.com/procom-dev/whatsapp-open-data#readme
+dataset:
+  formats: [json, csv]
+  access: public
+  temporal:
+    start: '2019'
+    end: null
+  spatial: [global]
+  update_frequency: weekly

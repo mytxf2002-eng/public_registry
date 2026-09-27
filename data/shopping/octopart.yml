@@ -1,0 +1,15 @@
+id: octopart
+kind: [api]
+name: Octopart
+url: https://octopart.com/api/v4/reference
+description: Electronic part data for manufacturing, design, and sourcing
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

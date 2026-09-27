@@ -1,0 +1,18 @@
+id: github-mcp-server
+kind: [mcp-server]
+name: GitHub MCP Server
+url: https://github.com/github/github-mcp-server
+description: Repos, issues, PRs, code search
+domain: development
+tags: [mcp]
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+mcp:
+  auth: oauth
+  transport: [stdio, http]
+  install:
+    - name: Glama
+      url: https://glama.ai/mcp/servers/@github/github-mcp-server

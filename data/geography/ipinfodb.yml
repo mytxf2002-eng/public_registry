@@ -1,0 +1,16 @@
+id: ipinfodb
+kind: [api]
+name: IPInfoDB
+url: https://www.ipinfodb.com/api
+description: Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2019-04-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

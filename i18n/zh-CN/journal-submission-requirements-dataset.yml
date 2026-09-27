@@ -1,0 +1,2 @@
+id: journal-submission-requirements-dataset
+description: 从 7,239 种学术期刊官网作者指南中整理的投稿要求，按稿件类型给出正文字数、摘要字数、参考文献数量等限制（共 44,114 条规则，均附来源链接），并通过 OpenAlex 标注学科领域和期刊指标。GitHub 提供 CSV，CC BY 4.0，有 Zenodo DOI。

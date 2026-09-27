@@ -1,0 +1,3 @@
+id: ipapi-co
+description: IP 位置查询，可以输出 JSON、CSV、YAML、XML，不注册也能少量调用，支持 CORS。和 APILayer 的 ipapi.com 不是同一家。
+group: IP 地理定位

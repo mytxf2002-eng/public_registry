@@ -1,0 +1,2 @@
+id: yahoo-knowledge-graph-covid-19-datasets
+description: 雅虎知识图谱团队发布的 COVID-19 数据，按国家、美国州和县统计确诊、死亡、康复和检测数，时间为 2020 年至 2021 年 4 月，全部取自政府和公共机构的一手来源并注明出处，提供 TSV 和 JSON。仓库已归档，CC BY-NC 4.0 许可，仅限非商业使用。

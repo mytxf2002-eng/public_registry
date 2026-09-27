@@ -1,0 +1,15 @@
+id: extendsclass-json-storage
+kind: [api]
+name: ExtendsClass JSON Storage
+url: https://extendsclass.com/json-storage.html
+description: A simple JSON store API
+domain: development
+license: unknown
+provenance:
+  added: 2021-04-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

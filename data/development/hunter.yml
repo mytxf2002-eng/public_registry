@@ -1,0 +1,15 @@
+id: hunter
+kind: [api]
+name: Hunter
+url: https://hunter.io/api
+description: API for domain search, professional email finder, author finder and email verifier
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

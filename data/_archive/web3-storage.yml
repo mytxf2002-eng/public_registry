@@ -1,0 +1,18 @@
+id: web3-storage
+kind: [api]
+name: Web3 Storage
+url: https://web3.storage/
+description: File Sharing and Storage for Free with 1TB Space
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: web3.storage (later Storacha) no longer exists; its domain redirects via storacha.network to Fil One, a different paid S3-compatible storage product with only a 30-day free trial.

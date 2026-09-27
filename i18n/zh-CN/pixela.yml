@@ -1,0 +1,3 @@
+id: pixela
+description: 用 API 记录每天的习惯或投入量（学习时长、跑步距离等），生成类似 GitHub 贡献图的热力图，所有操作都通过 API 完成。
+group: 习惯、使用量与转化追踪

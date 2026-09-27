@@ -1,0 +1,16 @@
+id: uchecker
+kind: [api]
+name: uchecker
+url: https://api.uchecker.net/docs
+description: Bulk email verification with full SMTP server responses
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

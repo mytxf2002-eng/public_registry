@@ -1,0 +1,15 @@
+id: portfolio-optimizer
+kind: [api]
+name: Portfolio Optimizer
+url: https://portfoliooptimizer.io/
+description: Portfolio analysis and optimization
+domain: finance
+license: unknown
+provenance:
+  added: 2022-01-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

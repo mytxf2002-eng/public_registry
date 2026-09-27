@@ -1,0 +1,24 @@
+id: inscr-data
+kind: [dataset]
+name: INSCR Data (Center for Systemic Peace)
+url: https://www.systemicpeace.org/inscrdata.html
+description: Country-year datasets on political regimes (Polity5, 1800-2018), major political violence, state failure, coups, terrorist bombings and state fragility for 167 countries
+domain: social-sciences
+tags: [polity, regime-types, political-violence, state-fragility, coups]
+license: LicenseRef-Research-Only
+license_url: https://www.systemicpeace.org/inscrdata.html
+publisher:
+  name: Center for Systemic Peace
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xls, spss, pdf]
+  access: public
+  temporal:
+    start: '1800'
+    end: '2021'
+  spatial: [global]
+  update_frequency: irregular

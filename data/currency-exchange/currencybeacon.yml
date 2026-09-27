@@ -1,0 +1,15 @@
+id: currencybeacon
+kind: [api]
+name: CurrencyBeacon
+url: https://currencybeacon.com/
+description: Real-time and historical currency exchange rates with free tier
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2026-08-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

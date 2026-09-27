@@ -1,0 +1,15 @@
+id: voxodds
+kind: [api]
+name: VoxOdds
+url: https://voxodds.com/api
+description: Polymarket and Kalshi odds, all-in executable quotes, EV checks and audited forecast scores
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

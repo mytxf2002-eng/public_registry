@@ -1,0 +1,19 @@
+id: hirak-translation
+kind: [api]
+name: Hirak Translation
+url: https://translate.hirak.site/
+description: Translate between 21 of most used languages, accurate, unlimited requests
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2022-03-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: 'The domain has been hijacked: translate.hirak.site redirects to ad and survey-scam pages instead of the translation API.'

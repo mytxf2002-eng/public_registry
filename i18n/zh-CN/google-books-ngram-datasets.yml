@@ -1,0 +1,2 @@
+id: google-books-ngram-datasets
+description: 谷歌图书 Ngram Viewer 背后的原始数据：按年份统计的 1 至 5 元词组出现次数及出现书籍数，覆盖英语和多种其他语言语料，提供 2009、2012、2020 三个版本的压缩制表符分隔文件，可直接下载，另有 BigQuery 版本。采用 CC BY 3.0 许可；全量数据体积很大。

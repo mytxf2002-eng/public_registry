@@ -1,0 +1,15 @@
+id: dataflow-kit-covid-19
+kind: [api]
+name: Dataflow Kit COVID-19
+url: https://covid-19.dataflowkit.com
+description: COVID-19 live statistics into sites per hour
+domain: health
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

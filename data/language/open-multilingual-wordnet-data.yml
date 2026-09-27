@@ -1,0 +1,21 @@
+id: open-multilingual-wordnet-data
+kind: [dataset]
+name: Open Multilingual Wordnet Data
+url: https://github.com/omwn/omw-data
+description: Wordnets for dozens of languages linked through the Princeton WordNet, as OMW 1.0 tab files and WN-LMF XML release packages, plus Wiktionary and CLDR data for over 150 languages
+domain: language
+tags: [wordnet, lexical-database, multilingual, semantics]
+license: LicenseRef-Custom-Open
+license_url: https://omwn.org/
+publisher:
+  name: Open Multilingual Wordnet project (Francis Bond et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xml, tsv]
+  access: public
+  url: https://github.com/omwn/omw-data/releases
+  update_frequency: irregular

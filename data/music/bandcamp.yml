@@ -1,0 +1,15 @@
+id: bandcamp
+kind: [api]
+name: Bandcamp
+url: https://bandcamp.com/developer
+description: API of Music store Bandcamp
+domain: music
+license: unknown
+provenance:
+  added: 2021-05-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

@@ -1,0 +1,19 @@
+id: phisherman
+kind: [api]
+name: Phisherman
+url: https://phisherman.gg/
+description: IP/domain/URL reputation
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: phisherman.gg no longer resolves and no renamed or moved successor was found.

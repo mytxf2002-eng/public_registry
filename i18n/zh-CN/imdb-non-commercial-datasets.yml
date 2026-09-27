@@ -1,0 +1,2 @@
+id: imdb-non-commercial-datasets
+description: IMDb 官方提供的数据子集，包括作品基本信息、别名、导演与编剧、剧集、主要演职员、评分和人物资料共 7 个 gzip 压缩的 TSV 文件，每日更新。无需注册即可下载，但仅限个人和非商业用途并须遵守 IMDb 条款，商业使用需另行授权。

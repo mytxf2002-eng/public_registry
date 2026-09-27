@@ -1,0 +1,15 @@
+id: what-the-commit
+kind: [api]
+name: What The Commit
+url: http://whatthecommit.com/index.txt
+description: Random commit message generator
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'yes'

@@ -1,0 +1,25 @@
+id: climate-change-knowledge-portal
+kind: [dataset]
+name: Climate Change Knowledge Portal (CCKP)
+url: https://climateknowledgeportal.worldbank.org/
+description: 'World Bank climate data service: observed (ERA5, CRU) and CMIP6 projected variables for 1950-2100, gridded at 0.25° or aggregated by country, subnational unit and watershed'
+domain: weather-climate
+tags: [climate-projections, cmip6, era5, cru, country-statistics]
+license: CC-BY-4.0
+license_url: https://datacatalog.worldbank.org/search/dataset/0042297/climate-change-knowledge-portal-projected-climate-data-cmip6-0-25-degree
+publisher:
+  name: World Bank Group
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [netcdf, xls]
+  access: public
+  url: https://registry.opendata.aws/wbg-cckp/
+  temporal:
+    start: '1950'
+    end: '2100'
+  spatial: [global]
+  update_frequency: irregular

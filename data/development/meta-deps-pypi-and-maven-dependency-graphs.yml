@@ -1,0 +1,23 @@
+id: meta-deps-pypi-and-maven-dependency-graphs
+kind: [dataset]
+name: 'meta-deps: PyPI and Maven Dependency Graphs'
+url: https://github.com/ogirardot/meta-deps
+description: Package dependency edge lists crawled in early 2013 from Maven Central (Java) and PyPI (Python), as LZMA-compressed CSV files with an analysis notebook
+domain: development
+tags: [dependency-graph, pypi, maven, package-ecosystems]
+license: CC-BY-3.0
+license_url: https://github.com/ogirardot/meta-deps
+publisher:
+  name: Olivier Girardot
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2013'
+    end: '2013'
+  update_frequency: static

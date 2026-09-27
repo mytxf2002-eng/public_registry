@@ -1,0 +1,15 @@
+id: anilist
+kind: [api]
+name: AniList
+url: https://github.com/AniList/ApiV2-GraphQL-Docs
+description: Anime discovery & tracking
+domain: anime
+license: unknown
+provenance:
+  added: 2017-11-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

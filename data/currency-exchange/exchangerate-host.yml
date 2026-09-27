@@ -1,0 +1,15 @@
+id: exchangerate-host
+kind: [api]
+name: Exchangerate.host
+url: https://exchangerate.host
+description: Free foreign exchange & crypto rates API
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-05-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

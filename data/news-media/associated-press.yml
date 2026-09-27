@@ -1,0 +1,15 @@
+id: associated-press
+kind: [api]
+name: Associated Press
+url: https://developer.ap.org/
+description: Search for news and metadata from Associated Press
+domain: news-media
+license: unknown
+provenance:
+  added: 2019-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

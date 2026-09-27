@@ -1,0 +1,26 @@
+id: pubchem
+kind: [api, dataset]
+name: PubChem
+url: https://pubchem.ncbi.nlm.nih.gov/
+description: Open chemistry database of compounds, depositor substances and bioassays, with structures, properties, biological activity, safety and toxicity data, patents and literature links
+domain: science-math
+tags: [chemistry, chemical-compounds, bioassays, cheminformatics, toxicity]
+license: LicenseRef-Custom-Open
+license_url: https://ftp.ncbi.nlm.nih.gov/pubchem/README
+publisher:
+  name: National Center for Biotechnology Information (NCBI/NLM/NIH)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest
+dataset:
+  formats: [csv, json, jsonl, xml, rdf, other]
+  access: public
+  url: https://ftp.ncbi.nlm.nih.gov/pubchem/
+  update_frequency: irregular

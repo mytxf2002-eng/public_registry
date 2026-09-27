@@ -1,0 +1,15 @@
+id: transport-for-united-states
+kind: [api]
+name: Transport for United States
+url: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
+description: NextBus API
+domain: transportation
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

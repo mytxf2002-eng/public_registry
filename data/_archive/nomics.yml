@@ -1,0 +1,19 @@
+id: nomics
+kind: [api]
+name: Nomics
+url: https://nomics.com/docs/
+description: Historical and realtime cryptocurrency prices and market data
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Nomics shut down its crypto data platform and API in 2023, and nomics.com now serves an expired certificate.

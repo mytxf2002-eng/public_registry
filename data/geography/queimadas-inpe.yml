@@ -1,0 +1,16 @@
+id: queimadas-inpe
+kind: [api]
+name: Queimadas INPE
+url: https://data.inpe.br/queimadas/dados-abertos/
+description: Access to heat focus data (probable wildfire)
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

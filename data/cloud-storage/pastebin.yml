@@ -1,0 +1,15 @@
+id: pastebin
+kind: [api]
+name: Pastebin
+url: https://pastebin.com/doc_api
+description: Plain Text Storage
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2017-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: the-graph
+description: 区块链索引协议：开发者把合约事件定义成 subgraph（子图），再用 GraphQL 查询，Uniswap 等许多 DeFi 项目用它提供数据。查询需要 API key。
+group: 链上数据、索引与分析

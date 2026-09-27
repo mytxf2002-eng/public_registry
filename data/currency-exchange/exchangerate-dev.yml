@@ -1,0 +1,15 @@
+id: exchangerate-dev
+kind: [api]
+name: Exchangerate.dev
+url: https://exchangerate.dev/docs
+description: Live & historical FX, 168 pairs back to 1999, Frankfurter-compatible, free 10k/mo
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2026-07-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

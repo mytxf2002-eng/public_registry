@@ -1,0 +1,3 @@
+id: hellosalut
+description: 根据用户的语言返回对应语言的“你好”，可以用访客的母语向其问好，由开发者 Stefan Bohacek 维护。
+group: 其他

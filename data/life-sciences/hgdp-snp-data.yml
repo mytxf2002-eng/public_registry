@@ -1,0 +1,23 @@
+id: hgdp-snp-data
+kind: [dataset]
+name: HGDP SNP Data (Rosenberg Lab)
+url: https://rosenberglab.stanford.edu/hgdpsnpDownload.html
+description: Phased and unphased SNP genotypes in 36 genomic regions for worldwide HGDP-CEPH populations plus Indian and African samples, from studies published in 2006, 2008 and 2011
+domain: life-sciences
+tags: [population-genetics, snp, haplotypes, human-diversity]
+license: unknown
+publisher:
+  name: Rosenberg Lab, Stanford University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  temporal:
+    start: '2006'
+    end: '2011'
+  spatial: [global]
+  update_frequency: static

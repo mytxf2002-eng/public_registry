@@ -1,0 +1,16 @@
+id: drupal-org
+kind: [api]
+name: Drupal.org
+url: https://www.drupal.org/drupalorg/docs/api
+description: Projects such as modules and themes, issues and users of drupal.org
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

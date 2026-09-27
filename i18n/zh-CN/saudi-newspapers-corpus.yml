@@ -1,0 +1,2 @@
+id: saudi-newspapers-corpus
+description: 2015 年 7—8 月从 14 家沙特网络报纸抓取的 31,030 篇阿拉伯语新闻文章（约 880 万词），每篇附来源报纸、网址、标题、作者和抓取日期，按日期打包为 JSON 文件，可从 GitHub 直接下载。采用 CC BY-NC-SA 4.0 许可，仅限非商业用途。

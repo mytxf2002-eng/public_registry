@@ -1,0 +1,3 @@
+id: swapi-swapi
+description: 另一个社区维护的星球大战数据接口 swapi.tech，同样涵盖电影、角色、星球、飞船等，免 key。和 swapi.dev 是两个独立站点，返回的 JSON 结构不同。
+group: 科幻与奇幻作品设定

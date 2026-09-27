@@ -1,0 +1,15 @@
+id: us-street-address
+kind: [api]
+name: US Street Address
+url: https://www.smarty.com/docs/cloud/us-street-api
+description: Validate and append data for any US postal address
+domain: data-validation
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

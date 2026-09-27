@@ -1,0 +1,18 @@
+id: tenders-in-ukraine
+kind: [api]
+name: Tenders in Ukraine
+url: https://tenders.guru/ua/api
+description: Get data for procurements in Ukraine in JSON format
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The whole tenders.guru site is unreachable from everywhere tested and no replacement was found.

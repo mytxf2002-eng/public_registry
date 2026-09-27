@@ -1,0 +1,25 @@
+id: cboe-market-statistics
+kind: [dataset]
+name: Cboe Market Statistics
+url: https://www.cboe.com/data/market-statistics
+description: Daily volume, open interest and settlement statistics for Cboe's US options, equities and futures and its Canadian, European and FX venues, with futures history from 2004
+domain: finance
+tags: [options, futures, trading-volume, open-interest, vix]
+license: LicenseRef-Provider-Terms
+license_url: https://www.cboe.com/terms
+publisher:
+  name: Cboe Global Markets
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, html]
+  access: public
+  url: https://www.cboe.com/markets/us/futures/market-statistics/historical-data/futures
+  temporal:
+    start: '2004'
+    end: null
+  spatial: [US, CA, europe]
+  update_frequency: daily

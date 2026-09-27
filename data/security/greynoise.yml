@@ -1,0 +1,15 @@
+id: greynoise
+kind: [api]
+name: GreyNoise
+url: https://docs.greynoise.io/docs/using-the-greynoise-community-api
+description: Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

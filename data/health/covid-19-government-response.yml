@@ -1,0 +1,15 @@
+id: covid-19-government-response
+kind: [api]
+name: Covid-19 Government Response
+url: https://covidtracker.bsg.ox.ac.uk
+description: Government measures tracker to fight against the Covid-19 pandemic
+domain: health
+license: unknown
+provenance:
+  added: 2020-11-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

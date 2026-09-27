@@ -1,0 +1,3 @@
+id: apiip
+description: 按 IP 地址查询位置信息，用来识别网站访客来自哪里，官网称可免费使用，需要注册 key。
+group: IP 地理定位

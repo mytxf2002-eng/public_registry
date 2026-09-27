@@ -1,0 +1,2 @@
+id: adsb-iq-open-data
+description: ADSB IQ 社区接收站网络采集的 ADS-B 飞机状态数据，每个 UTC 日一个 Parquet 文件（位置、高度、速度、航班号、应答机编码等增量记录），按月发布在 GitHub Releases，无需账号即可下载，采用 ODbL-1.0 许可。数据自 2026 年 6 月开始；实时 API 需成为接收站或使用受限的免费额度。

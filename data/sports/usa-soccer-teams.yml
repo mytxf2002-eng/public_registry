@@ -1,0 +1,21 @@
+id: usa-soccer-teams
+kind: [dataset]
+name: USA Soccer Teams
+url: https://github.com/gavinr/usa-soccer
+description: Current MLS, NWSL and USL Championship teams with metadata and stadium coordinates, provided as CSV and GeoJSON files compiled from Wikipedia
+domain: sports
+tags: [soccer, mls, nwsl, stadiums, geojson]
+license: MIT
+license_url: https://github.com/gavinr/usa-soccer/blob/master/LICENSE
+publisher:
+  name: Gavin Rehkemper
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, geojson]
+  access: public
+  spatial: [US, CA]
+  update_frequency: irregular

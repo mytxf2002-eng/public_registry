@@ -1,0 +1,23 @@
+id: source-d-github-commit-messages
+kind: [dataset]
+name: source{d} GitHub Commit Messages
+url: https://github.com/src-d/datasets/tree/master/CommitMessages
+description: About 1.29 billion commit messages with commit hashes and repository names, extracted from GHTorrent GitHub dumps up to March 2019
+domain: development
+tags: [commit-messages, github, ghtorrent, source-code, nlp]
+license: ODbL-1.0
+license_url: https://github.com/src-d/datasets/tree/master/CommitMessages
+publisher:
+  name: source{d}
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, binary]
+  access: public
+  url: https://drive.google.com/drive/folders/1Os5MKKdpNUsWUN_vrP23PjsLCq-VpIev
+  spatial: [global]
+  update_frequency: static
+  size: about 46 GB

@@ -1,0 +1,3 @@
+id: rick-and-morty
+description: 动画《瑞克和莫蒂》的角色、地点和剧集数据，带角色图片，支持 REST 和 GraphQL，免 key，常被用来练习前端开发。
+group: 漫画、动画与影视角色

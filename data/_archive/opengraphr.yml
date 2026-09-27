@@ -1,0 +1,18 @@
+id: opengraphr
+kind: [api]
+name: OpenGraphr
+url: https://opengraphr.com/docs/1.0/overview
+description: Really simple API to retrieve Open Graph data from an URL
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: opengraphr.com now redirects to an unrelated personal Drupal security blog.

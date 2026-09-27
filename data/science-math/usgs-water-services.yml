@@ -1,0 +1,15 @@
+id: usgs-water-services
+kind: [api]
+name: USGS Water Services
+url: https://waterservices.usgs.gov/
+description: Water quality and level info for rivers and lakes
+domain: science-math
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

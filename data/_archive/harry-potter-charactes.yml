@@ -1,0 +1,18 @@
+id: harry-potter-charactes
+kind: [api]
+name: Harry Potter Charactes
+url: https://hp-api.herokuapp.com/
+description: Harry Potter Characters Data with with imagery
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

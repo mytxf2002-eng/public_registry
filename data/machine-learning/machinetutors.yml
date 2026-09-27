@@ -1,0 +1,15 @@
+id: machinetutors
+kind: [api]
+name: Machinetutors
+url: https://machinetutors.com/api/
+description: 'AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP'
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

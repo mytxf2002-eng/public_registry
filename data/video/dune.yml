@@ -1,0 +1,15 @@
+id: dune
+kind: [api]
+name: Dune
+url: https://github.com/ywalia01/dune-api
+description: A simple API which provides you with book, character, movie and quotes JSON data
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

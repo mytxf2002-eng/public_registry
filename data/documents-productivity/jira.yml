@@ -1,0 +1,15 @@
+id: jira
+kind: [api]
+name: JIRA
+url: https://developer.atlassian.com/server/jira/platform/rest-apis/
+description: JIRA is a proprietary issue tracking product that allows bug tracking and agile project management
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-10-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

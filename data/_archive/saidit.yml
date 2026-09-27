@@ -1,0 +1,18 @@
+id: saidit
+kind: [api]
+name: Saidit
+url: https://www.saidit.net/dev/api
+description: Open Source Reddit Clone
+domain: social
+license: unknown
+provenance:
+  added: 2020-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: saidit.net no longer has any address records, so the site and its API are offline.

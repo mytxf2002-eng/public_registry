@@ -1,0 +1,25 @@
+id: youtube-dataset
+kind: [dataset]
+name: YouTube Dataset (Statistics and Social Network of YouTube Videos)
+url: https://netsg.cs.sfu.ca/youtubedata/
+description: Repeated 2007-2008 crawls of YouTube video metadata such as uploader, age, category, length, views, ratings and comments, with related-video links forming a directed graph
+domain: video
+tags: [youtube, video-metadata, related-videos, crawl, graph]
+license: LicenseRef-Research-Only
+license_url: https://netsg.cs.sfu.ca/youtubedata/
+publisher:
+  name: NetSG, School of Computing Science, Simon Fraser University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  temporal:
+    start: 2007-02
+    end: 2008-09
+  spatial: [global]
+  update_frequency: static
+  size: 127 zip files

@@ -1,0 +1,25 @@
+id: afl-player-match-statistics-2000-2023
+kind: [dataset]
+name: AFL Player Match Statistics 2000-2023
+url: https://zenodo.org/records/21612783
+description: 206,722 player-match rows from 4,670 Australian Football League games, 2000-2023, with 81 columns of box-score and advanced stats, weather, attendance and fantasy scores
+domain: sports
+tags: [afl, player-statistics, match-data, fantasy-sports, weather]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/21612783
+publisher:
+  name: Bet Better Pty Ltd
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2000'
+    end: '2023'
+  spatial: [AU]
+  update_frequency: static
+  size: about 60 MB, 206,722 rows

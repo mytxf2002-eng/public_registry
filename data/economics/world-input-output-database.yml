@@ -1,0 +1,25 @@
+id: world-input-output-database
+kind: [dataset]
+name: World Input-Output Database (WIOD)
+url: https://www.rug.nl/ggdc/valuechain/wiod/
+description: 'Multi-country input-output and supply-use tables with socio-economic accounts: 43 countries plus rest of world and 56 industries for 2000-2014, and older releases back to 1965'
+domain: economics
+tags: [input-output-tables, global-value-chains, national-accounts, industries]
+license: CC-BY-4.0
+license_url: https://www.rug.nl/ggdc/valuechain/wiod/
+publisher:
+  name: Groningen Growth and Development Centre, University of Groningen
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, stata, rdata]
+  access: public
+  url: https://www.rug.nl/ggdc/valuechain/wiod/wiod-2016-release
+  temporal:
+    start: '1965'
+    end: '2014'
+  spatial: [global]
+  update_frequency: static

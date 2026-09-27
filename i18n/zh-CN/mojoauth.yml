@@ -1,0 +1,3 @@
+id: mojoauth
+description: 无密码登录平台：一套 API 支持通行密钥（FIDO2/WebAuthn）、魔法链接、邮件/短信/WhatsApp 验证码、社交登录和 One Tap。官网称免费档最多 2.5 万月活用户。
+group: 身份认证平台

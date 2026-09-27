@@ -1,0 +1,3 @@
+id: meteorologisk-institutt
+description: 挪威气象局的开放接口，也是天气网站 Yr 的数据来源：Locationforecast 提供全球任意地点的预报，另有临近预报、海洋和预警等产品。免费，但必须在 User-Agent 里标明身份。
+group: 各国官方气象机构

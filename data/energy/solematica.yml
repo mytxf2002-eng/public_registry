@@ -1,0 +1,15 @@
+id: solematica
+kind: [api]
+name: Solematica
+url: https://www.solematica.it/sviluppatori
+description: Italian solar installer offers, energy prices (PUN/ARERA) and satellite roof data
+domain: energy
+license: unknown
+provenance:
+  added: 2026-07-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

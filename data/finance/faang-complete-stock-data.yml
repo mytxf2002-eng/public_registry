@@ -1,0 +1,25 @@
+id: faang-complete-stock-data
+kind: [dataset]
+name: FAANG Complete Stock Data
+url: https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data
+description: Daily open, high, low, close and volume for Facebook, Amazon, Apple, Netflix and Google shares from each company's listing date to September 2020, one CSV per company
+domain: finance
+tags: [stock-prices, equities, time-series, ohlc]
+license: CC0-1.0
+license_url: https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data
+publisher:
+  name: Aayush Mishra
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  temporal:
+    start: '1980'
+    end: 2020-09
+  spatial: [US]
+  update_frequency: static
+  size: 1.9 MB

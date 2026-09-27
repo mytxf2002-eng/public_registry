@@ -1,0 +1,18 @@
+id: lua-decompiler
+kind: [api]
+name: Lua Decompiler
+url: https://lua-decompiler.ferib.dev/
+description: Online Lua 5.1 Decompiler
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The lua-decompiler.ferib.dev host no longer exists in DNS and no new location was found.

@@ -1,0 +1,3 @@
+id: modelfax
+description: OpenAI、Anthropic、Google 三家模型的价格、上下文长度和下线日期，每天更新并经过 schema 校验，免费 JSON，托管在 GitHub Pages 上。
+group: 大模型价格与 AI 生态数据

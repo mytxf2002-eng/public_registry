@@ -1,0 +1,19 @@
+id: gfycat
+kind: [api]
+name: Gfycat
+url: https://developers.gfycat.com/api/
+description: Jiffier GIFs
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2016-12-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Gfycat was shut down by Snap on September 1, 2023.

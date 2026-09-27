@@ -1,0 +1,16 @@
+id: bitquery
+kind: [api]
+name: Bitquery
+url: https://graphql.bitquery.io/ide
+description: Onchain GraphQL APIs & DEX APIs
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

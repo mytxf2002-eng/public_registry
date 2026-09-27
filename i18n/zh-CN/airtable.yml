@@ -1,0 +1,3 @@
+id: airtable
+description: 低代码协作数据库 Airtable 的 Web API：对 base 和表格里的记录做增删改查，也支持 webhook。2024 年起旧式 API key 已停用，改用个人访问令牌或 OAuth。
+group: 笔记、表格与待办

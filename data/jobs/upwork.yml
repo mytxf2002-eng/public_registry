@@ -1,0 +1,15 @@
+id: upwork
+kind: [api]
+name: Upwork
+url: https://developers.upwork.com/
+description: Freelance job board and management system
+domain: jobs
+license: unknown
+provenance:
+  added: 2017-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

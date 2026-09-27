@@ -1,0 +1,3 @@
+id: euskalmet
+description: 西班牙巴斯克自治区气象局 Euskalmet 的 REST 接口，提供该地区的预报和观测数据，通过巴斯克政府的开放数据门户发布。
+group: 各国官方气象机构

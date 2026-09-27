@@ -1,0 +1,26 @@
+id: reality-mining-dataset
+kind: [dataset]
+name: Reality Mining Dataset
+url: http://realitycommons.media.mit.edu/realitymining.html
+description: 'Nine months of smartphone logs from 100 MIT students and faculty in 2004-2005: calls, SMS, Bluetooth proximity, cell-tower locations and app use, plus survey data'
+domain: social-sciences
+tags: [mobile-phones, social-networks, call-logs, proximity, human-behavior]
+license: LicenseRef-Research-Only
+license_url: http://realitycommons.media.mit.edu/realitymining4.html
+publisher:
+  name: MIT Human Dynamics Lab
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [matlab]
+  access: registration
+  url: http://realitycommons.media.mit.edu/realitymining4.html
+  temporal:
+    start: '2004'
+    end: '2005'
+  spatial: [US-MA]
+  update_frequency: static
+  size: 100 subjects, about 500,000 hours

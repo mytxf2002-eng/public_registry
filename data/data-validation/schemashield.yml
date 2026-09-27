@@ -1,0 +1,15 @@
+id: schemashield
+kind: [api]
+name: SchemaShield
+url: https://rapidapi.com/kaiasistentedavid/api/schema-change-risk
+description: Read-only preflight for breaking schema changes and downstream query impact
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

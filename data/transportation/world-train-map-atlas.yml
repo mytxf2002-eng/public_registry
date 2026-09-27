@@ -1,0 +1,22 @@
+id: world-train-map-atlas
+kind: [dataset]
+name: World Train Map Atlas
+url: https://github.com/Flightmussy/trainrouter-atlas
+description: Curated set of 961 notable passenger train routes in 118 countries, from high-speed to night and scenic services, with operator, distance, top speed, journey time and route geometry
+domain: transportation
+tags: [railways, train-routes, rail-travel, geojson]
+license: CC-BY-4.0
+license_url: https://github.com/Flightmussy/trainrouter-atlas
+publisher:
+  name: World Train Map (formerly TrainRouter)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json, geojson]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 961 routes

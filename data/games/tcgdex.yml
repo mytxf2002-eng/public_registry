@@ -1,0 +1,15 @@
+id: tcgdex
+kind: [api]
+name: TCGdex
+url: https://tcgdex.dev/
+description: Multi languages Pokémon TCG Information
+domain: games
+license: unknown
+provenance:
+  added: 2021-07-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

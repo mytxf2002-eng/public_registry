@@ -1,0 +1,16 @@
+id: apilayer-languagelayer
+kind: [api]
+name: apilayer languagelayer
+url: https://languagelayer.com/
+description: Language Detection JSON API supporting 173 languages
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

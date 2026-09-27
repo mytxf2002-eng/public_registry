@@ -1,0 +1,20 @@
+id: opencogdata
+kind: [dataset]
+name: OpenCogData
+url: https://nimh-dsst.github.io/OpenCogData/
+description: Catalog of about 800 openly shared human cognitive task datasets with trial-level data (Stroop, bandit, delay discounting tasks etc.), each linked to its paper and data host
+domain: social-sciences
+tags: [cognitive-tasks, psychology, behavioral-data, trial-level-data, data-catalog]
+license: MIT
+license_url: https://github.com/nimh-dsst/OpenCogData
+publisher:
+  name: NIMH Data Science and Sharing Team
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, other]
+  access: public
+  update_frequency: irregular

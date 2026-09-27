@@ -1,0 +1,15 @@
+id: jiosaavn
+kind: [api]
+name: JioSaavn
+url: https://github.com/cyberboysumanjay/JioSaavnAPI
+description: API to retrieve song information, album meta data and many more from JioSaavn
+domain: music
+license: unknown
+provenance:
+  added: 2021-05-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

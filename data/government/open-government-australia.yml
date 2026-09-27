@@ -1,0 +1,21 @@
+id: open-government-australia
+kind: [api, dataset]
+name: Open Government, Australia
+url: https://www.data.gov.au/
+description: Australian Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xlsx, geojson, shapefile, netcdf, geotiff]
+  access: public
+  url: https://data.gov.au/data/dataset
+  spatial: [AU]
+  size: 141,274 datasets

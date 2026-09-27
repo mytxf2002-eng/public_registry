@@ -1,0 +1,20 @@
+id: the-new-yorker-cartoon-caption-contest-dataset
+kind: [dataset]
+name: The New Yorker Cartoon Caption Contest Dataset
+url: https://nextml.github.io/caption-contest-data/
+description: Crowdsourced funniness ratings for captions submitted to hundreds of New Yorker cartoon caption contests, with per-caption vote counts and cartoon images
+domain: machine-learning
+tags: [humor, crowdsourcing, captions, ratings, nlp]
+license: LicenseRef-Research-Only
+license_url: https://nextml.github.io/caption-contest-data/
+publisher:
+  name: NEXT team (Lalit Jain, Kevin Jamieson, Robert Mankoff, Robert Nowak, Scott Sievert)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, image]
+  access: public
+  update_frequency: irregular

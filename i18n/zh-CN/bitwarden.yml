@@ -1,0 +1,3 @@
+id: bitwarden
+description: 开源密码管理器 Bitwarden 的公共 API，面向团队和企业组织：管理成员、群组、集合和策略，读取事件日志，不能访问密码库里的条目。
+group: 账号、密码与凭据安全

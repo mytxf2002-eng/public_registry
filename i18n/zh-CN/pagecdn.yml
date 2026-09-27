@@ -1,0 +1,3 @@
+id: pagecdn
+description: PageCDN 的公共接口，查询它托管的 JavaScript、CSS 和字体库以及对应的 CDN 地址。
+group: 软件包仓库与 CDN

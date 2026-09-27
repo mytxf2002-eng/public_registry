@@ -1,0 +1,15 @@
+id: news
+kind: [api]
+name: News
+url: https://newsapi.org/
+description: Headlines currently published on a range of news sources and blogs
+domain: news-media
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

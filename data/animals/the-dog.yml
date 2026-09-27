@@ -1,0 +1,15 @@
+id: the-dog
+kind: [api]
+name: The Dog
+url: https://thedogapi.com/
+description: A public service all about Dogs, free to use when making your fancy new App, Website or Service
+domain: animals
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

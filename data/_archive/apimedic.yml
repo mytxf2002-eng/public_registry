@@ -1,0 +1,18 @@
+id: apimedic
+kind: [api]
+name: ApiMedic
+url: https://apimedic.com/
+description: ApiMedic offers a medical symptom checker API primarily for patients
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: apimedic.com and all priaid.ch hosts are unreachable from every network tried and no other working official page was found.

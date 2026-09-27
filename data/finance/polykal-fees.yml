@@ -1,0 +1,15 @@
+id: polykal-fees
+kind: [api]
+name: PolyKal Fees
+url: https://polymarket-kalshi.com/fee-schedule/
+description: Kalshi & Polymarket trading fee rates and formulas as verified JSON
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

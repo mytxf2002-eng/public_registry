@@ -1,0 +1,15 @@
+id: rainviewer
+kind: [api]
+name: RainViewer
+url: https://www.rainviewer.com/api.html
+description: Radar data collected from different websites across the Internet
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

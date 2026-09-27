@@ -1,0 +1,3 @@
+id: usercheck
+description: 检测一次性临时邮箱，防止用户用它注册账号。原名 MailCheck.ai，现已改名 UserCheck。
+group: 一次性邮箱识别

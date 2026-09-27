@@ -1,0 +1,3 @@
+id: pantry
+description: 给小项目用的免费云端 JSON 存储：申请一个 pantry ID 后，通过 REST 接口读写多个 JSON “篮子”（basket），适合原型和演示。
+group: 图片、文本与 JSON 存储

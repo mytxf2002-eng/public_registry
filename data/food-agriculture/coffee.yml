@@ -1,0 +1,15 @@
+id: coffee
+kind: [api]
+name: Coffee
+url: https://coffee.alexflipnote.dev/
+description: Random pictures of coffee
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

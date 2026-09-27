@@ -1,0 +1,25 @@
+id: disclosed-capitol
+kind: [api, dataset]
+name: Disclosed Capitol
+url: https://www.disclosedcapitol.com/data-files/api
+description: US congressional & executive-branch stock trade disclosures (STOCK Act + OGE)
+domain: government
+license: LicenseRef-Provider-Terms
+license_url: https://www.disclosedcapitol.com/terms
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://github.com/disclosedcapitol/executive-branch-trades
+  temporal:
+    start: 2008-12
+    end: null
+  spatial: [US]
+  update_frequency: daily

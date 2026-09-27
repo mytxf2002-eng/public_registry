@@ -1,0 +1,2 @@
+id: wordbank
+description: 斯坦福大学语言与认知实验室维护的儿童词汇发展开放数据库，汇集多种语言的 MacArthur-Bates 沟通发展量表（CDI）家长报告数据，含逐词作答和人口学信息，可在网站按条件导出 CSV，也可通过 Redivis 或 R 包 wordbankr 获取。默认采用 CC BY 4.0 许可，少数子数据集为 CC BY-NC。

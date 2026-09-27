@@ -1,0 +1,22 @@
+id: dwd-climate-data-center
+kind: [dataset]
+name: DWD Climate Data Center (CDC)
+url: https://cdc.dwd.de/portal/
+description: 'Climate archive of the German Weather Service: station observations from 1-minute to annual resolution for Germany, global station data, gridded maps and regional averages'
+domain: weather-climate
+tags: [weather-stations, climate-observations, gridded-data, regional-averages, phenology]
+license: CC-BY-4.0
+license_url: https://opendata.dwd.de/climate_environment/CDC/Terms_of_use.txt
+publisher:
+  name: Deutscher Wetterdienst (DWD)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, netcdf]
+  access: public
+  url: https://opendata.dwd.de/climate_environment/CDC/
+  spatial: [DE, global]
+  update_frequency: daily

@@ -1,0 +1,15 @@
+id: fakestoreapi
+kind: [api]
+name: FakeStoreAPI
+url: https://fakestoreapi.com/
+description: Fake store rest API for your e-commerce or shopping website prototype
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-11-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

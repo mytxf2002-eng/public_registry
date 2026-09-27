@@ -1,0 +1,26 @@
+id: us-warn-act-layoff-notices
+kind: [dataset]
+name: US WARN Act Layoff Notices
+url: https://github.com/APVentureEngine/warn-act-notices
+description: About 61,400 WARN Act layoff and closure notices from 48 US states since 1988 in one normalized schema, with employer, location, workers affected and dates, updated daily
+domain: economics
+tags: [layoffs, warn-act, labor-market, plant-closings]
+license: CC-BY-4.0
+license_url: https://github.com/APVentureEngine/warn-act-notices/blob/main/LICENSE
+publisher:
+  name: APVentureEngine
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://github.com/APVentureEngine/warn-act-notices/tree/main/data
+  temporal:
+    start: '1988'
+    end: null
+  spatial: [US]
+  update_frequency: daily
+  size: 61,431 notices

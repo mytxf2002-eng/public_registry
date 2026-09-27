@@ -1,0 +1,18 @@
+id: usa-gov
+kind: [api]
+name: USA.gov
+url: https://www.usa.gov/developer
+description: Authoritative information on U.S. programs, events, services and more
+domain: government
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: USA.gov removed its developer page, and the APIs it listed, such as the Federal Agency Directory API, were deprecated.

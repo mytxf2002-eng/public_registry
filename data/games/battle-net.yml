@@ -1,0 +1,15 @@
+id: battle-net
+kind: [api]
+name: Battle.net
+url: https://develop.battle.net/documentation/guides/getting-started
+description: Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: cheapshark
+kind: [api]
+name: CheapShark
+url: https://www.cheapshark.com/api
+description: Steam/PC Game Prices and Deals
+domain: games
+license: unknown
+provenance:
+  added: 2020-11-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

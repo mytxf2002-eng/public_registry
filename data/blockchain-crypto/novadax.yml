@@ -1,0 +1,16 @@
+id: novadax
+kind: [api]
+name: NovaDax
+url: https://doc.novadax.com/en-US/#introduction
+description: NovaDAX API to access all market data, trading management endpoints
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

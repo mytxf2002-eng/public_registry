@@ -1,0 +1,15 @@
+id: airtable
+kind: [api]
+name: Airtable
+url: https://airtable.com/api
+description: Integrate with Airtable
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-07-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

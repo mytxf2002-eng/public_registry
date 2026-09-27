@@ -1,0 +1,15 @@
+id: valorant
+kind: [api]
+name: Valorant (non-official)
+url: https://valorant-api.com
+description: An extensive API containing data of most Valorant in-game items, assets and more
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

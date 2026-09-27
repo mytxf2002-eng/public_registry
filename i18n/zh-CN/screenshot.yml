@@ -1,0 +1,3 @@
+id: screenshot
+description: Abstract API 的网页截图接口，输入 URL 返回页面图片，有免费档。
+group: 网页截图与渲染

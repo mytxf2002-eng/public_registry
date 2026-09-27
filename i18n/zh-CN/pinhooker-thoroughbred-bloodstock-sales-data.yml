@@ -1,0 +1,2 @@
+id: pinhooker-thoroughbred-bloodstock-sales-data
+description: 一个 R 语言包，内含超过 15.5 万条纯种马拍卖成交记录（Goffs、Tattersalls、Arqana、BBAG 等拍卖行，2009–2016 年），以 Rds 文件提供，可直接下载，并附带抓取脚本，可导出 CSV 或 SQLite。自 2016 年起基本未再更新。

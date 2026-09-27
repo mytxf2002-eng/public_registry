@@ -1,0 +1,2 @@
+id: world-train-map-atlas
+description: World Train Map（原 TrainRouter）整理的全球著名列车线路数据集，GitHub 版本含 118 个国家的 961 条线路（高速、经典长途、夜车、观光等），附运营方、里程、最高时速、行程时间、开通年份和线路几何，提供 CSV、JSON 和 GeoJSON，采用 CC BY 4.0 许可；网站上的版本更新更快。

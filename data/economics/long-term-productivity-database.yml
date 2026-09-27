@@ -1,0 +1,25 @@
+id: long-term-productivity-database
+kind: [dataset]
+name: Long-Term Productivity Database
+url: https://longtermproductivity.com/
+description: Annual GDP per capita, labour productivity, total factor productivity and labour input for 23 OECD countries from at least 1890 to 2024
+domain: economics
+tags: [productivity, tfp, economic-history, gdp-per-capita, labor-productivity]
+license: LicenseRef-Research-Only
+license_url: https://longtermproductivity.com/download.html
+publisher:
+  name: Antonin Bergeaud, Gilbert Cette and Rémy Lecat
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  url: https://longtermproductivity.com/download.html
+  temporal:
+    start: '1890'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

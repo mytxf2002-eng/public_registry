@@ -1,0 +1,3 @@
+id: us-street-address
+description: Smarty 的美国地址验证：校验并标准化任意美国邮政地址，还能补充 ZIP+4、经纬度、所属县等附加信息。
+group: 美国地址验证与解析

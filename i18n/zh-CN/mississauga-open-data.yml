@@ -1,0 +1,2 @@
+id: mississauga-open-data
+description: 加拿大安大略省密西沙加市的开放数据平台（ArcGIS Hub），约 270 个数据集，包括 MiWay 公交 GTFS 及实时数据、停车罚单、建筑许可、开发申请、预算、选举结果、历年航拍影像和各类地理图层。可下载 CSV、GeoJSON、KML、Shapefile 等，或通过 ArcGIS REST 访问；使用条款为 PDF 文件，未能核实具体许可。

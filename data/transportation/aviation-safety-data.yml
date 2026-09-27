@@ -1,0 +1,24 @@
+id: aviation-safety-data
+kind: [api, dataset]
+name: Aviation Safety Data
+url: https://himaxym.com/developers
+description: 164,068 aircraft accident narratives from 128 official investigation authorities, plus FAA data
+domain: transportation
+license: LicenseRef-Provider-Terms
+license_url: https://himaxym.com/developers
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://doi.org/10.5281/zenodo.21347859
+  temporal:
+    start: '1990'
+    end: null
+  spatial: [US]

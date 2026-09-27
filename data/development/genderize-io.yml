@@ -1,0 +1,15 @@
+id: genderize-io
+kind: [api]
+name: Genderize.io
+url: https://genderize.io
+description: Estimates a gender from a first name
+domain: development
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: airportsapi
+description: 按 ICAO 机场代码查询机场名称和官网地址，功能单一，托管在 Google App Engine 上。
+group: 航班、机场与飞机数据

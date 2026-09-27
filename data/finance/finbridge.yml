@@ -1,0 +1,15 @@
+id: finbridge
+kind: [api]
+name: FinBridge
+url: https://www.gronox.kr/docs
+description: Official-source financials, segments, valuation, peers and prices for KR, US, JP, TW companies
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

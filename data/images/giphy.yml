@@ -1,0 +1,16 @@
+id: giphy
+kind: [api]
+name: Giphy
+url: https://developers.giphy.com/docs/
+description: Get all your gifs
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2017-11-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: transport-for-sweden
+kind: [api]
+name: Transport for Sweden
+url: https://www.trafiklab.se/api
+description: Public Transport consumer
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

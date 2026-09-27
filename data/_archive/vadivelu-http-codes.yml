@@ -1,0 +1,19 @@
+id: vadivelu-http-codes
+kind: [api]
+name: Vadivelu HTTP Codes
+url: https://vadivelu.anoram.com/
+description: On demand HTTP Codes with images
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: vadivelu.anoram.com no longer exists in DNS and Anoram only keeps a 2020 blog post about the project, so the service is gone.

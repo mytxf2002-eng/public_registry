@@ -1,0 +1,3 @@
+id: schemashield
+description: 数据库表结构变更的预检：在改表前只读分析哪些变更会造成破坏、影响哪些下游查询。托管在 RapidAPI 上。
+group: 内容过滤与开发调试

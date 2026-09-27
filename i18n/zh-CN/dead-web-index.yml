@@ -1,0 +1,2 @@
+id: dead-web-index
+description: 2026 年 6 月对 DomCop 热门前 1000 万域名的可达性普查，分别用普通爬虫和仿浏览器客户端探测，逐个域名标注为存活、跳转、被拦截或失效。完整数据以 zstd 压缩的 JSONL 分块发布在 GitHub，CC BY 4.0 许可；发布方是一家网页抓取服务商。

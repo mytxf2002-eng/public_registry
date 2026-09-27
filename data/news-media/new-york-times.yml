@@ -1,0 +1,15 @@
+id: new-york-times
+kind: [api]
+name: New York Times
+url: https://developer.nytimes.com/
+description: The New York Times Developer Network
+domain: news-media
+license: unknown
+provenance:
+  added: 2016-11-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

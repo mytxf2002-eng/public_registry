@@ -1,0 +1,15 @@
+id: iban-analyzer
+kind: [api]
+name: IBAN Analyzer
+url: https://iban-analyzer.com/free-iban-api
+description: Resolve an IBAN to its bank name, BIC, city and address for 60+ countries
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: sportmonks-cricket
+kind: [api]
+name: Sportmonks Cricket
+url: https://docs.sportmonks.com/cricket/
+description: Live cricket score, player statistics and fantasy API
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

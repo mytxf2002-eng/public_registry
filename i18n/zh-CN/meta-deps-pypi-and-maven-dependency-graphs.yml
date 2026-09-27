@@ -1,0 +1,2 @@
+id: meta-deps-pypi-and-maven-dependency-graphs
+description: 开发者于 2013 年初从 Maven 中央仓库（Java）和 PyPI（Python）抓取的软件包依赖关系边列表，以 LZMA 压缩的 CSV 文件和分析笔记本形式发布在 GitHub，可直接下载，按 CC BY 3.0 许可；为一次性快照，数据已较陈旧。

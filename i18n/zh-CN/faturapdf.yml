@@ -1,0 +1,3 @@
+id: faturapdf
+description: 生成巴西的发票和收据 PDF，自动校验 CPF（个人税号）和 CNPJ（企业税号）的校验位，并附上 Pix 付款二维码，托管在 RapidAPI 上。
+group: 模板生成文档与打印

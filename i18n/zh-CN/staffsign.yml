@@ -1,0 +1,3 @@
+id: staffsign
+description: 德国的电子劳动合同接口，面向人力资源和劳务派遣公司，支持符合欧盟 eIDAS 法规的合格电子签名（QES），另有 MCP 服务。文档是德语。
+group: 电子签名与合同

@@ -1,0 +1,16 @@
+id: locationiq
+kind: [api]
+name: LocationIQ
+url: https://docs.locationiq.com/
+description: Provides forward/reverse geocoding and batch geocoding
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-02-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

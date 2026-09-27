@@ -1,0 +1,15 @@
+id: estimatetax
+kind: [api]
+name: EstimateTax
+url: https://estimatetax.net/api/
+description: US federal, state and local income tax calculation for 2026, with the source of every figure
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

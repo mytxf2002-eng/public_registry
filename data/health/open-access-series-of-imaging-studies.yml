@@ -1,0 +1,21 @@
+id: open-access-series-of-imaging-studies
+kind: [dataset]
+name: Open Access Series of Imaging Studies (OASIS)
+url: https://sites.wustl.edu/oasisbrains/
+description: Brain MRI and PET scans with clinical and cognitive data from four cohorts spanning normal ageing and Alzheimer's disease, including OASIS-3 with 1,378 people and 2,842 MR sessions
+domain: health
+tags: [alzheimers-disease, dementia, mri, pet, neuroimaging, aging]
+license: LicenseRef-Research-Only
+license_url: https://sites.wustl.edu/oasisbrains/
+publisher:
+  name: Washington University in St. Louis (Knight ADRC)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [nifti, csv]
+  access: application
+  url: https://sites.wustl.edu/oasisbrains/home/access/
+  update_frequency: irregular

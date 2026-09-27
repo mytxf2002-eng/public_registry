@@ -1,0 +1,16 @@
+id: goldrush
+kind: [api]
+name: GoldRush
+url: https://goldrush.dev/docs/
+description: Multi-blockchain data aggregator platform
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-07-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

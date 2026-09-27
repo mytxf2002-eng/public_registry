@@ -1,0 +1,2 @@
+id: saudi-real-estate-open-data
+description: 汇编沙特司法部（MOJ）、房地产总局（REGA）、KAPSARC 和沙特央行公开发布的房地产数据，包括 2020 年以来约 144 万笔成交记录以及抵押、查封、租金指标和房价指数等，整理为附英文说明的 CSV 文件，可在 GitHub 直接下载；原始数据适用沙特开放数据许可，需注明来源。

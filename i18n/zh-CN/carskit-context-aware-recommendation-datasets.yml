@@ -1,0 +1,2 @@
+id: carskit-context-aware-recommendation-datasets
+description: 情境感知推荐引擎 CARSKit 作者整理的 8 个带情境信息的用户偏好数据集，包括 Frappe 移动应用、DePaul 电影、车载音乐、日本和蒂华纳餐厅、STS 旅游及 TripAdvisor 两个版本，以 ZIP 文件直接从 GitHub 下载。仓库的 GPL-3.0 许可针对软件，数据本身未单独注明许可，部分数据集源自其他研究团队。

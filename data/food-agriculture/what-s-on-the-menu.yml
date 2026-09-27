@@ -1,0 +1,15 @@
+id: what-s-on-the-menu
+kind: [api]
+name: What's on the menu?
+url: http://nypl.github.io/menus-api/
+description: NYPL human-transcribed historical menu collection
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2017-12-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

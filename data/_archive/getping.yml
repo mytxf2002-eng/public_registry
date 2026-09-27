@@ -1,0 +1,18 @@
+id: getping
+kind: [api]
+name: GETPing
+url: https://www.getping.info
+description: Trigger an email notification with a simple GET request
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: getping.info no longer resolves, and no renamed or moved version was found.

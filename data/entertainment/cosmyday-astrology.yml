@@ -1,0 +1,15 @@
+id: cosmyday-astrology
+kind: [api]
+name: CosmyDay Astrology
+url: https://cosmyday.com/api-docs
+description: Natal charts and sky events computed from Swiss Ephemeris
+domain: entertainment
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

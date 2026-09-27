@@ -1,0 +1,3 @@
+id: reddit
+description: Reddit 官方 API：读取版块、帖子、评论和用户，也能发帖、投票和管理社区，需要 OAuth。2023 年起对大规模调用收费，免费使用按每分钟请求数限流。
+group: 主流社交平台

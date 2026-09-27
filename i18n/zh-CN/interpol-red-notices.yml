@@ -1,0 +1,3 @@
+id: interpol-red-notices
+description: 国际刑警组织红色通缉令的检索接口，可以按姓名、国籍、年龄等条件查询。链接是 bund.dev 项目为 Interpol 公开接口整理的 OpenAPI 文档，不是 Interpol 官方文档。
+group: 执法、制裁与司法信息

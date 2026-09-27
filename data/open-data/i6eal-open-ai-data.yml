@@ -1,0 +1,15 @@
+id: i6eal-open-ai-data
+kind: [api]
+name: i6eal Open AI Data
+url: https://i6eal.de/en/tools/data/
+description: Open datasets on AI policy, regulation and public-sector adoption in Germany and the EU
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

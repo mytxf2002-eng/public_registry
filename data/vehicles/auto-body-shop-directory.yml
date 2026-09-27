@@ -1,0 +1,15 @@
+id: auto-body-shop-directory
+kind: [api]
+name: Auto Body Shop Directory
+url: https://autobodyshopnear.com/developers/body-shop-api
+description: Find auto body shops by ZIP code, city, location, or profile
+domain: vehicles
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

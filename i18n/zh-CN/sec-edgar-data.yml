@@ -1,0 +1,3 @@
+id: sec-edgar-data
+description: 美国证监会官方的免费接口：上市公司的申报历史，以及结构化的 XBRL 财务数据。不用 key，但必须在 User-Agent 里写明联系方式，而且每秒不超过 10 次请求，否则返回 403。
+group: 公司基本面、监管披露与研究数据

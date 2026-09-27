@@ -1,0 +1,22 @@
+id: uci-machine-learning-repository
+kind: [dataset]
+name: UCI Machine Learning Repository
+url: https://archive.ics.uci.edu/
+description: 689 donated datasets for classification, regression, clustering and other machine-learning tasks, each with a description page, DOI and download
+domain: machine-learning
+tags: [benchmark, classification, regression, tabular-data]
+license: CC-BY-4.0
+license_url: https://archive.ics.uci.edu/dataset/53/iris
+publisher:
+  name: University of California, Irvine
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, archive]
+  access: public
+  url: https://archive.ics.uci.edu/datasets
+  update_frequency: irregular
+  size: 689 datasets

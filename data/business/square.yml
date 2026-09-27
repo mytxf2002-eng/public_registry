@@ -1,0 +1,15 @@
+id: square
+kind: [api]
+name: Square
+url: https://developer.squareup.com/reference/square
+description: Easy way to take payments, manage refunds, and help customers checkout online
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

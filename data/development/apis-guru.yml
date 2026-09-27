@@ -1,0 +1,15 @@
+id: apis-guru
+kind: [api]
+name: APIs.guru
+url: https://apis.guru/api-doc/
+description: Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs
+domain: development
+license: unknown
+provenance:
+  added: 2017-01-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,25 @@
+id: clueweb09
+kind: [dataset]
+name: ClueWeb09
+url: http://lemurproject.org/clueweb09/
+description: About 1.04 billion web pages in ten languages crawled in January and February 2009 for information-retrieval research and TREC tracks, plus a web graph of 4.8 billion URLs
+domain: networks
+tags: [web-crawl, information-retrieval, trec, web-graph]
+license: LicenseRef-Research-Only
+license_url: http://lemurproject.org/clueweb09/
+publisher:
+  name: Lemur Project, Carnegie Mellon University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [warc, text]
+  access: application
+  temporal:
+    start: 2009-01
+    end: 2009-02
+  spatial: [global]
+  update_frequency: static
+  size: 5 TB compressed

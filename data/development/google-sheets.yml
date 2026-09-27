@@ -1,0 +1,15 @@
+id: google-sheets
+kind: [api]
+name: Google Sheets
+url: https://developers.google.com/sheets/api/reference/rest
+description: API to read, write, and format Google Sheets data
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

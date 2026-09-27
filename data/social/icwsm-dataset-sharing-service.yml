@@ -1,0 +1,23 @@
+id: icwsm-dataset-sharing-service
+kind: [dataset]
+name: ICWSM Dataset Sharing Service
+url: https://www.icwsm.org/2018/datasets/datasets/
+description: Datasets behind papers at the AAAI Conference on Web and Social Media, mostly tweet collections plus Facebook, YouTube comment and social-network data from 2012 and 2015
+domain: social
+tags: [twitter, social-media, weblogs, research-datasets]
+license: LicenseRef-Research-Only
+license_url: https://www.icwsm.org/2018/datasets/datasets/icwsm_user_agreement_v1.pdf
+publisher:
+  name: ICWSM (AAAI Conference on Web and Social Media)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: application
+  temporal:
+    start: '2012'
+    end: '2015'
+  update_frequency: static

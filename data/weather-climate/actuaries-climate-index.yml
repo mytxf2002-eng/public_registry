@@ -1,0 +1,25 @@
+id: actuaries-climate-index
+kind: [dataset]
+name: Actuaries Climate Index
+url: https://actuariesclimateindex.org/
+description: Monthly and seasonal index of climate extremes (hot and cold temperatures, heavy rain, drought, high wind, sea level) for 12 regions of the US and Canada since 1961
+domain: weather-climate
+tags: [climate-index, climate-extremes, sea-level, drought, insurance]
+license: LicenseRef-Research-Only
+license_url: https://actuariesclimateindex.org/terms-of-use/
+publisher:
+  name: American Academy of Actuaries, Canadian Institute of Actuaries, Casualty Actuarial Society and Society of Actuaries
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: public
+  url: https://actuariesclimateindex.org/data/
+  temporal:
+    start: '1961'
+    end: null
+  spatial: [US, CA]
+  update_frequency: quarterly

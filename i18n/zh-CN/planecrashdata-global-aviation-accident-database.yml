@@ -1,0 +1,2 @@
+id: planecrashdata-global-aviation-accident-database
+description: 全球航空事故数据集，收录 1918 年 5 月至 2026 年 8 月的 27,598 起民用和军用航空事故，含机型、运营方、飞行阶段、机上人数与伤亡、事故经过、原因分类和经纬度，Parquet 格式，托管于 Hugging Face，标注为 CC BY 4.0。说明中未交代数据来源。

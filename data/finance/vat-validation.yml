@@ -1,0 +1,15 @@
+id: vat-validation
+kind: [api]
+name: VAT Validation
+url: https://www.abstractapi.com/vat-validation-rates-api
+description: Validate VAT numbers and calculate VAT rates
+domain: finance
+license: unknown
+provenance:
+  added: 2021-03-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

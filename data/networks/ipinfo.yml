@@ -1,0 +1,15 @@
+id: ipinfo
+kind: [api]
+name: IPinfo
+url: https://ipinfo.io/developers
+description: Another simple IP Address API
+domain: networks
+license: unknown
+provenance:
+  added: 2017-11-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

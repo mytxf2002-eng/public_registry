@@ -1,0 +1,3 @@
+id: the-null-pointer
+description: 极简的临时文件托管和短网址服务（0x0.st）：用 curl 把文件 POST 上去就能拿到链接，文件保留时间随大小而定，越大保留越短。
+group: 文件上传与分享

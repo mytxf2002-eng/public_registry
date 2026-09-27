@@ -1,0 +1,15 @@
+id: aether-x-port-congestion-oracle
+kind: [api]
+name: Aether-X Port Congestion Oracle
+url: https://rapidapi.com/belegante/api/aether-x-port-congestion-oracle
+description: Predictive port congestion, ETA delay and freight volatility signals for 16 global ports
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

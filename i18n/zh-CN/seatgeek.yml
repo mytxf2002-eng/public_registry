@@ -1,0 +1,3 @@
+id: seatgeek
+description: 美国票务平台 SeatGeek 的接口：搜索体育赛事、演唱会、剧场等活动以及场馆和演出者，返回票价统计，需要免费注册 client ID。
+group: 活动搜索与票务

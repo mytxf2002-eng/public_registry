@@ -1,0 +1,15 @@
+id: shrtcode
+kind: [api]
+name: Shrtcode
+url: https://shrtco.de/docs
+description: URl Shortener with multiple Domains
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-05-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

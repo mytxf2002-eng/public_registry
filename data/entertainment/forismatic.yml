@@ -1,0 +1,16 @@
+id: forismatic
+kind: [api]
+name: Forismatic
+url: http://forismatic.com/en/api/
+description: Inspirational Quotes
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2016-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

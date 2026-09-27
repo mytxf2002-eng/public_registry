@@ -1,0 +1,15 @@
+id: czech-national-bank
+kind: [api]
+name: Czech National Bank
+url: https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml
+description: A collection of exchange rates
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

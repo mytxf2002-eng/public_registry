@@ -1,0 +1,27 @@
+id: the-cancer-imaging-archive
+kind: [api, dataset]
+name: The Cancer Imaging Archive (TCIA)
+url: https://www.cancerimagingarchive.net/
+description: De-identified cancer imaging collections (CT, MRI, PET, digital pathology) grouped by disease or trial, with linked clinical, genomic and annotation data for public download
+domain: health
+tags: [medical-imaging, cancer, radiology, histopathology, dicom]
+license: unknown
+license_url: https://www.cancerimagingarchive.net/data-usage-policies-and-restrictions/
+publisher:
+  name: National Cancer Institute, Cancer Imaging Program
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.cancerimagingarchive.net/tcia-api-guides/
+dataset:
+  formats: [dicom, image, csv]
+  access: public
+  url: https://www.cancerimagingarchive.net/access-data/
+  update_frequency: irregular
+  size: 156 image collections

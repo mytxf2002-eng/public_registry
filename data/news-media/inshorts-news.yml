@@ -1,0 +1,15 @@
+id: inshorts-news
+kind: [api]
+name: Inshorts News
+url: https://github.com/cyberboysumanjay/Inshorts-News-API
+description: Provides news from inshorts
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

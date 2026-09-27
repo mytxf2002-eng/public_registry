@@ -1,0 +1,15 @@
+id: deck-of-cards
+kind: [api]
+name: Deck of Cards
+url: http://deckofcardsapi.com/
+description: Shuffle and draw playing cards, with card images and custom piles
+domain: games
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

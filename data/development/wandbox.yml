@@ -1,0 +1,15 @@
+id: wandbox
+kind: [api]
+name: Wandbox
+url: https://github.com/melpon/wandbox
+description: Code compiler supporting 35+ languages mentioned at wandbox.org
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

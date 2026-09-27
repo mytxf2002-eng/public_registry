@@ -1,0 +1,26 @@
+id: data-rio
+kind: [api, dataset]
+name: DATA.RIO
+url: https://www.data.rio/
+description: 'Open data on the city of Rio de Janeiro: about 200 datasets and GIS layers plus some 1,700 Excel statistical tables on census, neighbourhoods and city services'
+domain: government
+tags: [municipal, census, gis, urban-planning]
+license: CC-BY-4.0
+license_url: https://www.data.rio/datasets/82c3824d7baa4c4b8244358b7abb90a4
+publisher:
+  name: Instituto Pereira Passos, Prefeitura do Rio de Janeiro
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.data.rio/api/search/definition/
+dataset:
+  formats: [csv, xlsx, geojson, shapefile, kml]
+  access: public
+  spatial: [BR-RJ]
+  size: 208 datasets, 1,733 tables

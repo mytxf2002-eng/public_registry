@@ -1,0 +1,21 @@
+id: geofabrik-openstreetmap-data-extracts
+kind: [dataset]
+name: Geofabrik OpenStreetMap Data Extracts
+url: https://download.geofabrik.de/
+description: Daily OpenStreetMap extracts cut by continent, country and sub-region as OSM PBF files, with shapefile and GeoPackage layers for most countries and sub-regions
+domain: geography
+tags: [openstreetmap, osm-extracts, vector-data, gis]
+license: ODbL-1.0
+license_url: https://download.geofabrik.de/
+publisher:
+  name: Geofabrik GmbH
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [osm, shapefile, gpkg]
+  access: public
+  spatial: [global]
+  update_frequency: daily

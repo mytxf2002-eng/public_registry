@@ -1,0 +1,15 @@
+id: radar-cnpj
+kind: [api]
+name: Radar CNPJ
+url: https://radar-cnpj.com/api/
+description: Brazilian companies (CNPJ) lookup and search, with a market check by area and monitoring
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,15 @@
+id: spatial-india
+kind: [api]
+name: Spatial India
+url: https://api.spatialindia.com
+description: 'District-level data for India: Census, NFHS-5, NCRB, RBI and more, reconciled onto one map'
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

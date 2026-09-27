@@ -1,0 +1,18 @@
+id: pm25-in
+kind: [api]
+name: PM25.in
+url: http://www.pm25.in/api_doc
+description: Air quality of China
+domain: environment
+license: unknown
+provenance:
+  added: 2016-07-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Domain is parked or for sale

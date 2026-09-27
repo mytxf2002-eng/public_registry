@@ -1,0 +1,3 @@
+id: itis
+description: 美国多个联邦机构合作的物种分类信息系统（ITIS）：学名、俗名、分类层级和分类关系，以 JSON、SOAP 等形式的 Web 服务提供，免 key。
+group: 生物与材料科学数据

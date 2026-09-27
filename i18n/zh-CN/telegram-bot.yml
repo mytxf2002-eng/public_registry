@@ -1,0 +1,3 @@
+id: telegram-bot
+description: Telegram 官方的机器人接口：在 @BotFather 创建机器人拿到 token，用普通 HTTPS 请求收发消息、处理命令和按钮回调，支持 webhook。是做 Telegram 机器人最常用的方式。
+group: 即时通讯与聊天机器人

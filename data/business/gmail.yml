@@ -1,0 +1,15 @@
+id: gmail
+kind: [api]
+name: Gmail
+url: https://developers.google.com/gmail/api/
+description: Flexible, RESTful access to the user's inbox
+domain: business
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

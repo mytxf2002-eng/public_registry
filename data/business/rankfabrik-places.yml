@@ -1,0 +1,15 @@
+id: rankfabrik-places
+kind: [api]
+name: RankFabrik Places
+url: https://rankfabrik.com/produits/etablissements
+description: Search businesses and points of interest by city, deduplicated with a coverage report
+domain: business
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

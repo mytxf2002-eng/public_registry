@@ -1,0 +1,28 @@
+id: eric
+kind: [api, dataset]
+name: ERIC (Education Resources Information Center)
+url: https://eric.ed.gov/
+description: Bibliographic database of education research articles, reports and other documents from 1965 onward, many with full text, with bulk XML files and a search API
+domain: education
+tags: [education-research, bibliographic-records, journal-articles, thesaurus, full-text]
+license: unknown
+publisher:
+  name: Institute of Education Sciences, U.S. Department of Education
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://eric.ed.gov/?api
+dataset:
+  formats: [xml]
+  access: public
+  url: https://eric.ed.gov/?download
+  temporal:
+    start: '1965'
+    end: null
+  update_frequency: irregular

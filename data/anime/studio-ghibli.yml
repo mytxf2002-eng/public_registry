@@ -1,0 +1,15 @@
+id: studio-ghibli
+kind: [api]
+name: Studio Ghibli
+url: https://ghibliapi.vercel.app
+description: Resources from Studio Ghibli films
+domain: anime
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

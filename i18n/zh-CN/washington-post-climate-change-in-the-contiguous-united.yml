@@ -1,0 +1,2 @@
+id: washington-post-climate-change-in-the-contiguous-united
+description: 《华盛顿邮报》“2°C：超越极限”系列报道的数据仓库，基于 NOAA nClimDiv 和 nClimGrid 计算美国本土 48 州整体、各州和各县 1895–2019 年的年均及冬季气温变化，提供 CSV、GeoJSON 和栅格文件，可在 GitHub 直接下载，数据按 CC BY 4.0 许可，不再更新。

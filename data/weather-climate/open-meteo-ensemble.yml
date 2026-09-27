@@ -1,0 +1,15 @@
+id: open-meteo-ensemble
+kind: [api]
+name: Open-Meteo Ensemble
+url: https://open-meteo.com/en/docs/ensemble-api
+description: Weather ensemble forecasts from multiple models
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-08-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

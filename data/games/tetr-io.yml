@@ -1,0 +1,15 @@
+id: tetr-io
+kind: [api]
+name: TETR.IO
+url: https://tetr.io/about/api/
+description: TETR.IO Tetra Channel API
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

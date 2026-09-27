@@ -1,0 +1,22 @@
+id: open-trials-data
+kind: [dataset]
+name: open-trials-data
+url: https://github.com/ConorsCode/open-trials-data
+description: Daily snapshot of about 47,000 currently recruiting interventional clinical trials worldwide from ClinicalTrials.gov, flattened into one CSV/JSON schema with sponsor and condition summaries
+domain: health
+tags: [clinical-trials, recruiting-trials, clinicaltrials-gov, daily-snapshot]
+license: MIT
+license_url: https://github.com/ConorsCode/open-trials-data/blob/main/LICENSE
+publisher:
+  name: ConorsCode
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [global]
+  update_frequency: daily
+  size: 47,270 trials

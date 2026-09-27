@@ -1,0 +1,3 @@
+id: host-io
+description: 域名数据 API：DNS 记录、网站元数据、反向链接、重定向，以及同一 IP 或同一 DNS 服务器上的其他域名。
+group: 域名、DNS 与网络计算

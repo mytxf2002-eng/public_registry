@@ -1,0 +1,3 @@
+id: cdnjs
+description: Cloudflare 支持的前端库 CDN cdnjs 的接口：搜索库，查询某个库的版本、文件列表和 CDN 地址。链接是查询 jQuery 的示例。
+group: 软件包仓库与 CDN

@@ -1,0 +1,15 @@
+id: cartscout
+kind: [api]
+name: CartScout
+url: https://rapidapi.com/veselinveselinov06/api/cartscout-api
+description: Price, stock, variants and GTIN from Shopify, WooCommerce, Walmart and eBay product pages
+domain: shopping
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

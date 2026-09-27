@@ -1,0 +1,2 @@
+id: studyforrest
+description: 以电影《阿甘正传》为自然刺激的多模态脑成像数据集，包括 3T/7T 功能磁共振、结构像、眼动、心跳呼吸记录以及大量电影内容注释。数据以 DataLad 数据集形式托管在 GitHub、OpenNeuro 和 GIN，可免费克隆下载，采用 PDDL 公共领域许可。

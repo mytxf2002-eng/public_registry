@@ -1,0 +1,3 @@
+id: libretranslate
+description: 开源、可自建的机器翻译服务，基于 Argos Translate 离线模型，不依赖谷歌等商业接口。自建免费，官方托管实例调用 API 需要付费 key。英文描述写的 17 种语言是早期数字，现在支持的语言更多。
+group: 机器翻译与语言检测

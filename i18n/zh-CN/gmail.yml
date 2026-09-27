@@ -1,0 +1,3 @@
+id: gmail
+description: 谷歌官方的 Gmail API：用户通过 OAuth 授权后，应用可以读取、搜索和发送邮件，管理标签、草稿和会话。
+group: 邮件收发与邮件营销

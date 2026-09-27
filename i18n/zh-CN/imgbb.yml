@@ -1,0 +1,3 @@
+id: imgbb
+description: 免费图床 ImgBB 的上传接口：用 key 上传图片（文件、Base64 或图片网址均可），返回直链和缩略图地址，可以设置自动删除时间。
+group: 图片、文本与 JSON 存储

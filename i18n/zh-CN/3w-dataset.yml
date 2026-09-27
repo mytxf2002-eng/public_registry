@@ -1,0 +1,2 @@
+id: 3w-dataset
+description: 巴西国家石油公司（Petrobras）发布的海上油井异常事件数据集，包含真实、模拟和手绘三类来源的多变量时间序列实例及事件标签，以 Parquet 格式提供，并配有 Python 工具包，用于故障检测与分类研究。数据采用 CC BY 4.0 许可，代码为 Apache 2.0。

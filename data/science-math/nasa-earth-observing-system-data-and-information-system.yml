@@ -1,0 +1,27 @@
+id: nasa-earth-observing-system-data-and-information-system
+kind: [api, dataset]
+name: NASA Earth Observing System Data and Information System (EOSDIS)
+url: https://www.earthdata.nasa.gov/about/esdis/eosdis
+description: Earth science data from NASA satellites, aircraft and field campaigns, archived by discipline data centers (DAACs) and searchable through Earthdata Search and the CMR API
+domain: science-math
+tags: [earth-observation, satellite-data, remote-sensing, climate]
+license: CC0-1.0
+license_url: https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-guidance
+publisher:
+  name: NASA Earth Science Data and Information System (ESDIS) Project
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://cmr.earthdata.nasa.gov/search/site/docs/search/api.html
+dataset:
+  formats: [hdf5, netcdf, geotiff]
+  access: registration
+  url: https://search.earthdata.nasa.gov/
+  spatial: [global]
+  update_frequency: daily

@@ -1,0 +1,22 @@
+id: city-of-cambridge-gis-data
+kind: [dataset]
+name: City of Cambridge GIS Data
+url: https://cambridgegis.github.io/gisdata.html
+description: Municipal GIS layers for Cambridge, Massachusetts, such as address points, yearly assessing parcels, boundaries, transport and environmental features, in GeoJSON and TopoJSON
+domain: geography
+tags: [gis, parcels, address-points, municipal-data, boundaries]
+license: PDDL-1.0
+license_url: https://github.com/cambridgegis/cambridgegis_data/blob/main/LICENSE.md
+publisher:
+  name: City of Cambridge GIS
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geojson, json]
+  access: public
+  url: https://github.com/cambridgegis/cambridgegis_data
+  spatial: [US-MA]
+  update_frequency: irregular

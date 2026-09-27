@@ -1,0 +1,16 @@
+id: buddy
+kind: [api]
+name: Buddy
+url: https://buddy.works/docs/api/getting-started/overview
+description: The fastest continuous integration and continuous delivery platform
+domain: development
+tags: [continuous-integration]
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

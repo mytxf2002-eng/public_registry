@@ -1,0 +1,15 @@
+id: giant-bomb
+kind: [api]
+name: Giant Bomb
+url: https://www.giantbomb.com/api/documentation
+description: Video Games
+domain: games
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

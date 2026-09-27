@@ -1,0 +1,23 @@
+id: gpu-cloud-price-index
+kind: [dataset]
+name: GPU Cloud Price Index
+url: https://gpucloudcompare.com/data/
+description: Daily public list prices for cloud GPU instances such as H100, A100 and L40S from nine providers, with a current snapshot of about 135 plans and a daily min/median/max history
+domain: shopping
+tags: [gpu, cloud-computing, price-index, time-series]
+license: CC-BY-4.0
+license_url: https://gpucloudcompare.com/data/
+publisher:
+  name: GPUCloudCompare
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv]
+  access: public
+  temporal:
+    start: 2026-05
+    end: null
+  update_frequency: daily

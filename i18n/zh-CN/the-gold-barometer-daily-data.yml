@@ -1,0 +1,2 @@
+id: the-gold-barometer-daily-data
+description: 黄金买入环境综合评分（0-100）的每日记录，含区间判断和七个分项得分，另有按公开方法回溯计算的 1971 年以来月度序列及计算代码。GitHub 和官网提供 JSON/CSV，数据 CC BY 4.0、代码 MIT。该指标为网站自建模型，不构成投资建议。

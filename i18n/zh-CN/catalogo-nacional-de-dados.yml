@@ -1,0 +1,2 @@
+id: catalogo-nacional-de-dados
+description: 巴西联邦政府的国家数据目录（dados.gov.br），集中登记联邦各机构发布的公共数据集，提供元数据和数据文件下载链接，并有 REST API；网站为前端动态页面，API 需先用 gov.br 账户登录获取密钥。各数据集许可分别规定，目录中也包含尚未开放的数据说明。

@@ -1,0 +1,3 @@
+id: stackexchange
+description: Stack Exchange 问答网络（包括 Stack Overflow）的官方 API：问题、回答、评论、用户、标签和搜索。只读数据不用登录，不带 key 每个 IP 每天 300 次，注册应用 key 后提高到每天 1 万次。
+group: 代码托管与开发者社区

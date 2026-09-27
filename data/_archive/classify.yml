@@ -1,0 +1,18 @@
+id: classify
+kind: [api]
+name: Classify
+url: https://classify-web.herokuapp.com/#/api
+description: Encrypting & decrypting text messages
+domain: security
+license: unknown
+provenance:
+  added: 2021-11-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

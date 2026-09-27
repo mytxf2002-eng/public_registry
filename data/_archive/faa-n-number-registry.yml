@@ -1,0 +1,18 @@
+id: faa-n-number-registry
+kind: [api]
+name: FAA N-Number Registry
+url: https://n-number.starfile.org/api
+description: Every FAA-registered civil aircraft in the United States, lookup by N-number or Mode S hex code
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: n-number.starfile.org returns 404 on every path, and starfile.org now redirects to an unrelated project (RegMap Canada).

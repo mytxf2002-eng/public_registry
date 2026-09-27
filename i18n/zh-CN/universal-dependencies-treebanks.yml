@@ -1,0 +1,2 @@
+id: universal-dependencies-treebanks
+description: 通用依存关系（UD）项目按统一标准标注词性、形态特征和句法依存关系的多语言树库，2.18 版包含 193 种语言的 353 个树库，每半年发布一次，以 CoNLL-U 纯文本格式经 LINDAT/CLARIAH-CZ 仓库免费下载。各树库许可不同（多为 CC BY-SA 或 CC BY，部分为非商业许可），使用前需逐一查看。

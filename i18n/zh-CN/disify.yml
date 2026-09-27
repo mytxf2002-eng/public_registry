@@ -1,0 +1,3 @@
+id: disify
+description: 检查邮箱格式，并识别一次性和临时邮箱，免 key。
+group: 一次性邮箱识别

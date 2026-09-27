@@ -1,0 +1,15 @@
+id: transport-for-atlanta-us
+kind: [api]
+name: Transport for Atlanta, US
+url: http://www.itsmarta.com/app-developer-resources.aspx
+description: MARTA GTFS schedules and real-time rail and bus data for Atlanta
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

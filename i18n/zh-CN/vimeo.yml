@@ -1,0 +1,3 @@
+id: vimeo
+description: 视频托管平台 Vimeo 的官方接口：上传和管理视频，整理相册（showcase）和文件夹，设置隐私和嵌入播放器，通过 OAuth 授权。
+group: 视频平台开发接口

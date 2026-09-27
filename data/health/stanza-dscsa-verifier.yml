@@ -1,0 +1,15 @@
+id: stanza-dscsa-verifier
+kind: [api]
+name: Stanza DSCSA Verifier
+url: https://stanzaapi.com/tools/pharma-dscsa
+description: Verify FDA DSCSA and EU FMD pharmaceutical serialization barcodes
+domain: health
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

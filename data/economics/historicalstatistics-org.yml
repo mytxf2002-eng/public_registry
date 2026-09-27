@@ -1,0 +1,20 @@
+id: historicalstatistics-org
+kind: [dataset]
+name: Historicalstatistics.org
+url: https://www.historicalstatistics.org/
+description: Long-run historical statistics for Sweden, including consumer prices from 1290, GDP from 1620, wages, exchange rates, house prices and national accounts 1800-2000
+domain: economics
+tags: [economic-history, historical-statistics, prices, wages, exchange-rates]
+license: unknown
+publisher:
+  name: Rodney Edvinsson
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xls]
+  access: public
+  spatial: [SE]
+  update_frequency: irregular

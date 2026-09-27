@@ -1,0 +1,15 @@
+id: lastfm
+kind: [api]
+name: LastFm
+url: https://www.last.fm/api
+description: Scrobble listening history and look up artists, albums, tracks, similar artists and charts
+domain: music
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

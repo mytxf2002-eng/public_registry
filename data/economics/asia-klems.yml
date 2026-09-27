@@ -1,0 +1,24 @@
+id: asia-klems
+kind: [dataset]
+name: Asia KLEMS
+url: https://www.asiaklems.net/
+description: Industry-level output, intermediate inputs, labour, capital and growth-accounting (TFP) series for Korea, Japan, Taiwan and India, mostly covering 1980 to 2012
+domain: economics
+tags: [productivity, klems, growth-accounting, industry-statistics]
+license: unknown
+publisher:
+  name: Asia KLEMS
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  url: https://www.asiaklems.net/data/archive.asp
+  temporal:
+    start: '1980'
+    end: '2012'
+  spatial: [KR, JP, TW, IN]
+  update_frequency: irregular

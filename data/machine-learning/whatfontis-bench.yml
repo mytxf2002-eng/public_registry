@@ -1,0 +1,22 @@
+id: whatfontis-bench
+kind: [dataset]
+name: WhatFontIs-Bench
+url: https://github.com/whatfontis/WhatFontIs-Bench
+description: 'Synthetic test set for font family identification: 11,995 images of single words in 600 known fonts placed on real surfaces and scenes, with letter-level labels'
+domain: machine-learning
+tags: [font-recognition, synthetic-data, benchmark, text-images]
+license: CC-BY-4.0
+license_url: https://github.com/whatfontis/WhatFontIs-Bench/blob/main/LICENSE
+publisher:
+  name: WhatFontIs
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, jsonl, json]
+  access: public
+  url: https://github.com/whatfontis/WhatFontIs-Bench/releases
+  update_frequency: irregular
+  size: 11,995 images (~2 GB)

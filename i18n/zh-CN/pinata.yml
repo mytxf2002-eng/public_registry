@@ -1,0 +1,3 @@
+id: pinata
+description: IPFS 固定（pinning）服务：上传文件并固定在 IPFS 网络上，通过专用网关分发，常用于 NFT 和 Web3 项目，有免费档。
+group: 去中心化存储

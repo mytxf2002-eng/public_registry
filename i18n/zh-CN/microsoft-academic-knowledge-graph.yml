@@ -1,0 +1,2 @@
+id: microsoft-academic-knowledge-graph
+description: 将微软学术图谱（MAG，2020-06-19 快照）转换为 RDF 的知识图谱，含 80 多亿三元组，涵盖约 2.39 亿篇论文及作者、机构、期刊、会议和研究领域，并附与 Wikidata 的对应链接。可在 Zenodo 直接下载 N-Triples 压缩文件（约 107 GB），CC BY 4.0 许可；数据为 2020 年 6 月的静态快照。

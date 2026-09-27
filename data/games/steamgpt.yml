@@ -1,0 +1,15 @@
+id: steamgpt
+kind: [api]
+name: SteamGPT
+url: https://steamgpt.net
+description: Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends
+domain: games
+license: unknown
+provenance:
+  added: 2026-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

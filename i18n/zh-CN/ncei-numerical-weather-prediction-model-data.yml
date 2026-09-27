@@ -1,0 +1,2 @@
+id: ncei-numerical-weather-prediction-model-data
+description: 美国国家环境信息中心归档的数值天气预报模式数据，包括 GFS、GDAS、GEFS、NAM、RAP/RUC、CFS、NMME、NAVGEM 等模式的格点分析场和预报场，部分序列始于 2000 年代中期，可通过 HTTPS、THREDDS 免费下载，近期数据也在 AWS 开放数据上提供。

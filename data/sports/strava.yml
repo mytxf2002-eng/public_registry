@@ -1,0 +1,15 @@
+id: strava
+kind: [api]
+name: Strava
+url: https://strava.github.io/api/
+description: Connect with athletes, activities and more
+domain: sports
+license: unknown
+provenance:
+  added: 2017-01-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

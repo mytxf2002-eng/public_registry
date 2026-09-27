@@ -1,0 +1,20 @@
+id: single-dbfc-dataset
+kind: [dataset]
+name: Single DBFC Dataset
+url: https://github.com/ECSIM/dbfc-dataset
+description: Impedance and polarization measurements of a direct borohydride fuel cell with Pd/C, Pt/C and Pd-decorated Ni-Co/rGO anode catalysts at varied borohydride concentrations
+domain: science-math
+tags: [fuel-cells, electrochemistry, impedance-spectroscopy, catalysts]
+license: CC-BY-4.0
+license_url: https://github.com/ECSIM/dbfc-dataset/blob/master/LICENSE
+publisher:
+  name: ECSIM
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  update_frequency: static

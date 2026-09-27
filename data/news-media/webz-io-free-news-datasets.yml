@@ -1,0 +1,23 @@
+id: webz-io-free-news-datasets
+kind: [dataset]
+name: Webz.io Free News Datasets
+url: https://github.com/Webhose/free-news-datasets
+description: Weekly batches of about 1,000 crawled news articles grouped by theme, IPTC category and sentiment, with publication dates and other metadata, released since 2024
+domain: news-media
+tags: [news-articles, sentiment, iptc-categories, nlp]
+license: LicenseRef-Research-Only
+license_url: https://github.com/Webhose/free-news-datasets/blob/master/tou.MD
+publisher:
+  name: Webz.io
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  temporal:
+    start: '2024'
+    end: null
+  update_frequency: weekly

@@ -1,0 +1,23 @@
+id: everycrsreport-com
+kind: [dataset]
+name: EveryCRSReport.com
+url: https://www.everycrsreport.com/
+description: Archive of about 23,500 Congressional Research Service policy reports with their version history, as PDF and HTML text plus per-report JSON metadata and a CSV index
+domain: government
+tags: [congress, policy-analysis, legislation, reports]
+license: LicenseRef-US-Government-Work
+license_url: https://www.everycrsreport.com/download.html
+publisher:
+  name: American Governance Institute
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [pdf, html, json, csv]
+  access: public
+  url: https://www.everycrsreport.com/download.html
+  spatial: [US]
+  update_frequency: daily
+  size: 23,519 reports

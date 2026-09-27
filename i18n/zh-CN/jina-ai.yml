@@ -1,0 +1,3 @@
+id: jina-ai
+description: 搜索相关的 AI 接口：文本向量（embedding）、重排序（reranker）、把网页转成适合大模型读取的文本（Reader）以及 DeepSearch，支持多语言和多模态，新 key 附带免费额度。
+group: 自然语言处理与对话机器人

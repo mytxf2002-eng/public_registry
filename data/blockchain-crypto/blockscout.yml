@@ -1,0 +1,16 @@
+id: blockscout
+kind: [api]
+name: Blockscout
+url: https://dev.blockscout.com/
+description: Multichain block explorer REST API (with Etherscan-compatible JSON-RPC)
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

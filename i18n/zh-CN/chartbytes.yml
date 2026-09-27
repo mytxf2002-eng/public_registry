@@ -1,0 +1,3 @@
+id: chartbytes
+description: 把 URL 参数变成 PNG 或 SVG 图表图片（柱状、饼图、环形、堆叠），免费免注册，可用于 README、邮件和 Notion，定位是 QuickChart 和 Image-Charts 的替代。部署在 onrender.com 上。
+group: 图表、图示与图片生成

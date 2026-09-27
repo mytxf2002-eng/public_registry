@@ -1,0 +1,15 @@
+id: import-io
+kind: [api]
+name: import.io
+url: http://api.docs.import.io/
+description: Retrieve structured data from a website or RSS feed
+domain: development
+license: unknown
+provenance:
+  added: 2017-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

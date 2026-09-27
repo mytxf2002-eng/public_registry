@@ -1,0 +1,16 @@
+id: getotp
+kind: [api]
+name: GetOTP
+url: https://otp.dev/en/docs/
+description: Implement OTP flow quickly
+domain: security
+tags: [authentication]
+license: unknown
+provenance:
+  added: 2021-11-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

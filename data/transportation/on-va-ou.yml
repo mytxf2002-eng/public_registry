@@ -1,0 +1,15 @@
+id: on-va-ou
+kind: [api]
+name: On va où ?
+url: https://onvaou.app/developers/routing-api.html
+description: Bike, scooter, motorcycle, wheelchair and walking routes across Europe, with safety indicators
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

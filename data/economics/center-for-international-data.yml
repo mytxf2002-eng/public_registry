@@ -1,0 +1,24 @@
+id: center-for-international-data
+kind: [dataset]
+name: Center for International Data
+url: https://cid.ucdavis.edu/data
+description: 'Historical trade datasets: NBER-UN world trade flows 1962-2000, bilateral World Trade Flows 1984-2016, and US imports, exports and tariffs by HS and SIC code from 1972'
+domain: economics
+tags: [international-trade, imports, exports, tariffs, trade-flows]
+license: LicenseRef-Provider-Terms
+license_url: https://cid.ucdavis.edu/tou
+publisher:
+  name: Center for International Data, UC Davis
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [stata, sas, text]
+  access: public
+  temporal:
+    start: '1962'
+    end: '2016'
+  spatial: [global, US]
+  update_frequency: static

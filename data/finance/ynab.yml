@@ -1,0 +1,15 @@
+id: ynab
+kind: [api]
+name: YNAB
+url: https://api.ynab.com/
+description: Budgeting & Planning
+domain: finance
+license: unknown
+provenance:
+  added: 2019-02-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

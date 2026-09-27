@@ -1,0 +1,15 @@
+id: chomp
+kind: [api]
+name: Chomp
+url: https://chompthis.com/api/
+description: Data about various grocery products and foods
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

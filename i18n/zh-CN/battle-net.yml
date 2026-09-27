@@ -1,0 +1,3 @@
+id: battle-net
+description: 暴雪官方的游戏数据接口：《魔兽世界》《炉石传说》《暗黑破坏神 III》《星际争霸 II》的角色、物品、卡牌、天梯等数据，用 OAuth 客户端凭证换取令牌。文档已迁到 Battle.net 社区开发者门户。
+group: 游戏厂商官方接口

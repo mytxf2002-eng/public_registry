@@ -1,0 +1,2 @@
+id: benchgecko
+description: 跟踪约 1070 个 AI 模型（270 多家提供商）的基准得分、API 价格、上下文长度和发布日期，并提供基准排行榜和模型对比。免费 JSON 接口每天 100 次请求、无需密钥，但须在页面注明“Data by BenchGecko”；CSV 导出和历史数据需付费，另在 Hugging Face 等平台发布 CC BY 4.0 的样例数据。

@@ -1,0 +1,24 @@
+id: catalogo-nacional-de-dados
+kind: [api, dataset]
+name: Catálogo Nacional de Dados (dados.gov.br)
+url: https://dados.gov.br/dados/conjuntos-dados
+description: Brazil's national catalogue of public datasets published by federal bodies, with metadata, links to the data files and a REST API for search
+domain: government
+tags: [open-government, federal-government, dataset-catalog, public-sector]
+license: unknown
+publisher:
+  name: Governo Federal do Brasil
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://dados.gov.br/swagger-ui/index.html
+dataset:
+  formats: [other]
+  access: public
+  spatial: [BR]

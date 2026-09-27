@@ -1,0 +1,30 @@
+id: bluebikes-system-data
+kind: [api, dataset]
+name: Bluebikes System Data
+url: https://bluebikes.com/system-data
+description: Trip histories of the Boston-area Bluebikes (formerly Hubway) bike-share system since 2011, with start and end stations, times, duration and user type, plus station lists
+domain: transportation
+tags: [bike-share, trip-history, cycling, gbfs]
+license: LicenseRef-Provider-Terms
+license_url: https://bluebikes.com/data-license-agreement
+publisher:
+  name: Bluebikes (operated by Lyft for Boston-area municipalities)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://bluebikes.com/system-data
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://s3.amazonaws.com/hubway-data/index.html
+  temporal:
+    start: '2011'
+    end: null
+  spatial: [US-MA]
+  update_frequency: quarterly

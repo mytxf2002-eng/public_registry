@@ -1,0 +1,21 @@
+id: kontragentpro
+kind: [api, dataset]
+name: KontragentPro
+url: https://kontragentpro.ru/api/v2/docs
+description: 'Russian company data from state registers by INN or OGRN: profile, finances, timeline'
+domain: business
+license: LicenseRef-Custom-Open
+license_url: https://kontragentpro.ru/developers
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://kontragentpro.ru/data
+  spatial: [RU]

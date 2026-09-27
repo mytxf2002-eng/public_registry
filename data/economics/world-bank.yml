@@ -1,0 +1,28 @@
+id: world-bank
+kind: [api, dataset]
+name: World Bank
+url: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+description: Development indicators such as GDP, population and poverty for all countries, many since 1960
+domain: economics
+tags: [development-indicators, wdi, poverty, time-series, country-statistics]
+license: CC-BY-4.0
+license_url: https://datacatalog.worldbank.org/public-licenses
+publisher:
+  name: World Bank
+  kind: intergovernmental
+provenance:
+  added: 2017-02-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [csv, xml, xls]
+  access: public
+  temporal:
+    start: '1960'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

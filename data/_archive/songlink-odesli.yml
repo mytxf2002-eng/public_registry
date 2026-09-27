@@ -1,0 +1,18 @@
+id: songlink-odesli
+kind: [api]
+name: Songlink / Odesli
+url: https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741
+description: Get all the services on which a song is available
+domain: music
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Songlink/Odesli retired its public API (v1-alpha.1) on 31 July 2026 and has stopped issuing API keys.

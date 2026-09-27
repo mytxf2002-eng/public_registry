@@ -1,0 +1,22 @@
+id: pleiades
+kind: [dataset]
+name: Pleiades
+url: https://pleiades.stoa.org/
+description: Community-built gazetteer of about 41,500 ancient-world places with names, locations, time periods and references, available as JSON, CSV, KML and RDF
+domain: social-sciences
+tags: [gazetteer, ancient-history, archaeology, place-names, linked-data]
+license: CC-BY-3.0
+license_url: https://pleiades.stoa.org/downloads
+publisher:
+  name: Pleiades (Institute for the Study of the Ancient World, NYU)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv, kml, rdf]
+  access: public
+  url: https://pleiades.stoa.org/downloads
+  update_frequency: daily
+  size: 41,480 places (release 4.1)

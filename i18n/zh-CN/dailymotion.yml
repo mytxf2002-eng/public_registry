@@ -1,0 +1,3 @@
+id: dailymotion
+description: 法国视频平台 Dailymotion 的官方接口：上传和管理视频、搜索公开内容、嵌入播放器。文档已迁到 developers.dailymotion.com，现行推荐版本是 API v2，旧版称为 Legacy API。
+group: 视频平台开发接口

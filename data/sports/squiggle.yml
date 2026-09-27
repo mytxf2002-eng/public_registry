@@ -1,0 +1,15 @@
+id: squiggle
+kind: [api]
+name: Squiggle
+url: https://api.squiggle.com.au
+description: Fixtures, results and predictions for Australian Football League matches
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

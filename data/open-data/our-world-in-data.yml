@@ -1,0 +1,25 @@
+id: our-world-in-data
+kind: [api, dataset]
+name: Our World in Data
+url: https://ourworldindata.org/
+description: About 14,000 charts across 126 topics on health, population, poverty, energy, emissions and more, each downloadable as CSV with metadata, for countries worldwide
+domain: open-data
+tags: [global-development, time-series, population, public-health, co2-emissions]
+license: CC-BY-4.0
+license_url: https://ourworldindata.org/faqs
+publisher:
+  name: Global Change Data Lab
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.owid.io/projects/etl/api/
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [global]

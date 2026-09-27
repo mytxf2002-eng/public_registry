@@ -1,0 +1,3 @@
+id: escape
+description: 对不同类型的查询语句做转义处理的接口，是 GitHub 上的开源小项目。
+group: 加密、隐私与其他工具

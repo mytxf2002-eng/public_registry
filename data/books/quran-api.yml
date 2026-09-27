@@ -1,0 +1,15 @@
+id: quran-api
+kind: [api]
+name: Quran-api
+url: https://github.com/fawazahmed0/quran-api#readme
+description: Free Quran API Service with 90+ different languages and 400+ translations
+domain: books
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

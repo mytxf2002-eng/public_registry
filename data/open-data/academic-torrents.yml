@@ -1,0 +1,20 @@
+id: academic-torrents
+kind: [dataset]
+name: Academic Torrents
+url: https://academictorrents.com/
+description: BitTorrent-based repository of research datasets, papers and course materials totalling over 419 TB, with web seeds and a nightly XML dump of all entries
+domain: open-data
+tags: [bittorrent, research-data, data-sharing, large-datasets, mirrors]
+license: unknown
+publisher:
+  name: Institute for Reproducible Research
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, xml]
+  access: public
+  update_frequency: daily
+  size: over 419 TB

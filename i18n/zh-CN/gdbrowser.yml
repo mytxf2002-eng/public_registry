@@ -1,0 +1,3 @@
+id: gdbrowser
+description: 《几何冲刺》（Geometry Dash）第三方关卡浏览网站 GDBrowser 的接口，把游戏服务器的数据转成易用的 JSON：关卡、玩家资料、排行榜、评论等。
+group: 主机与独立游戏资料

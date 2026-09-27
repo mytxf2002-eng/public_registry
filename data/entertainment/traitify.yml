@@ -1,0 +1,16 @@
+id: traitify
+kind: [api]
+name: Traitify
+url: https://app.traitify.com/developer
+description: Assess, collect and analyze Personality
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2017-03-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

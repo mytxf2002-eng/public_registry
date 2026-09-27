@@ -1,0 +1,25 @@
+id: korean-equity-daily-prices-plus-dart-filing-impact
+kind: [dataset]
+name: Korean Equity Daily Prices + DART Filing Impact
+url: https://huggingface.co/datasets/aikstockdata/korea-equity-daily
+description: Daily closing prices and volumes for 2,787 KOSPI, KOSDAQ and KONEX stocks from May 2025 to September 2026, plus stock returns after about 2,800 DART regulatory filings
+domain: finance
+tags: [stock-prices, equities, regulatory-filings, event-study, kospi]
+license: LicenseRef-Research-Only
+license_url: https://aikstockdata.com/licenses/aiksd-public-1.1.txt
+publisher:
+  name: AIK Stock Data
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet, csv, jsonl]
+  access: public
+  temporal:
+    start: 2025-05
+    end: 2026-09
+  spatial: [KR]
+  update_frequency: irregular
+  size: 880,740 daily price rows

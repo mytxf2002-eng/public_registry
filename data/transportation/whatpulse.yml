@@ -1,0 +1,16 @@
+id: whatpulse
+kind: [api]
+name: WhatPulse
+url: https://developer.whatpulse.org/#web-api
+description: Small application that measures your keyboard/mouse usage
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-11-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

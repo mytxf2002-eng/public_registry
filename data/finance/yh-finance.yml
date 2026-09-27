@@ -1,0 +1,15 @@
+id: yh-finance
+kind: [api]
+name: YH Finance
+url: https://financeapi.net/
+description: Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

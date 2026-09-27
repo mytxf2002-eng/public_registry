@@ -1,0 +1,18 @@
+id: catalogopolis
+kind: [api]
+name: Catalogopolis
+url: https://api.catalogopolis.xyz/docs/
+description: Doctor Who API
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The API subdomain is gone and catalogopolis.xyz now serves a spam link page.

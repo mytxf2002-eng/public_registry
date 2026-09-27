@@ -1,0 +1,25 @@
+id: catalogo-nacional-de-datos-abiertos
+kind: [api, dataset]
+name: Catálogo Nacional de Datos Abiertos
+url: https://catalogodatos.gub.uy/
+description: About 2,700 open datasets from 73 Uruguayan public bodies, academia and companies, led by social development data, mostly as CSV, JSON, XML and Excel
+domain: government
+tags: [open-government, social-development, municipal, public-sector]
+license: LicenseRef-Open-Government
+license_url: https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf
+publisher:
+  name: AGESIC (Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [csv, json, xml, xlsx]
+  access: public
+  spatial: [UY]
+  size: 2,717 datasets

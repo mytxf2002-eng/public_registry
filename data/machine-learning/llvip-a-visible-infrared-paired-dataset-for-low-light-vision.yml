@@ -1,0 +1,21 @@
+id: llvip-a-visible-infrared-paired-dataset-for-low-light-vision
+kind: [dataset]
+name: 'LLVIP: A Visible-infrared Paired Dataset for Low-light Vision'
+url: https://bupt-ai-cz.github.io/LLVIP/
+description: 15,488 time- and space-aligned visible and thermal infrared image pairs (30,976 images), mostly from dark scenes, with pedestrian annotations
+domain: machine-learning
+tags: [infrared-imaging, low-light-vision, pedestrian-detection, image-fusion]
+license: LicenseRef-Research-Only
+license_url: https://github.com/bupt-ai-cz/LLVIP/blob/main/Term%20of%20Use%20and%20License.md
+publisher:
+  name: Beijing University of Posts and Telecommunications (Chuang Zhu's group)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image]
+  access: registration
+  update_frequency: static
+  size: 30,976 images

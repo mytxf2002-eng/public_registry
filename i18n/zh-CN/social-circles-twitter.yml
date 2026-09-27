@@ -1,0 +1,2 @@
+id: social-circles-twitter
+description: 斯坦福 SNAP 发布的推特自我中心网络数据：973 个 ego 网络，共 81,306 个用户和 177 万条关注边，含用户自建列表（圈子）和匿名化的资料特征，来自 McAuley 与 Leskovec 的社交圈发现研究（NIPS 2012）。可直接下载 gzip 文件，未声明许可。

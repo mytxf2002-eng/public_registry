@@ -1,0 +1,16 @@
+id: positivequotation
+kind: [api]
+name: PositiveQuotation
+url: https://positivequotation.com/developers/public-domain-quotes-api
+description: Source-verified public-domain English proverbs with provenance
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

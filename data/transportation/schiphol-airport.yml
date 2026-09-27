@@ -1,0 +1,15 @@
+id: schiphol-airport
+kind: [api]
+name: Schiphol Airport
+url: https://developer.schiphol.nl/
+description: Real-time arrivals and departures, airlines, destinations and aircraft types at Schiphol
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: cat-facts-catfact
+kind: [api]
+name: Cat Facts (catfact.ninja)
+url: https://catfact.ninja/
+description: Random cat facts
+domain: animals
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

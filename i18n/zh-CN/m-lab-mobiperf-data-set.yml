@@ -1,0 +1,2 @@
+id: m-lab-mobiperf-data-set
+description: 开源手机测网应用 MobiPerf（密歇根大学等开发）在 2012–2020 年采集的匿名移动网络测量数据，包括时延和吞吐量等测试结果，用户标识已删除、位置精度已降低。以按时间段打包的 JSON 压缩文件存放在 Google Cloud Storage 公开存储桶中，可用 gsutil 免费下载，按 M-Lab 数据政策以 CC0 发布；项目已停止更新。

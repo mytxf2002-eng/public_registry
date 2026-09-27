@@ -1,0 +1,16 @@
+id: steem
+kind: [api]
+name: Steem
+url: https://developers.steem.io/
+description: Blockchain-based blogging and social media website
+domain: blockchain-crypto
+tags: [blockchain]
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

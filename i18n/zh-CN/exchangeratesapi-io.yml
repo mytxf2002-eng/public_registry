@@ -1,0 +1,3 @@
+id: exchangeratesapi-io
+description: APILayer 的产品：实时和历史汇率、货币换算，官网称覆盖 170 多种货币、每 60 秒更新，有免费档。早年是基于欧洲央行数据的免费开源项目，用法和 Fixer 基本一致。
+group: 商业汇率接口（含免费档）

@@ -1,0 +1,25 @@
+id: adsb-iq-open-data
+kind: [dataset]
+name: ADSB IQ Open Data
+url: https://adsbiq.com/data
+description: Daily files of ADS-B aircraft state changes (position, altitude, speed, callsign, squawk) received by a volunteer feeder network since June 2026
+domain: transportation
+tags: [ads-b, aircraft-tracking, flight-positions, aviation, parquet]
+license: ODbL-1.0
+license_url: https://adsbiq.com/data
+publisher:
+  name: Sky Power Services LLC (ADSB IQ)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet]
+  access: public
+  url: https://github.com/Sky-Power-Services/adsbiq-data/releases
+  temporal:
+    start: 2026-06
+    end: null
+  spatial: [global]
+  update_frequency: daily

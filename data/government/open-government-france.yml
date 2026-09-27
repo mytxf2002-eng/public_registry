@@ -1,0 +1,21 @@
+id: open-government-france
+kind: [api, dataset]
+name: Open Government, France
+url: https://www.data.gouv.fr/
+description: French Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2017-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, geojson, grib, xlsx]
+  access: public
+  url: https://www.data.gouv.fr/datasets
+  spatial: [FR]
+  size: 74,089 datasets

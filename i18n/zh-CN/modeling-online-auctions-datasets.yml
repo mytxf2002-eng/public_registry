@@ -1,0 +1,2 @@
+id: modeling-online-auctions-datasets
+description: Wolfgang Jank 与 Galit Shmueli 所著《Modeling Online Auctions》（Wiley，2010）的配套数据，包含 eBay 上卡地亚手表、Palm Pilot 掌上电脑、施华洛世奇珠子和 Xbox 游戏机拍卖的出价记录（拍卖编号、出价金额与时间、竞拍者信用评分、起拍价和成交价），CSV 格式，可通过 Google Drive 直接下载；网站未注明许可证。

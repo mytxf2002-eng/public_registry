@@ -1,0 +1,27 @@
+id: opencard-db
+kind: [api, dataset]
+name: OpenCard DB
+url: https://github.com/thedavidweng/opencard-db
+description: Structured records of about 250 credit card products in the US, Canada and China with annual fees, APR ranges, rewards categories, FX fees and sources
+domain: finance
+tags: [credit-cards, card-rewards, fees, open-database]
+license: CC-BY-4.0
+license_url: https://github.com/thedavidweng/opencard-db/blob/main/LICENSE-DATA
+publisher:
+  name: David Weng and contributors
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://github.com/thedavidweng/opencard-db/blob/main/docs/api.md
+dataset:
+  formats: [json, csv, yaml]
+  access: public
+  url: https://thedavidweng.github.io/opencard-db/
+  spatial: [US, CA, CN]
+  update_frequency: irregular

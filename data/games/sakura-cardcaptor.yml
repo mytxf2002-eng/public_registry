@@ -1,0 +1,15 @@
+id: sakura-cardcaptor
+kind: [api]
+name: Sakura CardCaptor
+url: https://github.com/JessVel/sakura-card-captor-api
+description: Sakura CardCaptor Cards Information
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

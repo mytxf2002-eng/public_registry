@@ -1,0 +1,3 @@
+id: valr
+description: 南非交易所 VALR 的 API：REST 接口负责下单等交易操作，WebSocket 推送行情、订单和余额变化。
+group: 地区交易所与其他交易平台

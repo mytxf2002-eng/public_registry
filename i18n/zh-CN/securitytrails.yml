@@ -1,0 +1,3 @@
+id: securitytrails
+description: 域名和 IP 情报：当前和历史的 WHOIS、DNS 记录，还能查子域名和关联域名，常用于安全调查和资产侦察。
+group: 域名、证书与网站检查

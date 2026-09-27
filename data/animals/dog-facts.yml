@@ -1,0 +1,15 @@
+id: dog-facts
+kind: [api]
+name: Dog Facts (dukengn.github.io)
+url: https://dukengn.github.io/Dog-facts-API/
+description: Random dog facts
+domain: animals
+license: unknown
+provenance:
+  added: 2021-03-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

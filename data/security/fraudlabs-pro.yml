@@ -1,0 +1,15 @@
+id: fraudlabs-pro
+kind: [api]
+name: FraudLabs Pro
+url: https://www.fraudlabspro.com/developer/api/screen-order
+description: Screen order information using AI to detect frauds
+domain: security
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

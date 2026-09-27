@@ -1,0 +1,15 @@
+id: fbi-wanted
+kind: [api]
+name: FBI Wanted
+url: https://www.fbi.gov/wanted/api
+description: Access information on the FBI Wanted program
+domain: government
+license: unknown
+provenance:
+  added: 2020-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

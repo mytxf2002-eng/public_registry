@@ -1,0 +1,15 @@
+id: http-cat
+kind: [api]
+name: HTTP Cat
+url: https://http.cat/
+description: Cat for every HTTP Status
+domain: animals
+license: unknown
+provenance:
+  added: 2017-12-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

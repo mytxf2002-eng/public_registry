@@ -1,0 +1,15 @@
+id: transport-for-manchester-england
+kind: [api]
+name: Transport for Manchester, England
+url: https://developer.tfgm.com/
+description: TfGM transport network data
+domain: transportation
+license: unknown
+provenance:
+  added: 2018-12-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

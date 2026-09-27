@@ -1,0 +1,15 @@
+id: randomfox
+kind: [api]
+name: RandomFox
+url: https://randomfox.ca/floof/
+description: Random pictures of foxes
+domain: animals
+license: unknown
+provenance:
+  added: 2018-03-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

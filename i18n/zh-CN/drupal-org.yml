@@ -1,0 +1,3 @@
+id: drupal-org
+description: Drupal 官网 drupal.org 的接口，可以查询站上的项目（模块、主题）、议题、用户等数据。
+group: 软件包与项目目录

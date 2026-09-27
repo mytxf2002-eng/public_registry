@@ -1,0 +1,15 @@
+id: datacite
+kind: [api]
+name: DataCite
+url: https://support.datacite.org/docs/rest-api
+description: Search and retrieve DOI metadata for research datasets and publications
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: kdp-intelligence
+kind: [api]
+name: KDP Intelligence
+url: https://kdp-intelligence-api.vercel.app/docs
+description: KDP niche demand scores, competition analysis and revenue estimates
+domain: books
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

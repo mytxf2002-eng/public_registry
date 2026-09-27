@@ -1,0 +1,24 @@
+id: titanic-machine-learning-from-disaster
+kind: [dataset]
+name: Titanic - Machine Learning from Disaster
+url: https://www.kaggle.com/competitions/titanic
+description: Titanic passenger records (class, sex, age, fare, family aboard, port) split into 891 labelled training rows and 418 test rows for predicting survival
+domain: machine-learning
+tags: [classification, titanic, tabular, survival, competition]
+license: unknown
+publisher:
+  name: Kaggle
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  url: https://www.kaggle.com/competitions/titanic/data
+  temporal:
+    start: '1912'
+    end: '1912'
+  update_frequency: static
+  size: 1,309 passengers

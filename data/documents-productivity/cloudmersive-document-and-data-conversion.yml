@@ -1,0 +1,15 @@
+id: cloudmersive-document-and-data-conversion
+kind: [api]
+name: Cloudmersive Document and Data Conversion
+url: https://cloudmersive.com/convert-api
+description: HTML/URL to PDF/PNG, Office documents to PDF, image conversion
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2018-05-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

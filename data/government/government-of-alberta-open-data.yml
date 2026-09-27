@@ -1,0 +1,25 @@
+id: government-of-alberta-open-data
+kind: [api, dataset]
+name: Government of Alberta Open Data
+url: https://open.alberta.ca/opendata
+description: About 3,000 datasets from Alberta ministries and the Alberta Energy Regulator on health, population, labour, environment, transport and more, mostly XML, XLSX and CSV
+domain: government
+tags: [open-government, provincial-data, ckan, public-sector]
+license: LicenseRef-Open-Government
+license_url: https://open.alberta.ca/licence
+publisher:
+  name: Government of Alberta
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://open.alberta.ca/interact/for-developers
+dataset:
+  formats: [xml, xlsx, csv, xls, json]
+  access: public
+  spatial: [CA-AB]

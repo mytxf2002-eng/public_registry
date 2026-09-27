@@ -1,0 +1,15 @@
+id: freehire
+kind: [api]
+name: freehire
+url: https://freehire.me/docs/api
+description: Open-source search engine aggregating tech jobs from company ATS boards
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

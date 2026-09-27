@@ -1,0 +1,3 @@
+id: cartscout
+description: 输入 Shopify、WooCommerce、沃尔玛或 eBay 的商品页面，返回价格、库存、规格变体和 GTIN 商品条码，托管在 RapidAPI 上。
+group: 商品、价格与评论数据

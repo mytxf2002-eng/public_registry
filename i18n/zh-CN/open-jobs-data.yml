@@ -1,0 +1,2 @@
+id: open-jobs-data
+description: 每日更新的招聘信息数据集：从 Greenhouse、Lever、Ashby、Workday 等九种招聘系统的公开接口抓取约 380 家科技公司的在招职位（约 3.8 万条），统一为同一结构，含职位、部门、地点、是否远程和申请链接，并提供新增职位 RSS。GitHub 直接下载 JSON/CSV，MIT 许可。

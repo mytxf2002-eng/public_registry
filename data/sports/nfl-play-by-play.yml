@@ -1,0 +1,24 @@
+id: nfl-play-by-play
+kind: [dataset]
+name: NFL Play-by-Play (DoltHub)
+url: https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play
+description: About 943,000 NFL plays from roughly the 2000 to 2019 seasons, with teams and players tables, imported from nflfastR output into a version-controlled SQL database
+domain: sports
+tags: [american-football, nfl, play-by-play, sql]
+license: unknown
+publisher:
+  name: DoltHub (formerly Liquidata)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, other]
+  access: public
+  temporal:
+    start: '2000'
+    end: '2020'
+  spatial: [US]
+  update_frequency: static
+  size: 943,096 plays

@@ -1,0 +1,15 @@
+id: open-government-norway
+kind: [api]
+name: Open Government, Norway
+url: https://data.norge.no/dataservices
+description: Norwegian Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: readme-typing-svg
+description: 动态生成“打字效果”的 SVG 动画（文字逐字出现再删除），常放在 GitHub 个人主页和仓库 README 里，字体、颜色、速度等都能用 URL 参数定制。
+group: 占位图与 README 装饰

@@ -1,0 +1,15 @@
+id: not-human-search
+kind: [api]
+name: Not Human Search
+url: https://nothumansearch.ai/openapi.yaml
+description: AI tool discovery with agentic scoring for 8,600+ tools and MCP servers
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-06-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

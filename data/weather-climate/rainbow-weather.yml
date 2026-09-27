@@ -1,0 +1,15 @@
+id: rainbow-weather
+kind: [api]
+name: Rainbow Weather
+url: https://developer.rainbow.ai/
+description: Global real-time nowcasting API powered by radar + satellite fusion
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: open-vsx
+kind: [api]
+name: Open VSX
+url: https://open-vsx.org/
+description: Search and access VS Code extensions from the Open VSX registry
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

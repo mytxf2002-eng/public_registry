@@ -1,0 +1,2 @@
+id: cern-open-data-portal
+description: CERN 的高能物理开放数据门户，提供 CMS、ATLAS、ALICE、LHCb 等实验的对撞和模拟事件数据（总量超过 5 PB），并附分析软件、虚拟机环境和教学材料。可直接下载或用 cernopendata-client 命令行工具获取，数据以 CC0 发布。

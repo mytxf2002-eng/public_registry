@@ -1,0 +1,22 @@
+id: 9th-dimacs-implementation-challenge-shortest-paths
+kind: [dataset]
+name: '9th DIMACS Implementation Challenge: Shortest Paths'
+url: https://www.diag.uniroma1.it/challenge9/download.shtml
+description: 'Benchmark US road graphs for shortest-path research: 12 instances from New York City (264,346 nodes) to the full USA (23.9 million nodes, 58.3 million arcs), with distance and travel-time weights'
+domain: networks
+tags: [road-networks, shortest-paths, graph-benchmark, routing]
+license: LicenseRef-Public-Domain
+license_url: https://www.diag.uniroma1.it/challenge9/download.shtml
+publisher:
+  name: DIMACS and Sapienza University of Rome
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  spatial: [US]
+  update_frequency: static
+  size: 335 MB (full USA graph, gz)

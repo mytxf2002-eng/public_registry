@@ -1,0 +1,2 @@
+id: sec-form-4-insider-trading
+description: AlphaAI 从美国证券交易委员会（SEC）EDGAR 的 Form 4 申报中解析出的内部人交易数据：约 2.08 万条逐笔交易（高管、董事和持股 10% 以上的股东），以及约 8,500 条按申报归并并附相关性评分的交易事件。两个 CSV 文件可在 Hugging Face 直接下载，采用 CC BY 4.0 许可；这是 2026 年 7 月的一次性快照。

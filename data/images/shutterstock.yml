@@ -1,0 +1,16 @@
+id: shutterstock
+kind: [api]
+name: shutterstock
+url: https://api-reference.shutterstock.com/
+description: Stock Photos and Videos
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

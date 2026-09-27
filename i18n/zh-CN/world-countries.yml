@@ -1,0 +1,2 @@
+id: world-countries
+description: 按 ISO 3166-1 列出的世界各国和地区资料，包括各类国家代码、本地及多语言名称、首都、货币、官方语言、国际电话区号、陆地邻国、面积和经纬度，另附国界 GeoJSON 和国旗 SVG；提供 JSON、CSV、XML、YAML 格式，可从 GitHub、npm 或 Composer 获取，数据采用 ODbL 许可（国旗除外）。

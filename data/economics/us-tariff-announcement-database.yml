@@ -1,0 +1,25 @@
+id: us-tariff-announcement-database
+kind: [dataset]
+name: US Tariff Announcement Database (USTAD)
+url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JH1JUA
+description: Monthly 2025 panel of US statutory and effective tariff rates by origin country and HTS 10-digit product, with product-level changes for 53 presidential tariff announcements
+domain: economics
+tags: [tariffs, trade-policy, executive-orders, hs-codes]
+license: CC0-1.0
+license_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JH1JUA
+publisher:
+  name: Kalina Manova, Dennis Novy, Thomas Sampson and Aaron Tang
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, stata]
+  access: public
+  temporal:
+    start: 2025-01
+    end: 2025-12
+  spatial: [US]
+  update_frequency: static
+  size: about 1.6 GB

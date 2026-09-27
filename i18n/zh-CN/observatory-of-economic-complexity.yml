@@ -1,0 +1,2 @@
+id: observatory-of-economic-complexity
+description: OEC 提供各国按 HS 和 SITC 分类的国际贸易数据（SITC 自 1962 年起）、经济复杂度指数，以及部分国家的次国家级贸易数据。历史国际贸易数据可通过免密钥 API 和网页免费获取；最新月度数据、次国家级和企业数据需付费订阅。

@@ -1,0 +1,19 @@
+id: czech-namedays-calendar
+kind: [api]
+name: Czech Namedays Calendar
+url: https://svatky.adresa.info
+description: Lookup for a name and returns nameday date
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2017-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The Vercel deployment serving the API has been disabled since early 2026 and the project is unmaintained.

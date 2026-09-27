@@ -1,0 +1,2 @@
+id: city-of-chicago-data-portal
+description: 美国芝加哥市政府开放数据门户（Socrata 平台），约 900 个数据集，涵盖教育、行政与财政、卫生与社会服务、交通、社区与经济发展、环卫、治安等，许多每日更新，可导出 CSV、JSON 等格式并通过 SODA API 免密钥调用；使用须遵守市政府的数据使用条款。

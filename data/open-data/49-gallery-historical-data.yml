@@ -1,0 +1,15 @@
+id: 49-gallery-historical-data
+kind: [api]
+name: 49 Gallery Historical Data
+url: https://api.181649.com/docs
+description: Normalized historical records and 25 daily-updated reference series
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

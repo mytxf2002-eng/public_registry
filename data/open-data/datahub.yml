@@ -1,0 +1,20 @@
+id: datahub
+kind: [dataset]
+name: DataHub
+url: https://datahub.io/publications
+description: Curated data packages such as the Core Datasets (market prices, economic indicators, country and airport codes), national postal code lists and FiveThirtyEight data
+domain: open-data
+tags: [data-packages, reference-data, time-series, frictionless-data, postal-codes]
+license: unknown
+publisher:
+  name: Datopian
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://datahub.io/core
+  update_frequency: irregular

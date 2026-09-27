@@ -1,0 +1,22 @@
+id: openfda
+kind: [api, dataset]
+name: openFDA
+url: https://open.fda.gov
+description: Public FDA data about drugs, devices and foods
+domain: health
+license: unknown
+provenance:
+  added: 2017-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [json]
+  access: public
+  url: https://open.fda.gov/data/downloads/
+  spatial: [US]
+  update_frequency: weekly
+  size: 133.5 GB (2,390 zip files)

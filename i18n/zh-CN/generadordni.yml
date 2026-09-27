@@ -1,0 +1,3 @@
+id: generadordni
+description: 西班牙的测试数据生成接口：随机但格式有效的个人资料（含 DNI 身份证号）、车辆、银行账户和银行卡等。
+group: 个人资料与地址假数据

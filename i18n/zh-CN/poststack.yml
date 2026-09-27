@@ -1,0 +1,3 @@
+id: poststack
+description: 数据托管在欧盟的邮件发送 API：事务邮件和营销邮件，带联系人管理、群发和数据统计，有 SDK。
+group: 邮件发送服务

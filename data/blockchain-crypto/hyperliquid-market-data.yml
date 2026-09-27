@@ -1,0 +1,16 @@
+id: hyperliquid-market-data
+kind: [api]
+name: Hyperliquid Market Data
+url: https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest
+description: Hyperliquid open interest, funding and cross-venue predicted rates per coin
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

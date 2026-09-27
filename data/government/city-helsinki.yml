@@ -1,0 +1,20 @@
+id: city-helsinki
+kind: [api, dataset]
+name: City, Helsinki
+url: https://hri.fi/en_gb/
+description: Helsinki(FI) City Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [xlsx, csv, json, shapefile]
+  access: public
+  spatial: [FI]
+  size: 593 datasets

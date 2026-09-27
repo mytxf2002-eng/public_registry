@@ -1,0 +1,15 @@
+id: bclaws
+kind: [api]
+name: BCLaws
+url: https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html
+description: Access to the laws of British Columbia
+domain: government
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

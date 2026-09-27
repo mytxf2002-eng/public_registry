@@ -1,0 +1,15 @@
+id: geekflare
+kind: [api]
+name: GeekFlare
+url: https://apidocs.geekflare.com/docs/geekflare-api
+description: Provide numerous capabilities for important testing and monitoring methods for websites
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

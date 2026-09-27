@@ -1,0 +1,21 @@
+id: dietlyapi
+kind: [api]
+name: DietlyAPI
+url: https://www.getdietly.com/api
+description: REST lookup of about 4.7 million foods with calories, macronutrients, micronutrients and barcode search, built mainly on Open Food Facts and USDA data
+domain: food-agriculture
+tags: [nutrition, food-products, barcodes, calories]
+license: LicenseRef-Provider-Terms
+license_url: https://www.getdietly.com/api-terms
+publisher:
+  name: Dietly
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.getdietly.com/api-guide

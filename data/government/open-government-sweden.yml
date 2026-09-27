@@ -1,0 +1,15 @@
+id: open-government-sweden
+kind: [api]
+name: Open Government, Sweden
+url: https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database
+description: Sweden Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

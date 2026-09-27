@@ -1,0 +1,15 @@
+id: bank-of-russia
+kind: [api]
+name: Bank of Russia
+url: https://www.cbr.ru/development/SXML/
+description: Exchange rates and currency conversion
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

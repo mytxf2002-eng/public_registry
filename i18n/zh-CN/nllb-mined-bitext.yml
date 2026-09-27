@@ -1,0 +1,2 @@
+id: nllb-mined-bitext
+description: 艾伦人工智能研究所根据 Meta AI 公开的 NLLB 挖掘元数据重建的平行语料，覆盖 148 个以英语为中心和 1465 个非英语语言对，附 LASER3 对齐分数和语种识别分数，总量约 450 GB（按方向的 gzip 制表符分隔文件）。可在 Hugging Face 免费下载，采用 ODC-BY 许可，同时受原始来源条款约束；数据较嘈杂，建议仅用于训练。

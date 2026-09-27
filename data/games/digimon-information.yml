@@ -1,0 +1,15 @@
+id: digimon-information
+kind: [api]
+name: Digimon Information
+url: https://digimon-api.vercel.app/
+description: Provides information about digimon creatures
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

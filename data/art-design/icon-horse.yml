@@ -1,0 +1,15 @@
+id: icon-horse
+kind: [api]
+name: Icon Horse
+url: https://icon.horse
+description: Favicons for any website, with fallbacks
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: transport-for-berlin-germany
+kind: [api]
+name: Transport for Berlin, Germany
+url: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+description: Third-party VBB API
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

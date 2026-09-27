@@ -1,0 +1,3 @@
+id: latlng
+description: 地理编码、反向地理编码和地点搜索，另有静态地图和矢量地图瓦片，收录信息标注免 key，支持 CORS。
+group: 地理编码与反向地理编码

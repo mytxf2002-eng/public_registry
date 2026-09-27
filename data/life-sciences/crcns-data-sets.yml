@@ -1,0 +1,21 @@
+id: crcns-data-sets
+kind: [dataset]
+name: CRCNS Data Sets
+url: https://crcns.org/data-sets
+description: Neurophysiology recordings contributed by many labs, organised by brain area such as visual, auditory, motor and hippocampal cortex, plus movement, challenge and simulation sets
+domain: life-sciences
+tags: [neuroscience, electrophysiology, neural-recordings, computational-neuroscience]
+license: LicenseRef-Research-Only
+license_url: https://crcns.org/terms
+publisher:
+  name: CRCNS.org (Collaborative Research in Computational Neuroscience)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [matlab, image, other]
+  access: registration
+  url: https://crcns.org/download
+  update_frequency: irregular

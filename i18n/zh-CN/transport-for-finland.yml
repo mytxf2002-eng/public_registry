@@ -1,0 +1,3 @@
+id: transport-for-finland
+description: 芬兰的开源出行规划平台 Digitransit：基于 OpenTripPlanner 的 GraphQL 行程规划接口，另有地理编码和地图瓦片，覆盖全国。
+group: 欧洲全国铁路与公共交通

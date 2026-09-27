@@ -1,0 +1,3 @@
+id: kaggle
+description: 谷歌旗下数据科学社区 Kaggle 的官方 API，通常配合官方命令行工具使用：搜索、下载和上传数据集，运行 Notebook，下载比赛数据并提交结果。
+group: 数据集平台与仓库

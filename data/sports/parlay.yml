@@ -1,0 +1,15 @@
+id: parlay
+kind: [api]
+name: Parlay
+url: https://parlay-api.com/docs
+description: Real-time sports odds and player props from 45+ sportsbooks and sources across 90+ sports
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

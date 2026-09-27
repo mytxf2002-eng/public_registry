@@ -1,0 +1,3 @@
+id: openfigi
+description: 彭博提供的证券代码映射：把股票代码、ISIN、CUSIP、SEDOL 等转换成统一的 FIGI 标识，覆盖股票、指数、期货、期权。
+group: 公司基本面、监管披露与研究数据

@@ -1,0 +1,18 @@
+id: mocky
+kind: [api]
+name: Mocky
+url: https://designer.mocky.io/
+description: Mock user defined test JSON for REST API endpoints
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: 'Mocky is no longer available: designer.mocky.io serves a 404 behind a self-signed certificate and mocky.io times out.'

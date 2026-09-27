@@ -1,0 +1,3 @@
+id: correios
+description: 巴西国营邮政 Correios 的接口：查询运费、时效和追踪信息，准备和提交寄件。文档需要登录 Correios 账户才能查看。
+group: 快递与包裹追踪

@@ -1,0 +1,15 @@
+id: screenshotapi-net
+kind: [api]
+name: ScreenshotAPI.net
+url: https://screenshotapi.net/
+description: Create pixel-perfect website screenshots
+domain: development
+license: unknown
+provenance:
+  added: 2019-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

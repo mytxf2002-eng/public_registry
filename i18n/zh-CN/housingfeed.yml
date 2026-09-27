@@ -1,0 +1,3 @@
+id: housingfeed
+description: 美国出租房源，直接采集物业管理公司自己网站上的房源，每周核验一次，提供展示用的房源 feed 和数据 API。
+group: 房产、土地与办公空间

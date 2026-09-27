@@ -1,0 +1,24 @@
+id: pisa-database
+kind: [dataset]
+name: PISA Database
+url: https://www.oecd.org/en/about/programmes/pisa/pisa-data.html
+description: Student, school, teacher and parent questionnaire microdata with reading, mathematics and science scores of 15-year-olds from OECD PISA survey cycles 2000-2022
+domain: education
+tags: [student-assessment, pisa, international-comparison, survey-microdata]
+license: LicenseRef-Custom-Open
+license_url: https://www.oecd.org/en/about/terms-conditions.html
+publisher:
+  name: OECD
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, sas, csv]
+  access: public
+  temporal:
+    start: '2000'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

@@ -1,0 +1,22 @@
+id: transport-for-spain
+kind: [api, dataset]
+name: Transport for Spain
+url: https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a
+description: Public trains of Spain
+domain: transportation
+license: CC-BY-4.0
+license_url: https://data.renfe.com/dataset/estaciones-cercanias-malaga
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xlsx, json, gtfs]
+  access: public
+  url: https://data.renfe.com/dataset
+  spatial: [ES]
+  size: 44 datasets

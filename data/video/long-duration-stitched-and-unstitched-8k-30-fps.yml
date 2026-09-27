@@ -1,0 +1,20 @@
+id: long-duration-stitched-and-unstitched-8k-30-fps
+kind: [dataset]
+name: Long duration stitched and unstitched 8K/30 fps stereoscopic 360° videos
+url: https://ieee-dataport.org/open-access/long-duration-stitched-and-unstitched-8k30-fps-stereoscopic-360deg-videos
+description: Twenty stereoscopic 8K/30 fps 360° videos lasting 248 to 1,207 seconds, in stitched and unstitched form, with NVENC hardware-encoding benchmark results
+domain: video
+tags: [360-video, video-encoding, virtual-reality, stereoscopic, benchmark]
+license: CC-BY-4.0
+license_url: https://github.com/Tiled360Benchmark/360DatasetAndBenchmark/blob/master/LICENSE.md
+publisher:
+  name: Olivier Brochu, Aris Leivadeas and Stéphane Coulombe (École de technologie supérieure)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [video, csv]
+  access: registration
+  update_frequency: static

@@ -1,0 +1,21 @@
+id: ndw-open-data
+kind: [dataset]
+name: NDW Open Data
+url: https://opendata.ndw.nu/
+description: Real-time Dutch road traffic feeds such as speeds, flows, travel times, road works, closures, matrix signs and bridge openings, plus traffic-sign and charging-point files
+domain: transportation
+tags: [road-traffic, datex-ii, traffic-speed, road-works, charging-points]
+license: CC0-1.0
+license_url: https://www.ndw.nu/service/copyright
+publisher:
+  name: Nationaal Dataportaal Wegverkeer (NDW)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xml, geojson, csv, json, shapefile]
+  access: public
+  spatial: [NL]
+  update_frequency: realtime

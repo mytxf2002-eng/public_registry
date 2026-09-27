@@ -1,0 +1,15 @@
+id: faturapdf
+kind: [api]
+name: FaturaPDF
+url: https://rapidapi.com/leosanchees2014/api/brazilian-invoice-receipt-pdf-api-cpf-cnpj
+description: Generate Brazilian invoice/receipt PDFs with checksum-validated CPF/CNPJ and PIX QR
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

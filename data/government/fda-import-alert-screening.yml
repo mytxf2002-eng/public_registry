@@ -1,0 +1,15 @@
+id: fda-import-alert-screening
+kind: [api]
+name: FDA Import Alert Screening
+url: https://aerviklabs.com/apis/fda-import-alerts/
+description: Screen firm names against FDA Import Alert Red, Yellow and Green Lists
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: dropmail
+kind: [api]
+name: DropMail
+url: https://dropmail.me/api/#live-demo
+description: GraphQL API for creating and managing ephemeral e-mail inboxes
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2021-12-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

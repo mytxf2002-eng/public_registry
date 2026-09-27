@@ -1,0 +1,3 @@
+id: czech-national-bank
+description: 捷克国家银行每个工作日公布的克朗官方汇率，链接直接是一个 XML 文件，免 key。
+group: 央行官方汇率

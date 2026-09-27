@@ -1,0 +1,15 @@
+id: hyrule-compendium
+kind: [api]
+name: Hyrule Compendium
+url: https://github.com/gadhagod/Hyrule-Compendium-API
+description: 'Data on all interactive items from The Legend of Zelda: BOTW'
+domain: games
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

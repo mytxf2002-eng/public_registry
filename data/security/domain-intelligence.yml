@@ -1,0 +1,15 @@
+id: domain-intelligence
+kind: [api]
+name: Domain Intelligence
+url: https://oti-labs.com/domain-intelligence-api
+description: DNS, WHOIS/RDAP, SSL, subdomain enumeration, and email security in one parallel call
+domain: security
+license: unknown
+provenance:
+  added: 2026-06-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

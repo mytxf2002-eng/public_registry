@@ -1,0 +1,15 @@
+id: filingrail
+kind: [api]
+name: Filingrail
+url: https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail
+description: SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings
+domain: finance
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

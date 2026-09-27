@@ -1,0 +1,3 @@
+id: thunder-client
+description: VS Code 和 JetBrains 里的轻量 REST 客户端插件，可以看作 Postman 的轻量替代，也支持 GraphQL。它是测试工具，本身不提供可调用的 Web API。
+group: API 调试与模拟接口

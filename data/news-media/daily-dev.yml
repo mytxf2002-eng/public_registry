@@ -1,0 +1,15 @@
+id: daily-dev
+kind: [api]
+name: daily.dev
+url: https://docs.daily.dev/public-api/
+description: Developer news feeds, posts, bookmarks, tags and search from daily.dev
+domain: news-media
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

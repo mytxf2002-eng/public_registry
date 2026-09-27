@@ -1,0 +1,27 @@
+id: unesco-datahub
+kind: [api, dataset]
+name: UNESCO DataHub
+url: https://data.unesco.org/
+description: 37 UNESCO datasets such as the World Heritage and Intangible Heritage lists, SDG 4 education indicators, R&D statistics, UNESDOC catalogue and killed journalists
+domain: open-data
+tags: [world-heritage, education-indicators, sdg, cultural-heritage, science-indicators]
+license: CC-BY-SA-4.0
+license_url: https://data.unesco.org/api/explore/v2.1/catalog/facets?facet=default.license
+publisher:
+  name: UNESCO
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://data.unesco.org/api-console/explore/v2.1/
+dataset:
+  formats: [csv, json, geojson, parquet, rdf]
+  access: public
+  spatial: [global]
+  update_frequency: daily
+  size: 37 datasets

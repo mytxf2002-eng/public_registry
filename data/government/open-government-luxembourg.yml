@@ -1,0 +1,22 @@
+id: open-government-luxembourg
+kind: [api, dataset]
+name: Open Government, Luxembourg
+url: https://data.public.lu
+description: Luxembourgish Government Open Data
+domain: government
+license: CC0-1.0
+license_url: https://data.public.lu/en/pages/legal/terms
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [xml, xlsx, json, csv, geojson, gpkg]
+  access: public
+  url: https://data.public.lu/en/datasets/
+  spatial: [LU]
+  size: 3,194 datasets

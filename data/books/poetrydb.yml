@@ -1,0 +1,15 @@
+id: poetrydb
+kind: [api]
+name: PoetryDB
+url: https://github.com/thundercomb/poetrydb#readme
+description: Enables you to get instant data from our vast poetry collection
+domain: books
+license: unknown
+provenance:
+  added: 2021-11-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

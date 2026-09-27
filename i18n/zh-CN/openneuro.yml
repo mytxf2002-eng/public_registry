@@ -1,0 +1,2 @@
+id: openneuro
+description: 斯坦福大学可重复神经科学中心运营的开放神经影像数据平台，收录按 BIDS 规范整理的 fMRI、结构/弥散 MRI、EEG、MEG、iEEG 等数据集，每个版本分配 DOI。可在网页、命令行、DataLad/git 或 AWS S3 免费下载，并提供 GraphQL 接口；新发布数据集采用 CC0。

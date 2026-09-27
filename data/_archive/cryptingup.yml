@@ -1,0 +1,19 @@
+id: cryptingup
+kind: [api]
+name: CryptingUp
+url: https://www.cryptingup.com/apidoc/#introduction
+description: Cryptocurrency data
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The domain is for sale.

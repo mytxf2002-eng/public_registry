@@ -1,0 +1,15 @@
+id: transport-for-washington-us
+kind: [api]
+name: Transport for Washington, US
+url: https://developer.wmata.com/
+description: Washington Metro transport API
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

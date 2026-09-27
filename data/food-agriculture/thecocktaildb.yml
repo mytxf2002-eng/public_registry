@@ -1,0 +1,15 @@
+id: thecocktaildb
+kind: [api]
+name: TheCocktailDB
+url: https://www.thecocktaildb.com/api.php
+description: Cocktail Recipes
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2017-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

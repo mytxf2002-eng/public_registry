@@ -1,0 +1,24 @@
+id: bike-share-toronto-ridership-data
+kind: [dataset]
+name: Bike Share Toronto Ridership Data
+url: https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
+description: Historical trip records of the Bike Share Toronto system from 2014 onward, published as yearly files on the City of Toronto open data portal and refreshed monthly
+domain: transportation
+tags: [bike-share, trip-history, cycling, ridership]
+license: LicenseRef-Open-Government
+license_url: https://open.toronto.ca/open-data-licence/
+publisher:
+  name: Toronto Parking Authority (City of Toronto)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, archive]
+  access: public
+  temporal:
+    start: '2014'
+    end: null
+  spatial: [CA-ON]
+  update_frequency: monthly

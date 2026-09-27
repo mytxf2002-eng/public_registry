@@ -1,0 +1,3 @@
+id: crawlbase
+description: 网页抓取和爬虫服务，自带反验证码能力，还提供托管爬虫和 Web MCP 服务。原名 ProxyCrawl，现已更名为 Crawlbase。
+group: 网页抓取、代理与反爬

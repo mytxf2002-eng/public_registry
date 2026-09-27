@@ -1,0 +1,16 @@
+id: urlhaus
+kind: [api]
+name: URLhaus (urlhaus-api.abuse.ch)
+url: https://urlhaus-api.abuse.ch/
+description: Bulk queries and Download Malware Samples
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2021-05-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

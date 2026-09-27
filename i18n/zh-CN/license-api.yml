@@ -1,0 +1,3 @@
+id: license-api
+description: choosealicense.com（GitHub 维护的开源许可证介绍网站）的非官方 REST 接口，用来查询常见开源许可证的信息，是 GitHub 上的个人项目。
+group: 代码托管与开发者社区

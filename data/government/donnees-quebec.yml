@@ -1,0 +1,25 @@
+id: donnees-quebec
+kind: [api, dataset]
+name: Données Québec
+url: https://www.donneesquebec.ca/
+description: About 1,600 open datasets from the Québec government and municipalities, mostly as CSV, GeoJSON and shapefiles, with a CKAN catalogue API
+domain: government
+tags: [open-government, municipal, provincial, gis]
+license: CC-BY-4.0
+license_url: https://www.donneesquebec.ca/licence/
+publisher:
+  name: Gouvernement du Québec
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, shapefile, xlsx, kml, gpkg]
+  access: public
+  spatial: [CA-QC]
+  size: 1,610 datasets

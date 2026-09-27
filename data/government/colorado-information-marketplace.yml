@@ -1,0 +1,15 @@
+id: colorado-information-marketplace
+kind: [api]
+name: Colorado Information Marketplace
+url: https://data.colorado.gov/
+description: Colorado State Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

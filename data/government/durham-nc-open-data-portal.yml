@@ -1,0 +1,25 @@
+id: durham-nc-open-data-portal
+kind: [api, dataset]
+name: Durham, NC Open Data Portal
+url: https://live-durhamnc.opendata.arcgis.com/
+description: About 150 datasets from the City and County of Durham, North Carolina, including police calls for service, parcels, addresses, building permits, resident surveys and budgets
+domain: government
+tags: [open-government, city-data, police-calls, parcels, gis]
+license: LicenseRef-Provider-Terms
+license_url: https://live-durhamnc.opendata.arcgis.com/datasets/ed698c7ae43c4394b517990b1922aaba
+publisher:
+  name: City and County of Durham
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://live-durhamnc.opendata.arcgis.com/api/search/definition/
+dataset:
+  formats: [csv, geojson, shapefile, kml]
+  access: public
+  spatial: [US-NC]

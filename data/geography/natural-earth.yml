@@ -1,0 +1,22 @@
+id: natural-earth
+kind: [dataset]
+name: Natural Earth
+url: https://www.naturalearthdata.com/
+description: 'World map data at 1:10m, 1:50m and 1:110m scales: cultural themes such as borders, cities and roads, physical themes such as coastlines and rivers, and shaded-relief rasters'
+domain: geography
+tags: [basemap, cartography, boundaries, vector-data, raster]
+license: LicenseRef-Public-Domain
+license_url: https://www.naturalearthdata.com/about/terms-of-use/
+publisher:
+  name: Natural Earth
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [shapefile, sqlite, gpkg, geotiff]
+  access: public
+  url: https://www.naturalearthdata.com/downloads/
+  spatial: [global]
+  update_frequency: irregular

@@ -1,0 +1,15 @@
+id: peakmetrics
+kind: [api]
+name: PeakMetrics
+url: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+description: News articles and public datasets
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-12-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

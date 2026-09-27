@@ -1,0 +1,27 @@
+id: oakland-open-data
+kind: [api, dataset]
+name: Oakland Open Data
+url: https://data.oaklandca.gov/
+description: About 310 City of Oakland datasets, including crime reports, 311 service requests, campaign finance filings, budgets, street trees, parking and equity indicators
+domain: government
+tags: [municipal, crime, '311', campaign-finance, budget]
+license: CC0-1.0
+license_url: https://data.oaklandca.gov/d/4jcx-enxf
+publisher:
+  name: City of Oakland
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-CA]
+  update_frequency: irregular
+  size: 313 datasets

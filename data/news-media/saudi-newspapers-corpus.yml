@@ -1,0 +1,25 @@
+id: saudi-newspapers-corpus
+kind: [dataset]
+name: Saudi Newspapers Corpus (SaudiNewsNet)
+url: https://github.com/inparallel/SaudiNewsNet
+description: 31,030 Arabic articles (about 8.8 million words) crawled from 14 Saudi online newspapers in July and August 2015, with source, URL, title, author and extraction date
+domain: news-media
+tags: [arabic, newspapers, news-articles, corpus, nlp]
+license: CC-BY-NC-SA-4.0
+license_url: https://github.com/inparallel/SaudiNewsNet
+publisher:
+  name: Mazen A. Alhagri
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  temporal:
+    start: 2015-07
+    end: 2015-08
+  spatial: [SA]
+  update_frequency: static
+  size: 31,030 articles

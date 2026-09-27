@@ -1,0 +1,15 @@
+id: medlineplus-genetics
+kind: [api]
+name: MedlinePlus Genetics
+url: https://medlineplus.gov/about/developers/geneticsdatafilesapi/
+description: Genetic conditions, genes, chromosomes and mtDNA data
+domain: health
+license: unknown
+provenance:
+  added: 2026-06-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

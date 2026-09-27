@@ -1,0 +1,29 @@
+id: btu-graph
+kind: [api, dataset]
+name: BTU Graph
+url: https://btugraph.com/data/
+description: Source-reviewed energy company knowledge graph and directory exports
+domain: energy
+tags: [energy-companies, knowledge-graph, oil-and-gas, company-directory]
+license: CC-BY-4.0
+license_url: https://github.com/OilpriceAPI/btugraph-data/blob/main/LICENSE
+publisher:
+  name: Oil Price API
+  kind: company
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv]
+  access: public
+  temporal:
+    start: '2026'
+    end: null
+  spatial: [global]
+  update_frequency: weekly
+  size: 66 companies, 1,085 relationships

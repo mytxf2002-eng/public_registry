@@ -1,0 +1,3 @@
+id: blynk-cloud
+description: 物联网平台 Blynk 的云端 HTTP 接口：用设备 token 读写引脚的值，从而远程控制设备。收录信息标注不支持 HTTPS。
+group: 其他

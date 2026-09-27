@@ -1,0 +1,15 @@
+id: whatjobs
+kind: [api]
+name: WhatJobs
+url: https://www.whatjobs.com/affiliates
+description: Job search engine
+domain: jobs
+license: unknown
+provenance:
+  added: 2022-03-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

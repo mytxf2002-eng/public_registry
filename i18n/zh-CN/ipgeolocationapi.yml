@@ -1,0 +1,3 @@
+id: ipgeolocationapi
+description: IP 定位附带 ASN、时区、货币和威胁数据，另有天文、批量查询和威胁情报源，不带 key 每天可调用 5000 次。和 ipgeolocation.io 名字相近，但不是同一个网站。
+group: IP 地理定位

@@ -1,0 +1,15 @@
+id: qiuxiaoce-football
+kind: [api]
+name: QiuXiaoCe Football
+url: https://www.qiuxiaoce.com/data-docs/
+description: Football teams, leagues, standings, scorers and match intelligence data
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

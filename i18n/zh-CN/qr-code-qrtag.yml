@@ -1,0 +1,3 @@
+id: qr-code-qrtag
+description: qrtag.net 的免费接口，用 URL 直接生成二维码图片，同时提供短网址功能。
+group: 二维码与条码

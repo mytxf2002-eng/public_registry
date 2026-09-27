@@ -1,0 +1,16 @@
+id: collins
+kind: [api]
+name: Collins
+url: https://api.collinsdictionary.com/api/v1/documentation/html/
+description: Bilingual Dictionary and Thesaurus Data
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

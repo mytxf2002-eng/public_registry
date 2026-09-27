@@ -1,0 +1,15 @@
+id: docstruct
+kind: [api]
+name: DocStruct
+url: https://docstruct.pages.dev
+description: AI extraction of invoices, receipts, bank statements & contracts into structured JSON/CSV
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

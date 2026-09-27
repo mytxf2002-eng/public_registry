@@ -1,0 +1,15 @@
+id: gzw-data
+kind: [api]
+name: GZW Data
+url: https://gzw-data.dev/docs/
+description: Gray Zone Warfare weapons, missions, loot, armor and game data
+domain: games
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: brainiall
+kind: [api]
+name: BRAINIALL
+url: https://github.com/fasuizu-br/brainiall-transcription-skill
+description: PT-BR and Spanish audio transcription with diarization and SRT/VTT
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2026-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

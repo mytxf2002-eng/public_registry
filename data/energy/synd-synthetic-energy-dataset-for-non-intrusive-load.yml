@@ -1,0 +1,22 @@
+id: synd-synthetic-energy-dataset-for-non-intrusive-load
+kind: [dataset]
+name: 'SynD: Synthetic Energy Dataset for Non-Intrusive Load Monitoring'
+url: https://springernature.figshare.com/collections/SynD_A_Synthetic_Energy_Dataset_for_Non-Intrusive_Load_Monitoring_in_Households/4716179
+description: Simulated 180-day power readings at 5 Hz for 21 appliances and the mains of an Austrian household, built from measured appliance traces, in CSV and HDF5
+domain: energy
+tags: [nilm, synthetic-data, appliance-level, household-electricity]
+license: CC0-1.0
+license_url: https://springernature.figshare.com/articles/dataset/SynD_-_CSV_Version/10071248
+publisher:
+  name: University of Klagenfurt, Institute of Networked and Embedded Systems
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, hdf5]
+  access: public
+  spatial: [AT]
+  update_frequency: static
+  size: 5.6 GB (CSV) / 4.5 GB (HDF5)

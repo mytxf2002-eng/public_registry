@@ -1,0 +1,22 @@
+id: lemons-quality-control-dataset
+kind: [dataset]
+name: Lemons Quality Control Dataset
+url: https://github.com/softwaremill/lemon-dataset
+description: 2,690 photos of lemons at 1056x1056 pixels with COCO annotations marking healthy fruit, defects such as mould, gangrene and blemishes, and image-quality problems
+domain: machine-learning
+tags: [computer-vision, image-annotation, fruit-quality, coco]
+license: MIT
+license_url: https://github.com/softwaremill/lemon-dataset
+publisher:
+  name: SoftwareMill
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, json]
+  access: public
+  url: https://github.com/softwaremill/lemon-dataset/tree/master/data
+  update_frequency: static
+  size: 2,690 images

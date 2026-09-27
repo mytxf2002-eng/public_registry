@@ -1,0 +1,15 @@
+id: anidb
+kind: [api]
+name: AniDB
+url: https://wiki.anidb.net/HTTP_API_Definition
+description: Anime Database
+domain: anime
+license: unknown
+provenance:
+  added: 2021-09-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

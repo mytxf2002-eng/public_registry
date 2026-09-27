@@ -1,0 +1,15 @@
+id: currencyfreaks
+kind: [api]
+name: CurrencyFreaks
+url: https://currencyfreaks.com/
+description: Provides current and historical currency exchange rates with free plan 1K requests/month
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

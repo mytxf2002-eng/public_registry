@@ -1,0 +1,15 @@
+id: wizard-world
+kind: [api]
+name: Wizard World
+url: https://wizard-world-api.herokuapp.com/swagger/index.html
+description: Get information from the Harry Potter universe
+domain: books
+license: unknown
+provenance:
+  added: 2022-02-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

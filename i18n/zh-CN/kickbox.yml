@@ -1,0 +1,3 @@
+id: kickbox
+description: 邮箱验证服务商 Kickbox 提供的免费接口，只判断邮箱域名是否属于一次性邮箱，免 key。完整的邮箱验证是 Kickbox 的付费服务。
+group: 一次性邮箱识别

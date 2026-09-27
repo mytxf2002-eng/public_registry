@@ -1,0 +1,18 @@
+id: motivational-quotes
+kind: [api]
+name: Motivational Quotes
+url: https://nodejs-quoteapp.herokuapp.com/
+description: Random Motivational Quotes
+domain: video
+license: unknown
+provenance:
+  added: 2021-12-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

@@ -1,0 +1,28 @@
+id: china-biographical-database
+kind: [api, dataset]
+name: China Biographical Database (CBDB)
+url: https://cbdb.hsites.harvard.edu/
+description: Relational database of biographical records on about 650,000 historical Chinese figures, mainly from the 7th to 19th centuries, covering offices, kinship, places and social ties
+domain: social-sciences
+tags: [prosopography, biographies, chinese-history, historical-persons, kinship]
+license: CC-BY-NC-SA-4.0
+license_url: https://cbdb.hsites.harvard.edu/
+publisher:
+  name: China Biographical Database Project (Harvard University, Academia Sinica, Peking University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://cbdb.hsites.harvard.edu/cbdb-api
+dataset:
+  formats: [sqlite]
+  access: public
+  url: https://huggingface.co/datasets/cbdb/cbdb-sqlite
+  spatial: [CN]
+  update_frequency: weekly
+  size: about 650,000 persons

@@ -1,0 +1,2 @@
+id: donnees-ouvertes-de-la-ville-de-montreal
+description: 加拿大蒙特利尔市政府的开放数据门户（CKAN），约 400 个数据集，涵盖政府与财政、基础设施、环境与能源、交通、文化和公共安全等，多为 CSV、GeoJSON 和 Shapefile，也有 XLSX、JSON、GeoPackage。可直接下载并使用 CKAN API；城市数据采用 CC BY 4.0，少数由其他机构发布的数据另有许可。

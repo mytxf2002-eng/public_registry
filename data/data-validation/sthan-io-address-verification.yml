@@ -1,0 +1,15 @@
+id: sthan-io-address-verification
+kind: [api]
+name: sthan.io Address Verification
+url: https://sthan.io/products/address-verification-usa
+description: Validate and standardize US addresses, with ZIP+4 and deliverability status
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

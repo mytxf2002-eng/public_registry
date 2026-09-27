@@ -1,0 +1,15 @@
+id: penguin-publishing
+kind: [api]
+name: Penguin Publishing
+url: http://www.penguinrandomhouse.biz/webservices/rest/
+description: Books, book covers and related data
+domain: books
+license: unknown
+provenance:
+  added: 2018-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

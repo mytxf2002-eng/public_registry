@@ -1,0 +1,18 @@
+id: systembolaget
+kind: [api]
+name: Systembolaget
+url: https://api-portal.systembolaget.se
+description: Govornment owned liqour store in Sweden
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The API portal hostname no longer resolves, its backing Azure API Management portal returns 503, and Systembolaget's site has no replacement developer page.

@@ -1,0 +1,15 @@
+id: iseven
+kind: [api]
+name: isEven (humor)
+url: https://isevenapi.xyz/
+description: Check if a number is even
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

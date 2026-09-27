@@ -1,0 +1,2 @@
+id: medal-medical-abbreviation-disambiguation-dataset
+description: 麦吉尔大学发布的医学缩写消歧数据集，基于 PubMed 摘要，为其中的医学缩写标注全称，用于缩写消歧和临床自然语言处理预训练，完整 CSV 约 15 GB，可从 Zenodo、Kaggle 或 Hugging Face 免费下载。数据沿用 NLM 使用条款，部分摘要可能仍有版权。

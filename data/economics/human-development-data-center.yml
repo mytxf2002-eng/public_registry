@@ -1,0 +1,30 @@
+id: human-development-data-center
+kind: [api, dataset]
+name: Human Development Data Center
+url: https://hdr.undp.org/data-center
+description: 'Composite development indices for about 193 countries from 1990: the HDI, inequality-adjusted HDI, gender development and inequality, multidimensional poverty and planetary pressures'
+domain: economics
+tags: [human-development, hdi, poverty, gender-inequality, development-indicators]
+license: CC-BY-3.0-IGO
+license_url: https://hdr.undp.org/terms-use
+publisher:
+  name: UNDP Human Development Report Office
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://hdr.undp.org/sites/default/files/2023-24_HDR/HDRO_data_api_manual.pdf
+dataset:
+  formats: [xlsx, csv]
+  access: public
+  url: https://hdr.undp.org/data-center/documentation-and-downloads
+  temporal:
+    start: '1990'
+    end: null
+  spatial: [global]
+  update_frequency: annual

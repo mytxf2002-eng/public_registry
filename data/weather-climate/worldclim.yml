@@ -1,0 +1,25 @@
+id: worldclim
+kind: [dataset]
+name: WorldClim
+url: https://www.worldclim.org/
+description: 'Global gridded climate data at 30 arc-seconds to 10 minutes: 1970-2000 monthly normals, 19 bioclimatic variables, monthly weather 1950-2024 and downscaled CMIP6 projections'
+domain: weather-climate
+tags: [climate-grids, bioclimatic-variables, temperature, precipitation, cmip6]
+license: LicenseRef-Research-Only
+license_url: https://www.worldclim.org/about.html
+publisher:
+  name: WorldClim (Fick and Hijmans)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geotiff]
+  access: public
+  url: https://www.worldclim.org/data/index.html
+  temporal:
+    start: '1950'
+    end: '2100'
+  spatial: [global]
+  update_frequency: irregular

@@ -1,0 +1,16 @@
+id: open-topo-data
+kind: [api]
+name: Open Topo Data
+url: https://www.opentopodata.org
+description: Elevation and ocean depth for a latitude and longitude
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-04-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

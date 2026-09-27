@@ -1,0 +1,21 @@
+id: saskatchewan-bureau-of-statistics
+kind: [dataset]
+name: Saskatchewan Bureau of Statistics
+url: https://www.saskatchewan.ca/government/government-data/bureau-of-statistics
+description: Economic and demographic statistics for the province of Saskatchewan, such as CPI, labour force, provincial economic accounts and population, as Excel tables and PDF reports
+domain: government
+tags: [official-statistics, economic-indicators, population, labour-force]
+license: LicenseRef-Research-Only
+license_url: https://www.saskatchewan.ca/copyright
+publisher:
+  name: Saskatchewan Bureau of Statistics
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, pdf]
+  access: public
+  spatial: [CA-SK]
+  update_frequency: monthly

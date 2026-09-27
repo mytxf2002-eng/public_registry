@@ -1,0 +1,3 @@
+id: inshorts-news
+description: Inshorts（印度的短新闻应用，每条新闻约 60 个词）的非官方 API，是 GitHub 上用 Flask 写的开源项目，可以按分类获取新闻。
+group: 综合新闻搜索与聚合

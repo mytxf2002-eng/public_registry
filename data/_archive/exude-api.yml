@@ -1,0 +1,18 @@
+id: exude-api
+kind: [api]
+name: EXUDE-API
+url: http://uttesh.com/exude-api/
+description: Used for the primary ways for filtering the stopping, stemming words from the text data
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: uttesh.com now hosts an unrelated gambling affiliate site, and the project's hosted demo is gone (EXUDE is only a Java library).

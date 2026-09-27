@@ -1,0 +1,25 @@
+id: climatic-research-unit-data-sets
+kind: [dataset]
+name: Climatic Research Unit Data Sets
+url: https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data
+description: 'Climate datasets from the University of East Anglia: CRUTEM5/HadCRUT5 global temperatures since 1850, CRU TS 0.5° land grids since 1901, drought indices and circulation series'
+domain: weather-climate
+tags: [temperature, precipitation, gridded-data, drought, paleoclimate]
+license: ODbL-1.0
+license_url: https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data
+publisher:
+  name: Climatic Research Unit, University of East Anglia
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [netcdf, text]
+  access: public
+  url: https://crudata.uea.ac.uk/cru/data/
+  temporal:
+    start: '1850'
+    end: null
+  spatial: [global]
+  update_frequency: monthly

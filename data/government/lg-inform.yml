@@ -1,0 +1,20 @@
+id: lg-inform
+kind: [dataset]
+name: LG Inform
+url: https://lginform.local.gov.uk/
+description: Benchmarking service with over 1,800 contextual and performance data items for English councils and fire and rescue services, shown in reports with CSV export
+domain: government
+tags: [local-government, benchmarking, performance-indicators, councils, fire-and-rescue]
+license: unknown
+publisher:
+  name: Local Government Association
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, pdf]
+  access: public
+  spatial: [GB-ENG]
+  update_frequency: irregular

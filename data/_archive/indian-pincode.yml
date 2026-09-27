@@ -1,0 +1,18 @@
+id: indian-pincode
+kind: [api]
+name: Indian Pincode
+url: https://indianpincode.com/
+description: Free India PIN code lookup with GPS coordinates, 165k+ post offices, state & district data
+domain: government
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The Railway app behind indianpincode.com no longer exists.

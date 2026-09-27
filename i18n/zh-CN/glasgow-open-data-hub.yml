@@ -1,0 +1,2 @@
+id: glasgow-open-data-hub
+description: 英国格拉斯哥市议会的开放数据平台（ArcGIS Hub），约 130 个数据集和数据接口，包括交通流量、停车场和自行车计数接口、人流量、学校在校人数、各类执照登记册、激光雷达以及城市发展规划图层。可下载 CSV、GeoJSON、KML、Shapefile，或通过 ArcGIS REST 与 OGC 服务访问；除另有说明外采用英国开放政府许可 OGL v3.0。

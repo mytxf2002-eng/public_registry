@@ -1,0 +1,24 @@
+id: fatality-analysis-reporting-system
+kind: [dataset]
+name: Fatality Analysis Reporting System (FARS)
+url: https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
+description: Annual census of fatal motor vehicle crashes on US public roads since 1975, with more than 100 coded elements describing each crash, the vehicles and the people involved
+domain: transportation
+tags: [road-safety, traffic-fatalities, crashes, vehicles]
+license: LicenseRef-US-Government-Work
+license_url: https://catalog.data.gov/dataset/fatality-analysis-reporting-system-fars
+publisher:
+  name: National Highway Traffic Safety Administration (NHTSA)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, sas]
+  access: public
+  temporal:
+    start: '1975'
+    end: null
+  spatial: [US]
+  update_frequency: annual

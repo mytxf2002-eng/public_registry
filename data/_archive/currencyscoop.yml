@@ -1,0 +1,18 @@
+id: currencyscoop
+kind: [api]
+name: CurrencyScoop
+url: https://currencyscoop.com/api-documentation
+description: Real-time and historical currency rates JSON API
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-03-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: CurrencyScoop was rebranded as CurrencyBeacon, which is already listed separately in Currency Exchange, so this entry is a duplicate.

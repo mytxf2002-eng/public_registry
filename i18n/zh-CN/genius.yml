@@ -1,0 +1,3 @@
+id: genius
+description: 歌词与注释社区 Genius 的接口：搜索歌曲，查询歌曲、艺人和歌词注释。API 本身不返回完整歌词。
+group: 歌词与曲谱

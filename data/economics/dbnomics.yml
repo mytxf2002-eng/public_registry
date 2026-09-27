@@ -1,0 +1,26 @@
+id: dbnomics
+kind: [api, dataset]
+name: DBnomics
+url: https://db.nomics.world/
+description: About 1.7 billion economic time series in 47,000 datasets from 93 statistical offices, central banks and international organisations, collected daily with revisions archived
+domain: economics
+tags: [time-series, macroeconomics, official-statistics, data-aggregator]
+license: ODbL-1.0
+license_url: https://db.nomics.world/about
+publisher:
+  name: CEPREMAP
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.db.nomics.world/web-api/
+dataset:
+  formats: [csv, xlsx, json]
+  access: public
+  spatial: [global]
+  update_frequency: daily

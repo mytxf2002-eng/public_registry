@@ -1,0 +1,2 @@
+id: fast-reverse-geocoder-using-openstreetmap-data
+description: 由 2015 年 11 月 OpenStreetMap 全球数据生成的反向地理编码查找表，可把经纬度映射到所属行政区，分辨率从 1 度到 0.0005 度共 11 档，需配合作者提供的 Java 查询代码使用；可从 GitHub 或慕尼黑大学开放数据库免费下载，遵循 ODbL 1.0，之后未再更新。

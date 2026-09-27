@@ -1,0 +1,15 @@
+id: share
+kind: [api]
+name: SHARE
+url: https://share.osf.io/api/v2/
+description: A free, open, dataset about research and scholarly activities
+domain: science-math
+license: unknown
+provenance:
+  added: 2018-01-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: woocommerce
+description: WordPress 上最常用的电商插件 WooCommerce 的 REST API，以 JSON 读写商品、订单、客户、优惠券、报表等数据，需要自己有 WooCommerce 站点。
+group: 自建网店与电商系统

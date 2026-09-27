@@ -1,0 +1,15 @@
+id: newsdata
+kind: [api]
+name: NewsData
+url: https://newsdata.io/docs
+description: News data API for live-breaking news and headlines from reputed news sources
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-12-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

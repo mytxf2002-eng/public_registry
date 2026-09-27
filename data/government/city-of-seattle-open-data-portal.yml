@@ -1,0 +1,25 @@
+id: city-of-seattle-open-data-portal
+kind: [api, dataset]
+name: City of Seattle Open Data Portal
+url: https://data.seattle.gov/
+description: About 680 City of Seattle datasets, including some 170 tables such as police stops, permits and city wages plus 500 GIS layers, with CSV, JSON and GeoJSON downloads
+domain: government
+tags: [municipal, public-safety, police-stops, gis]
+license: LicenseRef-Provider-Terms
+license_url: https://data.seattle.gov/stories/s/Data-Policy/6ukr-wvup/
+publisher:
+  name: City of Seattle
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json, geojson, kml, gpkg]
+  access: public
+  spatial: [US-WA]
+  size: 676 datasets

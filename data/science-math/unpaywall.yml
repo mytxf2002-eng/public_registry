@@ -1,0 +1,15 @@
+id: unpaywall
+kind: [api]
+name: Unpaywall
+url: https://unpaywall.org/products/api
+description: Open-access status and legal full-text links for scholarly articles
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,2 @@
+id: pakistan-fuel-prices
+description: 根据巴基斯坦石油天然气监管局（OGRA）价格通告整理的汽油、柴油、煤油和液化石油气最高出库价，提供 JSON/CSV 历史文件和无需密钥的 JSON 接口，每次新通告后更新。煤油记录始于 2015 年，汽油和柴油只含 2026 年 7 月以来的通告；由第三方网站 OilPrices.pk 整理，采用 CC BY 4.0 许可。

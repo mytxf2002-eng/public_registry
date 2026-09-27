@@ -1,0 +1,3 @@
+id: compare-flight-prices
+description: 托管在 RapidAPI 上的机票比价接口，汇总多个平台的航班价格。
+group: 旅行预订、签证与出行信息

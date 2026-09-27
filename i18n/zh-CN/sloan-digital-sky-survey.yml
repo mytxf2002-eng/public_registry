@@ -1,0 +1,2 @@
+id: sloan-digital-sky-survey
+description: 斯隆数字巡天（SDSS）各期的公开数据，包括成像、光学与近红外光谱、恒星/星系/类星体目录及增值星表，最新为 2026 年 7 月发布的 DR20（SDSS-V）。可通过 SkyServer 的 SQL 查询、科学档案服务器（SAS）批量下载 FITS 文件或在 SciServer 在线分析；公开数据视为公有领域。

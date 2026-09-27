@@ -1,0 +1,3 @@
+id: attestwire
+description: 校验和生成符合欧盟 EN 16931 标准的电子发票，支持 XRechnung、ZUGFeRD、Factur-X、Peppol BIS 等格式。报错会写明违反的规则编号、对应的业务字段和修改方法。
+group: 税号、证件与电子发票

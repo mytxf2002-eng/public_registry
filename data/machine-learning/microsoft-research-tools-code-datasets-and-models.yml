@@ -1,0 +1,19 @@
+id: microsoft-research-tools-code-datasets-and-models
+kind: [dataset]
+name: 'Microsoft Research Tools: Code, Datasets and Models'
+url: https://www.microsoft.com/en-us/research/tools/
+description: Index of about 160 datasets plus code and models released by Microsoft researchers, mainly for NLP, computer vision and other AI research, each with its own download page
+domain: machine-learning
+tags: [research-datasets, nlp, computer-vision, benchmarks, data-catalog]
+license: unknown
+publisher:
+  name: Microsoft Research
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other]
+  access: public
+  update_frequency: irregular

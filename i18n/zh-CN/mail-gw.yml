@@ -1,0 +1,3 @@
+id: mail-gw
+description: 创建临时邮箱账号的免费接口（10 分钟邮箱），功能和 mail.tm 相近。
+group: 临时邮箱

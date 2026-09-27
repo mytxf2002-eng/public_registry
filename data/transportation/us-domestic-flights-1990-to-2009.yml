@@ -1,0 +1,24 @@
+id: us-domestic-flights-1990-to-2009
+kind: [dataset]
+name: US Domestic Flights 1990 to 2009
+url: https://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a
+description: About 3.5 million monthly origin-destination records of US domestic flights from 1990 to 2009 with passengers, seats, flights, distance and city populations
+domain: transportation
+tags: [flights, air-traffic, passengers, airports]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: US Census Bureau and Bureau of Transportation Statistics (via Infochimps)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv]
+  access: public
+  temporal:
+    start: '1990'
+    end: '2009'
+  spatial: [US]
+  update_frequency: static
+  size: 35.4 MB (zip)

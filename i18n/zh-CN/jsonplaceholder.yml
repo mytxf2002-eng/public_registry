@@ -1,0 +1,3 @@
+id: jsonplaceholder
+description: 最常用的免费假 REST 接口，由 json-server 的作者 typicode 维护：提供 posts、comments、albums、photos、todos、users 六类资源，支持增删改查，但写操作只是模拟，不会真的保存。
+group: 模拟接口与测试服务

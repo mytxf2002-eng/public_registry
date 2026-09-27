@@ -1,0 +1,2 @@
+id: znajdz-najem-rental-market-reports
+description: 波兰租房平台 Znajdź Najem 汇总约 10 个租房网站的在架房源，按月发布 21 至 34 个城市的租金统计（均价、中位数、每平方米租金、区和房间数分布），并在 GitHub 每周发布 CSV/JSON 快照。网页统计为 CC BY 4.0，GitHub 数据为 MIT；序列始于 2026 年 3 月，均为挂牌价而非成交价。

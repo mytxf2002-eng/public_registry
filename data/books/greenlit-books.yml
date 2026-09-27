@@ -1,0 +1,15 @@
+id: greenlit-books
+kind: [api]
+name: Greenlit Books
+url: https://greenlitbooks.com/developers
+description: Catalog of practical AI books with search, series, glossary and a claim ledger
+domain: books
+license: unknown
+provenance:
+  added: 2026-09-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

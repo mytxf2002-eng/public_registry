@@ -1,0 +1,3 @@
+id: verifyright
+description: 验证一个邮箱地址是否真实存在。原名 Verifier，现改名 VerifyRight。
+group: 邮箱地址验证

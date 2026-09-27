@@ -1,0 +1,23 @@
+id: pordata
+kind: [dataset]
+name: PORDATA
+url: https://www.pordata.pt/en/Home
+description: Statistical indicators on Portugal, its municipalities and other European countries, compiled from over 60 official sources, with many series from 1960
+domain: open-data
+tags: [statistics, indicators, municipalities, demographics]
+license: LicenseRef-Provider-Terms
+license_url: https://www.pordata.pt/en/legal+terms
+publisher:
+  name: Fundação Francisco Manuel dos Santos
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, pdf]
+  access: public
+  temporal:
+    start: '1960'
+    end: null
+  spatial: [PT, europe]

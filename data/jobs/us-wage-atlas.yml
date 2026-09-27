@@ -1,0 +1,25 @@
+id: us-wage-atlas
+kind: [dataset]
+name: US Wage Atlas
+url: https://voicedapp.co/datasets
+description: Wage percentile spreads by occupation for US metro areas and states (OEWS May 2025), pay adjusted by BEA regional price parities, and state salary-range posting laws
+domain: jobs
+tags: [wages, pay-transparency, cost-of-living, occupations]
+license: CC-BY-4.0
+license_url: https://voicedapp.co/datasets
+publisher:
+  name: Voiced
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2024'
+    end: '2025'
+  spatial: [US]
+  update_frequency: annual
+  size: about 147,000 rows

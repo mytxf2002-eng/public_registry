@@ -1,0 +1,26 @@
+id: city-of-edmonton-open-data-portal
+kind: [api, dataset]
+name: City of Edmonton Open Data Portal
+url: https://data.edmonton.ca/
+description: About 1,400 datasets from the City of Edmonton on building permits, property assessments, business licences, 311, transit, traffic, census and surveys, many updated daily
+domain: government
+tags: [open-government, city-data, property-assessment, census, socrata]
+license: LicenseRef-Open-Government
+license_url: https://data.edmonton.ca/stories/s/Open-Government-Licence-Edmonton/msh8-if28/
+publisher:
+  name: City of Edmonton
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [CA-AB]
+  update_frequency: daily

@@ -1,0 +1,23 @@
+id: everypolitician
+kind: [dataset]
+name: EveryPolitician
+url: https://everypolitician.org/
+description: Records of about 700,000 political office-holders, from heads of state and legislators to judges, in some 260 countries and territories, compiled from Wikidata and official sources
+domain: government
+tags: [politicians, pep, legislators, public-officials, wikidata]
+license: CC-BY-NC-4.0
+license_url: https://everypolitician.org/about/
+publisher:
+  name: OpenSanctions
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json, text]
+  access: public
+  url: https://www.opensanctions.org/datasets/peps/
+  spatial: [global]
+  update_frequency: daily
+  size: 701,451 politicians

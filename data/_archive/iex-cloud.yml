@@ -1,0 +1,18 @@
+id: iex-cloud
+kind: [api]
+name: IEX Cloud
+url: https://iexcloud.io/docs/api/
+description: Realtime & Historical Stock and Market Data
+domain: finance
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: IEX Cloud was retired on 31 August 2024, and iexcloud.io no longer responds.

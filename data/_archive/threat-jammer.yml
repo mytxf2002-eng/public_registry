@@ -1,0 +1,18 @@
+id: threat-jammer
+kind: [api]
+name: Threat Jammer
+url: https://threatjammer.com/docs/index
+description: Risk scoring service from curated threat intelligence data
+domain: security
+license: unknown
+provenance:
+  added: 2022-03-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: threatjammer.com now serves an Indonesian gambling (TOGELUP) spam page and the docs return 404.

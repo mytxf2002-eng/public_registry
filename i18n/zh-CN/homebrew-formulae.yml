@@ -1,0 +1,3 @@
+id: homebrew-formulae
+description: macOS 和 Linux 包管理器 Homebrew 的官方 JSON 数据：每个 formula（命令行软件）和 cask（图形界面应用）的版本、依赖、下载地址，以及安装量统计。
+group: 软件包仓库与 CDN

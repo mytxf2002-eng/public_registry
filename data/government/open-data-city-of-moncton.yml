@@ -1,0 +1,24 @@
+id: open-data-city-of-moncton
+kind: [api, dataset]
+name: Open Data City of Moncton
+url: https://open.moncton.ca/
+description: Map layers, historical aerial imagery from 1956 to 2022, council attendance, voting and expense records, and council agendas and notices for Moncton, New Brunswick
+domain: government
+tags: [municipal, gis, aerial-imagery, council-records]
+license: unknown
+publisher:
+  name: City of Moncton
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [CA-NB]
+  update_frequency: irregular

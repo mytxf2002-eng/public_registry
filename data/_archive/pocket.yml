@@ -1,0 +1,18 @@
+id: pocket
+kind: [api]
+name: Pocket
+url: https://getpocket.com/developer/
+description: Bookmarking service
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Mozilla shut down Pocket in 2025, so its developer API is no longer available.

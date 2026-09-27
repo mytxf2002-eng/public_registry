@@ -1,0 +1,16 @@
+id: google-photos
+kind: [api]
+name: Google Photos
+url: https://developers.google.com/photos
+description: Integrate Google Photos with your apps or devices
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: boleto-cloud
+description: 开具巴西 boleto（一种银行缴费单），可附带 Pix，多家银行共用一套 API，支持周期收费和补发。
+group: 支付与收款

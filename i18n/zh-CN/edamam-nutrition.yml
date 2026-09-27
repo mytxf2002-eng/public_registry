@@ -1,0 +1,3 @@
+id: edamam-nutrition
+description: Edamam 的营养分析 API：输入菜谱或食材清单（英文自然语言，如“1 cup rice”），返回热量、宏量和微量营养素以及饮食标签。
+group: 营养成分与食品数据库

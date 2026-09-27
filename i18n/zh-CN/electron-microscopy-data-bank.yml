@@ -1,0 +1,2 @@
+id: electron-microscopy-data-bank
+description: 电子显微镜数据库（EMDB）：收录约 6.2 万个冷冻电镜三维密度图和断层图，涵盖大分子复合物和亚细胞结构，附实验元数据；可通过 FTP 批量下载并用 REST 接口查询，条目发布后公开分发且不设使用限制。

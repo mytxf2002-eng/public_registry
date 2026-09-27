@@ -1,0 +1,15 @@
+id: the-guardian
+kind: [api]
+name: The Guardian
+url: http://open-platform.theguardian.com/
+description: Access all the content the Guardian creates, categorised by tags and section
+domain: news-media
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

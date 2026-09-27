@@ -1,0 +1,15 @@
+id: codecogs
+kind: [api]
+name: CodeCogs
+url: https://editor.codecogs.com/docs/4-LaTeX_rendering.php
+description: Render LaTeX equations in PNG, GIF, SVG, EMF, PDF, JSON, or download formats with styling options
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

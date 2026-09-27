@@ -1,0 +1,26 @@
+id: palmerpenguins
+kind: [dataset]
+name: palmerpenguins
+url: https://allisonhorst.github.io/palmerpenguins/
+description: Size measurements, species, island and sex for 344 Adelie, Chinstrap and Gentoo penguins from the Palmer Archipelago, 2007-2009, packaged as an introductory data-science dataset
+domain: machine-learning
+tags: [penguins, teaching-dataset, morphometrics, data-visualization]
+license: CC0-1.0
+license_url: https://allisonhorst.github.io/palmerpenguins/LICENSE.html
+publisher:
+  name: 'Allison Horst, Alison Hill and Kristen Gorman (data: Palmer Station LTER)'
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, rdata]
+  access: public
+  url: https://allisonhorst.github.io/palmerpenguins/articles/download.html
+  temporal:
+    start: '2007'
+    end: '2009'
+  spatial: [antarctica]
+  update_frequency: static
+  size: 344 rows

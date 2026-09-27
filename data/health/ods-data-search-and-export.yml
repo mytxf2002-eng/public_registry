@@ -1,0 +1,21 @@
+id: ods-data-search-and-export
+kind: [dataset]
+name: ODS Data Search and Export
+url: https://www.odsdatasearchandexport.nhs.uk/
+description: Reference records for NHS and social care organisations, sites, GP practices and practitioners, mainly in England, searchable and exportable to CSV or Excel, with predefined reports
+domain: health
+tags: [nhs, healthcare-organisations, gp-practices, reference-data]
+license: OGL-UK-3.0
+license_url: https://digital.nhs.uk/services/organisation-data-service
+publisher:
+  name: NHS England
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  spatial: [GB]
+  update_frequency: daily

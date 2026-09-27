@@ -1,0 +1,3 @@
+id: opensensemap
+description: 公民科学平台 openSenseMap 的开放接口：来自 senseBox 等自建传感器站的温度、湿度、气压、颗粒物等实测数据，免 key。
+group: 历史天气与实测数据

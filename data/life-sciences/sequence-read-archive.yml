@@ -1,0 +1,26 @@
+id: sequence-read-archive
+kind: [api, dataset]
+name: Sequence Read Archive (SRA)
+url: https://www.ncbi.nlm.nih.gov/sra
+description: NIH archive of raw high-throughput sequencing reads and alignments from all branches of life and environmental surveys, with over 46 million experiment records, mirrored in the cloud
+domain: life-sciences
+tags: [sequencing, raw-reads, metagenomics, genomics, insdc]
+license: LicenseRef-Custom-Open
+license_url: https://www.ncbi.nlm.nih.gov/home/about/policies/
+publisher:
+  name: National Center for Biotechnology Information (NCBI/NLM/NIH)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ncbi.nlm.nih.gov/books/NBK25501/
+dataset:
+  formats: [fastq, bam, other]
+  access: public
+  url: https://www.ncbi.nlm.nih.gov/sra/docs/
+  spatial: [global]

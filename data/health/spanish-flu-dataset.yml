@@ -1,0 +1,25 @@
+id: spanish-flu-dataset
+kind: [dataset]
+name: Spanish Flu Dataset (Chicago 1918)
+url: https://www.kaggle.com/datasets/thepodclub/spanish-flu-dataset
+description: Point locations and recording week of individual influenza and pneumonia deaths in Chicago during the 1918 pandemic, from late September 1918, in a single CSV file
+domain: health
+tags: [influenza, pandemic, mortality, historical-epidemiology]
+license: CC0-1.0
+license_url: https://www.kaggle.com/datasets/thepodclub/spanish-flu-dataset
+publisher:
+  name: ThePod_Club
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  temporal:
+    start: '1918'
+    end: '1918'
+  spatial: [US-IL]
+  update_frequency: static
+  size: 265 KB

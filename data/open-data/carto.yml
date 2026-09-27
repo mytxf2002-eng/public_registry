@@ -1,0 +1,15 @@
+id: carto
+kind: [api]
+name: CARTO
+url: https://carto.com/
+description: Location Information Prediction
+domain: open-data
+license: unknown
+provenance:
+  added: 2017-01-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

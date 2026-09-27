@@ -1,0 +1,15 @@
+id: revaddress
+kind: [api]
+name: RevAddress
+url: https://revaddress.com/docs/
+description: US address standardization, congressional and state legislative districts, Census data; free tier
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

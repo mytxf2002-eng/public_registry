@@ -1,0 +1,3 @@
+id: twitch
+description: 直播平台 Twitch 的官方 API：查询直播、频道、游戏分类和剪辑，可以用 EventSub 订阅开播、关注等事件，也用来开发聊天机器人和直播扩展。
+group: 主流社交平台

@@ -1,0 +1,15 @@
+id: cyclecalcs
+kind: [api]
+name: CycleCalcs
+url: https://www.cyclecalcs.com/api.html
+description: 'Interpreted astronomy: sun and moon times, moon phases, planets, eclipses, seasons'
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

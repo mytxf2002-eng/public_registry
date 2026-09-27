@@ -1,0 +1,15 @@
+id: tredict
+kind: [api]
+name: Tredict
+url: https://www.tredict.com/blog/oauth_docs/
+description: Get and set activities, health data and more
+domain: sports
+license: unknown
+provenance:
+  added: 2021-08-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

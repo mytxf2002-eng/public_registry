@@ -1,0 +1,15 @@
+id: ip-fast-com
+kind: [api]
+name: ip-fast.com
+url: https://ip-fast.com/docs/
+description: IP address, country and city
+domain: networks
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

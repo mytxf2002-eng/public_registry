@@ -1,0 +1,26 @@
+id: rope-drop-news-theme-park-open-data
+kind: [api, dataset]
+name: Rope Drop News Theme Park Open Data
+url: https://ropedropnews.com/developers
+description: Live ride wait times and status for Walt Disney World, Disneyland and Universal Orlando parks, plus CSV files of ride reliability, crowd levels and Lightning Lane prices
+domain: entertainment
+tags: [theme-parks, wait-times, crowd-levels, disney, universal]
+license: CC-BY-4.0
+license_url: https://ropedropnews.com/developers
+publisher:
+  name: Rope Drop News
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://github.com/RopeDropNews/theme-park-open-data
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US]
+  update_frequency: realtime

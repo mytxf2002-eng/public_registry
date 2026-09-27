@@ -1,0 +1,3 @@
+id: google-books
+description: Google 图书的接口：按书名、作者、ISBN 搜索图书，返回简介、封面、出版信息和预览链接。检索公开图书信息不需要用户授权，读写用户书架要 OAuth。
+group: 图书检索与出版数据

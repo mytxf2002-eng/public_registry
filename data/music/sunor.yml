@@ -1,0 +1,15 @@
+id: sunor
+kind: [api]
+name: Sunor
+url: https://docs.sunor.cc
+description: AI music generation API via Suno, with pay-as-you-go credits
+domain: music
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

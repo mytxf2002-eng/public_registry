@@ -1,0 +1,26 @@
+id: city-of-mountain-view-opendata
+kind: [api, dataset]
+name: City of Mountain View OpenData
+url: https://data-mountainview.opendata.arcgis.com/
+description: About 25 GIS layers for Mountain View, California, including zoning districts, general plan land use, parcels, building footprints, 2017 elevation data, trees and road centerlines
+domain: government
+tags: [municipal, gis, zoning, parcels, elevation]
+license: LicenseRef-Custom-Open
+license_url: https://data-mountainview.opendata.arcgis.com/datasets/MountainView::trees
+publisher:
+  name: City of Mountain View
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, geojson, kml, shapefile]
+  access: public
+  spatial: [US-CA]
+  update_frequency: irregular
+  size: 26 items

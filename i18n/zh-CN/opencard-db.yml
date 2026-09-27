@@ -1,0 +1,2 @@
+id: opencard-db
+description: 社区维护的信用卡产品数据库，收录美国、加拿大和中国约 250 张信用卡，每张卡一个经模式校验的 JSON 文件，包括年费、利率区间、返利类别、外汇手续费、信用要求和来源。可通过 jsDelivr CDN 或 GitHub 发布包下载 JSON/CSV/YAML，也可调用免密钥的只读 REST 接口（每 IP 每日 500 次）；数据采用 CC BY 4.0 许可。

@@ -1,0 +1,16 @@
+id: google-safe-browsing
+kind: [api]
+name: Google Safe Browsing
+url: https://developers.google.com/safe-browsing/
+description: Google Link/Domain Flagging
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2016-09-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

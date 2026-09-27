@@ -1,0 +1,16 @@
+id: veriroute-intel
+kind: [api]
+name: VeriRoute Intel
+url: https://verirouteintel.com
+description: CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers
+domain: communication
+tags: [phone]
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

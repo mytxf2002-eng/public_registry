@@ -1,0 +1,19 @@
+id: jsonofcounties
+kind: [dataset]
+name: JsonOfCounties
+url: https://github.com/evangambit/JsonOfCounties
+description: One record per US county combining census demographics, election results, unemployment, income, weather, health, mobility and COVID-19 figures, mostly from the 2010s
+domain: social-sciences
+tags: [counties, demographics, elections, unemployment, covid-19]
+license: unknown
+publisher:
+  name: evangambit
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv]
+  access: public
+  spatial: [US]

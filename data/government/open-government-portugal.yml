@@ -1,0 +1,15 @@
+id: open-government-portugal
+kind: [api]
+name: Open Government, Portugal
+url: https://dados.gov.pt/en/recursos/desenvolvimento/referencia-api
+description: Portugal Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

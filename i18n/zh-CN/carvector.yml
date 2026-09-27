@@ -1,0 +1,3 @@
+id: carvector
+description: 车辆规格、图片、召回信息和 OBD 故障码（DTC）说明，车型年份覆盖 1925-2029 年。
+group: 车型规格、召回与可靠性

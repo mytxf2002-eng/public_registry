@@ -1,0 +1,2 @@
+id: tunisia-national-open-data-portal
+description: 突尼斯国家开放数据平台，汇集近 200 个部委和市镇发布的约 2900 个数据集，以农业、文化、工业能源及地方政府数据为主，多为 Excel 和 CSV 文件，可直接下载并通过 CKAN API 查询；默认采用突尼斯国家开放公共数据许可，允许商业使用但须注明来源。

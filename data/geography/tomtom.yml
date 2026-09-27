@@ -1,0 +1,16 @@
+id: tomtom
+kind: [api]
+name: TomTom
+url: https://developer.tomtom.com/
+description: Maps, Directions, Places and Traffic APIs
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

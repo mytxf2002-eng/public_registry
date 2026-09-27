@@ -1,0 +1,15 @@
+id: mlb-records-and-stats
+kind: [api]
+name: MLB Records and Stats
+url: https://appac.github.io/mlb-data-api-docs/
+description: Current and historical MLB statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2021-04-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

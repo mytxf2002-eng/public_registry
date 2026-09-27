@@ -1,0 +1,18 @@
+id: canadian-football-league-cfl
+kind: [api]
+name: Canadian Football League (CFL)
+url: http://api.cfl.ca/
+description: Official JSON API providing real-time league, team and player statistics about the CFL
+domain: sports
+license: unknown
+provenance:
+  added: 2019-02-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: The CFL API host no longer resolves and cfl.ca offers no API or developer page.

@@ -1,0 +1,21 @@
+id: fooddata-central
+kind: [api, dataset]
+name: FoodData Central
+url: https://fdc.nal.usda.gov/
+description: National Nutrient Database for Standard Reference
+domain: health
+license: unknown
+provenance:
+  added: 2020-04-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://fdc.nal.usda.gov/download-datasets
+  spatial: [US]
+  size: 460 MB zipped (all types, CSV)

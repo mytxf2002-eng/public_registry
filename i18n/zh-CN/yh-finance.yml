@@ -1,0 +1,3 @@
+id: yh-finance
+description: 第三方的雅虎财经数据接口（YH Finance API），不是雅虎官方服务（雅虎 2017 年就关闭了官方 API）：股票、加密货币、外汇等行情，需要 key。
+group: 股票与多资产行情

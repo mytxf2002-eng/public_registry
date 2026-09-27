@@ -1,0 +1,15 @@
+id: tiktok-shop
+kind: [api]
+name: TikTok Shop
+url: https://partner.tiktokshop.com/docv2/page/overview
+description: Tokopedia's Official API for integration of various services from Tokopedia
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

@@ -1,0 +1,26 @@
+id: cambridge-open-data-portal
+kind: [api, dataset]
+name: Cambridge Open Data Portal
+url: https://data.cambridgema.gov/
+description: About 280 datasets from the City of Cambridge, Massachusetts, on transportation, inspections, public works, planning, public safety, health, energy and assessing
+domain: government
+tags: [open-government, city-data, inspections, transportation, socrata]
+license: PDDL-1.0
+license_url: https://data.cambridgema.gov/d/inw8-ircw
+publisher:
+  name: City of Cambridge
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson]
+  access: public
+  spatial: [US-MA]
+  update_frequency: daily

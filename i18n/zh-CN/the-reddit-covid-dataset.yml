@@ -1,0 +1,2 @@
+id: the-reddit-covid-dataset
+description: SocialGrep（Lexyr）整理的 Reddit 上提及新冠（COVID）的帖子和评论，截至 2021 年 10 月 25 日，附得分，分为帖子和评论两个 CSV 文件（合计约 14.6 GB）。发布在 Kaggle，免费注册后可下载，采用 CC BY 4.0 许可。

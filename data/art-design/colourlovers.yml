@@ -1,0 +1,15 @@
+id: colourlovers
+kind: [api]
+name: ColourLovers
+url: http://www.colourlovers.com/api
+description: Get various patterns, palettes and images
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

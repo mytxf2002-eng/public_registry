@@ -1,0 +1,15 @@
+id: data-gov
+kind: [api]
+name: Data.gov
+url: https://api.data.gov/
+description: US Government Data
+domain: government
+license: unknown
+provenance:
+  added: 2018-06-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,22 @@
+id: global-wind-atlas
+kind: [dataset]
+name: Global Wind Atlas
+url: https://globalwindatlas.info/
+description: Modeled wind climate layers for the whole world, such as mean wind speed at 100 m above ground, for finding high-wind areas and estimating wind power potential
+domain: energy
+tags: [wind-energy, wind-speed, renewables, gis]
+license: CC-BY-4.0
+license_url: https://globalwindatlas.info/en/about/TermsOfUse
+publisher:
+  name: Technical University of Denmark (DTU Wind Energy) and World Bank Group
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geotiff]
+  access: public
+  url: https://globalwindatlas.info/en/download/gis-files
+  spatial: [global]
+  update_frequency: irregular

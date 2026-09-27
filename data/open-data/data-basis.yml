@@ -1,0 +1,22 @@
+id: data-basis
+kind: [dataset]
+name: Data Basis (Base dos Dados)
+url: https://basedosdados.org/en
+description: Cleaned, standardized tables of Brazilian public socioeconomic data (population series, company registry, public budgets and more) in a public BigQuery datalake
+domain: open-data
+tags: [public-data, bigquery, socioeconomic, harmonized-tables, data-lake]
+license: unknown
+license_url: https://data-basis.org/terms?section=terms
+publisher:
+  name: Data Basis (Base dos Dados)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://data-basis.org/search
+  spatial: [BR]
+  update_frequency: irregular

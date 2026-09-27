@@ -1,0 +1,15 @@
+id: open-government-lithuania
+kind: [api]
+name: Open Government, Lithuania
+url: https://docs.data.gov.lt/projects/atviriduomenys/latest/api/index.html
+description: Lithuania Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: poststack
+kind: [api]
+name: PostStack
+url: https://poststack.dev/docs
+description: EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

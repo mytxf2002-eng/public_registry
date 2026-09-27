@@ -1,0 +1,16 @@
+id: hellosalut
+kind: [api]
+name: HelloSalut
+url: https://stefanbohacek.com/project/hellosalut-api/
+description: Get hello translation following user language
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-01-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

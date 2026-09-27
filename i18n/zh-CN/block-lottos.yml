@@ -1,0 +1,3 @@
+id: block-lottos
+description: 链上彩票的接口：开奖历史、奖池信息，以及广告投放相关端点。链接直接是 OpenAPI 描述文件。
+group: DeFi 与去中心化应用

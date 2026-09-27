@@ -1,0 +1,21 @@
+id: 3w-dataset
+kind: [dataset]
+name: 3W Dataset
+url: https://github.com/petrobras/3W
+description: Labelled multivariate time series of undesirable events in offshore oil wells, mixing real, simulated and hand-drawn instances, for fault detection and classification research
+domain: machine-learning
+tags: [oil-wells, time-series, anomaly-detection, fault-detection, benchmark]
+license: CC-BY-4.0
+license_url: https://github.com/petrobras/3W
+publisher:
+  name: Petrobras
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet]
+  access: public
+  spatial: [BR]
+  update_frequency: irregular

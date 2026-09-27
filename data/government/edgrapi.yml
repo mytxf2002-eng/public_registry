@@ -1,0 +1,15 @@
+id: edgrapi
+kind: [api]
+name: Edgrapi
+url: https://edgrapi.com/docs
+description: 'US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants'
+domain: government
+license: unknown
+provenance:
+  added: 2026-06-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

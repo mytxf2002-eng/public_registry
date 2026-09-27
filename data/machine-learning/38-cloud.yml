@@ -1,0 +1,22 @@
+id: 38-cloud
+kind: [dataset]
+name: 38-Cloud
+url: https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset
+description: Landsat 8 cloud-detection benchmark of 38 scenes cut into 384x384 patches (8,400 training, 9,201 test) with red, green, blue and near-infrared bands and manual cloud masks
+domain: machine-learning
+tags: [cloud-detection, semantic-segmentation, landsat-8, satellite-imagery]
+license: Apache-2.0
+license_url: https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset/blob/master/LICENSE
+publisher:
+  name: Sorour Mohajerani et al.
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [geotiff, csv]
+  access: registration
+  url: https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images
+  update_frequency: static
+  size: 17 GB

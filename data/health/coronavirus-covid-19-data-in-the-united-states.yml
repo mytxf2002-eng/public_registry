@@ -1,0 +1,24 @@
+id: coronavirus-covid-19-data-in-the-united-states
+kind: [dataset]
+name: Coronavirus (Covid-19) Data in the United States
+url: https://github.com/nytimes/covid-19-data
+description: Daily cumulative COVID-19 cases and deaths for the US, every state and county from 2020 to March 2023, plus mask-use survey, excess-death, college and prison files
+domain: health
+tags: [covid-19, case-counts, county-level, excess-deaths]
+license: CC-BY-NC-4.0
+license_url: https://github.com/nytimes/covid-19-data/blob/master/LICENSE
+publisher:
+  name: The New York Times
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: 2020-01
+    end: 2023-03
+  spatial: [US]
+  update_frequency: static

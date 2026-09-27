@@ -1,0 +1,3 @@
+id: greynoise
+description: GreyNoise 收集在全网做大规模扫描的 IP，帮助区分无差别的“背景噪声”和有针对性的攻击。链接是免费的社区版接口，只返回部分 IP 情报。
+group: 威胁情报与恶意软件分析

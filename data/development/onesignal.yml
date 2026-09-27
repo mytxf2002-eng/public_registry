@@ -1,0 +1,15 @@
+id: onesignal
+kind: [api]
+name: OneSignal
+url: https://documentation.onesignal.com/reference/rest-api-overview
+description: Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

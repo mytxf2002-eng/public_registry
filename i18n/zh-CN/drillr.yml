@@ -1,0 +1,3 @@
+id: drillr
+description: AI 研究平台 drillr.ai 的接口，覆盖美国、中国、日本股票的基本面、公告、财报、持股和公司事件。不支持 CORS，只能在服务端调用。
+group: 公司基本面、监管披露与研究数据

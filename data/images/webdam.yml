@@ -1,0 +1,16 @@
+id: webdam
+kind: [api]
+name: Webdam
+url: https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API
+description: Upload, search and manage company images and other assets in the Webdam DAM system
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

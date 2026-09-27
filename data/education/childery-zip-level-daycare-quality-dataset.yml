@@ -1,0 +1,26 @@
+id: childery-zip-level-daycare-quality-dataset
+kind: [dataset]
+name: Childery ZIP-Level Daycare Quality Dataset
+url: https://childery.com/data
+description: 'Daycare supply and quality indicators for 20,433 US ZIP code areas: provider counts, licensed slots per child, ratings, accreditation, infant care, inspection findings'
+domain: education
+tags: [childcare, daycare, early-childhood, zip-codes]
+license: CC-BY-4.0
+license_url: https://childery.com/data
+publisher:
+  name: Childery
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://childery.com/data/zip-aggregates.csv
+  temporal:
+    start: '2026'
+    end: null
+  spatial: [US]
+  update_frequency: irregular
+  size: 20,433 rows

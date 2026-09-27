@@ -1,0 +1,20 @@
+id: planecrashinfo-accident-database
+kind: [dataset]
+name: PlaneCrashInfo Accident Database
+url: https://www.planecrashinfo.com/database.htm
+description: Year-by-year web listing of fatal airliner, cargo, military transport and other notable aviation accidents from 1920 or earlier to today, with operator, aircraft, fatalities and a summary
+domain: transportation
+tags: [aviation-accidents, aviation-safety, plane-crashes]
+license: unknown
+publisher:
+  name: PlaneCrashInfo.com
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [html]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

@@ -1,0 +1,15 @@
+id: swiftkanban
+kind: [api]
+name: SwiftKanban
+url: https://www.nimblework.com/knowledge-base/swiftkanban/article-category/web-services-api-documentation/
+description: Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity
+domain: business
+license: unknown
+provenance:
+  added: 2021-05-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

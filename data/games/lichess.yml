@@ -1,0 +1,15 @@
+id: lichess
+kind: [api]
+name: Lichess
+url: https://lichess.org/api
+description: Access to all data of users, games, puzzles and etc on Lichess
+domain: games
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

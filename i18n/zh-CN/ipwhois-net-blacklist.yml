@@ -1,0 +1,3 @@
+id: ipwhois-net-blacklist
+description: 社区维护的 IP 黑名单：查询某个 IP 是否被举报为滥用，也可以提交举报，免 key。
+group: IP 与网站信誉

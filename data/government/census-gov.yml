@@ -1,0 +1,20 @@
+id: census-gov
+kind: [api, dataset]
+name: Census.gov
+url: https://www.census.gov/data/developers/data-sets.html
+description: The US Census Bureau provides various APIs and data sets on demographics and businesses
+domain: government
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, sas, shapefile]
+  access: public
+  url: https://www.census.gov/data/datasets.html
+  spatial: [US]

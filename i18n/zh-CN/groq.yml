@@ -1,0 +1,3 @@
+id: groq
+description: 用自研 LPU 芯片做大模型推理，以输出速度快著称，运行 Llama 等开源模型，接口兼容 OpenAI，有免费档。可用模型会随时间更换。
+group: 大模型推理与模型平台

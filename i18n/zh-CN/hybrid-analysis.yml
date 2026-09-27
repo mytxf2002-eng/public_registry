@@ -1,0 +1,3 @@
+id: hybrid-analysis
+description: CrowdStrike 旗下的免费恶意软件分析沙箱，基于 Falcon Sandbox：提交文件或 URL 获取行为分析报告和威胁评分，也能搜索已有的分析结果。
+group: 威胁情报与恶意软件分析

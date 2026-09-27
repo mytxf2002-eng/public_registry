@@ -1,0 +1,15 @@
+id: userstack
+kind: [api]
+name: Userstack
+url: https://userstack.com/
+description: Secure User-Agent String Lookup JSON API
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

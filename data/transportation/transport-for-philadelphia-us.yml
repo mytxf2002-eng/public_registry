@@ -1,0 +1,15 @@
+id: transport-for-philadelphia-us
+kind: [api]
+name: Transport for Philadelphia, US
+url: http://www3.septa.org/hackathon/
+description: SEPTA APIs
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

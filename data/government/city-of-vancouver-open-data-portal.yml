@@ -1,0 +1,26 @@
+id: city-of-vancouver-open-data-portal
+kind: [api, dataset]
+name: City of Vancouver Open Data Portal
+url: https://opendata.vancouver.ca/
+description: About 200 City of Vancouver datasets on streets and transport, budgets, property, parks, utilities, elections and LiDAR, with CSV, GeoJSON, shapefile and Excel exports
+domain: government
+tags: [municipal, capital-budget, public-trees, lidar, business-licences]
+license: LicenseRef-Open-Government
+license_url: https://opendata.vancouver.ca/pages/licence/
+publisher:
+  name: City of Vancouver
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://opendata.vancouver.ca/pages/help/
+dataset:
+  formats: [csv, json, geojson, shapefile, xlsx, parquet]
+  access: public
+  spatial: [CA-BC]
+  size: 200 datasets

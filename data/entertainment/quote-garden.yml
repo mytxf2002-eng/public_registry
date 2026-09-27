@@ -1,0 +1,16 @@
+id: quote-garden
+kind: [api]
+name: Quote Garden
+url: https://pprathameshmore.github.io/QuoteGarden/
+description: REST API for more than 5000 famous quotes
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2019-10-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

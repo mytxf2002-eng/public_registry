@@ -1,0 +1,15 @@
+id: lob-com
+kind: [api]
+name: Lob.com
+url: https://lob.com/
+description: US Address Verification
+domain: data-validation
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

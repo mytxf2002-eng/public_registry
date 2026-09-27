@@ -1,0 +1,16 @@
+id: codeship
+kind: [api]
+name: Codeship
+url: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
+description: Codeship is a Continuous Integration Platform in the cloud
+domain: development
+tags: [continuous-integration]
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

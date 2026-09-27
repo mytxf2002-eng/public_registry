@@ -1,0 +1,26 @@
+id: brightkey-independent-education-datasets
+kind: [dataset]
+name: BrightKey Independent Education Datasets
+url: https://brightkey.co/en/rankings/dataset
+description: 'Scores for 299 universities in 55 countries on six dimensions, and facts on 234 international schools in 41 cities: curricula, fees, accreditation, inspection ratings, exam results'
+domain: education
+tags: [universities, international-schools, school-fees, rankings]
+license: CC-BY-4.0
+license_url: https://brightkey.co/en/rankings/dataset
+publisher:
+  name: BrightKey
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://doi.org/10.5281/zenodo.20603841
+  temporal:
+    start: '2026'
+    end: '2026'
+  spatial: [global]
+  update_frequency: irregular
+  size: 299 universities, 234 schools

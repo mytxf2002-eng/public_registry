@@ -1,0 +1,15 @@
+id: openuv
+kind: [api]
+name: OpenUV
+url: https://www.openuv.io
+description: Real-time UV Index Forecast
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2018-02-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

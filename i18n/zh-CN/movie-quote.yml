@@ -1,0 +1,3 @@
+id: movie-quote
+description: 随机返回电影和剧集台词，可以按作品筛选，还有屏蔽粗口的“净化”模式，基于 Django REST Framework 开发。
+group: 影视台词语录

@@ -1,0 +1,2 @@
+id: mnist
+description: 经典手写数字图像基准数据集，共 7 万张 28×28 灰度图像（训练集 6 万、测试集 1 万），源自 NIST 数据。原主页 yann.lecun.com 的文件目录已于 2025 年清空，现可在 Yann LeCun 本人的 Hugging Face 账号下以 Parquet 格式公开下载，该记录标注为 MIT 许可。

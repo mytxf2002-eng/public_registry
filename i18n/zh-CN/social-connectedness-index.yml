@@ -1,0 +1,2 @@
+id: social-connectedness-index
+description: Meta 发布的社会联系指数（SCI）：基于匿名化的 Facebook 好友关系快照，衡量两个地区的用户互为好友的相对概率，覆盖国家之间、178 个国家的次国家级地区以及美国县和邮编区（ZCTA）等层级。CSV 文件在 HDX 上免费下载，按公有领域（CC0）提供；方法会更新且不提供旧版本，不宜当作时间序列使用。

@@ -1,0 +1,15 @@
+id: oddsmagnet
+kind: [api]
+name: Oddsmagnet
+url: https://data.oddsmagnet.com
+description: Odds history from multiple UK bookmakers
+domain: sports
+license: unknown
+provenance:
+  added: 2021-08-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

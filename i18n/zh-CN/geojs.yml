@@ -1,0 +1,3 @@
+id: geojs
+description: 免费的 IP 地理定位，支持 REST、JSON 和 JSONP，另有 ChatOps 集成（在聊天工具里直接查 IP），支持 CORS。
+group: IP 地理定位

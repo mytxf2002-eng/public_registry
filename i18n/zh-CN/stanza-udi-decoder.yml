@@ -1,0 +1,3 @@
+id: stanza-udi-decoder
+description: 医疗器械 UDI（唯一器械标识）条码的解析和校验，对应美国 FDA GUDID 和欧盟 MDR 的要求，支持 GS1、HIBCC、ICCBBA 三种编码，拆出产品标识、批号、序列号和有效期。
+group: 药品与医疗器械

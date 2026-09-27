@@ -1,0 +1,24 @@
+id: washington-post-climate-change-in-the-contiguous-united
+kind: [dataset]
+name: Washington Post Climate Change in the Contiguous United States
+url: https://github.com/washingtonpost/data-2C-beyond-the-limit-usa
+description: 'Annual and winter temperature change since 1895 for the Lower 48 states, each state and each county, computed from NOAA divisional and gridded data for the 2C: Beyond the Limit series'
+domain: weather-climate
+tags: [temperature-trends, warming, counties, data-journalism]
+license: CC-BY-4.0
+license_url: https://github.com/washingtonpost/data-2C-beyond-the-limit-usa
+publisher:
+  name: The Washington Post
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, geojson, geotiff]
+  access: public
+  temporal:
+    start: '1895'
+    end: '2019'
+  spatial: [US]
+  update_frequency: static

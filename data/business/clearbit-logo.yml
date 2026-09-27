@@ -1,0 +1,15 @@
+id: clearbit-logo
+kind: [api]
+name: Clearbit Logo
+url: https://clearbit.com/docs#logo-api
+description: Search for company logos and embed them in your projects
+domain: business
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

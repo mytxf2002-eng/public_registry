@@ -1,0 +1,19 @@
+id: scriptmasterlabs-x402
+kind: [api]
+name: ScriptMasterLabs x402
+url: https://acp-x402-scriptmasterlabs.onrender.com
+description: 100+ SEC, DeFi, crypto, and macro endpoints for AI agents via x402 micropayments
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The listed Render service no longer exists and the provider's current x402 catalog is a different product without the SEC, DeFi, crypto and macro endpoints.

@@ -1,0 +1,15 @@
+id: temsor
+kind: [api]
+name: Temsor
+url: https://api.temsor.com/docs
+description: Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses
+domain: data-validation
+license: unknown
+provenance:
+  added: 2026-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

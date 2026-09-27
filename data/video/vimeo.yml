@@ -1,0 +1,15 @@
+id: vimeo
+kind: [api]
+name: Vimeo
+url: https://developer.vimeo.com/
+description: Vimeo Developer API
+domain: video
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

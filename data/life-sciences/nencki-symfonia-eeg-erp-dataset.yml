@@ -1,0 +1,20 @@
+id: nencki-symfonia-eeg-erp-dataset
+kind: [dataset]
+name: Nencki-Symfonia EEG/ERP Dataset
+url: https://gigadb.org/dataset/100990
+description: High-density EEG from 42 healthy young adults doing interference (MSIT+), oddball and simple reaction tasks plus rest, with demographic and questionnaire data
+domain: life-sciences
+tags: [eeg, erp, cognitive-control, attention, resting-state]
+license: CC0-1.0
+license_url: https://api.datacite.org/dois/10.5524/100990
+publisher:
+  name: Nencki Institute of Experimental Biology
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, tsv, json]
+  access: public
+  update_frequency: static

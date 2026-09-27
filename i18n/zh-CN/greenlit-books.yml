@@ -1,0 +1,3 @@
+id: greenlit-books
+description: Greenlit Books 网站的实用 AI 类图书目录：图书、丛书、概念术语和排序搜索，另有记录书中论断的“claim ledger”。免 key，提供 OpenAPI 3.1 规范。
+group: 图书检索与出版数据

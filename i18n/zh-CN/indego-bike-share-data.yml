@@ -1,0 +1,2 @@
+id: indego-bike-share-data
+description: 费城公共自行车 Indego 自 2015 年 4 月开通以来按季度发布的匿名骑行记录（起止站点与坐标、时间、时长、车型、会员类型等），CSV 格式，另有站点表以及 GeoJSON 和 GBFS 实时站点状态数据流，无需注册即可获取。页面未注明数据许可。

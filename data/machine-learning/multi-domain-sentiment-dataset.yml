@@ -1,0 +1,20 @@
+id: multi-domain-sentiment-dataset
+kind: [dataset]
+name: Multi-Domain Sentiment Dataset
+url: https://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+description: Amazon product reviews from many product categories with 1 to 5 star ratings, in raw and preprocessed balanced forms, built to study domain adaptation in sentiment classification
+domain: machine-learning
+tags: [sentiment-analysis, product-reviews, domain-adaptation, nlp]
+license: unknown
+publisher:
+  name: Mark Dredze and John Blitzer
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xml, text]
+  access: public
+  update_frequency: static
+  size: 1.5 GB

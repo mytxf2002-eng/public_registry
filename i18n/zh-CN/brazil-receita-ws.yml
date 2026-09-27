@@ -1,0 +1,3 @@
+id: brazil-receita-ws
+description: 按 CNPJ（巴西企业税号）查询企业注册信息，如名称、地址、经营状态、主营业务和股东，数据来自巴西联邦税务局（Receita Federal）。
+group: 企业登记与税号查询

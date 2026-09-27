@@ -1,0 +1,21 @@
+id: cytoimagenet
+kind: [dataset]
+name: CytoImageNet
+url: https://www.kaggle.com/datasets/stanleyhua/cytoimagenet
+description: 890,737 grayscale microscopy images in 894 weakly labelled classes drawn from 40 open bioimage datasets, assembled for pretraining and transfer learning in bioimage analysis
+domain: machine-learning
+tags: [microscopy, pretraining, transfer-learning, image-classification, bioimages]
+license: CC0-1.0
+license_url: https://www.kaggle.com/datasets/stanleyhua/cytoimagenet
+publisher:
+  name: Stanley Hua
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv]
+  access: registration
+  update_frequency: static
+  size: 52 GB

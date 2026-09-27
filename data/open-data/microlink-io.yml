@@ -1,0 +1,15 @@
+id: microlink-io
+kind: [api]
+name: Microlink.io
+url: https://microlink.io
+description: Extract structured data from any website
+domain: open-data
+license: unknown
+provenance:
+  added: 2018-06-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

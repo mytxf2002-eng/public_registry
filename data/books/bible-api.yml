@@ -1,0 +1,15 @@
+id: bible-api
+kind: [api]
+name: Bible-api
+url: https://bible-api.com/
+description: Free Bible API with multiple languages
+domain: books
+license: unknown
+provenance:
+  added: 2021-11-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

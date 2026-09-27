@@ -1,0 +1,29 @@
+id: electron-microscopy-data-bank
+kind: [api, dataset]
+name: Electron Microscopy Data Bank (EMDB)
+url: https://www.ebi.ac.uk/emdb/
+description: Public archive of about 62,000 cryo-EM volume maps and tomograms of macromolecular complexes and subcellular structures, with entry metadata, since 2002
+domain: life-sciences
+tags: [cryo-em, structural-biology, 3d-maps, macromolecules]
+license: LicenseRef-Custom-Open
+license_url: https://www.ebi.ac.uk/emdb/documentation/policies
+publisher:
+  name: EMBL-EBI (EMDB, a wwPDB partner)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ebi.ac.uk/emdb/api/
+dataset:
+  formats: [other, xml]
+  access: public
+  url: https://ftp.ebi.ac.uk/pub/databases/emdb
+  temporal:
+    start: '2002'
+    end: null
+  size: 62,430 entries

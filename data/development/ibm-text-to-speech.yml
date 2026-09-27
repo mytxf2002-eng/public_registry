@@ -1,0 +1,15 @@
+id: ibm-text-to-speech
+kind: [api]
+name: IBM Text to Speech
+url: https://cloud.ibm.com/docs/text-to-speech/getting-started.html
+description: Convert text to speech
+domain: development
+license: unknown
+provenance:
+  added: 2020-11-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

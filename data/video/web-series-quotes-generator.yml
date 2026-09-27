@@ -1,0 +1,15 @@
+id: web-series-quotes-generator
+kind: [api]
+name: Web Series Quotes Generator
+url: https://github.com/yogeshwaran01/web-series-quotes
+description: API generates various Web Series Quote Images
+domain: video
+license: unknown
+provenance:
+  added: 2022-01-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

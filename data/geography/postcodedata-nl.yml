@@ -1,0 +1,16 @@
+id: postcodedata-nl
+kind: [api]
+name: PostcodeData.nl
+url: http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json
+description: Provide geolocation data based on postcode for Dutch addresses
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

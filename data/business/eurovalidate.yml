@@ -1,0 +1,15 @@
+id: eurovalidate
+kind: [api]
+name: EuroValidate
+url: https://eurovalidate.com
+description: EU VAT (VIES), IBAN and EORI validation with company name & address lookup
+domain: business
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

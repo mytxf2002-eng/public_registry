@@ -1,0 +1,22 @@
+id: the-reddit-covid-dataset
+kind: [dataset]
+name: The Reddit COVID Dataset
+url: https://www.kaggle.com/datasets/pavellexyr/the-reddit-covid-dataset
+description: Reddit posts and comments that mention COVID, up to 25 October 2021, with their scores, released as two CSV files of about 14.6 GB in total
+domain: social
+tags: [reddit, covid-19, comments, posts, public-opinion]
+license: CC-BY-4.0
+license_url: https://www.kaggle.com/datasets/pavellexyr/the-reddit-covid-dataset
+publisher:
+  name: SocialGrep (Lexyr)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  spatial: [global]
+  update_frequency: static
+  size: 14.6 GB

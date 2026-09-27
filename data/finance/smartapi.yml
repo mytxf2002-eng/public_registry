@@ -1,0 +1,15 @@
+id: smartapi
+kind: [api]
+name: SmartAPI
+url: https://smartapi.angelbroking.com/
+description: Gain access to set of <SmartAPI> and create end-to-end broking services
+domain: finance
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

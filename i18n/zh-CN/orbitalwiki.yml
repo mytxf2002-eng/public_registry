@@ -1,0 +1,3 @@
+id: orbitalwiki
+description: 1.6 万多颗卫星的目录，合并了 CelesTrak、GCAT 和 Wikidata 的数据：轨道根数（TLE/OMM）、运营方、NORAD 和 COSPAR 编号，尽量为每个字段标注来源，有免费档。
+group: 航天与卫星

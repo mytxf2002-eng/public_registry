@@ -1,0 +1,2 @@
+id: aminer-citation-network-dataset
+description: AMiner 发布的计算机科学论文引用网络数据集，整合 DBLP、ACM 和微软学术图谱，包含标题、作者、会议期刊、年份和摘要，最新 V19 版含约 729 万篇论文和 8500 万条引用关系，历史版本均可直接下载；仅限科研用途。

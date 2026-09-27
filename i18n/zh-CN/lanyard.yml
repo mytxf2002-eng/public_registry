@@ -1,0 +1,3 @@
+id: lanyard
+description: 第三方开源项目：把自己的 Discord 在线状态和正在进行的活动（在玩的游戏、在听的 Spotify 歌曲等）通过 REST 或 WebSocket 公开出来，常用于个人主页。使用前要先加入它的 Discord 服务器。
+group: 即时通讯与聊天机器人

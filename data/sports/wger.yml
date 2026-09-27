@@ -1,0 +1,15 @@
+id: wger
+kind: [api]
+name: Wger
+url: https://wger.de/en/software/api
+description: Workout manager data as exercises, muscles or equipment
+domain: sports
+license: unknown
+provenance:
+  added: 2016-08-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

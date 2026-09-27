@@ -1,0 +1,3 @@
+id: hyperserve
+description: 给开发者用的视频后端：接收用户上传的任意格式视频，转码成 MP4，再通过 CDN 分发到全球。
+group: 视频剪辑、转码与生成

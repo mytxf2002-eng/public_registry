@@ -1,0 +1,15 @@
+id: labelixa
+kind: [api]
+name: Labelixa
+url: https://labelixa.com/docs/api
+description: Render, validate and generate Zebra ZPL label barcodes as PNG/PDF
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

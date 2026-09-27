@@ -1,0 +1,16 @@
+id: country
+kind: [api]
+name: Country
+url: http://country.is/
+description: Get your visitor's country from their IP
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-03-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

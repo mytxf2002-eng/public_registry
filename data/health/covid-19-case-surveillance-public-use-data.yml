@@ -1,0 +1,30 @@
+id: covid-19-case-surveillance-public-use-data
+kind: [api, dataset]
+name: COVID-19 Case Surveillance Public Use Data
+url: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf
+description: About 106 million de-identified patient-level COVID-19 case records reported to CDC from 2020 to mid-2024, with 12 fields on demographics, hospitalization, ICU and death
+domain: health
+tags: [covid-19, case-surveillance, epidemiology, patient-level]
+license: LicenseRef-US-Government-Work
+license_url: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf
+publisher:
+  name: Centers for Disease Control and Prevention
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/foundry/data.cdc.gov/vbim-akqf
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: 2020-01
+    end: 2024-06
+  spatial: [US]
+  update_frequency: static
+  size: 106.2 M records

@@ -1,0 +1,16 @@
+id: longdo-map
+kind: [api]
+name: Longdo Map
+url: https://map.longdo.com/docs/
+description: Interactive map with detailed places and information portal in Thailand
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

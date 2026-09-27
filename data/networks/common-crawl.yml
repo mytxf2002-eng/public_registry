@@ -1,0 +1,31 @@
+id: common-crawl
+kind: [api, dataset]
+name: Common Crawl
+url: https://commoncrawl.org/
+description: Petabyte-scale archive of raw web pages, metadata and extracted text collected by regular crawls since 2008, with URL indexes and host and domain web graphs
+domain: networks
+tags: [web-crawl, web-archive, nlp, web-graph]
+license: LicenseRef-Provider-Terms
+license_url: https://commoncrawl.org/terms-of-use
+publisher:
+  name: Common Crawl Foundation
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://index.commoncrawl.org/
+dataset:
+  formats: [warc, parquet, text]
+  access: public
+  url: https://commoncrawl.org/get-started
+  temporal:
+    start: '2008'
+    end: null
+  spatial: [global]
+  update_frequency: monthly
+  size: petabytes

@@ -1,0 +1,15 @@
+id: exchangeratesapi-io
+kind: [api]
+name: Exchangeratesapi.io
+url: https://exchangeratesapi.io
+description: Exchange rates with currency conversion
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2018-04-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

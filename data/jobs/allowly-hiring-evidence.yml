@@ -1,0 +1,15 @@
+id: allowly-hiring-evidence
+kind: [api]
+name: Allowly Hiring Evidence
+url: https://allowly.ai/docs/solutions/hiring/api/
+description: Deterministic hiring policy decisions and signed evidence records
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

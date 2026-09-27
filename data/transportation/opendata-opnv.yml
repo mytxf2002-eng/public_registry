@@ -1,0 +1,20 @@
+id: opendata-opnv
+kind: [dataset]
+name: OpenData ÖPNV
+url: https://www.opendata-oepnv.de/ht/de/datensaetze
+description: German public transport data portal offering the nationwide DELFI timetable in GTFS and NeTEx, regional transit association timetables, stop registers and line data
+domain: transportation
+tags: [public-transit, gtfs, netex, timetables, bus-stops]
+license: unknown
+publisher:
+  name: OpenData ÖPNV (DELFI e.V. and German transit associations)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [gtfs, xml, csv]
+  access: registration
+  spatial: [DE]
+  update_frequency: weekly

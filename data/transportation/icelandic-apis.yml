@@ -1,0 +1,15 @@
+id: icelandic-apis
+kind: [api]
+name: Icelandic APIs
+url: http://docs.apis.is/
+description: Open APIs that deliver services in or regarding Iceland
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

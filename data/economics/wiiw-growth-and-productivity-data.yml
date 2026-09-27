@@ -1,0 +1,25 @@
+id: wiiw-growth-and-productivity-data
+kind: [dataset]
+name: wiiw Growth and Productivity Data
+url: https://euklems.eu/
+description: Industry-level growth and productivity accounts for EU member states from 1995, with TFP variants for value added and labour productivity plus labour, ICT and intangible capital shares
+domain: economics
+tags: [productivity, tfp, growth-accounting, klems, industry-statistics]
+license: CC-BY-4.0
+license_url: https://euklems.eu/
+publisher:
+  name: Vienna Institute for International Economic Studies (wiiw)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, stata, rdata]
+  access: public
+  url: https://euklems.eu/query/
+  temporal:
+    start: '1995'
+    end: null
+  spatial: [europe]
+  update_frequency: irregular

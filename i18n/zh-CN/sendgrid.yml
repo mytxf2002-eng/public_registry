@@ -1,0 +1,3 @@
+id: sendgrid
+description: 老牌邮件发送服务：通过 Web API 或 SMTP 发送事务邮件和营销邮件，另有模板、退信处理、数据统计等功能。2019 年被 Twilio 收购，文档已并入 Twilio 网站。
+group: 邮件发送服务

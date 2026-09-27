@@ -1,0 +1,2 @@
+id: dbpedia-latest-core
+description: DBpedia 每月从维基百科（以英文版为主，并补充多语种标签和摘要）抽取的核心知识图谱，约 9 亿条三元组，可通过 Databus 集合下载 RDF 文件，也可通过免费的 SPARQL 端点、Linked Data 接口和 Lookup 搜索在线查询。采用 CC BY-SA 3.0 与 GFDL 双许可。

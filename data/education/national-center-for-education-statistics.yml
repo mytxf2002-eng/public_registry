@@ -1,0 +1,21 @@
+id: national-center-for-education-statistics
+kind: [dataset]
+name: National Center for Education Statistics
+url: https://nces.ed.gov/
+description: US education statistics from pre-school to adult education, incl. Common Core of Data on public schools, IPEDS college data and NAEP results, with data files and query tools
+domain: education
+tags: [education-statistics, schools, colleges, ipeds, naep]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: National Center for Education Statistics (IES, U.S. Department of Education)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, pdf]
+  access: public
+  url: https://nces.ed.gov/ipeds/use-the-data
+  spatial: [US]
+  update_frequency: annual

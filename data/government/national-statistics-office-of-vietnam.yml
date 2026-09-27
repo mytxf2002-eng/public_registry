@@ -1,0 +1,25 @@
+id: national-statistics-office-of-vietnam
+kind: [api, dataset]
+name: National Statistics Office of Vietnam
+url: https://www.nso.gov.vn/en/homepage/
+description: Official statistics of Vietnam, including monthly socio-economic reports, trade, prices and population, plus a PX-Web database of tables from land use to national accounts
+domain: government
+tags: [official-statistics, national-accounts, population, foreign-trade, cpi]
+license: unknown
+publisher:
+  name: National Statistics Office of Vietnam
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [xls, json]
+  access: public
+  url: https://pxweb.nso.gov.vn/pxweb/en/
+  spatial: [VN]
+  update_frequency: monthly

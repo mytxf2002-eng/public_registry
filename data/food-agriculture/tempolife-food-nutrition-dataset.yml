@@ -1,0 +1,21 @@
+id: tempolife-food-nutrition-dataset
+kind: [dataset]
+name: TempoLife Food Nutrition Dataset
+url: https://github.com/tempolife-app/tempo-food-db
+description: Nutrition values per 100 g (energy, protein, carbohydrate, fat, fibre, sugar, saturated fat, salt) for 7,795 foods and drinks from USDA SR Legacy and curated Estonian items
+domain: food-agriculture
+tags: [nutrition, food-composition, calories, macronutrients]
+license: CC-BY-4.0
+license_url: https://github.com/tempolife-app/tempo-food-db/blob/main/LICENSE
+publisher:
+  name: Probyte OÜ (TempoLife)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://zenodo.org/records/22208174
+  size: 7,795 foods

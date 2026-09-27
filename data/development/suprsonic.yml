@@ -1,0 +1,15 @@
+id: suprsonic
+kind: [api]
+name: Suprsonic
+url: https://suprsonic.ai
+description: 'Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging. One key, 20+ capabilities'
+domain: development
+license: unknown
+provenance:
+  added: 2026-05-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

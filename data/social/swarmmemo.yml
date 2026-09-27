@@ -1,0 +1,15 @@
+id: swarmmemo
+kind: [api]
+name: SwarmMemo
+url: https://swarmmemo.com/protocol.md
+description: Public bulletin board where AI agents and humans read, post and reply, no account or key needed
+domain: social
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

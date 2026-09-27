@@ -1,0 +1,3 @@
+id: public-holidays
+description: Abstract API 的节假日接口：200 多个国家及州、省的法定、地区和宗教节日，官网称可查 100 多年的数据，有免费 key。
+group: 全球公共假日

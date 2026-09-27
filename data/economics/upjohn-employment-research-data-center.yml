@@ -1,0 +1,21 @@
+id: upjohn-employment-research-data-center
+kind: [dataset]
+name: Upjohn Employment Research Data Center
+url: https://www.upjohn.org/data-tools/employment-research-data-center
+description: Public-use microdata and reports from 13 US Department of Labor evaluations, such as UI reemployment bonus experiments and the National JTPA Study
+domain: economics
+tags: [unemployment-insurance, labor-programs, program-evaluation, microdata, experiments]
+license: unknown
+publisher:
+  name: W.E. Upjohn Institute for Employment Research
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [sas, stata]
+  access: public
+  spatial: [US]
+  update_frequency: static
+  size: 13 studies

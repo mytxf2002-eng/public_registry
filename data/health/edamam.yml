@@ -1,0 +1,15 @@
+id: edamam
+kind: [api]
+name: Edamam
+url: https://developer.edamam.com/
+description: Food and nutrition data API with recipe search
+domain: health
+license: unknown
+provenance:
+  added: 2017-01-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

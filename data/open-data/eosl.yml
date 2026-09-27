@@ -1,0 +1,22 @@
+id: eosl
+kind: [api, dataset]
+name: EOSL
+url: https://eosl.ai/api/
+description: Hardware end-of-sale and end-of-service-life dates by part number, source-linked
+domain: open-data
+license: CC-BY-4.0
+license_url: https://eosl.ai/dataset/
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://eosl.ai/dataset/
+  update_frequency: weekly
+  size: 13,548 part numbers

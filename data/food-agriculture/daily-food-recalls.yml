@@ -1,0 +1,15 @@
+id: daily-food-recalls
+kind: [api]
+name: Daily Food Recalls
+url: https://dailyfoodrecalls.com/api/
+description: U.S. FDA and USDA food recalls, merged and normalized, updated daily
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

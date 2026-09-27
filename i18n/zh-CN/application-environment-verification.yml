@@ -1,0 +1,3 @@
+id: application-environment-verification
+description: FingerprintJS 的 Android 库和 API：检测设备是否已 root、是否模拟器、应用是否被克隆等风险，用来确认 App 发来的 API 请求可信。
+group: 反欺诈与机器人检测

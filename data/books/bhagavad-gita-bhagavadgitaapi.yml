@@ -1,0 +1,15 @@
+id: bhagavad-gita-bhagavadgitaapi
+kind: [api]
+name: Bhagavad Gita (docs.bhagavadgitaapi.in)
+url: https://docs.bhagavadgitaapi.in
+description: Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi
+domain: books
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

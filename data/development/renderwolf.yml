@@ -1,0 +1,15 @@
+id: renderwolf
+kind: [api]
+name: Renderwolf
+url: https://ironfang.uk/renderwolf/docs
+description: Screenshots, PDFs, dynamic images, QR codes and video from URLs or HTML
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

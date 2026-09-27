@@ -1,0 +1,15 @@
+id: colormind
+kind: [api]
+name: Colormind
+url: http://colormind.io/api-access/
+description: Color scheme generator
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

@@ -1,0 +1,27 @@
+id: gene-expression-omnibus
+kind: [api, dataset]
+name: Gene Expression Omnibus (GEO)
+url: https://www.ncbi.nlm.nih.gov/geo/
+description: Public archive of about 297,000 functional genomics series submitted by researchers, mainly array and sequencing-based expression studies, with samples, platforms and supplementary files
+domain: life-sciences
+tags: [gene-expression, functional-genomics, microarray, high-throughput-sequencing]
+license: LicenseRef-Custom-Open
+license_url: https://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html
+publisher:
+  name: National Center for Biotechnology Information (NCBI/NLM/NIH)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ncbi.nlm.nih.gov/geo/info/geo_paccess.html
+dataset:
+  formats: [tsv, xml, other]
+  access: public
+  url: https://ftp.ncbi.nlm.nih.gov/geo/
+  update_frequency: daily
+  size: ~297,000 series

@@ -1,0 +1,2 @@
+id: tracebase-appliance-power-consumption-data-set
+description: 德国达姆施塔特工业大学等发布的电器级功率曲线数据集：2012 年在达姆施塔特、2013 年在悉尼用智能插座记录的约 2,350 条单个电器功率轨迹（约每秒一个读数），按电器类型分目录，分为完整日、不完整日和补零合成三类。CSV 文件可在 GitHub 直接下载，采用 ODbL 许可，使用时须引用指定论文。

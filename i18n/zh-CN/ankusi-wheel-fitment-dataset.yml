@@ -1,0 +1,2 @@
+id: ankusi-wheel-fitment-dataset
+description: ANKUSI 整理的原厂轮毂规格数据集，涵盖 167 个品牌、9,688 个车型版本（1940–2027 年款）的螺栓孔距、中心孔径、螺栓数、原厂轮辋尺寸与偏距，并给出常用和最大改装参考尺寸，提供 CSV 和 JSON 下载，采用 CC BY 4.0 许可；GitHub 和 Kaggle 上有镜像。

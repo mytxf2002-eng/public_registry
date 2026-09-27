@@ -1,0 +1,3 @@
+id: qr-code
+description: goqr.me 的免费二维码接口：用 URL 参数生成二维码图片，也能上传图片识别二维码内容，实际接口地址是 api.qrserver.com，免 key。
+group: 二维码与条码

@@ -1,0 +1,15 @@
+id: corporate-buzz-words
+kind: [api]
+name: Corporate Buzz Words
+url: https://github.com/sameerkumar18/corporate-bs-generator-api
+description: REST API for Corporate Buzz Words
+domain: entertainment
+license: unknown
+provenance:
+  added: 2022-01-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

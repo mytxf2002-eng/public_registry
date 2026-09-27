@@ -1,0 +1,15 @@
+id: xfinlab
+kind: [api]
+name: XFINLAB
+url: https://www.xfinlab.com/intelligence-api.html
+description: Market events, sentiment, technical analysis and macro data for stocks
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

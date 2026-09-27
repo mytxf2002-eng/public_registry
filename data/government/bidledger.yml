@@ -1,0 +1,15 @@
+id: bidledger
+kind: [api]
+name: Bidledger
+url: https://jaydemks.github.io/bidledger/api.html
+description: Every open public tender in the European Union, rebuilt daily from the official TED data
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,3 @@
+id: eu-vat-rates-by-commodity-code
+description: 欧盟 27 个成员国按商品编码（CN 和 CPA）对应的增值税税率，每天根据欧盟委员会自己的数据库重建，是免费开放的机器可读数据，托管在 GitHub。
+group: 法律法规、税务与合规

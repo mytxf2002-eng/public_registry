@@ -1,0 +1,3 @@
+id: namegender
+description: 根据名、全名、邮箱地址或用户名推断性别并给出概率，支持批量请求。
+group: 姓名推断与邮箱查找

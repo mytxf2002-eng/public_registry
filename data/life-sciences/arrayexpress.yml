@@ -1,0 +1,26 @@
+id: arrayexpress
+kind: [api, dataset]
+name: ArrayExpress
+url: https://www.ebi.ac.uk/biostudies/arrayexpress
+description: Archive of about 81,000 functional genomics studies from microarray and sequencing experiments, with sample annotations, protocols, and processed and raw data files
+domain: life-sciences
+tags: [functional-genomics, gene-expression, microarray, rna-seq]
+license: LicenseRef-Custom-Open
+license_url: https://www.ebi.ac.uk/about/terms-of-use
+publisher:
+  name: EMBL-EBI
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://www.ebi.ac.uk/biostudies/help
+dataset:
+  formats: [tsv, other]
+  access: public
+  update_frequency: irregular
+  size: 80,899 studies

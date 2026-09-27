@@ -1,0 +1,16 @@
+id: agpc-domain-check
+kind: [api]
+name: AGPC Domain Check
+url: https://guild.tradeuniquecapital.com/api
+description: Check a domain's SPF, DKIM, DMARC and MX with a graded shareable report
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

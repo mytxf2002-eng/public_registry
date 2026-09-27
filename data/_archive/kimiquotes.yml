@@ -1,0 +1,19 @@
+id: kimiquotes
+kind: [api]
+name: kimiquotes
+url: https://kimiquotes.herokuapp.com/doc
+description: Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2022-01-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

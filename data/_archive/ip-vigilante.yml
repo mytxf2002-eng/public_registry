@@ -1,0 +1,19 @@
+id: ip-vigilante
+kind: [api]
+name: IP Vigilante
+url: https://www.ipvigilante.com/
+description: Free IP Geolocation API
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2017-04-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The domain has been hijacked and now redirects to a gambling site.

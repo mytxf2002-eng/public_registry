@@ -1,0 +1,21 @@
+id: google-trends
+kind: [dataset]
+name: Google Trends
+url: https://trends.google.com/trends/
+description: Normalized 0-100 indices of Google search interest by term, topic, region and time, exportable as CSV, plus top and rising search terms as a BigQuery public dataset
+domain: networks
+tags: [search-trends, search-interest, time-series, public-attention]
+license: LicenseRef-Provider-Terms
+license_url: https://support.google.com/trends/answer/4365538?hl=en
+publisher:
+  name: Google
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [global]
+  update_frequency: daily

@@ -1,0 +1,15 @@
+id: accuweather
+kind: [api]
+name: AccuWeather
+url: https://developer.accuweather.com/apis
+description: Weather and forecast data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-06-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

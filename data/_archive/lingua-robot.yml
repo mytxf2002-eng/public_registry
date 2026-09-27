@@ -1,0 +1,19 @@
+id: lingua-robot
+kind: [api]
+name: Lingua Robot
+url: https://www.linguarobot.io
+description: Word definitions, pronunciations, synonyms, antonyms and others
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2019-10-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The linguarobot.io domain no longer resolves.

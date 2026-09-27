@@ -1,0 +1,15 @@
+id: messengerx-io
+kind: [api]
+name: MessengerX.io
+url: https://messengerx.readthedocs.io/en/latest/
+description: A FREE API for developers to build and monetize personalized ML based chat apps
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2022-01-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

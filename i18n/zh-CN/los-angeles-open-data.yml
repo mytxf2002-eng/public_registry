@@ -1,0 +1,2 @@
+id: los-angeles-open-data
+description: 美国洛杉矶市政府的开放数据门户（Socrata），约 360 个数据集，包括洛杉矶警察局犯罪、逮捕和报警记录、建筑许可与检查、在册企业名单、311 服务请求和交通流量等。可导出 CSV、JSON 等格式，并提供 SODA API；多数数据采用 CC0 公共领域贡献。

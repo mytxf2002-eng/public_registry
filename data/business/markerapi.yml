@@ -1,0 +1,15 @@
+id: markerapi
+kind: [api]
+name: markerapi
+url: https://markerapi.com
+description: Trademark Search
+domain: business
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

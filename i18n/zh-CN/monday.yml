@@ -1,0 +1,3 @@
+id: monday
+description: 工作管理平台 monday.com 的 API，基于 GraphQL，可以读取和更新看板（board）、条目（item）、列值等数据。现在的文档在 developer.monday.com。
+group: 项目管理与团队协作

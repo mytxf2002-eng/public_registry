@@ -1,0 +1,19 @@
+id: statlib-datasets-archive
+kind: [dataset]
+name: StatLib Datasets Archive
+url: https://lib.stat.cmu.edu/datasets/
+description: About 120 contributed datasets from statistics books and papers, such as Boston housing, body fat, cars and CPS wages, mostly as plain-text files with descriptions
+domain: open-data
+tags: [statistics, teaching, regression, classic-datasets]
+license: unknown
+publisher:
+  name: Carnegie Mellon University, Department of Statistics
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, csv, xls, archive]
+  access: public
+  update_frequency: static

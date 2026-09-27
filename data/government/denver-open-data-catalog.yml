@@ -1,0 +1,25 @@
+id: denver-open-data-catalog
+kind: [api, dataset]
+name: Denver Open Data Catalog
+url: https://opendata-geospatialdenver.hub.arcgis.com/
+description: About 300 datasets from the City and County of Denver, such as crime, traffic accidents, 311 service requests, business licences, addresses and campaign finance
+domain: government
+tags: [open-government, city-data, crime, 311-requests, gis]
+license: LicenseRef-Provider-Terms
+license_url: https://opendata-geospatialdenver.hub.arcgis.com/datasets/16d9c82bb36c4475bf87189cfaed653c
+publisher:
+  name: City and County of Denver
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://opendata-geospatialdenver.hub.arcgis.com/api/search/definition/
+dataset:
+  formats: [csv, geojson, shapefile, kml]
+  access: public
+  spatial: [US-CO]

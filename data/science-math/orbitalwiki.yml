@@ -1,0 +1,15 @@
+id: orbitalwiki
+kind: [api]
+name: OrbitalWiki
+url: https://orbitalwiki.com/developers
+description: Catalog of 16,000+ satellites merging CelesTrak, GCAT, Wikidata; free tier included
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,16 @@
+id: messari
+kind: [api]
+name: Messari
+url: https://messari.io/api
+description: Provides API endpoints for thousands of crypto assets
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

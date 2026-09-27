@@ -1,0 +1,15 @@
+id: wallstreetbets
+kind: [api]
+name: WallstreetBets
+url: https://tradestie.com/apps/reddit/api/
+description: WallstreetBets Stock Comments Sentiment Analysis
+domain: finance
+license: unknown
+provenance:
+  added: 2021-05-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

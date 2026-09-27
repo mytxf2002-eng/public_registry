@@ -1,0 +1,16 @@
+id: watson-natural-language-understanding
+kind: [api]
+name: Watson Natural Language Understanding
+url: https://cloud.ibm.com/docs/apis/natural-language-understanding
+description: Natural language processing for advanced text analysis
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2020-04-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

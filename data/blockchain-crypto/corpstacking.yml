@@ -1,0 +1,16 @@
+id: corpstacking
+kind: [api]
+name: CorpStacking
+url: https://www.corpstacking.com/feed.json
+description: Corporate, government and ETF Bitcoin, Ethereum and Solana treasury disclosures
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

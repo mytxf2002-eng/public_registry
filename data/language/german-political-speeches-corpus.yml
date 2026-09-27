@@ -1,0 +1,25 @@
+id: german-political-speeches-corpus
+kind: [dataset]
+name: German Political Speeches Corpus
+url: https://politische-reden.eu/
+description: 6,685 speeches by 71 German top officials such as presidents, chancellors and foreign ministers, 1984 to 2017, about 13 million words as XML texts with metadata
+domain: language
+tags: [political-speeches, corpus, german-language, politics]
+license: CC-BY-SA-4.0
+license_url: https://zenodo.org/records/3611246
+publisher:
+  name: Adrien Barbaresi
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xml]
+  access: public
+  temporal:
+    start: '1984'
+    end: '2017'
+  spatial: [DE]
+  update_frequency: irregular
+  size: 28 MB

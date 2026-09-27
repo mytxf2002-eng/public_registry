@@ -1,0 +1,22 @@
+id: caddy-underwater-stereo-vision-dataset
+kind: [dataset]
+name: CADDY Underwater Stereo-Vision Dataset
+url: http://www.caddian.eu/
+description: 'Underwater stereo image pairs of divers for human-robot interaction: 10K pairs of diver hand gestures in 8 scenarios and 12K pairs synchronized with diver body pose data'
+domain: machine-learning
+tags: [underwater-robotics, gesture-recognition, stereo-vision, human-robot-interaction, pose-estimation]
+license: CC-BY-4.0
+license_url: http://www.caddian.eu/
+publisher:
+  name: National Research Council of Italy (CNR)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv]
+  access: public
+  url: http://www.caddian.eu//CADDY-Underwater-Gestures-Dataset.html
+  update_frequency: static
+  size: 22K stereo pairs

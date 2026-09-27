@@ -1,0 +1,15 @@
+id: odds-api
+kind: [api]
+name: Odds-API
+url: https://docs.odds-api.io
+description: Real-time sports betting odds from 265+ bookmakers across 34 sports via REST and WebSocket
+domain: sports
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

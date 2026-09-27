@@ -1,0 +1,2 @@
+id: tempolife-food-nutrition-dataset
+description: 7795 种食物和饮品每 100 克的营养数据（热量、蛋白质、碳水、脂肪、膳食纤维、糖、饱和脂肪、盐），来源为美国农业部 SR Legacy 和人工整理的条目（含爱沙尼亚食品）；提供 CSV、JSON 以及 npm、PyPI 包，Zenodo 存档，CC BY 4.0。

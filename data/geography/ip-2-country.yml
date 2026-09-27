@@ -1,0 +1,16 @@
+id: ip-2-country
+kind: [api]
+name: IP 2 Country
+url: https://ip2country.info
+description: Map an IP to a country
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-04-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

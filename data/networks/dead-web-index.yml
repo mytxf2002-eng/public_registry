@@ -1,0 +1,25 @@
+id: dead-web-index
+kind: [dataset]
+name: Dead-Web Index
+url: https://crawlora.net/dead-web-index
+description: Reachability labels (alive, redirect, blocked or dead) for about 10 million popular domains probed in June 2026 by both a plain bot and a browser-like client
+domain: networks
+tags: [domains, reachability, web-measurement, dns]
+license: CC-BY-4.0
+license_url: https://github.com/Crawlora-org/dead-web-index-data
+publisher:
+  name: Crawlora
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [jsonl, json]
+  access: public
+  url: https://github.com/Crawlora-org/dead-web-index-data
+  temporal:
+    start: 2026-06
+    end: 2026-06
+  spatial: [global]
+  size: 9,992,781 domains

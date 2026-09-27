@@ -1,0 +1,15 @@
+id: destiny-the-game
+kind: [api]
+name: Destiny The Game
+url: https://bungie-net.github.io/multi/index.html
+description: Bungie Platform API
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

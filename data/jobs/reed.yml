@@ -1,0 +1,15 @@
+id: reed
+kind: [api]
+name: Reed
+url: https://www.reed.co.uk/developers
+description: Job board aggregator
+domain: jobs
+license: unknown
+provenance:
+  added: 2017-11-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

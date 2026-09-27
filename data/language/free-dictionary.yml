@@ -1,0 +1,16 @@
+id: free-dictionary
+kind: [api]
+name: Free Dictionary
+url: https://dictionaryapi.dev/
+description: Definitions, phonetics, pronunciations, parts of speech, examples, synonyms
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2021-07-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

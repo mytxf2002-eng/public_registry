@@ -1,0 +1,15 @@
+id: fec
+kind: [api]
+name: FEC
+url: https://api.open.fec.gov/developers/
+description: Information on campaign donations in federal elections
+domain: government
+license: unknown
+provenance:
+  added: 2017-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

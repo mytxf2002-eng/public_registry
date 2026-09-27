@@ -1,0 +1,16 @@
+id: yandex-maps-geocoder
+kind: [api]
+name: Yandex.Maps Geocoder
+url: https://yandex.com/dev/maps/geocoder
+description: Use geocoding to get an object's coordinates from its address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

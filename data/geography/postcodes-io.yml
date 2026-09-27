@@ -1,0 +1,16 @@
+id: postcodes-io
+kind: [api]
+name: Postcodes.io
+url: https://postcodes.io
+description: Postcode lookup & Geolocation for the UK
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

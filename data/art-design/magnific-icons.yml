@@ -1,0 +1,15 @@
+id: magnific-icons
+kind: [api]
+name: Magnific Icons
+url: https://docs.magnific.com/api-reference/icons/icons-api
+description: Search and download icons from the former Iconfinder catalogue, now part of Magnific
+domain: art-design
+license: unknown
+provenance:
+  added: 2017-09-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

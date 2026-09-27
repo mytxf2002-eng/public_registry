@@ -1,0 +1,15 @@
+id: nuget
+kind: [api]
+name: NuGet
+url: https://learn.microsoft.com/en-us/nuget/api/overview
+description: .NET package versions, metadata and search
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: collegefootballdata-com
+kind: [api]
+name: CollegeFootballData.com
+url: https://collegefootballdata.com
+description: Unofficial detailed American college football statistics, records, and results API
+domain: sports
+license: unknown
+provenance:
+  added: 2021-12-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

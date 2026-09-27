@@ -1,0 +1,3 @@
+id: cors-proxy
+description: 开源的 CORS 代理（GitHub 个人项目）：请求经它转发并加上跨域响应头，用来绕开浏览器的跨域限制。代理会经手全部请求内容，不要用它转发敏感数据。
+group: HTTP 测试与跨域代理

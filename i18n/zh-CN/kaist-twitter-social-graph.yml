@@ -1,0 +1,2 @@
+id: kaist-twitter-social-graph
+description: KAIST 网络实验室为 WWW 2010 论文《What is Twitter, a Social Network or a News Media?》采集的推特全站关注关系图：约 4,170 万用户、14.7 亿条关注边（2009 年），另有数字 ID 与用户名对照表及粉丝过万账号的资料。社交图可从 GitHub Releases 直接下载（压缩包约 5 至 6 GB）；因推特条款不再提供推文，未声明许可。

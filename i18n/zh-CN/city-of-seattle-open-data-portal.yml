@@ -1,0 +1,2 @@
+id: city-of-seattle-open-data-portal
+description: 美国西雅图市政府开放数据门户（Socrata），约 680 个条目，其中约 170 个表格数据集（如警方拦截记录、许可和市政工资）和约 500 个 GIS 图层，可下载 CSV、JSON、GeoJSON、KML、GeoPackage，并可通过 SODA 接口免密钥查询；使用须遵守门户条款，个人名单类数据不得用于商业目的。

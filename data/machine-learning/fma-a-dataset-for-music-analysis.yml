@@ -1,0 +1,21 @@
+id: fma-a-dataset-for-music-analysis
+kind: [dataset]
+name: 'FMA: A Dataset for Music Analysis'
+url: https://github.com/mdeff/fma
+description: 106,574 Creative Commons tracks by 16,341 artists from the Free Music Archive (917 GiB of MP3 audio) with metadata, a 161-genre taxonomy and audio features
+domain: machine-learning
+tags: [music-information-retrieval, genre-classification, audio, creative-commons-music]
+license: CC-BY-4.0
+license_url: https://github.com/mdeff/fma
+publisher:
+  name: Michaël Defferrard, Kirell Benzi, Pierre Vandergheynst and Xavier Bresson
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [audio, csv]
+  access: public
+  update_frequency: static
+  size: 917 GiB (full audio)

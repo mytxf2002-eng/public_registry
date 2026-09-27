@@ -1,0 +1,2 @@
+id: whpa-prediction
+description: 用 MODFLOW 地下水模型在随机水力传导度场上模拟得到的数据：六口注入井示踪剂在抽水井处的穿透曲线，以及对应的井口保护区范围，用于研究保护区预测。以 NumPy 数组存放，约 8 GB，需登录 Kaggle（免费）后下载，CC BY-SA 4.0 许可。

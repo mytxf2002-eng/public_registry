@@ -1,0 +1,15 @@
+id: gtfs-scorecard
+kind: [api]
+name: GTFS Scorecard
+url: https://github.com/ChelseaKR/gtfs-scorecard/blob/main/docs/api.md
+description: Data-quality grades and prioritized fixes for 2,400+ public transit GTFS feed records
+domain: transportation
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

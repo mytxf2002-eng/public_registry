@@ -1,0 +1,15 @@
+id: kroger
+kind: [api]
+name: Kroger
+url: https://developer.kroger.com/reference
+description: Supermarket Data
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

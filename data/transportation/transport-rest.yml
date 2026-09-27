@@ -1,0 +1,15 @@
+id: transport-rest
+kind: [api]
+name: transport.rest
+url: https://transport.rest
+description: Community maintained, developer-friendly public transport API
+domain: transportation
+license: unknown
+provenance:
+  added: 2022-01-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

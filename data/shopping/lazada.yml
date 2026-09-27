@@ -1,0 +1,15 @@
+id: lazada
+kind: [api]
+name: Lazada
+url: https://open.lazada.com/doc/doc.htm
+description: Retrieve product ratings and seller performance metrics
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

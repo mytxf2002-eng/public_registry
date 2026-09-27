@@ -1,0 +1,15 @@
+id: transport-for-auckland-new-zealand
+kind: [api]
+name: Transport for Auckland, New Zealand
+url: https://dev-portal.at.govt.nz/
+description: Auckland Transport
+domain: transportation
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,21 @@
+id: tennis-abstract-match-charting-project
+kind: [dataset]
+name: Tennis Abstract Match Charting Project
+url: https://github.com/JeffSackmann/tennis_MatchChartingProject
+description: Crowdsourced shot-by-shot records of thousands of professional men's and women's tennis matches, with per-point data, match metadata and aggregate statistics files
+domain: sports
+tags: [tennis, shot-by-shot, crowdsourced, atp, wta]
+license: CC-BY-NC-SA-4.0
+license_url: https://github.com/JeffSackmann/tennis_MatchChartingProject
+publisher:
+  name: Jeff Sackmann (Tennis Abstract)
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

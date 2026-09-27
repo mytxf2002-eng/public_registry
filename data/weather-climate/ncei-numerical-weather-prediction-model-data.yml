@@ -1,0 +1,20 @@
+id: ncei-numerical-weather-prediction-model-data
+kind: [dataset]
+name: NCEI Numerical Weather Prediction Model Data
+url: https://www.ncei.noaa.gov/products/weather-climate-models/numerical-weather-prediction
+description: Archived analyses and forecasts from NOAA and Navy weather models (GFS, GDAS, GEFS, NAM, RAP/RUC, CFS, NMME, NAVGEM) as gridded files, some series from the mid-2000s
+domain: weather-climate
+tags: [numerical-weather-prediction, gfs, nam, ensemble-forecasts, model-output]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: NOAA National Centers for Environmental Information (NCEI)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [grib, netcdf]
+  access: public
+  spatial: [global, north-america]
+  update_frequency: daily

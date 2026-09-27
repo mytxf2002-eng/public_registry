@@ -1,0 +1,19 @@
+id: quoteclear
+kind: [api]
+name: quoteclear
+url: https://quoteclear.web.app/
+description: Ever-growing list of James Clear quotes from the 3-2-1 Newsletter
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2021-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The Firebase site was deleted and its source repository is archived, with no new home.

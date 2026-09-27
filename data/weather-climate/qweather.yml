@@ -1,0 +1,15 @@
+id: qweather
+kind: [api]
+name: QWeather
+url: https://dev.qweather.com/en/
+description: Location-based weather data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-04-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

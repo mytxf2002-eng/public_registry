@@ -1,0 +1,16 @@
+id: cloudmersive-validate-cloudmersive
+kind: [api]
+name: Cloudmersive Validate (Phone)
+url: https://cloudmersive.com/phone-number-validation-API
+description: Validate international phone numbers
+domain: communication
+tags: [phone]
+license: unknown
+provenance:
+  added: 2018-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

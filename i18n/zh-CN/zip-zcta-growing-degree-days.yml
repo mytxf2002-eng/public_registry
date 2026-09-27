@@ -1,0 +1,2 @@
+id: zip-zcta-growing-degree-days
+description: 美国 33,642 个人口普查邮编统计区（ZCTA）自 1 月 1 日起累计的 50°F 基准生长度日，取自最近且数据新鲜的 NOAA GHCN-Daily 气象站，并附站点、距离和新鲜度字段；提供带日期版本的 CSV 和 Parquet 直接下载，汇编部分为 CC BY 4.0。由草坪养护网站制作。

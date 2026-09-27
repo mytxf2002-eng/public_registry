@@ -1,0 +1,19 @@
+id: sawo-labs
+kind: [api]
+name: SAWO Labs
+url: https://sawolabs.com
+description: Simplify login and improve user experience by integrating passwordless authentication in your app
+domain: security
+tags: [authentication]
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: Domain is parked or for sale

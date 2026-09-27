@@ -1,0 +1,16 @@
+id: namedays-calendar
+kind: [api]
+name: Namedays Calendar
+url: https://nameday.abalin.net
+description: Provides namedays for multiple countries
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2021-05-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,16 @@
+id: tinify-dev
+kind: [api]
+name: Tinify.dev
+url: https://tinify.dev/developers
+description: Image compression, resize and crop API with usage metadata
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

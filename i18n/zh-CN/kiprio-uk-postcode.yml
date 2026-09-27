@@ -1,0 +1,3 @@
+id: kiprio-uk-postcode
+description: 英国邮编查询，返回经纬度、所属地区（district）、地方选区（ward）和议会选区（constituency）。同一家的翻译和邮箱校验接口收录在 Text Analysis、Email 分类。
+group: 各国邮编与地址查询

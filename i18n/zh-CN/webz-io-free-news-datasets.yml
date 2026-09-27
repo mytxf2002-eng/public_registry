@@ -1,0 +1,2 @@
+id: webz-io-free-news-datasets
+description: Webz.io（原 Webhose）在 GitHub 上每周发布的免费新闻数据集，每批约 1000 篇抓取自各类新闻网站的文章，按主题、IPTC 类别和情感倾向分组，附发布日期等元数据，以 zip 包直接下载。仅限学术、研究和新闻报道用途，使用即视为接受其使用条款。

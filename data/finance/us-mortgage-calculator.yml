@@ -1,0 +1,15 @@
+id: us-mortgage-calculator
+kind: [api]
+name: US Mortgage Calculator
+url: https://www.usmortgagecalc.com/developers/api
+description: Mortgage payment, amortization, affordability and 50-state property tax data
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

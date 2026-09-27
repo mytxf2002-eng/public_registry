@@ -1,0 +1,2 @@
+id: proton-exchange-membrane-pem-fuel-cell-dataset
+description: 质子交换膜（PEM）燃料电池实验数据：Nafion 112 膜标准测试和膜电极（MEA）活化测试在不同气体压力、电压和湿度条件下测得的极化曲线与阻抗数据，并附 Jupyter 可视化笔记本。CSV 文件可在 GitHub 直接下载，采用 CC BY 4.0 许可。

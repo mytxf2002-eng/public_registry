@@ -1,0 +1,24 @@
+id: us-visa-bulletin-priority-date-history
+kind: [dataset]
+name: US Visa Bulletin Priority Date History
+url: https://github.com/mixseomin/visa-bulletin-history
+description: Priority dates from 18 monthly US Visa Bulletins (Feb 2025 to Jul 2026) for family and employment categories and five chargeability areas, as JSON and CSV
+domain: government
+tags: [visa-bulletin, immigration, green-card, priority-dates]
+license: LicenseRef-US-Government-Work
+license_url: https://github.com/mixseomin/visa-bulletin-history
+publisher:
+  name: mixseomin
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv]
+  access: public
+  temporal:
+    start: 2025-02
+    end: 2026-07
+  spatial: [US]
+  size: 2,700 rows

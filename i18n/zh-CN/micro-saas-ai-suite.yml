@@ -1,0 +1,3 @@
+id: micro-saas-ai-suite
+description: 8 个无服务器 AI 小接口：情感分析、营销文案生成、邮箱验证、OCR 等，部署在 Vercel 上，链接是 OpenAPI 描述文件。
+group: AI 与 Agent 服务

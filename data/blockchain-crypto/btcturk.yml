@@ -1,0 +1,16 @@
+id: btcturk
+kind: [api]
+name: BtcTurk
+url: https://docs.btcturk.com/
+description: Real-time cryptocurrency data, graphs and API that allows buy&sell
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

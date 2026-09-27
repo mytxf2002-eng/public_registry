@@ -1,0 +1,20 @@
+id: open-government-austria
+kind: [api, dataset]
+name: Open Government, Austria
+url: https://www.data.gv.at/
+description: Austria Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, json, shapefile, kml, gpkg, geotiff]
+  access: public
+  spatial: [AT]
+  size: 73,776 datasets

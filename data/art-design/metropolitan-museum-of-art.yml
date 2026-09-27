@@ -1,0 +1,20 @@
+id: metropolitan-museum-of-art
+kind: [api, dataset]
+name: Metropolitan Museum of Art
+url: https://metmuseum.github.io/
+description: Met Museum of Art
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-03-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://github.com/metmuseum/openaccess
+  size: 470,000+ artworks

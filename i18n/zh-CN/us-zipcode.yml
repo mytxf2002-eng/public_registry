@@ -1,0 +1,3 @@
+id: us-zipcode
+description: Smarty（原 SmartyStreets）的美国邮编接口：校验 ZIP Code，并补充对应的城市、州、县、经纬度等信息。同一家的地址校验、自动补全接口收录在 Data Validation 分类。
+group: 各国邮编与地址查询

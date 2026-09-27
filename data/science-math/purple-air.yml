@@ -1,0 +1,15 @@
+id: purple-air
+kind: [api]
+name: Purple Air
+url: https://www2.purpleair.com/
+description: Real Time Air Quality Monitoring
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-05-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

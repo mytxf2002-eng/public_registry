@@ -1,0 +1,16 @@
+id: bng2latlong
+kind: [api]
+name: bng2latlong
+url: https://www.getthedata.com/bng2latlong
+description: Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2019-08-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

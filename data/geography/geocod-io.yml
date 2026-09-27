@@ -1,0 +1,16 @@
+id: geocod-io
+kind: [api]
+name: Geocod.io
+url: https://www.geocod.io/
+description: Address geocoding / reverse geocoding in bulk
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2018-12-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

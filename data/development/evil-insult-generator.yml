@@ -1,0 +1,16 @@
+id: evil-insult-generator
+kind: [api]
+name: Evil Insult Generator
+url: https://evilinsult.com/api
+description: Evil Insults
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2019-01-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

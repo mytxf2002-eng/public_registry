@@ -1,0 +1,15 @@
+id: jcdecaux-bike
+kind: [api]
+name: JCDecaux Bike
+url: https://developer.jcdecaux.com/
+description: JCDecaux's self-service bicycles
+domain: sports
+license: unknown
+provenance:
+  added: 2016-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

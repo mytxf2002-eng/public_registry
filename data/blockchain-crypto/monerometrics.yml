@@ -1,0 +1,16 @@
+id: monerometrics
+kind: [api]
+name: monerometrics
+url: https://monerometrics.net
+description: Reorg-aware Monero (XMR) network metrics, mining-pool centralization and chain reorganizations
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

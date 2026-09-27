@@ -1,0 +1,3 @@
+id: nophishy
+description: 检查链接是否为已知的钓鱼网址，托管在 RapidAPI 上（Exerra Phishing Check）。
+group: 恶意与钓鱼网址检测

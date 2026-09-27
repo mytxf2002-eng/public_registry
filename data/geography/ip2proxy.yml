@@ -1,0 +1,16 @@
+id: ip2proxy
+kind: [api]
+name: IP2Proxy
+url: https://www.ip2location.com/web-service/ip2proxy
+description: Detect proxy and VPN using IP address
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

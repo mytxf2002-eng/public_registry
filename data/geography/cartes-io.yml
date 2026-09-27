@@ -1,0 +1,16 @@
+id: cartes-io
+kind: [api]
+name: Cartes.io
+url: https://github.com/M-Media-Group/Cartes.io/wiki/API
+description: Create maps and markers for anything
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-05-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

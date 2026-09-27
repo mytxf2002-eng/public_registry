@@ -1,0 +1,3 @@
+id: covid-19-datenhub
+description: 德国的新冠数据平台（NPGEO Corona，搭在 ArcGIS Hub 上）：地图、数据集和应用，数据可下载 CSV、GeoJSON 等格式，也有 GeoServices、WMS、WFS 接口。
+group: 新冠疫情：各国数据

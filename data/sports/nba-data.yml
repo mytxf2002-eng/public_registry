@@ -1,0 +1,15 @@
+id: nba-data
+kind: [api]
+name: NBA Data
+url: https://rapidapi.com/api-sports/api/api-nba/
+description: All NBA Stats DATA, Games, Livescore, Standings, Statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2021-10-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

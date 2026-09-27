@@ -1,0 +1,18 @@
+id: hirak-faceapi
+kind: [api]
+name: Hirak FaceAPI
+url: https://faceapi.hirak.site/
+description: Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2022-03-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The domain now serves a JavaScript redirect that sends visitors to an ad click tracker, so it appears expired or hijacked.

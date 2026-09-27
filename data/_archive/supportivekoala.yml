@@ -1,0 +1,18 @@
+id: supportivekoala
+kind: [api]
+name: Supportivekoala
+url: https://developers.supportivekoala.com/
+description: Autogenerate images with template
+domain: development
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The developers subdomain no longer exists and supportivekoala.com now redirects to an online gambling site, so the domain has been taken over.

@@ -1,0 +1,20 @@
+id: brain-catalogue
+kind: [dataset]
+name: Brain Catalogue
+url: https://braincatalogue.org/
+description: High-resolution MRI volumes, 3D surface meshes and region masks of brains from a range of vertebrate species, viewable online and downloadable as NIfTI and PLY files
+domain: life-sciences
+tags: [neuroanatomy, mri, comparative-anatomy, brain-imaging, vertebrates]
+license: CC-BY-SA-3.0
+license_url: https://braincatalogue.org/about.html
+publisher:
+  name: Roberto Toro, Institut Pasteur
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [nifti, model-3d]
+  access: public
+  update_frequency: irregular

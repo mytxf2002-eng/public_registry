@@ -1,0 +1,25 @@
+id: us-military-pay-and-allowances-open-dataset
+kind: [dataset]
+name: US Military Pay & Allowances Open Dataset
+url: https://github.com/mixseomin/military-pay-data
+description: 'Pay tables for the US armed forces parsed from DoD, DFAS and OPM sources: BAH housing allowance rates 2023-2026 for 338 housing areas, 2026 basic pay, COLA, combat and GS pay'
+domain: jobs
+tags: [military-pay, housing-allowance, pay-tables, federal-salaries]
+license: LicenseRef-US-Government-Work
+license_url: https://github.com/mixseomin/military-pay-data
+publisher:
+  name: mixseomin
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv]
+  access: public
+  temporal:
+    start: '2023'
+    end: '2026'
+  spatial: [US]
+  update_frequency: annual
+  size: 36.5 k BAH rows

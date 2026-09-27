@@ -1,0 +1,2 @@
+id: geocables-internet-latency-and-routing-observations
+description: GeoCables 自有探针测得的互联网延迟数据：按探测城市和目标汇总的每日往返时延（中位数、90 分位、最小值、跳数），以及检测到的延迟突增和路由异常事件。CSV/JSON 每日更新可直接下载，完整历史（自 2026 年 6 月）存档于 Zenodo，CC BY 4.0 许可。

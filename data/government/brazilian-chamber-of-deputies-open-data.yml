@@ -1,0 +1,15 @@
+id: brazilian-chamber-of-deputies-open-data
+kind: [api]
+name: Brazilian Chamber of Deputies Open Data
+url: https://dadosabertos.camara.leg.br/swagger/api.html
+description: Provides legislative information in Apis XML and JSON, as well as files in various formats
+domain: government
+license: unknown
+provenance:
+  added: 2021-04-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

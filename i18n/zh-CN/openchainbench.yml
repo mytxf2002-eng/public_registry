@@ -1,0 +1,2 @@
+id: openchainbench
+description: OpenChainBench 社区对加密基础设施做的持续基准测试：RPC 节点延迟、跨链桥确认时间和费用、价格源准确性、交易应用成交量等上百项指标，提供免密钥的 JSON 接口（含每日固定快照）和 OpenAPI 说明。测试程序以 MIT 许可开源，数据采用 CC BY 4.0 许可。

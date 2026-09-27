@@ -1,0 +1,3 @@
+id: http-cat
+description: 每个 HTTP 状态码对应一张猫咪图片，用 http.cat/404 这样的地址直接引用，常用来做有趣的错误页。
+group: HTTP 状态码图与占位图

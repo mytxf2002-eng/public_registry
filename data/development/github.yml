@@ -1,0 +1,15 @@
+id: github
+kind: [api]
+name: GitHub
+url: https://docs.github.com/en/free-pro-team@latest/rest
+description: Make use of GitHub repositories, code and user info programmatically
+domain: development
+license: unknown
+provenance:
+  added: 2020-10-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

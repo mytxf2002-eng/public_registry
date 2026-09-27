@@ -1,0 +1,23 @@
+id: un-civil-society-participation-database
+kind: [dataset]
+name: UN Civil Society Participation Database (iCSO)
+url: https://esango.un.org/civilsociety/
+description: Searchable profiles of non-governmental organisations accredited to the UN, including about 6,700 NGOs holding ECOSOC general, special or roster consultative status
+domain: government
+tags: [ngos, civil-society, ecosoc, consultative-status, united-nations]
+license: LicenseRef-Provider-Terms
+license_url: https://www.un.org/en/aboutun/terms/
+publisher:
+  name: UN DESA NGO Branch
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [html, pdf]
+  access: public
+  url: https://esango.un.org/civilsociety/displayConsultativeStatusSearch.do?method=search&sessionCheck=false
+  spatial: [global]
+  update_frequency: irregular
+  size: about 6,700 accredited NGOs

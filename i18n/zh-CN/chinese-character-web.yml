@@ -1,0 +1,3 @@
+id: chinese-character-web
+description: 汉字资料接口：查询汉字的英文释义、普通话和粤语读音、部首笔画等信息，字段来自 Unicode 的 Unihan 数据库。
+group: 汉字与中文古籍

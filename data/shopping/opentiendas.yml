@@ -1,0 +1,15 @@
+id: opentiendas
+kind: [api]
+name: OpenTiendas
+url: https://opentiendas.dev/redocusaurus/plugin-redoc-0.yaml
+description: Official e-commerce API and webhooks
+domain: shopping
+license: unknown
+provenance:
+  added: 2026-09-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

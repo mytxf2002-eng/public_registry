@@ -1,0 +1,15 @@
+id: shikimori
+kind: [api]
+name: Shikimori
+url: https://shikimori.io/api/doc
+description: Anime discovery, tracking, forum, rates
+domain: anime
+license: unknown
+provenance:
+  added: 2021-04-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

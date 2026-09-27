@@ -1,0 +1,15 @@
+id: french-address-search
+kind: [api]
+name: French Address Search
+url: https://adresse.data.gouv.fr/outils/api-doc/adresse
+description: Address search via the French Government
+domain: open-data
+license: unknown
+provenance:
+  added: 2017-08-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

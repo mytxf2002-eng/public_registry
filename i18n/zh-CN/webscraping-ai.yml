@@ -1,0 +1,3 @@
+id: webscraping-ai
+description: 内置代理和 JavaScript 渲染的抓取 API，可以返回 HTML、纯文本，或用 AI 从页面中提取出 JSON。
+group: 网页抓取、代理与反爬

@@ -1,0 +1,15 @@
+id: aquanode
+kind: [api]
+name: Aquanode
+url: https://docs.aquanode.io/docs/api/marketplace
+description: Live GPU rental prices and availability across nine cloud providers
+domain: development
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

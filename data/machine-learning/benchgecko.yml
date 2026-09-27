@@ -1,0 +1,21 @@
+id: benchgecko
+kind: [api]
+name: BenchGecko
+url: https://benchgecko.ai/
+description: Benchmark scores, API prices, context windows and release dates for about 1,070 AI models from 270+ providers, with benchmark leaderboards and model comparison
+domain: machine-learning
+tags: [llm, ai-benchmarks, model-pricing, leaderboard]
+license: LicenseRef-Provider-Terms
+license_url: https://benchgecko.ai/terms
+publisher:
+  name: BenchGecko
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://benchgecko.ai/api-docs

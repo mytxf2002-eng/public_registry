@@ -1,0 +1,25 @@
+id: blued-building-level-fully-labeled-dataset-for-electricity
+kind: [dataset]
+name: 'BLUED: Building-Level Fully-Labeled Dataset for Electricity Disaggregation'
+url: https://huggingface.co/datasets/INFERLab/BLUED
+description: One week of 12 kHz voltage and current waveforms from a Pittsburgh house (October 2011) with 2,482 labelled appliance on/off events for load disaggregation research
+domain: energy
+tags: [nilm, load-disaggregation, power-waveforms, appliance-events]
+license: Apache-2.0
+license_url: https://huggingface.co/datasets/INFERLab/BLUED
+publisher:
+  name: INFERLab, Carnegie Mellon University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  temporal:
+    start: 2011-10
+    end: 2011-10
+  spatial: [US-PA]
+  update_frequency: static
+  size: 57.7 GB

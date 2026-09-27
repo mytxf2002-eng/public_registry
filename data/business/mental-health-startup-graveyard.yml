@@ -1,0 +1,25 @@
+id: mental-health-startup-graveyard
+kind: [dataset]
+name: Mental Health Startup Graveyard
+url: https://zenodo.org/records/22125661
+description: 542 digital mental health companies that left the market between 2000 and 2026, coded on business model, payer, funding, exit reason, clinical evidence and country
+domain: business
+tags: [startups, digital-health, mental-health, company-failures]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/22125661
+publisher:
+  name: Mentalium
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: '2000'
+    end: '2026'
+  spatial: [global]
+  update_frequency: static
+  size: 542 organizations

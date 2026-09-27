@@ -1,0 +1,18 @@
+id: covid-19-covid19api
+kind: [api]
+name: Covid-19
+url: https://covid19api.com/
+description: Covid 19 spread, infection and recovery
+domain: health
+license: unknown
+provenance:
+  added: 2020-03-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The COVID19 API ended service in May 2023 and covid19api.com now refuses connections.

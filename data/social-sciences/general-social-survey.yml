@@ -1,0 +1,25 @@
+id: general-social-survey
+kind: [dataset]
+name: General Social Survey (GSS)
+url: https://gss.norc.org/
+description: Repeated national survey of the attitudes, behaviours and characteristics of American adults since 1972, with single-year, panel and cumulative data files through 2024
+domain: social-sciences
+tags: [survey-microdata, public-opinion, attitudes, demographics, time-series]
+license: LicenseRef-Provider-Terms
+license_url: https://gss.norc.org/terms-and-conditions.html
+publisher:
+  name: NORC at the University of Chicago
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, stata, sas]
+  access: public
+  url: https://gss.norc.org/get-the-data.html
+  temporal:
+    start: '1972'
+    end: null
+  spatial: [US]
+  update_frequency: irregular

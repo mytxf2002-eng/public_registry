@@ -1,0 +1,3 @@
+id: bitquery
+description: 用 GraphQL 查询多条公链的链上数据，包括转账、DEX 交易、代币等，链接是它的在线查询 IDE，需要 key。
+group: 链上数据、索引与分析

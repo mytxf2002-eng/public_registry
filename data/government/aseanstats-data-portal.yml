@@ -1,0 +1,20 @@
+id: aseanstats-data-portal
+kind: [dataset]
+name: ASEANstats Data Portal
+url: https://data.aseanstats.org/
+description: Regional statistics for the ten ASEAN member states on trade in goods and services, FDI, macroeconomy, prices, population, visitor arrivals, transport and SDG indicators
+domain: government
+tags: [official-statistics, trade, fdi, tourism, sdg-indicators]
+license: LicenseRef-Custom-Open
+license_url: https://www.aseanstats.org/terms-and-conditions-of-use/
+publisher:
+  name: ASEAN Secretariat (ASEANstats)
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  spatial: [BN, KH, ID, LA, MY, MM, PH, SG, TH, VN]

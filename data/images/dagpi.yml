@@ -1,0 +1,16 @@
+id: dagpi
+kind: [api]
+name: Dagpi
+url: https://dagpi.xyz
+description: Image manipulation and processing
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2021-07-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

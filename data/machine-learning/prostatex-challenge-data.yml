@@ -1,0 +1,22 @@
+id: prostatex-challenge-data
+kind: [dataset]
+name: PROSTATEx Challenge Data (SPIE-AAPM-NCI)
+url: https://www.cancerimagingarchive.net/collection/prostatex/
+description: Multiparametric prostate MRI of 346 patients (T2-weighted, proton density, DCE, diffusion/ADC) with lesion locations, clinical significance and Gleason grade labels
+domain: machine-learning
+tags: [prostate-cancer, mri, medical-imaging, lesion-classification, challenge]
+license: CC-BY-3.0
+license_url: https://www.cancerimagingarchive.net/collection/prostatex/
+publisher:
+  name: Radboud University Medical Center
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [dicom, csv, xlsx]
+  access: public
+  spatial: [NL]
+  update_frequency: static
+  size: 16.67 GB

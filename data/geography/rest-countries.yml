@@ -1,0 +1,16 @@
+id: rest-countries
+kind: [api]
+name: REST Countries
+url: https://restcountries.com
+description: Get information about countries via a RESTful API
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-08-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

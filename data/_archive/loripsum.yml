@@ -1,0 +1,18 @@
+id: loripsum
+kind: [api]
+name: Loripsum
+url: http://loripsum.net/
+description: The "lorem ipsum" generator that doesn't suck
+domain: test-data
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: loripsum.net no longer resolves.

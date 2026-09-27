@@ -1,0 +1,27 @@
+id: nws-gis-data-portal
+kind: [api, dataset]
+name: NWS GIS Data Portal
+url: https://www.weather.gov/gis/
+description: Shapefiles of US National Weather Service forecast zones, county warning areas, marine and fire weather zones, plus OGC map services for warnings, radar and forecasts
+domain: weather-climate
+tags: [gis, shapefiles, forecast-zones, weather-warnings, ogc-services]
+license: LicenseRef-US-Government-Work
+license_url: https://www.weather.gov/disclaimer
+publisher:
+  name: National Weather Service (NOAA)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://www.weather.gov/gis/cloudgiswebservices
+dataset:
+  formats: [shapefile]
+  access: public
+  url: https://www.weather.gov/gis/AWIPSShapefiles
+  spatial: [US]
+  update_frequency: irregular

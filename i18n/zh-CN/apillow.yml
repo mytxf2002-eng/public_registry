@@ -1,0 +1,3 @@
+id: apillow
+description: 第三方的 Zillow（美国房产网站）房源数据接口，不是 Zillow 官方：按地址、Zillow 链接、ZPID 或邮编查询，每条房源 50 多个字段，含成交记录和可比房源（comps），另有 MCP 服务。
+group: 房产、土地与办公空间

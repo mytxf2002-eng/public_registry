@@ -1,0 +1,21 @@
+id: stack-exchange-data-explorer
+kind: [dataset]
+name: Stack Exchange Data Explorer (SEDE)
+url: https://data.stackexchange.com/
+description: 'Web SQL interface for querying periodically refreshed copies of the public databases of Stack Overflow and other Stack Exchange sites: posts, comments, votes, users, tags and badges'
+domain: social
+tags: [q-and-a, stack-overflow, sql, online-communities]
+license: CC-BY-SA-4.0
+license_url: https://meta.stackexchange.com/help/licensing
+publisher:
+  name: Stack Exchange Inc.
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  spatial: [global]
+  update_frequency: weekly

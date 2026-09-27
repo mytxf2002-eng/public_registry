@@ -1,0 +1,15 @@
+id: randomuser
+kind: [api]
+name: RandomUser
+url: https://randomuser.me
+description: Generates and list user data
+domain: test-data
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,23 @@
+id: ggdc-historical-national-accounts
+kind: [dataset]
+name: GGDC Historical National Accounts
+url: https://www.rug.nl/ggdc/historicaldevelopment/na/
+description: GDP at current and constant prices with industry breakdowns for about 20 countries in Europe, Asia and the Americas, mostly for 1870 to 1950, as Excel files
+domain: economics
+tags: [economic-history, national-accounts, gdp, structural-change]
+license: unknown
+publisher:
+  name: Groningen Growth and Development Centre, University of Groningen
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xls]
+  access: public
+  temporal:
+    start: '1800'
+    end: '2005'
+  spatial: [global]
+  update_frequency: static

@@ -1,0 +1,15 @@
+id: numbers
+kind: [api]
+name: Numbers
+url: https://math.tools/api/numbers/
+description: Number of the day, random number, number facts and anything else you want to do with numbers
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-03-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

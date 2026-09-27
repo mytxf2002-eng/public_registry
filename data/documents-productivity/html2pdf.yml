@@ -1,0 +1,15 @@
+id: html2pdf
+kind: [api]
+name: Html2PDF
+url: https://html2pdf.app/
+description: HTML/URL to PDF
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

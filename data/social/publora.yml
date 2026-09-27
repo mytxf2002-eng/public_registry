@@ -1,0 +1,15 @@
+id: publora
+kind: [api]
+name: Publora
+url: https://docs.publora.com
+description: Publish and schedule posts to ten social networks from one endpoint
+domain: social
+license: unknown
+provenance:
+  added: 2026-08-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

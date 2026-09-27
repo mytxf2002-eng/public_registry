@@ -1,0 +1,18 @@
+id: fakejson
+kind: [api]
+name: FakeJSON
+url: https://fakejson.com
+description: Service to generate test and fake data
+domain: test-data
+license: unknown
+provenance:
+  added: 2018-02-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: 'The domain has been hijacked: fakejson.com redirects to rotating unrelated sites, including Indonesian online-slot gambling pages.'

@@ -1,0 +1,15 @@
+id: xkcd
+kind: [api]
+name: xkcd
+url: https://xkcd.com/json.html
+description: Retrieve xkcd comics as JSON
+domain: games
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

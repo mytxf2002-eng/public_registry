@@ -1,0 +1,18 @@
+id: bugsnax
+kind: [api]
+name: Bugsnax
+url: https://www.bugsnaxapi.com/
+description: Get information about Bugsnax
+domain: games
+license: unknown
+provenance:
+  added: 2021-08-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: The bugsnaxapi.com domain no longer resolves and the source repository is gone.

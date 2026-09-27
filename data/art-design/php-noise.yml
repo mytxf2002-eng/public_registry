@@ -1,0 +1,15 @@
+id: php-noise
+kind: [api]
+name: PHP-Noise
+url: https://php-noise.com/
+description: Noise Background Image Generator
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

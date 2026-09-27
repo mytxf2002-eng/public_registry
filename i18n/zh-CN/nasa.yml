@@ -1,0 +1,3 @@
+id: nasa
+description: NASA 官方的开放 API 门户：每日天文图（APOD）、近地小行星（NeoWs）、太空天气事件（DONKI）、EPIC 地球全景图等。可以先用 DEMO_KEY 试用，正式使用要注册免费 key，默认每小时 1000 次。
+group: 航天与卫星

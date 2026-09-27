@@ -1,0 +1,22 @@
+id: hostdefi
+kind: [api, dataset]
+name: HostDeFi
+url: https://hostdefi.com/docs/api/
+description: Free A+–F token-safety grades across Solana and EVM chains
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: CC-BY-4.0
+license_url: https://hostdefi.com/data/
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://hostdefi.com/data/
+  update_frequency: weekly

@@ -1,0 +1,18 @@
+id: tenders-in-hungary
+kind: [api]
+name: Tenders in Hungary
+url: https://tenders.guru/hu/api
+description: Get data for procurements in Hungary in JSON format
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The tenders.guru server no longer accepts connections and no other official page for the API exists.

@@ -1,0 +1,19 @@
+id: hirak-ip-to-country
+kind: [api]
+name: Hirak IP to Country
+url: https://iplocation.hirak.site/
+description: Ip to location with country code, currency code & currency name, fast response, unlimited requests
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2022-03-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The domain now sends visitors to an ad click tracker instead of serving the API.

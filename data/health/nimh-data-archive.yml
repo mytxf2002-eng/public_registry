@@ -1,0 +1,19 @@
+id: nimh-data-archive
+kind: [dataset]
+name: NIMH Data Archive (NDA)
+url: https://nda.nih.gov/
+description: NIH archive of human-subjects data from mental health research, with a public dictionary of assessment instruments and controlled-access clinical, imaging and genomic data packages
+domain: health
+tags: [mental-health, clinical-research, human-subjects, data-dictionary]
+license: unknown
+publisher:
+  name: National Institute of Mental Health
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [tsv, other]
+  access: application
+  update_frequency: irregular

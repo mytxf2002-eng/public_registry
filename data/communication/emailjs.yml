@@ -1,0 +1,16 @@
+id: emailjs
+kind: [api]
+name: EmailJS
+url: https://www.emailjs.com/docs/
+description: Send emails directly from client-side JavaScript without a backend server
+domain: communication
+tags: [email]
+license: unknown
+provenance:
+  added: 2026-05-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

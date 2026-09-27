@@ -1,0 +1,3 @@
+id: detect-language
+description: 语言检测 API，官网称支持 216 种语言，短文本也能识别，支持批量请求，有多种编程语言的客户端库和免费档。
+group: 机器翻译与语言检测

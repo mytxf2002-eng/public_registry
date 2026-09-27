@@ -1,0 +1,3 @@
+id: ticketmaster
+description: 全球票务巨头 Ticketmaster 的 Discovery API：按关键词、地点、日期搜索演出、体育赛事等活动，以及艺人和场馆信息，覆盖多个国家，需要免费 key，每天有调用上限。
+group: 活动搜索与票务

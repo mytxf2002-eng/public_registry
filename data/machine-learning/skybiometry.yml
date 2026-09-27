@@ -1,0 +1,15 @@
+id: skybiometry
+kind: [api]
+name: SkyBiometry
+url: https://classic.skybiometry.com/documentation/
+description: Face Detection, Face Recognition and Face Grouping
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

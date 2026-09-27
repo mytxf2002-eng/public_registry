@@ -1,0 +1,15 @@
+id: open-government-saudi-arabia
+kind: [api]
+name: Open Government, Saudi Arabia
+url: https://data.gov.sa
+description: Saudi Arabia Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-04-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

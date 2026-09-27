@@ -1,0 +1,16 @@
+id: web-of-trust
+kind: [api]
+name: Web of Trust
+url: https://support.mywot.com/hc/en-us/sections/360004477734-API-
+description: IP/domain/URL reputation
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

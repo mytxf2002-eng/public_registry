@@ -1,0 +1,2 @@
+id: iawe-indian-dataset-for-ambient-water-and-energy
+description: 2013 年夏季在印度新德里一户住宅采集约 73 天的数据：电表、配电回路和单个电器三级用电，以及供水和水箱用水量、室内环境传感器读数，反映停电频繁、电压波动大等当地用电特点。数据以 CSV 和 NILMTK 用 HDF5 格式放在 OneDrive 共享文件夹中，可直接下载，未注明许可证。

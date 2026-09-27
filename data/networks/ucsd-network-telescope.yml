@@ -1,0 +1,21 @@
+id: ucsd-network-telescope
+kind: [dataset]
+name: UCSD Network Telescope
+url: https://www.caida.org/projects/network_telescope/
+description: Unsolicited traffic reaching a mostly unused /9 and /10 IPv4 address block, which reveals scanning, DDoS backscatter, worm spread and misconfigurations across the Internet
+domain: networks
+tags: [darknet, internet-background-radiation, ddos-backscatter, scanning]
+license: LicenseRef-Research-Only
+license_url: https://www.caida.org/about/legal/aua/
+publisher:
+  name: Center for Applied Internet Data Analysis (CAIDA), UC San Diego
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary]
+  access: application
+  url: https://catalog.caida.org/search?query=collection:ucsd_telescope_datasets
+  spatial: [global]

@@ -1,0 +1,15 @@
+id: kpainter
+kind: [api]
+name: KPainter
+url: https://api.kpainter.ai/openapi/v1/docs
+description: Create video, image, and interactive app outputs from prompts or source files
+domain: video
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

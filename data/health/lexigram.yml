@@ -1,0 +1,15 @@
+id: lexigram
+kind: [api]
+name: Lexigram
+url: https://docs.lexigram.io/
+description: NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology
+domain: health
+license: unknown
+provenance:
+  added: 2017-11-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: makeup
+kind: [api]
+name: Makeup
+url: http://makeup-api.herokuapp.com/
+description: Makeup Information
+domain: health
+license: unknown
+provenance:
+  added: 2016-11-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

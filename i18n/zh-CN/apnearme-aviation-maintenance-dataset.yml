@@ -1,0 +1,2 @@
+id: apnearme-aviation-maintenance-dataset
+description: 基于美国联邦航空管理局（FAA）人员与维修站数据库整理的航空维修数据：各州持证 A&P 机械师人数、3,965 家 Part 145 维修站（含地址、评级和经纬度），以及每百架驻场飞机对应的机械师数等州级比率，CSV 格式，以 CC0 发布，GitHub 上有官方镜像。

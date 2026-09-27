@@ -1,0 +1,15 @@
+id: findwork
+kind: [api]
+name: Findwork
+url: https://findwork.dev/developers/
+description: Software developer job listings searchable by keyword, location and remote work
+domain: jobs
+license: unknown
+provenance:
+  added: 2021-07-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

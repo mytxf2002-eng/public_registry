@@ -1,0 +1,15 @@
+id: memesio
+kind: [api]
+name: Memesio
+url: https://memesio.com/developers/api
+description: Meme creation API with templates, editable captions and hosted share links
+domain: entertainment
+license: unknown
+provenance:
+  added: 2026-05-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

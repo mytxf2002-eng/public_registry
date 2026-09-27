@@ -1,0 +1,3 @@
+id: isitdownstatus
+description: 实时查看 GitHub、AWS、Discord 等 90 多个常用服务是否宕机。
+group: 服务状态与宕机检测

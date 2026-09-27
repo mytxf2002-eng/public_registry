@@ -1,0 +1,25 @@
+id: nasa-exoplanet-archive
+kind: [api, dataset]
+name: NASA Exoplanet Archive
+url: https://exoplanetarchive.ipac.caltech.edu/
+description: Vetted parameters of about 6,400 confirmed exoplanets and their host stars, plus Kepler, K2 and TESS candidate lists, light curves and spectra linked to the literature
+domain: science-math
+tags: [exoplanets, astronomy, kepler, tess, light-curves]
+license: unknown
+publisher:
+  name: NASA Exoplanet Science Institute
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html
+dataset:
+  formats: [csv, tsv, json, xml]
+  access: public
+  url: https://exoplanetarchive.ipac.caltech.edu/bulk_data_download/
+  update_frequency: weekly

@@ -1,0 +1,27 @@
+id: crystallography-open-database
+kind: [api, dataset]
+name: Crystallography Open Database
+url: https://www.crystallography.net/cod/
+description: About 535,000 crystal structures of organic, inorganic and metal-organic compounds and minerals (no biopolymers) as CIF files, updated as new structures are deposited
+domain: science-math
+tags: [crystallography, crystal-structures, minerals, chemistry, cif]
+license: CC0-1.0
+license_url: https://www.crystallography.net/cod/
+publisher:
+  name: Crystallography Open Database project (Vilnius University)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://wiki.crystallography.net/RESTful_API/
+dataset:
+  formats: [pdb, csv, json]
+  access: public
+  url: https://wiki.crystallography.net/howtoobtaincod/
+  update_frequency: daily
+  size: 534,973 entries

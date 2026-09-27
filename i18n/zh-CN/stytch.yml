@@ -1,0 +1,3 @@
+id: stytch
+description: 身份认证的 API 和 SDK：邮件魔法链接、短信验证码、通行密钥（passkey）、社交登录等无密码方式，也有面向企业客户的 SSO 和防欺诈（设备指纹）功能。
+group: 身份认证平台

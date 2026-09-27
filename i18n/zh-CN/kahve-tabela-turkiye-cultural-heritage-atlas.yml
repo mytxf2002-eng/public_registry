@@ -1,0 +1,2 @@
+id: kahve-tabela-turkiye-cultural-heritage-atlas
+description: 汇集土耳其 81 个省约 3.2 万处登记文化遗产地点（含坐标、类别和 Wikidata 标识）及 1655 项地理标志食品，提供 CSV/JSON 批量文件和无需密钥的 JSON 接口，并在 Zenodo 存档。数据由个人项目从公开来源自动汇编，坐标部分继承 OpenStreetMap 的 ODbL 许可，复用时还需遵守各原始来源的许可。

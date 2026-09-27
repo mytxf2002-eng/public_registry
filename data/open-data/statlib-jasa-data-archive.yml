@@ -1,0 +1,19 @@
+id: statlib-jasa-data-archive
+kind: [dataset]
+name: StatLib JASA Data Archive
+url: https://lib.stat.cmu.edu/jasadata/
+description: Datasets contributed by authors of Journal of the American Statistical Association articles, mostly from the 1990s, such as illicit drug prices, Treasury bill rates and US elections
+domain: open-data
+tags: [statistics, journal-data, teaching, research-data]
+license: unknown
+publisher:
+  name: Carnegie Mellon University, Department of Statistics
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, archive]
+  access: public
+  update_frequency: static

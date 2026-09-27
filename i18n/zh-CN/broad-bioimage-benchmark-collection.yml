@@ -1,0 +1,2 @@
+id: broad-bioimage-benchmark-collection
+description: 博德研究所成像平台维护的显微图像基准集合：约 50 个细胞和小型生物图像集，每个都附细胞计数、轮廓、类别标签或边界框等真值，用于测试和比较图像分析算法；可直接免费下载，许可证因数据集而异（如 CC0、CC BY-NC-SA 3.0）。

@@ -1,0 +1,15 @@
+id: songkick
+kind: [api]
+name: Songkick
+url: https://www.songkick.com/developer/
+description: Music Events
+domain: music
+license: unknown
+provenance:
+  added: 2017-07-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

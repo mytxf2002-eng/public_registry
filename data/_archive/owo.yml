@@ -1,0 +1,18 @@
+id: owo
+kind: [api]
+name: owo
+url: https://owo.vc/api
+description: A simple link obfuscator/shortener
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2021-11-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: owo.vc reached end-of-life on March 23, 2025 and no longer creates links.

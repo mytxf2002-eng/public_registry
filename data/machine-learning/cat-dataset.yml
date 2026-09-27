@@ -1,0 +1,21 @@
+id: cat-dataset
+kind: [dataset]
+name: Cat Dataset
+url: https://www.kaggle.com/datasets/crawford/cat-dataset
+description: Over 9,000 cat photographs, each with nine annotated head points (eyes, mouth and ears), originally built for cat head detection research
+domain: machine-learning
+tags: [computer-vision, cats, facial-landmarks, object-detection]
+license: CC0-1.0
+license_url: https://www.kaggle.com/datasets/crawford/cat-dataset
+publisher:
+  name: Chris Crawford
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, text]
+  access: registration
+  update_frequency: static
+  size: 2.19 GB

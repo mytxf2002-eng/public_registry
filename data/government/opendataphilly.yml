@@ -1,0 +1,23 @@
+id: opendataphilly
+kind: [dataset]
+name: OpenDataPhilly
+url: https://opendataphilly.org/
+description: Catalogue of about 470 datasets for Philadelphia and its region, mostly from the City of Philadelphia, covering public safety, real estate, transportation, health, environment and planning
+domain: government
+tags: [municipal, public-safety, real-estate, transportation, health]
+license: LicenseRef-Provider-Terms
+license_url: https://metadata.phila.gov/#help/help-faqs/what-are-the-terms-of-use/
+publisher:
+  name: OpenDataPhilly
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, geojson, shapefile]
+  access: public
+  url: https://opendataphilly.org/datasets/
+  spatial: [US-PA]
+  update_frequency: irregular
+  size: about 470 datasets

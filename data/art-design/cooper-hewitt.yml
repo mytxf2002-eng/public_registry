@@ -1,0 +1,24 @@
+id: cooper-hewitt
+kind: [api, dataset]
+name: Cooper Hewitt
+url: https://apidocs.cooperhewitt.org/
+description: Smithsonian Design Museum
+domain: art-design
+tags: [museum-collections, design, cultural-heritage, collection-metadata]
+license: CC0-1.0
+license_url: https://github.com/cooperhewitt/collection
+publisher:
+  name: Cooper Hewitt, Smithsonian Design Museum
+  kind: government
+provenance:
+  added: 2017-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [json]
+  access: public
+  update_frequency: static

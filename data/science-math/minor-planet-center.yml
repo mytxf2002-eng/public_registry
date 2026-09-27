@@ -1,0 +1,15 @@
+id: minor-planet-center
+kind: [api]
+name: Minor Planet Center
+url: http://www.asterank.com/mpc
+description: Asterank.com Information
+domain: science-math
+license: unknown
+provenance:
+  added: 2016-04-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

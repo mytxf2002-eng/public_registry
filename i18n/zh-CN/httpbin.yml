@@ -1,0 +1,3 @@
+id: httpbin
+description: 经典的 HTTP 请求回显服务：原样返回请求头、参数和请求体，还提供指定状态码、重定向、延迟、Cookie、认证等测试端点。开源，可以用 Docker 自建。
+group: HTTP 测试与跨域代理

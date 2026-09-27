@@ -1,0 +1,18 @@
+id: tenders-in-romania
+kind: [api]
+name: Tenders in Romania
+url: https://tenders.guru/ro/api
+description: Get data for procurements in Romania in JSON format
+domain: business
+license: unknown
+provenance:
+  added: 2021-10-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: tenders.guru is unreachable from every network tried and no other official page for this API was found.

@@ -1,0 +1,16 @@
+id: postmon
+kind: [api]
+name: Postmon
+url: http://postmon.com.br
+description: An API to query Brazilian ZIP codes and orders easily, quickly and free
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2017-06-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

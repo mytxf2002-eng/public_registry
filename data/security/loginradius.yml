@@ -1,0 +1,15 @@
+id: loginradius
+kind: [api]
+name: LoginRadius
+url: https://www.loginradius.com/docs/
+description: Managed User Authentication Service
+domain: security
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

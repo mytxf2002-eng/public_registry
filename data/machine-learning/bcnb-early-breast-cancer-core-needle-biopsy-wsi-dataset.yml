@@ -1,0 +1,22 @@
+id: bcnb-early-breast-cancer-core-needle-biopsy-wsi-dataset
+kind: [dataset]
+name: 'BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset'
+url: https://bupt-ai-cz.github.io/BCNB/
+description: Core-needle biopsy whole-slide images of 1,058 early breast cancer patients with partial tumour annotations and clinical data such as receptor status and lymph node metastasis
+domain: machine-learning
+tags: [histopathology, breast-cancer, whole-slide-images, lymph-node-metastasis]
+license: LicenseRef-Research-Only
+license_url: https://bupt-ai-cz.github.io/BCNB/
+publisher:
+  name: BUPT AI-CZ group (Beijing University of Posts and Telecommunications)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, xlsx]
+  access: application
+  spatial: [CN]
+  update_frequency: static
+  size: 1,058 patients

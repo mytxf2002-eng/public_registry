@@ -1,0 +1,16 @@
+id: geocodify-com
+kind: [api]
+name: Geocodify.com
+url: https://geocodify.com/
+description: Worldwide geocoding, geoparsing and autocomplete for addresses
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

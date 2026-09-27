@@ -1,0 +1,15 @@
+id: google-drive
+kind: [api]
+name: Google Drive
+url: https://developers.google.com/drive/
+description: File Sharing and Storage
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2016-12-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

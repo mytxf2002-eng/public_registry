@@ -1,0 +1,21 @@
+id: world-countries
+kind: [dataset]
+name: World Countries (mledoze/countries)
+url: https://github.com/mledoze/countries
+description: 'Metadata for every ISO 3166-1 country: codes, native and translated names, capital, currencies, languages, calling codes, borders, area and coordinates, plus GeoJSON outlines'
+domain: geography
+tags: [countries, iso-3166, currencies, calling-codes, country-metadata]
+license: ODbL-1.0
+license_url: https://github.com/mledoze/countries/blob/master/LICENSE
+publisher:
+  name: Mohammed Le Doze
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json, csv, xml, yaml, geojson]
+  access: public
+  spatial: [global]
+  update_frequency: irregular

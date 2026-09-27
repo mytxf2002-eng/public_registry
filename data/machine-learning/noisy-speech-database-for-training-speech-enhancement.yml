@@ -1,0 +1,21 @@
+id: noisy-speech-database-for-training-speech-enhancement
+kind: [dataset]
+name: Noisy Speech Database for Training Speech Enhancement Algorithms and TTS Models
+url: https://datashare.ed.ac.uk/items/6ed35425-bf14-4d2b-93a1-0a4984952757
+description: Parallel clean and noisy 48 kHz recordings of 28 or 56 VCTK speakers mixed with DEMAND and synthetic noises, with transcripts, for training and testing speech enhancement
+domain: machine-learning
+tags: [speech-enhancement, noisy-speech, speech-synthesis, audio]
+license: CC-BY-4.0
+license_url: https://datashare.ed.ac.uk/items/6ed35425-bf14-4d2b-93a1-0a4984952757/full
+publisher:
+  name: Centre for Speech Technology Research, University of Edinburgh
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [audio, text]
+  access: public
+  update_frequency: static
+  size: 15 GB

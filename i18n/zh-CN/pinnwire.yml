@@ -1,0 +1,3 @@
+id: pinnwire
+description: 第三方提供的 Pinnacle（知名的低抽水博彩公司）13 项运动的赛前和滚球实时赔率，支持 REST 和 WebSocket，赔率骤降时通过 SSE 推送提醒，有免费试用 key。
+group: 博彩赔率与盘口

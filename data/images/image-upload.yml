@@ -1,0 +1,16 @@
+id: image-upload
+kind: [api]
+name: Image Upload
+url: https://apilayer.com/marketplace/image_upload-api
+description: Image Optimization
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2023-09-20
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,2 @@
+id: llvip-a-visible-infrared-paired-dataset-for-low-light-vision
+description: 北京邮电大学朱闯团队发布的可见光-红外配对数据集，含 15488 对（30976 张）时空严格对齐的可见光与热红外图像，大多拍摄于极暗场景，并标注了行人，可用于图像融合、行人检测和图像转换。填写姓名、邮箱和单位表单后自动收到下载邮件；仅限非商业用途。

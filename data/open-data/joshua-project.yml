@@ -1,0 +1,19 @@
+id: joshua-project
+kind: [api, dataset]
+name: Joshua Project
+url: https://api.joshuaproject.net/
+description: People groups of the world with the fewest followers of Christ
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  url: https://joshuaproject.net/resources/datasets

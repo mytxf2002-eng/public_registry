@@ -1,0 +1,16 @@
+id: tipo
+kind: [api]
+name: TIPO
+url: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+description: Taiwan patent search system api
+domain: government
+tags: [patents]
+license: unknown
+provenance:
+  added: 2017-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

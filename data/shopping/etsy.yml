@@ -1,0 +1,15 @@
+id: etsy
+kind: [api]
+name: Etsy
+url: https://www.etsy.com/developers/documentation/getting_started/api_basics
+description: Manage shop and interact with listings
+domain: shopping
+license: unknown
+provenance:
+  added: 2021-04-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: datacube-ai
+kind: [api]
+name: DataCube AI
+url: https://www.datacubeai.space/en/tools/ai-news-api
+description: Daily curated AI industry news, funding rounds and trends in 8 languages
+domain: news-media
+license: unknown
+provenance:
+  added: 2026-08-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

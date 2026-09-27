@@ -1,0 +1,15 @@
+id: oddsradarwire
+kind: [api]
+name: OddsRadarWire
+url: https://oddsradarwire.com/docs.html
+description: Live and prematch Betradar odds with raw no-vig probabilities, REST and SSE
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

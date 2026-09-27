@@ -1,0 +1,26 @@
+id: natural-history-museum-data-portal
+kind: [api, dataset]
+name: Natural History Museum Data Portal
+url: https://data.nhm.ac.uk/
+description: 6.27 million specimen records from the Natural History Museum, London, plus about 300 research datasets, downloadable and queryable through a CKAN API
+domain: life-sciences
+tags: [natural-history, specimens, biodiversity, museum-collections, darwin-core]
+license: CC0-1.0
+license_url: https://data.nhm.ac.uk/api/3/action/package_show?id=collection-specimens
+publisher:
+  name: Natural History Museum, London
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv]
+  access: public
+  spatial: [global]
+  update_frequency: irregular
+  size: 6.27M specimen records

@@ -1,0 +1,16 @@
+id: countly
+kind: [api]
+name: Countly
+url: https://api.count.ly/reference
+description: Countly web analytics
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2020-04-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

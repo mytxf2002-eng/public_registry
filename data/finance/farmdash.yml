@@ -1,0 +1,15 @@
+id: farmdash
+kind: [api]
+name: FarmDash
+url: https://www.farmdash.one/agents
+description: DeFi intelligence, protocol risk, yield simulation plus 84 MCP agent tools, free Scout tier
+domain: finance
+license: unknown
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

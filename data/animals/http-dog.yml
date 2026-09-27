@@ -1,0 +1,15 @@
+id: http-dog
+kind: [api]
+name: HTTP Dog
+url: https://http.dog/
+description: Dogs for every HTTP response status code
+domain: animals
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

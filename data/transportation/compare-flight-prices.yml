@@ -1,0 +1,15 @@
+id: compare-flight-prices
+kind: [api]
+name: Compare Flight Prices
+url: https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/
+description: API for comparing flight prices across platforms
+domain: transportation
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

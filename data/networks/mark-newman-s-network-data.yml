@@ -1,0 +1,20 @@
+id: mark-newman-s-network-data
+kind: [dataset]
+name: Mark Newman's Network Data
+url: https://websites.umich.edu/~mejn/netdata/
+description: Classic network datasets in GML such as Zachary's karate club, Les Misérables co-appearances, college football, dolphins, political blogs, C. elegans neurons and the US power grid
+domain: networks
+tags: [social-networks, network-science, benchmark-graphs, gml]
+license: LicenseRef-Research-Only
+license_url: https://websites.umich.edu/~mejn/netdata/
+publisher:
+  name: Mark Newman (University of Michigan)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [gml]
+  access: public
+  update_frequency: irregular

@@ -1,0 +1,25 @@
+id: a2d2-audi-autonomous-driving-dataset
+kind: [dataset]
+name: 'A2D2: Audi Autonomous Driving Dataset'
+url: https://a2d2-dataset.github.io/
+description: 'Multi-sensor driving data from southern Germany: 41,277 annotated frames from six cameras and five lidars, plus 392,556 sequential frames with lidar depth'
+domain: machine-learning
+tags: [autonomous-driving, lidar, semantic-segmentation, 3d-object-detection, depth-estimation]
+license: CC-BY-ND-4.0
+license_url: https://a2d2-dataset.github.io/
+publisher:
+  name: Audi Electronics Venture GmbH (Audi)
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, numpy, json]
+  access: public
+  url: https://registry.opendata.aws/aev-a2d2/
+  temporal:
+    start: '2018'
+    end: '2018'
+  spatial: [DE]
+  update_frequency: irregular

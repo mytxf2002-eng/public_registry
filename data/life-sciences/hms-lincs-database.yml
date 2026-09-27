@@ -1,0 +1,25 @@
+id: hms-lincs-database
+kind: [api, dataset]
+name: HMS LINCS Database
+url: https://lincs.hms.harvard.edu/db/sm/index.html
+description: Datasets from the Harvard Medical School LINCS Center on how human cells respond to small-molecule and other perturbations, with reagent metadata for compounds, cells, antibodies and proteins
+domain: life-sciences
+tags: [cell-signaling, drug-response, small-molecules, kinase-inhibitors, cell-lines]
+license: LicenseRef-Provider-Terms
+license_url: https://lincs.hms.harvard.edu/terms/index.html
+publisher:
+  name: Harvard Medical School LINCS Center
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://lincs.hms.harvard.edu/resources/methods-software/software/index.html
+dataset:
+  formats: [xls, xlsx, other]
+  access: public
+  update_frequency: irregular

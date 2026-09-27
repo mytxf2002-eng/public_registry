@@ -1,0 +1,15 @@
+id: lowy-asia-power-index
+kind: [api]
+name: Lowy Asia Power Index
+url: https://github.com/0x0is1/lowy-index-api-docs
+description: Get measure resources and influence to rank the relative power of states in Asia
+domain: open-data
+license: unknown
+provenance:
+  added: 2021-12-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

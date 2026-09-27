@@ -1,0 +1,27 @@
+id: msc-open-data
+kind: [api, dataset]
+name: MSC Open Data (Meteorological Service of Canada)
+url: https://eccc-msc.github.io/open-data/readme_en/
+description: Canadian weather warnings, forecasts, observations, numerical model output, hydrometric, air-quality and climate data from the Datamart file server and GeoMet web services
+domain: weather-climate
+tags: [weather-forecasts, observations, numerical-weather-prediction, hydrometric, ogc-services]
+license: LicenseRef-Open-Government
+license_url: https://eccc-msc.github.io/open-data/licence/readme_en/
+publisher:
+  name: Environment and Climate Change Canada
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://eccc-msc.github.io/open-data/msc-geomet/readme_en/
+dataset:
+  formats: [grib, netcdf, xml, csv, geojson]
+  access: public
+  url: https://dd.weather.gc.ca/
+  spatial: [CA, global]
+  update_frequency: realtime

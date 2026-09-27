@@ -1,0 +1,18 @@
+id: pixel-encounter
+kind: [api]
+name: Pixel Encounter
+url: https://pixelencounter.com/api
+description: SVG Icon Generator
+domain: art-design
+license: unknown
+provenance:
+  added: 2021-05-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: 'Domain is parked: pixelencounter.com, including its app. API host, now serves a parking/ad-router script.'

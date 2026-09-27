@@ -1,0 +1,3 @@
+id: tebex
+description: Tebex（原 Buycraft）是给《我的世界》等游戏服务器开网店卖虚拟物品的平台，这是它的插件接口：查询商品、付款记录和待执行的发货命令，用店铺密钥（X-Tebex-Secret 请求头）鉴权。
+group: 游戏开发与服主工具

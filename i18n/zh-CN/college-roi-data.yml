@@ -1,0 +1,2 @@
+id: college-roi-data
+description: 基于 FREOPP 高校投资回报研究、IPEDS 学费数据和 BEA 地区价格平价派生的美国本科教育回报表：按学校和州的 30 年净现值、按专业大类的终身回报与回本比例、公立大学州外学费代价，以及各专业受 AI 影响程度。GitHub 提供 CSV（最大一张表含 3,392 所院校），CC BY 4.0，有 Zenodo DOI；均为派生估算。

@@ -1,0 +1,18 @@
+id: quarantine
+kind: [api]
+name: Quarantine
+url: https://quarantine.country/coronavirus/api/
+description: Coronavirus API with free COVID-19 live updates
+domain: health
+license: unknown
+provenance:
+  added: 2021-03-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: quarantine.country no longer exists in DNS, so the COVID-19 API is gone.

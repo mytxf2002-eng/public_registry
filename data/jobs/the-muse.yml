@@ -1,0 +1,15 @@
+id: the-muse
+kind: [api]
+name: The Muse
+url: https://www.themuse.com/developers/api/v2
+description: Job board and company profiles
+domain: jobs
+license: unknown
+provenance:
+  added: 2017-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

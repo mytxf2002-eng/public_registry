@@ -1,0 +1,20 @@
+id: serratus-data-release
+kind: [dataset]
+name: Serratus Data Release
+url: https://github.com/ababaian/serratus/wiki/Access-Data-Release
+description: 'Results of an ultra-deep search of public sequencing libraries for novel viruses: alignments, summaries, coronavirus assemblies and RNA polymerase (RdRP) sequences, versioned on AWS S3'
+domain: life-sciences
+tags: [virus-discovery, rna-viruses, sra, metagenomics, rdrp]
+license: LicenseRef-Public-Domain
+license_url: https://github.com/ababaian/serratus
+publisher:
+  name: Serratus project (Artem Babaian et al.)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [bam, fasta, tsv, other]
+  access: public
+  update_frequency: static

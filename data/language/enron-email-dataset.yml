@@ -1,0 +1,21 @@
+id: enron-email-dataset
+kind: [dataset]
+name: Enron Email Dataset
+url: https://www.cs.cmu.edu/~enron/
+description: About 500,000 email messages from roughly 150 mostly senior Enron employees, organised by mailbox folders, as released during the FERC investigation (May 2015 version)
+domain: language
+tags: [email, text-corpus, nlp, social-network-analysis, enron]
+license: unknown
+publisher:
+  name: Carnegie Mellon University (William W. Cohen)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  url: https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz
+  update_frequency: static
+  size: 1.7 GB

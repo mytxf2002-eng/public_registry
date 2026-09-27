@@ -1,0 +1,24 @@
+id: indiana-university-click-dataset
+kind: [dataset]
+name: Indiana University Click Dataset
+url: https://cnets.indiana.edu/groups/nan/projects/webtraffic/click-dataset
+description: About 53.5 billion anonymized HTTP requests captured at the Indiana University border router from 2006 to 2010, each with timestamp, referrer, target URL and a bot flag
+domain: networks
+tags: [web-traffic, http-requests, clickstream, web-graph]
+license: LicenseRef-Research-Only
+license_url: https://cnets.indiana.edu/groups/nan/projects/webtraffic/click-dataset
+publisher:
+  name: Center for Complex Networks and Systems Research, Indiana University
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [binary]
+  access: application
+  temporal:
+    start: 2006-09
+    end: 2010-05
+  update_frequency: static
+  size: about 2.5 TB compressed

@@ -1,0 +1,16 @@
+id: code-detection
+kind: [api]
+name: Code Detection
+url: https://codedetectionapi.runtime.dev
+description: Detect, label, format and enrich the code in your app or in your data pipeline
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2022-03-11
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

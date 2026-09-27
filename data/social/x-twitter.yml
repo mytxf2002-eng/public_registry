@@ -1,0 +1,15 @@
+id: x-twitter
+kind: [api]
+name: X
+url: https://docs.x.com/overview
+description: Read and write Twitter data
+domain: social
+license: unknown
+provenance:
+  added: 2018-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'no'

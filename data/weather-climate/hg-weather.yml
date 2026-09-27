@@ -1,0 +1,15 @@
+id: hg-weather
+kind: [api]
+name: HG Weather
+url: https://hgbrasil.com/status/weather
+description: Provides weather forecast data for cities in Brazil
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

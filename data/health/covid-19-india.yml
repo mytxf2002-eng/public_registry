@@ -1,0 +1,15 @@
+id: covid-19-india
+kind: [api]
+name: Covid-19 India
+url: https://data.covid19india.org/
+description: Covid 19 statistics state and district wise about cases, vaccinations, recovery within India
+domain: health
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,3 @@
+id: newsx
+description: 托管在 RapidAPI 上的新闻 API：获取或搜索最新突发新闻，并附机器学习生成的摘要。
+group: 综合新闻搜索与聚合

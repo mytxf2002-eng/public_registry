@@ -1,0 +1,2 @@
+id: massgis-data-hub
+description: 美国马萨诸塞州地理信息局（MassGIS）的数据中心（ArcGIS Hub），提供全州地理信息数据，如地块、正射影像、生物栖息地、分区和交通图层，并汇总各市镇的 GIS 地图入口。图层可下载 Shapefile、CSV、GeoJSON、KML，或通过 ArcGIS REST 服务访问；许可条款未在可读页面中找到。

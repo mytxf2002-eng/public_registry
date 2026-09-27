@@ -1,0 +1,15 @@
+id: clickup
+kind: [api]
+name: ClickUp
+url: https://clickup.com/api
+description: ClickUp is a robust, cloud-based project management tool for boosting productivity
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-10-23
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

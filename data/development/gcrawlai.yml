@@ -1,0 +1,15 @@
+id: gcrawlai
+kind: [api]
+name: GcrawlAI
+url: https://gcrawlai.com
+description: Web scraping, SERP API, screenshots, URL to Markdown and prebuilt extractors
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-01
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,20 @@
+id: lottolens-ph
+kind: [api, dataset]
+name: LottoLens PH
+url: https://remo65588-boop.github.io/lottolens-ph-public-data/api/
+description: Fixed Philippine PCSO historical results and normal draw schedules
+domain: open-data
+license: CC-BY-4.0
+license_url: https://remo65588-boop.github.io/lottolens-ph-public-data/api/
+provenance:
+  added: 2026-08-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [csv]
+  access: public
+  url: https://remo65588-boop.github.io/lottolens-ph-public-data/

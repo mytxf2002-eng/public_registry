@@ -1,0 +1,19 @@
+id: zmok
+kind: [api]
+name: ZMOK
+url: https://zmok.io
+description: Ethereum JSON RPC API and Web3 provider
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: zmok.io only shows an empty directory listing; the service is gone

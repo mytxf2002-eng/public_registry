@@ -1,0 +1,3 @@
+id: covid-19
+description: 按国家提供新冠确诊、死亡和康复的实时与历史数据，开源代码运行在 AWS Lambda 上，接口地址是 covid-api.mmediagroup.fr/v1。
+group: 新冠疫情：全球数据

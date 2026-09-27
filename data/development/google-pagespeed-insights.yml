@@ -1,0 +1,15 @@
+id: google-pagespeed-insights
+kind: [api]
+name: Google PageSpeed Insights
+url: https://developers.google.com/speed/docs/insights/v5/get-started
+description: Website performance and Lighthouse audit scores
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

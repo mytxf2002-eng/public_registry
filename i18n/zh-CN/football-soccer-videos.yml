@@ -1,0 +1,3 @@
+id: football-soccer-videos
+description: ScoreBat 的视频接口：返回英超、德甲、意甲等联赛进球和集锦视频的嵌入代码，可以直接放进网页，免 key。
+group: 足球数据

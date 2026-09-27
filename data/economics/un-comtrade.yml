@@ -1,0 +1,29 @@
+id: un-comtrade
+kind: [api, dataset]
+name: UN Comtrade
+url: https://comtradeplus.un.org/
+description: Official annual and monthly import and export statistics for goods and services by product and partner, reported by nearly 200 countries and areas since 1962
+domain: economics
+tags: [international-trade, imports, exports, hs-codes, official-statistics]
+license: LicenseRef-Provider-Terms
+license_url: https://uncomtrade.org/docs/policy-on-use-and-re-dissemination/
+publisher:
+  name: United Nations Statistics Division
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://uncomtrade.org/docs/un-comtrade-api/
+dataset:
+  formats: [csv, json]
+  access: registration
+  temporal:
+    start: '1962'
+    end: null
+  spatial: [global]
+  update_frequency: monthly

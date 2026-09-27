@@ -1,0 +1,15 @@
+id: visual-crossing
+kind: [api]
+name: Visual Crossing
+url: https://www.visualcrossing.com/weather-api
+description: Global historical and weather forecast data
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-04-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

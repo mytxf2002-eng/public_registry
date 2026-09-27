@@ -1,0 +1,15 @@
+id: seedfinder
+kind: [api]
+name: SeedFinder
+url: https://mineseedfinder.vercel.app/seedfinder
+description: Minecraft Bedrock structures prediction
+domain: games
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

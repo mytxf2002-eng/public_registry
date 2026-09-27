@@ -1,0 +1,15 @@
+id: xfetch
+kind: [api]
+name: xfetch
+url: https://xfetch.io
+description: Read API for X/Twitter search, profiles, tweets, and social graph
+domain: social
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

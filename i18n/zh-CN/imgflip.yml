@@ -1,0 +1,3 @@
+id: imgflip
+description: 表情包网站 Imgflip 的接口：获取热门表情包模板，用模板配文字生成图片（需要 Imgflip 账号）；搜索模板、AI 生成等高级接口需要付费。
+group: 表情包与梗图

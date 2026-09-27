@@ -1,0 +1,15 @@
+id: revdoku
+kind: [api]
+name: Revdoku
+url: https://revdoku.com/api.md
+description: Cloud file storage, version history, sharing and incoming email attachments
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

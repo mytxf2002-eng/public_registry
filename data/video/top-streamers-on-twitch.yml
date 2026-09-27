@@ -1,0 +1,24 @@
+id: top-streamers-on-twitch
+kind: [dataset]
+name: Top Streamers on Twitch
+url: https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
+description: Viewer counts, followers gained and other channel statistics for the top 1,000 Twitch streamers over the year to August 2020, in one 11-column CSV
+domain: video
+tags: [twitch, live-streaming, streamers, viewership]
+license: CC0-1.0
+license_url: https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
+publisher:
+  name: Aayush Mishra
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  temporal:
+    start: '2019'
+    end: '2020'
+  update_frequency: static
+  size: 79 KB

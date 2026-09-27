@@ -1,0 +1,3 @@
+id: pokeapi-github
+description: 给 PokéAPI 套了一层 GraphQL 的非官方开源项目，数据来自 PokéAPI，适合只取部分字段的场景。
+group: 宝可梦数据

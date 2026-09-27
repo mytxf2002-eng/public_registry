@@ -1,0 +1,2 @@
+id: gh-archive
+description: 记录 GitHub 公共时间线的项目，自 2011 年 2 月起按小时归档推送、复刻、议题、拉取请求等 15 类以上公开事件，可直接下载 gzip 压缩的 JSON 文件，也可在 Google BigQuery 公共数据集中用 SQL 查询（每月 1 TB 免费额度）。代码为 MIT、网站内容为 CC BY 4.0，事件数据本身未单独声明许可。

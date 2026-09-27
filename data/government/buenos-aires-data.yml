@@ -1,0 +1,25 @@
+id: buenos-aires-data
+kind: [api, dataset]
+name: Buenos Aires Data
+url: https://data.buenosaires.gob.ar/
+description: 454 datasets from 37 Buenos Aires city government bodies on public administration, mobility, health, culture, education, economy and security, mostly CSV and XLSX
+domain: government
+tags: [open-government, city-data, ckan, mobility, public-administration]
+license: CC-BY-2.5
+license_url: https://data.buenosaires.gob.ar/dataset/relevamiento-usos-suelo
+publisher:
+  name: Gobierno de la Ciudad de Buenos Aires
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://docs.ckan.org/en/2.11/api/
+dataset:
+  formats: [csv, xlsx, json, geojson]
+  access: public
+  spatial: [AR-C]

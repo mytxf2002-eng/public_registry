@@ -1,0 +1,15 @@
+id: bitly
+kind: [api]
+name: Bitly
+url: http://dev.bitly.com/get_started.html
+description: URL shortener and link management
+domain: url-shorteners
+license: unknown
+provenance:
+  added: 2017-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

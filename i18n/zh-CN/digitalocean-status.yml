@@ -1,0 +1,3 @@
+id: digitalocean-status
+description: DigitalOcean 官方状态页的 JSON 接口：各项服务和地区的当前状态、正在处理的故障和计划维护。
+group: 服务状态与宕机检测

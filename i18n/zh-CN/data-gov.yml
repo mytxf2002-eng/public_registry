@@ -1,0 +1,3 @@
+id: data-gov
+description: 美国联邦政府的 API 管理服务 api.data.gov：注册一个免费 key，就能调用多个联邦机构的 API（例如本分类的 FEC），调用限额由它统一管理。
+group: 欧洲以外政府开放数据门户

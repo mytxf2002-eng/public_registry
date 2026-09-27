@@ -1,0 +1,3 @@
+id: sendraven
+description: 给 AI Agent 用的邮件接口：发邮件、按会话串接收回复，可以给每个 key 设置发送上限和人工审批。
+group: AI Agent 专用邮箱

@@ -1,0 +1,16 @@
+id: geodatasource
+kind: [api]
+name: GeoDataSource
+url: https://www.geodatasource.com/web-service
+description: Geocoding of city name by using latitude and longitude coordinates
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

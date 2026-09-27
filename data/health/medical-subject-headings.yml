@@ -1,0 +1,26 @@
+id: medical-subject-headings
+kind: [api, dataset]
+name: Medical Subject Headings (MeSH)
+url: https://www.nlm.nih.gov/mesh/meshhome.html
+description: Hierarchical biomedical subject vocabulary used to index PubMed, with descriptors, qualifiers and supplemental concept records, downloadable as XML, RDF and MARC 21
+domain: health
+tags: [controlled-vocabulary, thesaurus, biomedical, pubmed, linked-data]
+license: LicenseRef-Custom-Open
+license_url: https://www.nlm.nih.gov/databases/download/terms_and_conditions_mesh.html
+publisher:
+  name: U.S. National Library of Medicine
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://hhs.github.io/meshrdf/
+dataset:
+  formats: [xml, rdf, marc]
+  access: public
+  url: https://www.nlm.nih.gov/databases/download/mesh.html
+  update_frequency: daily

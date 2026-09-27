@@ -1,0 +1,24 @@
+id: form-eia-923-power-plant-operations-report-data
+kind: [dataset]
+name: Form EIA-923 Power Plant Operations Report Data
+url: https://www.eia.gov/electricity/data/eia923/
+description: Plant-level monthly and annual electricity generation, fuel consumption, fuel receipts, costs and stocks for US power plants, with utility data back to 1970
+domain: energy
+tags: [power-plants, electricity-generation, fuel-consumption, fuel-costs, survey]
+license: LicenseRef-US-Government-Work
+license_url: https://www.eia.gov/about/copyrights_reuse.php
+publisher:
+  name: U.S. Energy Information Administration
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx, xls]
+  access: public
+  temporal:
+    start: '1970'
+    end: null
+  spatial: [US]
+  update_frequency: monthly

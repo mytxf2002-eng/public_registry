@@ -1,0 +1,15 @@
+id: waldrand-avatar
+kind: [api]
+name: Waldrand Avatar
+url: https://avatar.waldrand.dev
+description: Deterministic SVG/PNG/WebP avatars from any string, four styles
+domain: test-data
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

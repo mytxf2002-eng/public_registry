@@ -1,0 +1,25 @@
+id: crime-brasil
+kind: [dataset]
+name: Crime Brasil
+url: https://crimebrasil.com.br/
+description: Brazilian crime statistics by state, municipality and neighbourhood from state security departments, DataSUS and CNJ, with open municipality-month CSV extracts on Zenodo
+domain: social-sciences
+tags: [crime, public-safety, crime-statistics, municipalities]
+license: CC-BY-4.0
+license_url: https://zenodo.org/records/19712522
+publisher:
+  name: Crime Brasil
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://zenodo.org/records/19712522
+  temporal:
+    start: '2019'
+    end: null
+  spatial: [BR]
+  update_frequency: irregular

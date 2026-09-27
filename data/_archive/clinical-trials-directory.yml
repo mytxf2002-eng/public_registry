@@ -1,0 +1,18 @@
+id: clinical-trials-directory
+kind: [api]
+name: Clinical Trials Directory
+url: https://trials.starfile.org/api
+description: Every clinical trial registered with ClinicalTrials.gov, indexed by condition and sponsor
+domain: health
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: trials.starfile.org returns 404 on every path, and starfile.org now redirects to an unrelated project (RegMap Canada).

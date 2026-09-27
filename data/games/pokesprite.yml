@@ -1,0 +1,15 @@
+id: pokesprite
+kind: [api]
+name: PokéSprite
+url: https://msikma.github.io/pokesprite/
+description: Database of Pokémon sprites and icons
+domain: games
+license: unknown
+provenance:
+  added: 2026-08-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

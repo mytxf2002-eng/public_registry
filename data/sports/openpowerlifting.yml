@@ -1,0 +1,23 @@
+id: openpowerlifting
+kind: [dataset]
+name: OpenPowerlifting
+url: https://www.openpowerlifting.org/
+description: About 4 million lifter entries from powerlifting meets of many federations worldwide, with squat, bench, deadlift and total results, released as a nightly bulk CSV
+domain: sports
+tags: [powerlifting, strength-sports, competition-results, athletes]
+license: LicenseRef-Public-Domain
+license_url: https://openpowerlifting.gitlab.io/opl-csv/
+publisher:
+  name: OpenPowerlifting project
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://openpowerlifting.gitlab.io/opl-csv/bulk-csv.html
+  spatial: [global]
+  update_frequency: daily
+  size: 4.04 M rows (162 MB zip)

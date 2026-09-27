@@ -1,0 +1,19 @@
+id: hirak-exchange-rates
+kind: [api]
+name: Hirak Exchange Rates
+url: https://rates.hirak.site/
+description: Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2022-03-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The domain has been hijacked and now redirects to an ad click tracker.

@@ -1,0 +1,21 @@
+id: findsaunaplunge
+kind: [api, dataset]
+name: FindSaunaPlunge
+url: https://findsaunaplunge.com/api/
+description: US cold plunge and sauna venues with dated, source-quoted temperatures and prices
+domain: health
+license: CC-BY-4.0
+license_url: https://findsaunaplunge.com/api/
+provenance:
+  added: 2026-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv]
+  access: public
+  url: https://github.com/findsaunaplunge/data
+  update_frequency: monthly

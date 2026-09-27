@@ -1,0 +1,23 @@
+id: london-datastore
+kind: [dataset]
+name: London Datastore
+url: https://data.london.gov.uk/
+description: About 1,300 datasets on London from the Greater London Authority and other public bodies, covering population, economy, housing, planning, transport, environment and borough profiles
+domain: government
+tags: [city-statistics, demographics, housing, planning, economy]
+license: OGL-UK-2.0
+license_url: https://data.london.gov.uk/about/frequently-asked-questions
+publisher:
+  name: Greater London Authority
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx, pdf]
+  access: public
+  url: https://data.london.gov.uk/search?type=dataset
+  spatial: [GB-LND]
+  update_frequency: irregular
+  size: 1,303 datasets

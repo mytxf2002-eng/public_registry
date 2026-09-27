@@ -1,0 +1,15 @@
+id: covid-19-live-data
+kind: [api]
+name: Covid-19 Live Data
+url: https://github.com/mathdroid/covid-19-api
+description: Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths
+domain: health
+license: unknown
+provenance:
+  added: 2021-10-24
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

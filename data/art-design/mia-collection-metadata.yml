@@ -1,0 +1,20 @@
+id: mia-collection-metadata
+kind: [dataset]
+name: Mia Collection Metadata
+url: https://github.com/artsmia/collection
+description: Metadata for artworks in the Minneapolis Institute of Art collection, one JSON file per object, plus departments and exhibitions
+domain: art-design
+tags: [museum-collections, artworks, cultural-heritage, collection-metadata]
+license: CC0-1.0
+license_url: https://github.com/artsmia/collection
+publisher:
+  name: Minneapolis Institute of Art
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [json]
+  access: public
+  update_frequency: irregular

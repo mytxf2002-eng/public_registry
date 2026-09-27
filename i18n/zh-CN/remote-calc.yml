@@ -1,0 +1,3 @@
+id: remote-calc
+description: 把 Base64 编码的算式发给它，服务解码、解析后返回 JSON 格式的计算结果，是用 Python/Django 写的小项目。
+group: 数学计算与公式渲染

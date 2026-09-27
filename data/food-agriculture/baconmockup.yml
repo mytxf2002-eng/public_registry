@@ -1,0 +1,15 @@
+id: baconmockup
+kind: [api]
+name: BaconMockup
+url: https://baconmockup.com/
+description: Resizable bacon placeholder images
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-10-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

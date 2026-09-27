@@ -1,0 +1,24 @@
+id: lahman-baseball-database
+kind: [dataset]
+name: Lahman Baseball Database
+url: https://sabr.org/lahman-database/
+description: Season-level Major League Baseball batting, pitching and fielding statistics, standings, awards, managers and postseason records from 1871 to 2025, including Negro Leagues data
+domain: sports
+tags: [baseball, mlb, player-statistics, negro-leagues]
+license: CC-BY-SA-3.0
+license_url: https://sabr.box.com/shared/static/qtgh1olzcaauz5x234wqx8huixizff8l.txt
+publisher:
+  name: Society for American Baseball Research (SABR)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, other]
+  access: public
+  temporal:
+    start: '1871'
+    end: null
+  spatial: [US, CA]
+  update_frequency: annual

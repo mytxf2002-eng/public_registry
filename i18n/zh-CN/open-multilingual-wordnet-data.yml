@@ -1,0 +1,2 @@
+id: open-multilingual-wordnet-data
+description: 开放多语言词网（OMW）的数据仓库：汇集数十种语言的词网并通过普林斯顿 WordNet 相互链接，提供 OMW 1.0 制表符格式原始文件和 WN-LMF XML 发布包，另含从维基词典和 Unicode CLDR 自动抽取的 150 多种语言数据，可直接下载或经 Python 库 Wn 使用。各词网许可不同（多为 CC BY、WordNet 许可等开放许可），使用时需分别引用。

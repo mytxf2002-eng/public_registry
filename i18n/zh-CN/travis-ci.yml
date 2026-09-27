@@ -1,0 +1,3 @@
+id: travis-ci
+description: 老牌 CI 服务 Travis CI 的接口：触发构建、查看构建状态和日志。链接是 API V2 文档，现行版本是 API V3。Travis CI 2020 年底改为按额度计费，开源项目不再无限免费。
+group: CI/CD 平台接口

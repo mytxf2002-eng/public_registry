@@ -1,0 +1,30 @@
+id: atlas-of-economic-complexity
+kind: [api, dataset]
+name: Atlas of Economic Complexity
+url: https://atlas.hks.harvard.edu/
+description: Reconciled bilateral goods trade by HS and SITC product for about 250 countries since 1962, services trade, and economic complexity rankings and growth projections
+domain: economics
+tags: [international-trade, economic-complexity, exports, hs-codes, product-space]
+license: CC0-1.0
+license_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4CHWJ
+publisher:
+  name: Growth Lab, Harvard Kennedy School
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+  docs: https://github.com/harvard-growth-lab/api-docs/blob/main/atlas.md
+dataset:
+  formats: [csv]
+  access: public
+  url: https://atlas.hks.harvard.edu/data-downloads
+  temporal:
+    start: '1962'
+    end: null
+  spatial: [global]
+  update_frequency: annual

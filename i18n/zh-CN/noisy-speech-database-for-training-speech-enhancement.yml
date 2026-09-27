@@ -1,0 +1,2 @@
+id: noisy-speech-database-for-training-speech-enhancement
+description: 爱丁堡大学语音技术研究中心发布的纯净/带噪平行语音库（常称 VoiceBank-DEMAND）：将 VCTK 语料中 28 或 56 位说话人的 48 kHz 录音与 DEMAND 等噪声混合，附测试集和转写文本，用于训练和评测语音增强及抗噪语音合成模型。可在 Edinburgh DataShare 直接下载（全部约 15 GB），采用 CC BY 4.0 许可。

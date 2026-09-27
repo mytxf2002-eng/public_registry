@@ -1,0 +1,15 @@
+id: apiflash
+kind: [api]
+name: ApiFlash
+url: https://apiflash.com/
+description: Chrome based screenshot API for developers
+domain: development
+license: unknown
+provenance:
+  added: 2018-12-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

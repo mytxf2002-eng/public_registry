@@ -1,0 +1,3 @@
+id: coinremitter
+description: 加密货币收款网关的 API：生成收款地址或发票、发起提现，也能查询币价。
+group: 钱包与加密货币收款

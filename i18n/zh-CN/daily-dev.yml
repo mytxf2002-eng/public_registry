@@ -1,0 +1,3 @@
+id: daily-dev
+description: 开发者资讯平台 daily.dev 的公开 API：读取个性化信息流、文章、书签、标签和搜索，可以接入 AI 编程助手或自动化流程。
+group: 行业与专题资讯

@@ -1,0 +1,16 @@
+id: the-calendar
+kind: [api]
+name: The Calendar
+url: https://the-calendar.net/api/
+description: Public holidays for US states and 30 countries plus sports and finance calendars as static JSON
+domain: calendar-events
+tags: [calendar]
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

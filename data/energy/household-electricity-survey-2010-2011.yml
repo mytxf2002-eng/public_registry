@@ -1,0 +1,26 @@
+id: household-electricity-survey-2010-2011
+kind: [dataset]
+name: Household Electricity Survey, 2010-2011
+url: https://datacatalogue.ukdataservice.ac.uk/studies/study/7874
+description: Appliance-level electricity monitoring of 250 owner-occupied homes in England in 2010-2011 at 2- or 10-minute intervals, with dwelling surveys and usage diaries
+domain: energy
+tags: [household-electricity, appliance-level, energy-efficiency, load-profiles, survey]
+license: LicenseRef-Research-Only
+license_url: https://ukdataservice.ac.uk/app/uploads/cd137-enduserlicence.pdf
+publisher:
+  name: Department of Energy and Climate Change (UK)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  url: https://doi.org/10.5255/UKDA-SN-7874-1
+  temporal:
+    start: 2010-05
+    end: 2011-07
+  spatial: [GB-ENG]
+  update_frequency: static
+  size: about 250 million readings

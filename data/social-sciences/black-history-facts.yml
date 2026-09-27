@@ -1,0 +1,15 @@
+id: black-history-facts
+kind: [api]
+name: Black History Facts
+url: https://www.blackhistoryapi.io/docs
+description: Contribute or search one of the largest black history fact databases on the web
+domain: social-sciences
+license: unknown
+provenance:
+  added: 2021-10-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

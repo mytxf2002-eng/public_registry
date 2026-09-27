@@ -1,0 +1,15 @@
+id: charity-search
+kind: [api]
+name: Charity Search
+url: https://charityapi.com/
+description: Non-profit charity data
+domain: business
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

@@ -1,0 +1,15 @@
+id: transport-for-denver-us
+kind: [api]
+name: Transport for Denver, US
+url: https://www.rtd-denver.com/open-records/open-spatial-information/gtfs
+description: RTD GTFS static schedules and real-time transit data for Denver
+domain: transportation
+license: unknown
+provenance:
+  added: 2017-05-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

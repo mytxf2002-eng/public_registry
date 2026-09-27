@@ -1,0 +1,2 @@
+id: gun-violence-data
+description: 从 Gun Violence Archive 网站抓取整理的美国枪支暴力事件记录，覆盖 2013 年 1 月至 2018 年 3 月的 26 万多起事件，包括地点和经纬度、死伤人数、枪支、涉事人员及新闻来源，以单个 CSV（tar.gz 压缩）在 GitHub 直接下载。未声明许可，数据版权归原网站。

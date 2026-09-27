@@ -1,0 +1,3 @@
+id: goldprice-dev
+description: 金、银、铜的现货和期货价格，30 年历史，13 种货币计价，多个来源交叉验证。另有按纯度（K 数）的金价和金商报价，支持 REST、WebSocket 和 MCP。
+group: 贵金属与期货

@@ -1,0 +1,15 @@
+id: gyazo
+kind: [api]
+name: Gyazo
+url: https://gyazo.com/api/docs
+description: Save & Share screen captures instantly
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2017-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

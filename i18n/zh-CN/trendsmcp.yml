@@ -1,0 +1,3 @@
+id: trendsmcp
+description: 关键词热度趋势数据，来源包括 Google、TikTok、YouTube、Amazon 和 Reddit，提供 API 和 MCP 两种接入方式。
+group: 第三方社交数据接口

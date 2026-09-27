@@ -1,0 +1,15 @@
+id: open-ephemeris
+kind: [api]
+name: Open Ephemeris
+url: https://openephemeris.com/docs
+description: Sub-arcsecond planetary positions, natal charts, transits, and Human Design from NASA JPL DE440
+domain: science-math
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

@@ -1,0 +1,3 @@
+id: stream
+description: 捷克网络视频平台 Stream.cz 的 GraphQL 接口，内容有免费的网络节目、电影、剧集和短视频，链接是它的 GraphiQL 调试页。
+group: 捷克电视节目与网络视频

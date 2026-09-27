@@ -1,0 +1,16 @@
+id: wallhaven
+kind: [api]
+name: Wallhaven
+url: https://wallhaven.cc/help/api
+description: Wallpapers
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2019-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

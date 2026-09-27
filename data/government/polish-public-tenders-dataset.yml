@@ -1,0 +1,26 @@
+id: polish-public-tenders-dataset
+kind: [dataset]
+name: Polish Public Tenders Dataset
+url: https://github.com/atlasprzetargow/polish-tenders-dataset
+description: About 1.4 million Polish public procurement notices from the BZP and TED registers since 2024, with buyer and contractor profiles, in CSV and Parquet
+domain: government
+tags: [public-procurement, tenders, contractors, public-spending]
+license: CC-BY-4.0
+license_url: https://github.com/atlasprzetargow/polish-tenders-dataset/blob/main/LICENSE-DATA
+publisher:
+  name: Atlas Przetargów
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, parquet]
+  access: public
+  url: https://github.com/atlasprzetargow/polish-tenders-dataset/tree/main/data
+  temporal:
+    start: '2024'
+    end: null
+  spatial: [PL]
+  update_frequency: quarterly
+  size: 1.4 M notices

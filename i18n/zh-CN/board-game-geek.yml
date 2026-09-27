@@ -1,0 +1,3 @@
+id: board-game-geek
+description: 知名桌游数据库和社区 BoardGameGeek（BGG）的 XML 接口：桌游、角色扮演游戏和电子游戏的详情、评分和排名，以及用户收藏、对局记录和热门榜，返回 XML。
+group: 卡牌、桌游与跑团

@@ -1,0 +1,3 @@
+id: audexum
+description: 语音识别（25 种语言）和语音合成（32 种语言、43 种音色），合成结果可输出 WAV、MP3、OGG、Opus，支持流式合成和 webhook。
+group: 语音识别与合成

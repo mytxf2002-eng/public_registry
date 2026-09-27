@@ -1,0 +1,2 @@
+id: cube-plus-plus
+description: 颜色恒常性与光照估计数据集，含 4,890 张佳能相机原始图像，每个场景放置 SpyderCube 校准物，提供光源色度真值、人工标注和 EXIF 元数据，完整版约 200 GB（含 CR2 原片和 16 位 PNG），另有 2 GB 简化子集，可从 Zenodo 下载，CC BY 4.0 许可。

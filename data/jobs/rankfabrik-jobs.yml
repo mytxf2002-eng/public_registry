@@ -1,0 +1,15 @@
+id: rankfabrik-jobs
+kind: [api]
+name: RankFabrik Jobs
+url: https://rankfabrik.com/produits/emplois
+description: Aggregated job postings search, deduplicated on identifier, with coverage per segment
+domain: jobs
+license: unknown
+provenance:
+  added: 2026-09-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

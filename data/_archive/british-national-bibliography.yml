@@ -1,0 +1,18 @@
+id: british-national-bibliography
+kind: [api]
+name: British National Bibliography
+url: http://bnb.data.bl.uk/
+description: Books
+domain: books
+license: unknown
+provenance:
+  added: 2016-06-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The BNB linked-data/SPARQL service at bnb.data.bl.uk is offline; the British Library moved the Linked Open BNB to a beta discovery portal (bl.natbib-lod.org) that offers no SPARQL endpoint or API yet.

@@ -1,0 +1,2 @@
+id: cambridge-open-data-portal
+description: 美国马萨诸塞州剑桥市政府开放数据门户（Socrata 平台），约 280 个数据集，涵盖交通、建筑检查、公共工程、规划、公共安全、公共卫生、能源环境和房产评估等，可导出 CSV、JSON 等格式并通过 SODA API 免密钥调用；多数数据集采用 ODC 公有领域贡献许可（PDDL）。

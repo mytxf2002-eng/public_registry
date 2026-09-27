@@ -1,0 +1,16 @@
+id: google-maps
+kind: [api]
+name: Google Maps
+url: https://developers.google.com/maps/
+description: Create/customize digital maps based on Google Maps data
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2016-06-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

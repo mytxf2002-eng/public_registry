@@ -1,0 +1,2 @@
+id: arrayexpress
+description: EMBL-EBI 的功能基因组学数据库，现为 BioStudies 中的一个数据集合：约 8.1 万项芯片和高通量测序实验研究，含样本注释、实验方案以及处理后和原始数据文件（测序读段存于 ENA）；可网页检索、FTP/Aspera 批量下载，并有 JSON 接口和 R 包。

@@ -1,0 +1,2 @@
+id: usgs-landsat-on-aws
+description: 美国地质调查局（USGS）在 AWS 上托管的 Landsat 1–9 号卫星第二集合影像及二、三级产品，采用云优化 GeoTIFF 格式并附 STAC 元数据，每日新增。存储桶为请求者付费模式，需自备 AWS 账户承担请求和流量费用；同样的数据可在 USGS EarthExplorer 免费注册后下载，使用不受限制。

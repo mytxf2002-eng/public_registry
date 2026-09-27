@@ -1,0 +1,2 @@
+id: automatic-keyphrase-extraction-datasets
+description: 在一个 GitHub 仓库中汇集 7 个自动关键词抽取基准数据集（Hulth2003、Krapivin2009、MAUI、Nguyen2007、Schutz2008、SemEval2010、Wan2008），以压缩包形式直接下载。仓库未声明许可证，各子集沿用原论文的发布条款；Schutz2008 仅含答案集，原文需另行获取。

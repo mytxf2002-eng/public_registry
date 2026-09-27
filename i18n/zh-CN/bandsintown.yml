@@ -1,0 +1,3 @@
+id: bandsintown
+description: 演出信息平台 Bandsintown 的接口：按艺人查询资料和近期演出（时间、场馆、购票链接），用 app_id 调用。
+group: 演出与巡演信息

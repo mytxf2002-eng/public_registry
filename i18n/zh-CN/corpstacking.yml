@@ -1,0 +1,3 @@
+id: corpstacking
+description: 上市公司、政府和 ETF 持有比特币、以太坊、Solana 的储备披露数据，整合在一个 JSON 文件（feed.json）里。
+group: 巨鲸追踪、风险与研究数据

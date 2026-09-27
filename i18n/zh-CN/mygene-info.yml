@@ -1,0 +1,3 @@
+id: mygene-info
+description: 基因注释查询：按基因符号、名称或各类数据库 ID 检索基因，返回汇总自 NCBI、Ensembl、UniProt 等来源的注释，也能在不同 ID 体系之间转换，免 key。
+group: 生物与材料科学数据

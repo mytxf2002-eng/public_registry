@@ -1,0 +1,3 @@
+id: trello
+description: Atlassian 旗下看板工具 Trello 的 REST API：读写看板、列表和卡片，注册 Webhook，也可以开发 Power-Up 插件。
+group: 项目管理、协作与外包

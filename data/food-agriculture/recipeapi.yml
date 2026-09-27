@@ -1,0 +1,15 @@
+id: recipeapi
+kind: [api]
+name: RecipeAPI
+url: https://recipeapi.io
+description: Recipes, ingredients, nutrition data and cooking instructions
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2026-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

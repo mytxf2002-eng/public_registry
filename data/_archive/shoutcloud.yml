@@ -1,0 +1,18 @@
+id: shoutcloud
+kind: [api]
+name: SHOUTCLOUD
+url: http://shoutcloud.io/
+description: ALL-CAPS AS A SERVICE
+domain: development
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: shoutcloud.io now shows a casino affiliate page and api.shoutcloud.io does not respond (hijacked domain)

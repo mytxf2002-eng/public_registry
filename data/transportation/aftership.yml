@@ -1,0 +1,16 @@
+id: aftership
+kind: [api]
+name: Aftership
+url: https://developers.aftership.com/reference/quick-start
+description: API to update, manage and track shipment efficiently
+domain: transportation
+tags: [tracking]
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

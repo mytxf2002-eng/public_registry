@@ -1,0 +1,15 @@
+id: right-to-disconnect
+kind: [api]
+name: Right to Disconnect
+url: https://righttodisconnect.jdries.nl/api/
+description: 'Right-to-disconnect employment law by EU country: binding status, statute, and sanctions'
+domain: government
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: cdnjs
+kind: [api]
+name: CDNJS
+url: https://api.cdnjs.com/libraries/jquery
+description: Library info on CDNJS
+domain: development
+license: unknown
+provenance:
+  added: 2016-07-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

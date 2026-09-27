@@ -1,0 +1,24 @@
+id: nysed-data-site
+kind: [dataset]
+name: NYSED Data Site
+url: https://data.nysed.gov/downloads.php
+description: 'New York State school, district and statewide databases: report cards and test results, enrollment, graduation and dropout rates, English learners and staff data, 2000-2025'
+domain: education
+tags: [schools, report-cards, enrollment, graduation-rates, english-learners]
+license: LicenseRef-Provider-Terms
+license_url: https://data.nysed.gov/downloads.php
+publisher:
+  name: New York State Education Department
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, xlsx]
+  access: public
+  temporal:
+    start: '2000'
+    end: null
+  spatial: [US-NY]
+  update_frequency: annual

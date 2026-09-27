@@ -1,0 +1,15 @@
+id: iucn
+kind: [api]
+name: IUCN
+url: https://www.iucnredlist.org/en
+description: IUCN Red List of Threatened Species
+domain: life-sciences
+license: unknown
+provenance:
+  added: 2026-09-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

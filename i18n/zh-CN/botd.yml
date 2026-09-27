@@ -1,0 +1,3 @@
+id: botd
+description: FingerprintJS 开源的浏览器端机器人检测库，识别 Selenium、Puppeteer 等自动化工具和框架，完全在客户端运行，MIT 许可，没有使用限制。
+group: 反欺诈与机器人检测

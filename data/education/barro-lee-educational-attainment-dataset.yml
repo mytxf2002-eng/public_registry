@@ -1,0 +1,25 @@
+id: barro-lee-educational-attainment-dataset
+kind: [dataset]
+name: Barro-Lee Educational Attainment Dataset
+url: http://barrolee.com/
+description: Educational attainment by sex and age group for 146 countries in five-year steps from 1950 to 2015, with long-run enrolment and schooling estimates back to the 19th century
+domain: education
+tags: [educational-attainment, human-capital, years-of-schooling, cross-country]
+license: MIT
+license_url: https://github.com/barrolee/BarroLeeDataSet/blob/master/LICENSE
+publisher:
+  name: Robert J. Barro and Jong-Wha Lee
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xls, csv, stata]
+  access: public
+  url: http://barrolee.com/?page_id=99
+  temporal:
+    start: '1950'
+    end: '2015'
+  spatial: [global]
+  update_frequency: irregular

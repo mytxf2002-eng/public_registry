@@ -1,0 +1,3 @@
+id: lastfm
+description: Last.fm 的接口：记录和读取用户的听歌记录（scrobble），查询艺人、专辑、曲目资料以及相似艺人、标签和排行榜，免费申请 key。
+group: 音乐资料库与元数据

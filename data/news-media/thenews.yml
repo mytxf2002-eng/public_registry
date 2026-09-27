@@ -1,0 +1,15 @@
+id: thenews
+kind: [api]
+name: TheNews
+url: https://www.thenewsapi.com/
+description: Aggregated headlines, top story and live news JSON API
+domain: news-media
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

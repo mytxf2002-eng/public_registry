@@ -1,0 +1,2 @@
+id: anhir-automatic-non-rigid-histological-image-registration
+description: ISBI 2019 组织切片非刚性配准挑战赛数据：50 余组不同染色的连续组织切片全切片图像（肺、乳腺、结肠、肾、胃等），附人工标注的对应标志点，并提供多种缩放比例；需注册 grand-challenge 账号并接受许可后下载，CC BY-NC-SA 2.0（仅限非商业）。

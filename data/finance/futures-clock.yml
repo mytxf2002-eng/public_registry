@@ -1,0 +1,22 @@
+id: futures-clock
+kind: [api, dataset]
+name: Futures Clock
+url: https://futuresclock.com/en/data-methodology/#open-data
+description: Trading hours and session windows for 65 futures products on 16 global exchanges
+domain: finance
+license: LicenseRef-Custom-Open
+license_url: https://futuresclock.com/data/license.txt
+provenance:
+  added: 2026-09-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [json, csv]
+  access: public
+  url: https://futuresclock.com/en/data/
+  update_frequency: irregular
+  size: 75 contracts

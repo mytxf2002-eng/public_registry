@@ -1,0 +1,15 @@
+id: brewpage
+kind: [api]
+name: BrewPage
+url: https://brewpage.app
+description: Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention
+domain: development
+license: unknown
+provenance:
+  added: 2026-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

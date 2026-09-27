@@ -1,0 +1,15 @@
+id: ssl-domain-health-check
+kind: [api]
+name: SSL Domain Health Check
+url: https://rapidapi.com/goktugbk/api/ssl-domain-health-check
+description: SSL certificate validity, domain WHOIS status, and DNS record checks for any domain
+domain: security
+license: unknown
+provenance:
+  added: 2026-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

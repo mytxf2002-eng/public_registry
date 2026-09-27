@@ -1,0 +1,16 @@
+id: kiprio-uk-postcode
+kind: [api]
+name: Kiprio UK Postcode
+url: https://kiprio.com/uk-postcode-api/
+description: UK postcode lookup with lat/lon, district, ward, constituency
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

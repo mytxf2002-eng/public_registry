@@ -1,0 +1,19 @@
+id: indonesia-dictionary
+kind: [api]
+name: Indonesia Dictionary
+url: https://new-kbbi-api.herokuapp.com/
+description: Indonesia dictionary many words
+domain: language
+tags: [dictionaries]
+license: unknown
+provenance:
+  added: 2021-10-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: Heroku app no longer exists (Heroku ended free dynos in November 2022)

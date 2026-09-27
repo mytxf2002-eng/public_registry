@@ -1,0 +1,15 @@
+id: code-stats
+kind: [api]
+name: Code::Stats
+url: https://codestats.net/api-docs
+description: Automatic time tracking for programmers
+domain: documents-productivity
+license: unknown
+provenance:
+  added: 2021-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

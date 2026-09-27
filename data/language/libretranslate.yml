@@ -1,0 +1,16 @@
+id: libretranslate
+kind: [api]
+name: LibreTranslate
+url: https://libretranslate.com/docs
+description: Translation tool with 17 available languages
+domain: language
+tags: [text-analysis]
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,25 @@
+id: pinhooker-thoroughbred-bloodstock-sales-data
+kind: [dataset]
+name: pinhooker Thoroughbred Bloodstock Sales Data
+url: https://github.com/phillc73/pinhooker
+description: More than 155,000 thoroughbred auction sale records from Goffs, Tattersalls, Arqana and BBAG sales of 2009 to 2016, as an R data file with scripts to rebuild it
+domain: sports
+tags: [horse-racing, thoroughbred, auctions, bloodstock, r-package]
+license: MIT
+license_url: https://github.com/phillc73/pinhooker/blob/master/LICENSE
+publisher:
+  name: Phill Clarke
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [rdata]
+  access: public
+  temporal:
+    start: '2009'
+    end: '2016'
+  spatial: [IE, GB, FR, DE]
+  update_frequency: static
+  size: 155,000+ records

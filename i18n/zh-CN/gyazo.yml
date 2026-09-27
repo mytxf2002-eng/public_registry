@@ -1,0 +1,3 @@
+id: gyazo
+description: 截图分享工具 Gyazo 的接口：上传图片、列出和删除自己的截图、获取分享链接，需要注册应用获取访问令牌。
+group: 图片、文本与 JSON 存储

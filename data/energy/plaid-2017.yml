@@ -1,0 +1,22 @@
+id: plaid-2017
+kind: [dataset]
+name: PLAID 2017 (Plug-Load Appliance Identification Dataset)
+url: https://kilthub.cmu.edu/articles/dataset/PLAID_2017/11605215
+description: Voltage and current waveforms sampled at 30 kHz from household appliances measured at 65 locations in Pittsburgh, with per-recording appliance metadata
+domain: energy
+tags: [nilm, appliance-classification, waveforms, plug-load]
+license: CC-BY-4.0
+license_url: https://kilthub.cmu.edu/articles/dataset/PLAID_2017/11605215
+publisher:
+  name: Carnegie Mellon University and Ghent University (PLAID team)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [US-PA]
+  update_frequency: static
+  size: 695 MB (zip)

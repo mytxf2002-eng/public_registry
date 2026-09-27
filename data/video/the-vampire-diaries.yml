@@ -1,0 +1,15 @@
+id: the-vampire-diaries
+kind: [api]
+name: The Vampire Diaries
+url: https://vampire-diaries-api.netlify.app/
+description: TV Show Data
+domain: video
+license: unknown
+provenance:
+  added: 2021-03-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

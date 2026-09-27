@@ -1,0 +1,3 @@
+id: brighter-redact
+description: 给图片中的人脸和车牌做匿名化处理（打码），用于隐私保护。原名 IPS Online，现为 brighter AI 的 brighter Redact。
+group: 人脸识别与隐私打码

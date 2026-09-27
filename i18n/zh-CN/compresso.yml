@@ -1,0 +1,3 @@
+id: compresso
+description: 视觉无损的图片压缩，支持 PNG、JPEG 和 WebP，一次 HTTP 请求完成，每天免费 100 次，文档附 curl、Node.js、Python、PHP 示例。
+group: 图片压缩与优化

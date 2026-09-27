@@ -1,0 +1,3 @@
+id: invoicein
+description: 解析和校验收到的欧洲电子发票，支持 XRechnung、ZUGFeRD、Factur-X、Peppol BIS 3、FatturaPA（意大利）、KSeF（波兰），统一转成 EN 16931 标准的 JSON，附带修改提示的校验报告，还能导出 CSV 和 DATEV（德国常用的会计软件）格式。
+group: 收款与电子发票

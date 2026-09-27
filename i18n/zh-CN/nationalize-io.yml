@@ -1,0 +1,3 @@
+id: nationalize-io
+description: 根据名字推断可能的国籍，返回几个候选国家及概率。英文描述写的是按名（first name）推断，官网现在写的是按姓（last name）。
+group: 姓名推断与邮箱查找

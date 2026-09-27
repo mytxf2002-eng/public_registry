@@ -1,0 +1,18 @@
+id: icanhazepoch
+kind: [api]
+name: Icanhazepoch
+url: https://icanhazepoch.com
+description: Get Epoch time
+domain: development
+license: unknown
+provenance:
+  added: 2021-07-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: icanhazepoch.com now redirects to the author's 2022 post announcing that the extra icanhaz services were taken offline.

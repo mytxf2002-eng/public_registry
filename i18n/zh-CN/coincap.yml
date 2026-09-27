@@ -1,0 +1,3 @@
+id: coincap
+description: 加密货币实时价格、市值和交易所数据。现在的接口（pro.coincap.io）要用 API key；也可以通过 x402 协议创建预付 key，送 100 个免费额度，用 Base 链上的 USDC 充值。
+group: 币价、市值与行情聚合

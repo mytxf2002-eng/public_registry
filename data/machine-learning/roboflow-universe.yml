@@ -1,0 +1,15 @@
+id: roboflow-universe
+kind: [api]
+name: Roboflow Universe
+url: https://universe.roboflow.com
+description: Pre-trained computer vision models
+domain: machine-learning
+license: unknown
+provenance:
+  added: 2021-09-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

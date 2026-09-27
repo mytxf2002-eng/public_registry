@@ -1,0 +1,24 @@
+id: higgs-twitter-dataset
+kind: [dataset]
+name: Higgs Twitter Dataset
+url: https://snap.stanford.edu/data/higgs-twitter.html
+description: Anonymised follower, retweet, reply and mention networks of about 456,000 Twitter users discussing the Higgs boson discovery between 1 and 7 July 2012
+domain: social
+tags: [twitter, retweet-network, multilayer-network, information-diffusion, higgs-boson]
+license: unknown
+publisher:
+  name: Stanford Network Analysis Project (SNAP)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  temporal:
+    start: 2012-07-01
+    end: 2012-07-07
+  spatial: [global]
+  update_frequency: static
+  size: 14.9 M edges

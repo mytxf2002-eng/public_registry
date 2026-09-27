@@ -1,0 +1,16 @@
+id: scanii
+kind: [api]
+name: Scanii
+url: https://docs.scanii.com/
+description: Simple REST API that can scan submitted documents/files for the presence of threats
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

@@ -1,0 +1,19 @@
+id: open-data-network
+kind: [dataset]
+name: Open Data Network
+url: https://www.opendatanetwork.com/
+description: Search engine over open datasets from Socrata-based government portals, with quick answers on US population, jobs, earnings and costs by city, county and metro area
+domain: open-data
+tags: [dataset-search, search-engine, local-government, socrata]
+license: unknown
+publisher:
+  name: Socrata
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  spatial: [north-america]

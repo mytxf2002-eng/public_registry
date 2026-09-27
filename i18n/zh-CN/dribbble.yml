@@ -1,0 +1,3 @@
+id: dribbble
+description: 设计师作品社区 Dribbble 的接口，需要 OAuth 授权。现行 v2 版本以读取和管理授权用户自己的作品为主。
+group: 设计作品与参考资料

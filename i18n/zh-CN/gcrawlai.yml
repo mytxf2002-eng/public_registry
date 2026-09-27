@@ -1,0 +1,3 @@
+id: gcrawlai
+description: 把网页转成适合大模型的 Markdown 或 JSON，另有搜索结果（SERP）、截图和现成的提取器，每次请求都带 JavaScript 渲染和代理。官网称是开源项目，每月 50 次免费请求。
+group: 面向大模型的网页提取

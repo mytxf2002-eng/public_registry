@@ -1,0 +1,3 @@
+id: censys
+description: 与 Shodan 同类的互联网主机和设备搜索引擎，源自美国密歇根大学的 ZMap 研究团队，除了主机和服务，也常用来检索 TLS 证书。
+group: 网络空间测绘与开源情报

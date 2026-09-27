@@ -1,0 +1,15 @@
+id: tle
+kind: [api]
+name: TLE
+url: https://tle.ivanstanojevic.me/#/docs
+description: Satellite information
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-10-05
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

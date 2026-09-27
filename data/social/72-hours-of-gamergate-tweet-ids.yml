@@ -1,0 +1,25 @@
+id: 72-hours-of-gamergate-tweet-ids
+kind: [dataset]
+name: '72 Hours of #Gamergate Tweet IDs'
+url: https://waxy.org/2014/10/72-hours-of-gamergate/
+description: 'Tweet and user IDs for 316,669 tweets that used the #Gamergate or #NotYourShield hashtags between 21 and 23 October 2014, released for rehydration'
+domain: social
+tags: [twitter, tweet-ids, hashtags, online-harassment, gaming]
+license: unknown
+publisher:
+  name: Andy Baio
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  url: https://random.waxy.org/misc/gamergate_tweets.csv
+  temporal:
+    start: 2014-10-21
+    end: 2014-10-23
+  spatial: [global]
+  update_frequency: static
+  size: 9 MB

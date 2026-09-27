@@ -1,0 +1,21 @@
+id: nerrs-system-wide-monitoring-program-data
+kind: [dataset]
+name: NERRS System-Wide Monitoring Program Data
+url: https://nerrsdata.org/
+description: Water quality, weather and nutrient monitoring data from stations in the US National Estuarine Research Reserves, with near real-time feeds and quality-controlled annual files
+domain: environment
+tags: [estuaries, water-quality, nutrients, weather-stations]
+license: unknown
+publisher:
+  name: NERRS Centralized Data Management Office (NOAA Office for Coastal Management)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, kml]
+  access: public
+  url: https://nerrsdata.org/get/landing.cfm
+  spatial: [US]
+  update_frequency: realtime

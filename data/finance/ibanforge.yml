@@ -1,0 +1,15 @@
+id: ibanforge
+kind: [api]
+name: IBANforge
+url: https://api.ibanforge.com
+description: IBAN validation and BIC/SWIFT lookup for 89 countries with 121k+ BIC entries
+domain: finance
+license: unknown
+provenance:
+  added: 2026-05-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

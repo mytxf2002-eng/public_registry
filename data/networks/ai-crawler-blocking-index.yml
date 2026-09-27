@@ -1,0 +1,25 @@
+id: ai-crawler-blocking-index
+kind: [dataset]
+name: AI-Crawler Blocking Index
+url: https://crawlora.net/ai-crawler-index
+description: Robots.txt scan of the Tranco top one million domains in June 2026, recording for each site which of 20 AI crawler user agents it names and fully disallows
+domain: networks
+tags: [robots-txt, web-crawlers, ai-crawlers, domains]
+license: CC-BY-4.0
+license_url: https://github.com/Crawlora-org/ai-crawler-blocking-index-data
+publisher:
+  name: Crawlora
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [jsonl, json]
+  access: public
+  url: https://github.com/Crawlora-org/ai-crawler-blocking-index-data
+  temporal:
+    start: 2026-06
+    end: 2026-06
+  spatial: [global]
+  size: 998,497 domains

@@ -1,0 +1,3 @@
+id: sonarqube
+description: 代码质量和安全扫描平台的 Web API，可以查询项目里的 bug、代码异味（code smell）、安全漏洞和质量门禁结果。链接是云服务 SonarCloud 的接口页，SonarCloud 已更名为 SonarQube Cloud。
+group: 代码托管与开发者社区

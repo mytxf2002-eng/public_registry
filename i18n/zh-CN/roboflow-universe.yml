@@ -1,0 +1,3 @@
+id: roboflow-universe
+description: Roboflow 的公开计算机视觉社区，收录大量开源数据集和预训练模型（目标检测、分割等），可以通过 Roboflow 的推理 API 直接调用。
+group: 图像识别与计算机视觉

@@ -1,0 +1,22 @@
+id: anhir-automatic-non-rigid-histological-image-registration
+kind: [dataset]
+name: 'ANHIR: Automatic Non-rigid Histological Image Registration'
+url: https://anhir.grand-challenge.org/
+description: ISBI 2019 challenge set of over 50 series of consecutive histology whole-slide images in different stains, with manually placed landmarks for judging non-rigid registration
+domain: machine-learning
+tags: [histopathology, image-registration, whole-slide-images, landmarks, microscopy]
+license: CC-BY-NC-SA-2.0
+license_url: https://anhir.grand-challenge.org/Data/
+publisher:
+  name: ANHIR organizers (Czech Technical University in Prague and partners)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, csv]
+  access: registration
+  url: https://anhir.grand-challenge.org/Download/
+  update_frequency: static
+  size: 50+ image series

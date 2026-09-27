@@ -1,0 +1,15 @@
+id: scrapestack
+kind: [api]
+name: scrapestack
+url: https://scrapestack.com/
+description: Real-time, Scalable Proxy & Web Scraping REST API
+domain: development
+license: unknown
+provenance:
+  added: 2021-03-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

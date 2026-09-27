@@ -1,0 +1,3 @@
+id: ip2location
+description: 老牌 IP 数据商 IP2Location 的在线查询接口，一次可返回 55 项以上信息（国家、城市、经纬度、ISP、时区等）。它也出售离线 IP 数据库，另有免费的 LITE 版。
+group: IP 地理定位

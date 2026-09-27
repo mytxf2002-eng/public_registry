@@ -1,0 +1,15 @@
+id: banco-do-brasil
+kind: [api]
+name: Banco do Brasil
+url: https://www.bb.com.br/site/developers/
+description: All Banco do Brasil financial transaction APIs
+domain: finance
+license: unknown
+provenance:
+  added: 2021-04-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

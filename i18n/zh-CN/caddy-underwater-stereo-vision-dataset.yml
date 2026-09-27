@@ -1,0 +1,2 @@
+id: caddy-underwater-stereo-vision-dataset
+description: 欧盟 CADDY 项目发布的水下立体视觉数据集，用于潜水员与水下机器人交互研究：含 8 种场景下约 1 万对潜水员手势立体图像和约 1.2 万对与潜水员身体姿态测量同步的图像，附 CSV 标注，可直接下载，CC BY 4.0 许可。

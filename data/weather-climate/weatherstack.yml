@@ -1,0 +1,15 @@
+id: weatherstack
+kind: [api]
+name: Weatherstack
+url: https://weatherstack.com/
+description: Real-Time & Historical World Weather Data API
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2021-03-19
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

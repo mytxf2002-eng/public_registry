@@ -1,0 +1,18 @@
+id: numbers-numbersapi
+kind: [api]
+name: Numbers
+url: http://numbersapi.com
+description: Facts about numbers
+domain: science-math
+license: unknown
+provenance:
+  added: 2017-05-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: 'numbersapi.com no longer serves the Numbers API: every HTTP path returns an nginx 404 and HTTPS serves another site''s certificate and a login-protected dashboard.'

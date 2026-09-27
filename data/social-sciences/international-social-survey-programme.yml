@@ -1,0 +1,24 @@
+id: international-social-survey-programme
+kind: [dataset]
+name: International Social Survey Programme (ISSP)
+url: https://issp.org/
+description: Annual cross-national attitude surveys on rotating topics such as role of government, religion, environment, work and national identity, run in member countries since 1985
+domain: social-sciences
+tags: [survey-data, public-opinion, cross-national, microdata]
+license: unknown
+publisher:
+  name: International Social Survey Programme
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [spss, stata]
+  access: registration
+  url: https://issp.org/data-download/by-year/
+  temporal:
+    start: '1985'
+    end: null
+  spatial: [global]
+  update_frequency: annual

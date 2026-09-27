@@ -1,0 +1,25 @@
+id: tunisia-national-open-data-portal
+kind: [api, dataset]
+name: Tunisia National Open Data Portal
+url: https://www.data.gov.tn/fr/
+description: About 2,900 open datasets from nearly 200 Tunisian ministries and municipalities, led by agriculture, culture and industry, mostly as Excel and CSV files
+domain: government
+tags: [open-government, agriculture, municipal, culture]
+license: LicenseRef-Open-Government
+license_url: https://www.data.gov.tn/fr/licences-de-r%C3%A9utilisation-des-donn%C3%A9es-publiques-ouvertes/
+publisher:
+  name: Présidence du Gouvernement, Unité de l'administration électronique
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+dataset:
+  formats: [xlsx, csv, xls, pdf, geojson]
+  access: public
+  spatial: [TN]
+  size: 2,913 datasets

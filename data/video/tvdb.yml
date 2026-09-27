@@ -1,0 +1,15 @@
+id: tvdb
+kind: [api]
+name: TVDB
+url: https://thetvdb.com/api-information
+description: Television data
+domain: video
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

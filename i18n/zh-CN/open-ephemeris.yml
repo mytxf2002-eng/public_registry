@@ -1,0 +1,3 @@
+id: open-ephemeris
+description: 用 NASA JPL DE440 星历计算亚角秒精度的行星位置，但主要用途是占星：本命盘、行运、合盘、占星地图、人类图、印度占星和八字，共 121 个接口。
+group: 星盘与占星计算

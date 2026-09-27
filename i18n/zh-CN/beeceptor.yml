@@ -1,0 +1,3 @@
+id: beeceptor
+description: 几秒钟建好一个 Mock 接口端点，可以自定义响应规则、查看收到的请求，支持 REST、SOAP、GraphQL、gRPC，也能用 AI 根据提示或真实流量生成响应。有免费档。
+group: API 调试与模拟接口

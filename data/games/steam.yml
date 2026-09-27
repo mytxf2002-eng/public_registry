@@ -1,0 +1,15 @@
+id: steam
+kind: [api]
+name: Steam (github.com/Revadike)
+url: https://github.com/Revadike/InternalSteamWebAPI/wiki
+description: Internal Steam Web API documentation
+domain: games
+license: unknown
+provenance:
+  added: 2021-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

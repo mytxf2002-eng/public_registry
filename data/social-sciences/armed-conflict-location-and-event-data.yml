@@ -1,0 +1,26 @@
+id: armed-conflict-location-and-event-data
+kind: [api, dataset]
+name: Armed Conflict Location & Event Data (ACLED)
+url: https://acleddata.com/
+description: Dated, geocoded records of political violence, protests and other conflict events in all countries and territories, with actors and reported fatalities, continuously updated
+domain: social-sciences
+tags: [armed-conflict, political-violence, protests, event-data, geocoded]
+license: LicenseRef-Research-Only
+license_url: https://acleddata.com/eula
+publisher:
+  name: ACLED
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown
+  docs: https://acleddata.com/api-documentation/getting-started
+dataset:
+  formats: [csv, json]
+  access: registration
+  url: https://acleddata.com/conflict-data/download-data-files
+  spatial: [global]

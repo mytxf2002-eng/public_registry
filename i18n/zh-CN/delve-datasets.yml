@@ -1,0 +1,2 @@
+id: delve-datasets
+description: 多伦多大学 DELVE 项目整理的约 20 个回归与分类基准数据集及数据族（如 abalone、adult、census-house、kin、pumadyn），附任务定义和部分方法结果，用于比较机器学习方法。gzip 压缩包可直接下载，但格式面向 DELVE 软件环境；项目已停止维护，版权声明仅允许非商业用途。

@@ -1,0 +1,3 @@
+id: hipsum
+description: “文艺青年”（hipster）风格的 lorem ipsum 占位文字生成器，可以指定段落数，以 JSON 返回。
+group: API 调试与模拟接口

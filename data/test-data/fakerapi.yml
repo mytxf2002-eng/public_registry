@@ -1,0 +1,15 @@
+id: fakerapi
+kind: [api]
+name: FakerAPI
+url: https://fakerapi.it/en
+description: APIs collection to get fake data
+domain: test-data
+license: unknown
+provenance:
+  added: 2021-03-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

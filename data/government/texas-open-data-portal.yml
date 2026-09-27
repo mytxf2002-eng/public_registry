@@ -1,0 +1,25 @@
+id: texas-open-data-portal
+kind: [api, dataset]
+name: Texas Open Data Portal
+url: https://data.texas.gov/
+description: About 820 datasets from Texas state agencies, such as occupational licences, mixed beverage tax receipts, lottery prizes and agriculture data, with CSV, JSON and XML exports
+domain: government
+tags: [state-government, licensing, tax-receipts, agriculture]
+license: unknown
+publisher:
+  name: State of Texas
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dev.socrata.com/
+dataset:
+  formats: [csv, json, xml, geojson, kml]
+  access: public
+  spatial: [US-TX]
+  size: 823 datasets

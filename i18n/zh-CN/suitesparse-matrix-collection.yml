@@ -1,0 +1,2 @@
+id: suitesparse-matrix-collection
+description: SuiteSparse 稀疏矩阵集（原佛罗里达大学稀疏矩阵集），收录 2904 个来自工程、物理、网络、优化等应用的真实稀疏矩阵，用于稀疏线性代数和图算法的基准测试，可直接下载 MATLAB、Matrix Market 和 Rutherford-Boeing 格式，矩阵按 CC BY 4.0 许可。

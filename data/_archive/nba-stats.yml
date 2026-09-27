@@ -1,0 +1,18 @@
+id: nba-stats
+kind: [api]
+name: NBA Stats
+url: https://any-api.com/nba_com/nba_com/docs/API_Description
+description: Current and historical NBA Statistics
+domain: sports
+license: unknown
+provenance:
+  added: 2017-10-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: any-api.com, the third-party site that hosted these NBA stats API docs, now redirects every page to the unrelated APILayer marketplace.

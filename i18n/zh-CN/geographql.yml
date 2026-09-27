@@ -1,0 +1,3 @@
+id: geographql
+description: 用 GraphQL 查询国家、州/省和城市数据，免 key，支持 CORS。
+group: 国家、行政区与城市数据

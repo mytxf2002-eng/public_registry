@@ -1,0 +1,15 @@
+id: discgolf
+kind: [api]
+name: DiscGolf
+url: https://discgolfapi.com/docs/
+description: Structured disc golf course data
+domain: sports
+license: unknown
+provenance:
+  added: 2026-05-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

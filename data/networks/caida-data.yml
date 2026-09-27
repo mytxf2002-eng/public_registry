@@ -1,0 +1,22 @@
+id: caida-data
+kind: [dataset]
+name: CAIDA Data
+url: https://www.caida.org/catalog/datasets/overview/
+description: Internet measurement datasets from CAIDA at UC San Diego, including Ark traceroute topology, AS relationships and rankings, prefix-to-AS maps, packet traces and telescope data
+domain: networks
+tags: [internet-topology, bgp, traceroute, packet-traces, as-relationships]
+license: LicenseRef-Research-Only
+license_url: https://www.caida.org/about/legal/aua/
+publisher:
+  name: Center for Applied Internet Data Analysis (CAIDA), UC San Diego
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text, json, binary]
+  access: public
+  url: https://publicdata.caida.org/datasets/
+  spatial: [global]
+  update_frequency: irregular

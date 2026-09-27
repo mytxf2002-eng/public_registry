@@ -1,0 +1,15 @@
+id: city-bikes
+kind: [api]
+name: City Bikes
+url: https://api.citybik.es/v2/
+description: City Bikes around the world
+domain: sports
+license: unknown
+provenance:
+  added: 2016-03-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

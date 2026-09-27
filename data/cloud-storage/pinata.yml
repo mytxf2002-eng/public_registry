@@ -1,0 +1,15 @@
+id: pinata
+kind: [api]
+name: Pinata
+url: https://docs.pinata.cloud/
+description: IPFS Pinning Services API
+domain: cloud-storage
+license: unknown
+provenance:
+  added: 2021-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: anycrap
+kind: [api]
+name: Anycrap
+url: https://anycrap.shop/developers
+description: 35,000+ absurdist AI-generated product concepts with names, descriptions, and images
+domain: entertainment
+license: unknown
+provenance:
+  added: 2026-05-09
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

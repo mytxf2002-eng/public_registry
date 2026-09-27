@@ -1,0 +1,26 @@
+id: gdelt-project
+kind: [dataset]
+name: GDELT Project
+url: https://www.gdeltproject.org/
+description: Events, people, organisations, places, themes and tone extracted from worldwide news media, as raw CSV files from 1979 onward and BigQuery tables updated every 15 minutes
+domain: news-media
+tags: [events, global-news, knowledge-graph, geocoded, media-tone]
+license: LicenseRef-Custom-Open
+license_url: https://www.gdeltproject.org/about.html#termsofuse
+publisher:
+  name: The GDELT Project (Kalev H. Leetaru)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, tsv]
+  access: public
+  url: https://www.gdeltproject.org/data.html
+  temporal:
+    start: '1979'
+    end: null
+  spatial: [global]
+  update_frequency: realtime
+  size: 2.5 TB+ per year (GKG)

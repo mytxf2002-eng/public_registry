@@ -1,0 +1,15 @@
+id: tacofancy
+kind: [api]
+name: TacoFancy
+url: https://github.com/evz/tacofancy-api
+description: Community-driven taco database
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2017-04-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: unknown

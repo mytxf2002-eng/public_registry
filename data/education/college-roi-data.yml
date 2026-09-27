@@ -1,0 +1,22 @@
+id: college-roi-data
+kind: [dataset]
+name: College ROI Data
+url: https://github.com/thomasthinks/college-roi-data
+description: 'Lifetime return on US bachelor''s degrees: 30-year net present value by college and state, ROI by major, out-of-state cost premiums and AI exposure by major'
+domain: education
+tags: [college-roi, higher-education, tuition, earnings]
+license: CC-BY-4.0
+license_url: https://github.com/thomasthinks/college-roi-data/blob/main/LICENSE
+publisher:
+  name: LE TEEN
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  spatial: [US]
+  update_frequency: irregular
+  size: 5 tables, 3,392 institutions

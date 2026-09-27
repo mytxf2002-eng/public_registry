@@ -1,0 +1,3 @@
+id: apicagent
+description: 免费的 User-Agent 解析接口，返回浏览器、操作系统和设备信息，省去自己维护解析库。
+group: IP 地址与访客信息

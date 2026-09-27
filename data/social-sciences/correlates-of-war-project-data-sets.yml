@@ -1,0 +1,24 @@
+id: correlates-of-war-project-data-sets
+kind: [dataset]
+name: Correlates of War Project Data Sets
+url: https://correlatesofwar.org/data-sets/
+description: Quantitative international-relations datasets from 1816 onward, including state system membership, wars, militarized interstate disputes, alliances, material capabilities, trade and IGOs
+domain: social-sciences
+tags: [international-relations, wars, militarized-disputes, alliances, national-capabilities]
+license: LicenseRef-Research-Only
+license_url: https://correlatesofwar.org/data-sets/
+publisher:
+  name: The Correlates of War Project
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, xlsx]
+  access: public
+  temporal:
+    start: '1816'
+    end: null
+  spatial: [global]
+  update_frequency: irregular

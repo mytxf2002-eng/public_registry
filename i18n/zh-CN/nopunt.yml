@@ -1,0 +1,3 @@
+id: nopunt
+description: 每周的 NFL 比赛预测：模型胜率、信心等级和让分。链接本身就是一个 JSON 文件，免 key 直接获取。
+group: 模型胜率与比赛预测

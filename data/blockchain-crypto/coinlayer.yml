@@ -1,0 +1,16 @@
+id: coinlayer
+kind: [api]
+name: Coinlayer
+url: https://coinlayer.com
+description: Real-time Crypto Currency Exchange Rates
+domain: blockchain-crypto
+tags: [cryptocurrency]
+license: unknown
+provenance:
+  added: 2018-09-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

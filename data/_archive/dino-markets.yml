@@ -1,0 +1,18 @@
+id: dino-markets
+kind: [api]
+name: Dino.markets
+url: https://dino.markets/docs
+description: Matched Kalshi and Polymarket prediction-market data, cross-venue spreads
+domain: finance
+license: unknown
+provenance:
+  added: 2026-07-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'
+archived:
+  date: 2026-09-27
+  reason: 'The prediction-market API is gone: /docs returns 404, api.dino.markets fails with Cloudflare 525, and the homepage now shows an unrelated gold/FX dashboard.'

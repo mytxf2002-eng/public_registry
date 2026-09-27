@@ -1,0 +1,15 @@
+id: storm-glass
+kind: [api]
+name: Storm Glass
+url: https://stormglass.io/
+description: Global marine weather from multiple sources
+domain: weather-climate
+license: unknown
+provenance:
+  added: 2018-03-18
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

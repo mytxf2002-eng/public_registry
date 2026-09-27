@@ -1,0 +1,25 @@
+id: h1b-report-open-data
+kind: [dataset]
+name: H1B Report Open Data
+url: https://h1b.report/open-data
+description: 'Aggregate tables from 9.3 million US Labor Condition Application filings, FY2010-2026: filings, certification rates and wage percentiles by year, occupation, state, sector and employer'
+domain: jobs
+tags: [h-1b, visas, wages, immigration, labor-condition-applications]
+license: CC-BY-4.0
+license_url: https://h1b.report/open-data/files/LICENSE
+publisher:
+  name: H1B Report
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: public
+  temporal:
+    start: '2010'
+    end: null
+  spatial: [US]
+  update_frequency: quarterly
+  size: 783 KB (zip)

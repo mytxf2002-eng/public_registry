@@ -1,0 +1,16 @@
+id: datamuse
+kind: [api]
+name: Datamuse
+url: https://www.datamuse.com/api/
+description: Word-finding query engine
+domain: development
+tags: [open-source]
+license: unknown
+provenance:
+  added: 2021-06-04
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

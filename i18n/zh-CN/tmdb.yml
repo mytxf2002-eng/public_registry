@@ -1,0 +1,3 @@
+id: tmdb
+description: 社区共建的影视数据库 The Movie Database：电影、剧集、演员、海报剧照、评分和多语言信息（含中文），Jellyfin、Kodi 等媒体库软件常用它抓取影片元数据。非商业用途免费，需要申请 key 并注明数据来源。
+group: 电影与剧集数据库

@@ -1,0 +1,21 @@
+id: american-gut-open-access-data
+kind: [dataset]
+name: American Gut Open-Access Data
+url: https://github.com/biocore/American-Gut
+description: OTU tables and de-identified sample metadata from the American Gut citizen-science microbiome project and comparison studies, as of May 2015; raw sequences are archived at ENA
+domain: life-sciences
+tags: [microbiome, 16s-rrna, otu-tables, citizen-science]
+license: BSD-3-Clause
+license_url: https://github.com/biocore/American-Gut/blob/master/LICENSE
+publisher:
+  name: American Gut Project (biocore)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [other, tsv]
+  access: public
+  url: https://github.com/biocore/American-Gut/tree/master/data
+  update_frequency: static

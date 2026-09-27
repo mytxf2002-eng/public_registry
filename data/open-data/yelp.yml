@@ -1,0 +1,15 @@
+id: yelp
+kind: [api]
+name: Yelp
+url: https://docs.developer.yelp.com/docs/fusion-intro
+description: Find Local Business
+domain: open-data
+license: unknown
+provenance:
+  added: 2016-03-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

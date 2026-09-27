@@ -1,0 +1,15 @@
+id: fxpeek
+kind: [api]
+name: FXpeek
+url: https://fxpeek.com/en/api
+description: Source-linked historical reference exchange rates with CSV, JSON and an MCP server
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2026-09-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

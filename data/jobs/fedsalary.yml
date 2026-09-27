@@ -1,0 +1,27 @@
+id: fedsalary
+kind: [api, dataset]
+name: FedSalary
+url: https://fedsalary.com/
+description: Official civil-service pay scales for 19 governments and occupational wage distributions from national statistics agencies, each value linked to its source, as CSV and JSON
+domain: jobs
+tags: [salaries, civil-service, pay-scales, wages, occupations]
+license: CC-BY-4.0
+license_url: https://fedsalary.com/api/v1/index
+publisher:
+  name: FedSalary
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://fedsalary.com/api/v1/index
+dataset:
+  formats: [csv, json]
+  access: public
+  url: https://fedsalary.com/data/all
+  spatial: [global]
+  update_frequency: weekly

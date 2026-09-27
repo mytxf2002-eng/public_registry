@@ -1,0 +1,15 @@
+id: opencorporates
+kind: [api]
+name: OpenCorporates
+url: http://api.opencorporates.com/documentation/API-Reference
+description: Data on corporate entities and directors in many countries
+domain: open-data
+license: unknown
+provenance:
+  added: 2019-10-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

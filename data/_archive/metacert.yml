@@ -1,0 +1,19 @@
+id: metacert
+kind: [api]
+name: Metacert
+url: https://metacert.com/
+description: Metacert Link Flagging
+domain: security
+tags: [anti-malware]
+license: unknown
+provenance:
+  added: 2016-09-03
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: metacert.com now returns an Azure Static Web Apps 404 on every page and the developer portal developer.metacert.com reports 'This web app is stopped', so no working official API page remains.

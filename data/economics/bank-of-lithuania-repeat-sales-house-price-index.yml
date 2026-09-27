@@ -1,0 +1,21 @@
+id: bank-of-lithuania-repeat-sales-house-price-index
+kind: [dataset]
+name: Bank of Lithuania Repeat Sales House Price Index
+url: https://www.lb.lt/en/repeat-sales-house-price-index
+description: Monthly repeat-sales house price indices (2015 = 100) for Lithuania, its three largest city municipalities and the rest of the country, with monthly and annual changes
+domain: economics
+tags: [house-prices, real-estate, price-index, repeat-sales]
+license: LicenseRef-Custom-Open
+license_url: https://www.lb.lt/en/terms-of-use
+publisher:
+  name: Bank of Lithuania
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [xlsx]
+  access: public
+  spatial: [LT]
+  update_frequency: monthly

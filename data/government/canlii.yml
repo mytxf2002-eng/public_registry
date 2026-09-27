@@ -1,0 +1,26 @@
+id: canlii
+kind: [api, dataset]
+name: CanLII (Canadian Legal Information Institute)
+url: https://www.canlii.org/
+description: Free online collection of Canadian court and tribunal decisions and federal, provincial and territorial legislation, with a read-only REST API for case metadata and citations
+domain: government
+tags: [case-law, legislation, courts, legal-information, citator]
+license: LicenseRef-Provider-Terms
+license_url: https://www.canlii.org/en/info/terms.html
+publisher:
+  name: Canadian Legal Information Institute (CanLII)
+  kind: nonprofit
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://github.com/canlii/API_documentation
+dataset:
+  formats: [html, pdf]
+  access: public
+  spatial: [CA]
+  update_frequency: daily

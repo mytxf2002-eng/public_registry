@@ -1,0 +1,16 @@
+id: icanhazdadjoke
+kind: [api]
+name: icanhazdadjoke
+url: https://icanhazdadjoke.com/api
+description: The largest selection of dad jokes on the internet
+domain: entertainment
+tags: [personality]
+license: unknown
+provenance:
+  added: 2017-07-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

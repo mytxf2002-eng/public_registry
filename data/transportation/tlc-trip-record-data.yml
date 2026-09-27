@@ -1,0 +1,24 @@
+id: tlc-trip-record-data
+kind: [dataset]
+name: TLC Trip Record Data
+url: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+description: Trip-level records of New York City yellow and green taxis and for-hire vehicles since 2009, with pickup and drop-off times, taxi zones, distances and itemised fares
+domain: transportation
+tags: [taxi, for-hire-vehicles, ride-hailing, trip-records, parquet]
+license: LicenseRef-Provider-Terms
+license_url: https://www.nyc.gov/main/terms-of-use
+publisher:
+  name: NYC Taxi and Limousine Commission
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet, csv]
+  access: public
+  temporal:
+    start: '2009'
+    end: null
+  spatial: [US-NY]
+  update_frequency: monthly

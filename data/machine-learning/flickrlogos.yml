@@ -1,0 +1,20 @@
+id: flickrlogos
+kind: [dataset]
+name: FlickrLogos
+url: https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/mmc/research/datensatze/flickrlogos/
+description: Flickr photos of 32 brand logos plus non-logo distractors, 8,240 images with bounding boxes and pixel masks, and a 47-class re-annotation for detection
+domain: machine-learning
+tags: [logo-detection, object-detection, image-retrieval, computer-vision]
+license: unknown
+publisher:
+  name: University of Augsburg, Chair for Machine Learning & Computer Vision
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [image, text]
+  access: application
+  update_frequency: static
+  size: 8,240 images

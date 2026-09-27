@@ -1,0 +1,26 @@
+id: afdb-africa-information-highway-data-portal
+kind: [api, dataset]
+name: AfDB Africa Information Highway Data Portal
+url: https://dataportal.opendataforafrica.org/
+description: Socio-economic indicators, economic outlook, infrastructure, AfDB operations, gender, agriculture and debt data for African countries, plus weekly and monthly statistical briefs
+domain: economics
+tags: [socio-economic-indicators, infrastructure, development-finance, gender, debt]
+license: CC-BY-4.0
+license_url: https://dataportal.opendataforafrica.org/tzucfxc
+publisher:
+  name: African Development Bank Group
+  kind: intergovernmental
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+  docs: https://dataportal.opendataforafrica.org/dev/docs
+dataset:
+  formats: [csv, xlsx, json]
+  access: public
+  spatial: [africa]
+  update_frequency: irregular

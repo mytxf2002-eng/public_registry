@@ -1,0 +1,16 @@
+id: objectcut
+kind: [api]
+name: ObjectCut
+url: https://objectcut.com/
+description: Image Background removal
+domain: images
+tags: [photography]
+license: unknown
+provenance:
+  added: 2020-08-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

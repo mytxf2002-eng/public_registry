@@ -1,0 +1,18 @@
+id: amdoren
+kind: [api]
+name: Amdoren
+url: https://www.amdoren.com/currency-api/
+description: Free currency API with over 150 currencies
+domain: currency-exchange
+license: unknown
+provenance:
+  added: 2021-10-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: amdoren.com now shows a Korean sports streaming site (domain changed owner)

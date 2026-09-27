@@ -1,0 +1,24 @@
+id: fifa-2021-complete-player-dataset
+kind: [dataset]
+name: FIFA 2021 Complete Player Dataset
+url: https://www.kaggle.com/datasets/aayushmishra1512/fifa-2021-complete-player-data
+description: Ratings, potential, age, nationality, club and position of players in the FIFA 21 video game, compiled from fifaindex.com shortly before the game's 2020 release
+domain: games
+tags: [fifa, video-games, football, player-ratings]
+license: CC0-1.0
+license_url: https://www.kaggle.com/datasets/aayushmishra1512/fifa-2021-complete-player-data
+publisher:
+  name: Aayush Mishra
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv]
+  access: registration
+  temporal:
+    start: '2020'
+    end: '2020'
+  update_frequency: static
+  size: 1.2 MB

@@ -1,0 +1,24 @@
+id: pro-kabaddi-league-stats-seasons-1-7
+kind: [dataset]
+name: Pro Kabaddi League Stats, Seasons 1-7
+url: https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats
+description: Match, event, team and player statistics from the first seven Pro Kabaddi League seasons (2014 to 2019), as CSV tables plus per-match JSON files
+domain: sports
+tags: [kabaddi, pro-kabaddi-league, match-statistics, players]
+license: GPL-3.0-only
+license_url: https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats/blob/master/LICENSE
+publisher:
+  name: Ranganadh Kodali
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, json]
+  access: public
+  temporal:
+    start: '2014'
+    end: '2019'
+  spatial: [IN]
+  update_frequency: static

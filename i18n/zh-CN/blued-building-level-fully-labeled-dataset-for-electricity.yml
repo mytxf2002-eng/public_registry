@@ -1,0 +1,2 @@
+id: blued-building-level-fully-labeled-dataset-for-electricity
+description: 卡内基梅隆大学 INFERLab 发布的负荷分解数据集：美国匹兹堡一户住宅 2011 年 10 月一周的 12 kHz 电压、电流波形和 60 Hz 有功功率，并标注约 50 种电器的 2,482 个开关事件。Hugging Face 提供 RAR 压缩包（约 58 GB），免费下载；许可标注前后不一致（Apache-2.0 与未说明）。

@@ -1,0 +1,15 @@
+id: scoop-it
+kind: [api]
+name: Scoop.it
+url: http://www.scoop.it/dev
+description: Content Curation Service
+domain: open-data
+license: unknown
+provenance:
+  added: 2016-12-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: false
+  cors: unknown

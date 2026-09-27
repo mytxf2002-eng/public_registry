@@ -1,0 +1,2 @@
+id: large-scale-covid-19-twitter-chatter-dataset
+description: 佐治亚州立大学 Panacea Lab 等发布的新冠相关推文数据集，含约 13.95 亿条推文 ID（去除转发后约 3.6 亿条），时间跨度 2020 年 1 月至 2023 年 4 月，附每日统计、高频词、话题标签和提及。仅提供推文 ID，需通过 X API 回填内容。Zenodo 直接下载，标注为公有领域；2023 年后停止更新。

@@ -1,0 +1,15 @@
+id: open-movie-database
+kind: [api]
+name: Open Movie Database
+url: http://www.omdbapi.com/
+description: Movie information
+domain: video
+license: unknown
+provenance:
+  added: 2016-03-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: swapi
+kind: [api]
+name: SWAPI (swapi.dev)
+url: https://swapi.dev/
+description: All the Star Wars data you've ever wanted
+domain: video
+license: unknown
+provenance:
+  added: 2021-04-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

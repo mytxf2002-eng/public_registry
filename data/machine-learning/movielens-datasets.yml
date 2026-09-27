@@ -1,0 +1,24 @@
+id: movielens-datasets
+kind: [dataset]
+name: MovieLens Datasets
+url: https://grouplens.org/datasets/movielens/
+description: 'Movie rating and tagging datasets from the MovieLens service, from 100K to 32 million ratings (ML-32M: 200,948 users, 87,585 movies, 1995-2023), plus tag genome data'
+domain: machine-learning
+tags: [recommender-systems, movie-ratings, collaborative-filtering, user-tags]
+license: LicenseRef-Research-Only
+license_url: https://files.grouplens.org/datasets/movielens/ml-32m-README.html
+publisher:
+  name: GroupLens Research, University of Minnesota
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, tsv]
+  access: public
+  temporal:
+    start: '1995'
+    end: '2023'
+  update_frequency: irregular
+  size: 32M ratings (ML-32M, 239 MB)

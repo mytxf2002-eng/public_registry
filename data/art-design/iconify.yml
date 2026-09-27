@@ -1,0 +1,15 @@
+id: iconify
+kind: [api]
+name: Iconify
+url: https://iconify.design/docs/api/
+description: Search and fetch SVG icons from 200+ open source icon sets
+domain: art-design
+license: unknown
+provenance:
+  added: 2026-08-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,22 @@
+id: brainomics-localizer-statistical-maps
+kind: [dataset]
+name: Brainomics/Localizer Statistical Maps (NeuroVault)
+url: https://neurovault.org/collections/4341/
+description: 1,786 subject-level fMRI statistical maps from the Neurospin functional localizer protocol of the Brainomics project, shared as a NeuroVault collection
+domain: life-sciences
+tags: [fmri, neuroimaging, statistical-maps, brain-mapping]
+license: CC0-1.0
+license_url: https://neurovault.org/FAQ
+publisher:
+  name: Brainomics project (Neurospin, CEA)
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [nifti]
+  access: public
+  url: https://neurovault.org/collections/4341/download
+  update_frequency: static
+  size: 1,786 maps

@@ -1,0 +1,3 @@
+id: sunrise-and-sunset
+description: 输入经纬度，返回日出、日落和晨昏蒙影时间；v2 还提供黄金时刻、太阳位置、自动识别当地时区和按日期范围查询，免 key。
+group: 天文数据与天象计算

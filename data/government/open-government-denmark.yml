@@ -1,0 +1,15 @@
+id: open-government-denmark
+kind: [api]
+name: Open Government, Denmark
+url: https://www.opendata.dk/
+description: Denmark Government Open Data
+domain: government
+license: unknown
+provenance:
+  added: 2021-10-08
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

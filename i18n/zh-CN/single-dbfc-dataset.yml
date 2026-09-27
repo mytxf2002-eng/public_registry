@@ -1,0 +1,2 @@
+id: single-dbfc-dataset
+description: 直接硼氢化物燃料电池（DBFC）的实验数据：分别采用 Pd/C、Pt/C 和 Pd 修饰 Ni–Co/rGO 阳极催化剂，在不同硼氢化钠浓度、施加电压和催化剂载量下测得的阻抗谱和极化曲线，附实验条件说明和可视化笔记本。GitHub 提供 CSV，CC BY 4.0；对应 2020 年 ChemRxiv 数据论文。

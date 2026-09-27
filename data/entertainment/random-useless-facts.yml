@@ -1,0 +1,15 @@
+id: random-useless-facts
+kind: [api]
+name: Random Useless Facts
+url: https://uselessfacts.jsph.pl/
+description: Get useless, but true facts
+domain: entertainment
+license: unknown
+provenance:
+  added: 2021-10-28
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,15 @@
+id: transport-for-vancouver-canada
+kind: [api]
+name: Transport for Vancouver, Canada
+url: https://developer.translink.ca/
+description: TransLink GTFS static and real-time transit data for Metro Vancouver
+domain: transportation
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

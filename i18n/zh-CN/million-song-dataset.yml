@@ -1,0 +1,2 @@
+id: million-song-dataset
+description: 哥伦比亚大学 LabROSA 与 The Echo Nest 合作发布的音乐研究数据集，含一百万首当代流行歌曲的音频特征（逐拍色度、音色等）和元数据，不含音频，另有翻唱、歌词、标签和用户收听等配套数据集。1 万首子集（约 1.8 GB）及 SQLite/HDF5 汇总文件可直接下载，完整 280 GB 需通过 AWS 快照获取；Echo Nest 数据沿用其 API 使用条款，研究用途可行。

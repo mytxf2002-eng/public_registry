@@ -1,0 +1,2 @@
+id: wmt11-shared-translation-task-data
+description: 2011 年第六届统计机器翻译研讨会（WMT11）新闻翻译评测的训练与开发数据，涵盖法语、西班牙语、德语、捷克语与英语互译，来源包括 Europarl、新闻评论语料、联合国文本和新闻爬取语料，可直接下载压缩包。页面未说明许可条款；部分可选语料（如 LDC Gigaword）需另行付费获取。

@@ -1,0 +1,3 @@
+id: kinopipe
+description: 面向 AI Agent 和自动化流程的托管视频剪辑接口：剪辑操作封装成有类型定义的任务和预置工具，按积分计费，完成后通过签名 webhook 回调。
+group: 视频剪辑、转码与生成

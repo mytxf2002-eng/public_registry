@@ -1,0 +1,15 @@
+id: image-charts
+kind: [api]
+name: Image-Charts
+url: https://documentation.image-charts.com/
+description: Generate charts, QR codes and graph images
+domain: development
+license: unknown
+provenance:
+  added: 2020-05-14
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

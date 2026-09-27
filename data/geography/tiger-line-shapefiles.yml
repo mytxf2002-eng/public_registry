@@ -1,0 +1,24 @@
+id: tiger-line-shapefiles
+kind: [dataset]
+name: TIGER/Line Shapefiles
+url: https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+description: Yearly US Census Bureau shapefiles of legal and statistical boundaries, blocks, tracts, roads, rails, water features and address ranges, 2007 onward, with older ASCII files
+domain: geography
+tags: [boundaries, shapefiles, roads, census-geography, addresses]
+license: LicenseRef-US-Government-Work
+publisher:
+  name: U.S. Census Bureau
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [shapefile]
+  access: public
+  url: https://www2.census.gov/geo/tiger/
+  temporal:
+    start: '1992'
+    end: null
+  spatial: [US]
+  update_frequency: annual

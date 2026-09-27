@@ -1,0 +1,15 @@
+id: digimon-tcg
+kind: [api]
+name: Digimon TCG
+url: https://documenter.getpostman.com/view/14059948/TzecB4fH
+description: Search for Digimon cards in digimoncard.io
+domain: games
+license: unknown
+provenance:
+  added: 2021-10-15
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

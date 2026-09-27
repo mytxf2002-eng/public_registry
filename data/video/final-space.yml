@@ -1,0 +1,15 @@
+id: final-space
+kind: [api]
+name: Final Space
+url: https://finalspaceapi.com/docs/
+description: Final Space API
+domain: video
+license: unknown
+provenance:
+  added: 2020-10-25
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,15 @@
+id: disqus
+kind: [api]
+name: Disqus
+url: https://disqus.com/api/docs/auth/
+description: Communicate with Disqus data
+domain: social
+license: unknown
+provenance:
+  added: 2018-01-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: unknown

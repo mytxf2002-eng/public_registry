@@ -1,0 +1,15 @@
+id: ai-mastering
+kind: [api]
+name: AI Mastering
+url: https://aimastering.com/api_docs/
+description: Automated Music Mastering
+domain: music
+license: unknown
+provenance:
+  added: 2018-09-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

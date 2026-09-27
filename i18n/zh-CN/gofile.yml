@@ -1,0 +1,3 @@
+id: gofile
+description: 免费文件分享网盘 Gofile 的接口：上传文件（不限单个文件大小）、建文件夹、管理内容，账号相关操作需要 token。
+group: 文件上传与分享

@@ -1,0 +1,3 @@
+id: real-time-finance
+description: GitHub 上的开源小项目，提供推送实时行情的 WebSocket 接口，收录信息标注不支持 HTTPS。
+group: 股票与多资产行情

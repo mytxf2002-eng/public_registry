@@ -1,0 +1,15 @@
+id: watchmode
+kind: [api]
+name: Watchmode
+url: https://api.watchmode.com/
+description: API for finding out the streaming availability of movies & shows
+domain: video
+license: unknown
+provenance:
+  added: 2021-10-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

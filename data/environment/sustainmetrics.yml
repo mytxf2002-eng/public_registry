@@ -1,0 +1,15 @@
+id: sustainmetrics
+kind: [api]
+name: SustainMetrics
+url: https://www.sustainmetrics.net/api
+description: 18,000+ GHG emission factors from DEFRA, EPA, ADEME, Ember
+domain: environment
+license: unknown
+provenance:
+  added: 2026-06-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

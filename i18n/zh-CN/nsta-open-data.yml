@@ -1,0 +1,2 @@
+id: nsta-open-data
+description: 英国北海转型管理局（NSTA，原石油天然气管理局）的开放数据门户，提供英国海上及英格兰陆上油气相关的 GIS 图层和表格，如油井、许可区块、油气田、基础设施、地震勘探和产量，许多数据每日更新。可下载 CSV、KML、Shapefile 等格式或通过 ArcGIS/WMS/WFS 服务调用；NSTA 用户协议仅允许非商业使用。

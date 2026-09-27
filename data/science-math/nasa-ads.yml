@@ -1,0 +1,15 @@
+id: nasa-ads
+kind: [api]
+name: NASA ADS
+url: https://ui.adsabs.harvard.edu/help/api/api-docs.html
+description: NASA Astrophysics Data System
+domain: science-math
+license: unknown
+provenance:
+  added: 2021-11-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: oauth
+  https: true
+  cors: 'yes'

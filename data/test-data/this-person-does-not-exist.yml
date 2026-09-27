@@ -1,0 +1,15 @@
+id: this-person-does-not-exist
+kind: [api]
+name: This Person Does not Exist
+url: https://thispersondoesnotexist.com
+description: Generates real-life faces of people who do not exist
+domain: test-data
+license: unknown
+provenance:
+  added: 2019-10-12
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,16 @@
+id: geokeo
+kind: [api]
+name: Geokeo
+url: https://geokeo.com
+description: Geokeo geocoding service- with 2500 free api requests daily
+domain: geography
+tags: [geocoding]
+license: unknown
+provenance:
+  added: 2021-09-02
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

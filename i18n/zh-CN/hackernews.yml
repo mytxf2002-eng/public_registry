@@ -1,0 +1,3 @@
+id: hackernews
+description: Hacker News 官方 API，数据放在 Firebase 上：帖子、评论、用户资料，以及热门、最新、Ask HN、Show HN 等列表。只读，不用 key。
+group: 论坛与新闻社区

@@ -1,0 +1,21 @@
+id: dateno
+kind: [api]
+name: Dateno
+url: https://dateno.io/
+description: Search engine over more than 19 million dataset records from about 5,100 data catalogs worldwide, with facet filters and a REST API returning dataset cards and file links
+domain: open-data
+tags: [dataset-search, data-catalogs, metadata, search-engine]
+license: LicenseRef-Provider-Terms
+license_url: https://dateno.io/terms
+publisher:
+  name: Dateno Ltd.
+  kind: company
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
+  docs: https://api.dateno.io/

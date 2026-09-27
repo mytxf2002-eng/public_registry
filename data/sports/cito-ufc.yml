@@ -1,0 +1,15 @@
+id: cito-ufc
+kind: [api]
+name: Cito UFC
+url: https://citoapi.com/ufc-api/
+description: 'UFC and MMA fight data: fighters, cards, round stats, rankings and live state'
+domain: sports
+license: unknown
+provenance:
+  added: 2026-09-17
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'no'

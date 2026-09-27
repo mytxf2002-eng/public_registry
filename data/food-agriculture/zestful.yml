@@ -1,0 +1,15 @@
+id: zestful
+kind: [api]
+name: Zestful
+url: https://zestfuldata.com/
+description: Parse recipe ingredients
+domain: food-agriculture
+license: unknown
+provenance:
+  added: 2021-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: 'yes'

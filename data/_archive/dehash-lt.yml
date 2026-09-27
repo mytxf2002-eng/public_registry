@@ -1,0 +1,18 @@
+id: dehash-lt
+kind: [api]
+name: Dehash.lt
+url: https://github.com/Dehash-lt/api
+description: Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512
+domain: security
+license: unknown
+provenance:
+  added: 2021-10-16
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown
+archived:
+  date: 2026-09-27
+  reason: The GitHub repo and organization are gone, and dehash.lt no longer resolves.

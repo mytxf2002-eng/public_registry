@@ -1,0 +1,2 @@
+id: texas-open-data-portal
+description: 美国得克萨斯州政府开放数据门户（Socrata），约 820 个州级机构数据集，如职业执照名单、酒类销售税收入、彩票中奖和农业数据等，可导出 CSV、JSON、XML，并可通过 SODA 接口免密钥查询；多数数据集未标注许可，少数为公共领域或 ODbL。

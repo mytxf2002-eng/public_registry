@@ -1,0 +1,15 @@
+id: k-data-gate
+kind: [api]
+name: K-Data Gate
+url: https://kdata-gate.vercel.app/docs
+description: 'Korean market data: K-beauty/K-food products, Naver trends, stocks, real estate, weather'
+domain: open-data
+license: unknown
+provenance:
+  added: 2026-06-13
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

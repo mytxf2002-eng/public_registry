@@ -1,0 +1,3 @@
+id: my-ip
+description: myip.com 的 JSON 接口，返回调用者的 IP 地址和所在国家。
+group: IP 地址与访客信息

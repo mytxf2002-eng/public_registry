@@ -1,0 +1,15 @@
+id: transport-for-grenoble-france
+kind: [api]
+name: Transport for Grenoble, France
+url: https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html
+description: Grenoble public transport
+domain: transportation
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: false
+  cors: 'no'

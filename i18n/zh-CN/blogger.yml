@@ -1,0 +1,3 @@
+id: blogger
+description: Google 旗下博客平台 Blogger 的官方 API：读取和更新博客、文章、页面和评论，写操作需要 OAuth 授权。
+group: 博客、发布与评论

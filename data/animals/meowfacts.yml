@@ -1,0 +1,15 @@
+id: meowfacts
+kind: [api]
+name: MeowFacts
+url: https://github.com/wh-iterabb-it/meowfacts
+description: Get random cat facts
+domain: animals
+license: unknown
+provenance:
+  added: 2021-10-29
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

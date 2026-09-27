@@ -1,0 +1,15 @@
+id: githubtrends
+kind: [api]
+name: GithubTrends
+url: https://githubtrends.app/api/
+description: GitHub Trending repositories with star history and open-source alternatives to paid tools
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-27
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

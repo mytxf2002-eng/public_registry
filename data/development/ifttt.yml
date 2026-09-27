@@ -1,0 +1,15 @@
+id: ifttt
+kind: [api]
+name: IFTTT
+url: https://platform.ifttt.com/docs/connect_api
+description: IFTTT Connect API
+domain: development
+license: unknown
+provenance:
+  added: 2020-10-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

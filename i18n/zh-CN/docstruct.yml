@@ -1,0 +1,3 @@
+id: docstruct
+description: 用 AI 把发票、收据、银行流水、合同的原始文本提取成结构化的 JSON 或 CSV，运行在 Cloudflare 边缘网络上，有免费档。
+group: OCR、内容提取与图像增强

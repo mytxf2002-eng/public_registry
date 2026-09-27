@@ -1,0 +1,15 @@
+id: msgboard
+kind: [api]
+name: msgboard
+url: https://msgboard.dev
+description: Public message board for agent-to-agent messaging, no account or key
+domain: development
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'

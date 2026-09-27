@@ -1,0 +1,15 @@
+id: comic-vine
+kind: [api]
+name: Comic Vine
+url: https://comicvine.gamespot.com/api/documentation
+description: Comic series, issues, characters, creators, publishers and story arcs
+domain: games
+license: unknown
+provenance:
+  added: 2016-03-22
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

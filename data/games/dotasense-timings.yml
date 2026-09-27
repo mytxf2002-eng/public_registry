@@ -1,0 +1,15 @@
+id: dotasense-timings
+kind: [api]
+name: DotaSense Timings
+url: https://dotasense.com/cheat-sheet#timing-api
+description: Reviewed Dota 2 objective timings in JSON and CSV
+domain: games
+license: unknown
+provenance:
+  added: 2026-08-30
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

@@ -1,0 +1,22 @@
+id: open-jobs
+kind: [dataset]
+name: Open Jobs
+url: https://backend.dehnbostele.workers.dev/data/
+description: Daily crawl of about 3.6 million job postings from 65,000 company career sites plus job-board listings, with full text, embeddings and first-seen dates, as parquet files
+domain: jobs
+tags: [job-postings, ats, embeddings, ghost-jobs, labor-market]
+license: CC0-1.0
+license_url: https://backend.dehnbostele.workers.dev/data/
+publisher:
+  name: 'Open Jobs (GitHub: elliottdehn)'
+  kind: individual
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [parquet, json, jsonl]
+  access: public
+  spatial: [global]
+  update_frequency: daily
+  size: 30.8 GB

@@ -1,0 +1,2 @@
+id: broad-gdac-firehose
+description: 博德研究所基因组数据分析中心发布的 TCGA 癌症数据标准化版本及自动分析报告，覆盖 38 个肿瘤队列的临床、突变、拷贝数、表达和甲基化等数据，开放层级可直接下载，另有 FireBrowse REST API。最后一次运行为 2016 年 1 月，此后不再更新；受控层级数据需经 dbGaP 授权。

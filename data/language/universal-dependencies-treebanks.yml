@@ -1,0 +1,20 @@
+id: universal-dependencies-treebanks
+kind: [dataset]
+name: Universal Dependencies Treebanks
+url: https://universaldependencies.org/
+description: 353 treebanks in 193 languages annotated with a shared scheme for parts of speech, morphological features and syntactic dependencies, released twice a year in CoNLL-U format
+domain: language
+tags: [treebanks, syntax, dependency-parsing, morphology, multilingual]
+license: unknown
+publisher:
+  name: Universal Dependencies community
+  kind: community
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [text]
+  access: public
+  url: https://universaldependencies.org/download.html
+  size: 353 treebanks

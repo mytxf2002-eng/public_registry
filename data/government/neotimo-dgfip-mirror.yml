@@ -1,0 +1,15 @@
+id: neotimo-dgfip-mirror
+kind: [api]
+name: Neotimo DGFiP Mirror
+url: https://neotimo.com/annuaire-dgfip
+description: French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET
+domain: government
+license: unknown
+provenance:
+  added: 2026-06-06
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

@@ -1,0 +1,19 @@
+id: explanation-bank
+kind: [dataset]
+name: Explanation Bank
+url: https://cognitiveai.org/explanationbank/
+description: Explanation-centred resources for elementary science exam questions, including WorldTree explanation graphs for about 4,400 questions, fact tables, inference patterns and question labels
+domain: machine-learning
+tags: [question-answering, explanations, multi-hop-inference, science-exams, nlp]
+license: unknown
+publisher:
+  name: Peter Jansen, University of Arizona
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [archive]
+  access: public
+  update_frequency: irregular

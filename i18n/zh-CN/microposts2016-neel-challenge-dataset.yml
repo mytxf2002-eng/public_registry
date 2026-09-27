@@ -1,0 +1,2 @@
+id: microposts2016-neel-challenge-dataset
+description: 2016 年 Microposts 研讨会命名实体识别与链接（NEEL）评测的标准答案数据：对 2011—2015 年英文推文中的实体提及标注类型，并链接到 DBpedia 2014 资源或 NIL。可从 CEUR-WS 会议论文集直接下载小型压缩包（TSV 格式）；未注明许可证，推文正文可能需按编号自行获取。

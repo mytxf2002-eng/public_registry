@@ -1,0 +1,2 @@
+id: gravitational-wave-open-science-center
+description: LIGO、Virgo 和 KAGRA 合作组的引力波开放数据中心，提供自 2005 年 S5 以来各观测运行（最新至 O4b）的探测器应变时间序列（HDF5/GWF），以及引力波瞬变事件目录 GWTC。可直接下载，或通过免认证的只读 REST 接口和 gwosc Python 包获取，采用 CC BY 4.0 许可。

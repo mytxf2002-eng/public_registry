@@ -1,0 +1,15 @@
+id: iqair
+kind: [api]
+name: IQAir
+url: https://www.iqair.com/air-pollution-data-api
+description: Air quality and weather data
+domain: environment
+license: unknown
+provenance:
+  added: 2022-02-07
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown

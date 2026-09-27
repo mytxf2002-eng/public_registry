@@ -1,0 +1,15 @@
+id: animenewsnetwork
+kind: [api]
+name: AnimeNewsNetwork
+url: https://www.animenewsnetwork.com/encyclopedia/api.php
+description: Anime industry news
+domain: anime
+license: unknown
+provenance:
+  added: 2018-11-26
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

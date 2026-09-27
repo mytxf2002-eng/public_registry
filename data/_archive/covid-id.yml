@@ -1,0 +1,18 @@
+id: covid-id
+kind: [api]
+name: COVID-ID
+url: https://data.covid19.go.id/public/api/prov.json
+description: Indonesian government Covid data per province
+domain: health
+license: unknown
+provenance:
+  added: 2021-10-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'
+archived:
+  date: 2026-09-27
+  reason: 'The Indonesian COVID-19 data API is offline: data.covid19.go.id times out everywhere, including from Indonesian nodes, and was last archived working in November 2022.'

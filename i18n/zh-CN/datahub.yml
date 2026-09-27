@@ -1,0 +1,2 @@
+id: datahub
+description: Datopian 运营的数据发布平台 DataHub 上的精选数据包，包括约 130 个核心数据集（金融价格、经济指标、国家与机场代码等）、各国邮编数据集和 FiveThirtyEight 数据，以 CSV 加 datapackage.json 元数据提供，文件有稳定直链可直接下载。核心数据集多采用 ODC-PDDL，其余许可因数据集而异。

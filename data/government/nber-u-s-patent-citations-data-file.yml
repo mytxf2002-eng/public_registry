@@ -1,0 +1,23 @@
+id: nber-u-s-patent-citations-data-file
+kind: [dataset]
+name: NBER U.S. Patent Citations Data File
+url: https://www.nber.org/research/data/us-patents-1975-1999
+description: Almost 3 million US patents granted 1963-1999 with more than 16 million citations made 1975-1999 and a match of patent assignees to Compustat firms
+domain: government
+tags: [patents, patent-citations, innovation, firm-matching]
+license: unknown
+publisher:
+  name: National Bureau of Economic Research (Hall, Jaffe and Trajtenberg)
+  kind: academic
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+dataset:
+  formats: [csv, sas]
+  access: public
+  temporal:
+    start: '1963'
+    end: '1999'
+  spatial: [US]
+  update_frequency: static

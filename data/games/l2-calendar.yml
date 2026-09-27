@@ -1,0 +1,15 @@
+id: l2-calendar
+kind: [api]
+name: L2 Calendar
+url: https://l2calendar.com/api/servers
+description: Lineage 2 private servers list with names, websites, chronicles, rates and opening dates
+domain: games
+license: unknown
+provenance:
+  added: 2026-09-21
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'yes'

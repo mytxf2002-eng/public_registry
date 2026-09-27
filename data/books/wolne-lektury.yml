@@ -1,0 +1,15 @@
+id: wolne-lektury
+kind: [api]
+name: Wolne Lektury
+url: https://wolnelektury.pl/api/
+description: API for obtaining information about e-books available on the WolneLektury.pl website
+domain: books
+license: unknown
+provenance:
+  added: 2021-06-10
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: unknown

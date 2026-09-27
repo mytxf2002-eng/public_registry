@@ -1,0 +1,28 @@
+id: medicare-coverage-database
+kind: [api, dataset]
+name: Medicare Coverage Database (MCD)
+url: https://www.cms.gov/medicare-coverage-database/search.aspx
+description: National and local Medicare coverage determinations, billing and coding articles and related documents, with weekly bulk CSV/Access downloads and a REST API
+domain: health
+tags: [medicare, coverage-determinations, health-insurance, billing-codes]
+license: LicenseRef-Provider-Terms
+license_url: https://www.cms.gov/medicare-coverage-database/downloads/downloads.aspx
+publisher:
+  name: Centers for Medicare & Medicaid Services
+  kind: government
+provenance:
+  added: 2026-09-27
+  origin: apd-link
+  reviewed: 2026-09-27
+api:
+  auth: none
+  https: true
+  cors: 'no'
+  docs: https://api.coverage.cms.gov/docs/swagger/index.html
+dataset:
+  formats: [csv, other]
+  access: public
+  url: https://www.cms.gov/medicare-coverage-database/downloads/downloads.aspx
+  spatial: [US]
+  update_frequency: weekly
+  size: 185 MB (all data ZIP)

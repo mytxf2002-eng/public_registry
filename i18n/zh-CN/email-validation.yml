@@ -1,0 +1,3 @@
+id: email-validation
+description: Abstract API 的邮箱验证：检查语法、MX 记录和 SMTP，识别一次性邮箱和 catch-all（任何地址都收信）域名，免费档每月 100 次。
+group: 邮箱地址验证

@@ -1,0 +1,15 @@
+id: musixmatch
+kind: [api]
+name: Musixmatch
+url: https://developer.musixmatch.com/
+description: Track search, lyrics and charts; the free tier returns part of each song's lyrics
+domain: music
+license: unknown
+provenance:
+  added: 2016-03-31
+  origin: public-apis
+  reviewed: 2026-09-27
+api:
+  auth: api-key
+  https: true
+  cors: unknown
