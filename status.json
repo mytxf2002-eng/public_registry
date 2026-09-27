@@ -404,7 +404,6 @@
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Aether-X Port Congestion Oracle",
    "url": "https://rapidapi.com/belegante/api/aether-x-port-congestion-oracle"
   },
   "afdb-africa-information-highway-data-portal": {
@@ -467,10 +466,10 @@
   },
   "agpc-domain-check": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='guild.tradeuniquecapital.com', port=443): Max retries exceeded with url: /api (Caused by ConnectTimeoutError(<HTTPSConnection(host='guild.tradeuniquecapital.com', port=443) a",
+   "detail": "HTTPSConnectionPool(host='guild.tradeuniquecapital.com', port=443): Max retries exceeded with url: /api (Caused by NewConnectionError(\"HTTPSConnection(host='guild.tradeuniquecapital.com', port=443): F",
    "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
+   "failures": 3,
+   "result": "connection_error",
    "state": "unconfirmed",
    "status": null,
    "url": "https://guild.tradeuniquecapital.com/api"
@@ -622,9 +621,9 @@
    "failures": 0,
    "final_url": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
+   "status": 403,
    "url": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true"
   },
   "ais-hub": {
@@ -893,12 +892,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://aniapi.com/docs/",
+   "final_url": "http://ww19.aniapi.com",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Loading...",
    "url": "https://aniapi.com/docs/"
   },
   "anidb": {
@@ -957,7 +955,7 @@
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "GitHub - AnimechanOrg/animechan: A REST API for anime quotes · GitHub",
+   "title": "GitHub - AnimechanOrg/animechan: Issue tracker for Animechan, the anime quotes API. Source code is private. · GitHub",
    "url": "https://github.com/RocktimSaikia/anime-chan"
   },
   "animefacts": {
@@ -981,7 +979,7 @@
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Encyclopedia API - Anime News Network:W",
+   "title": "Encyclopedia API - Anime News Network",
    "url": "https://www.animenewsnetwork.com/encyclopedia/api.php"
   },
   "ankusi-wheel-fitment-dataset": {
@@ -1443,8 +1441,7 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 200,
-   "title": "ASEANstats Dashboard | ASEANStatsDataPortal",
+   "status": 202,
    "url": "https://data.aseanstats.org/"
   },
   "asia-klems": {
@@ -1608,10 +1605,9 @@
    "failures": 0,
    "final_url": "https://autobodyshopnear.com/developers/body-shop-api",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Auto Body Shop Directory API - AutoBodyShopNear.com",
+   "status": 403,
    "url": "https://autobodyshopnear.com/developers/body-shop-api"
   },
   "autochess-vng": {
@@ -1918,10 +1914,9 @@
    "failures": 0,
    "final_url": "https://www.banned-books.org/dataset",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Banned Books Dataset — Free Open CSV (CC-BY) + Full Dataset | Banned Books",
+   "status": 403,
    "url": "https://www.banned-books.org/dataset"
   },
   "barro-lee-educational-attainment-dataset": {
@@ -1976,11 +1971,12 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://api.bart.gov/",
+   "final_url": "https://api.bart.gov/docs/overview/index.aspx",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "BART - Legacy API Documentation",
    "url": "http://api.bart.gov"
   },
   "bc-ferries": {
@@ -2270,12 +2266,13 @@
   },
   "biriyani-as-a-service": {
    "checked": "2026-09-27",
-   "failing_since": "2026-09-27",
-   "failures": 2,
+   "failing_since": null,
+   "failures": 0,
    "final_url": "https://biriyani.anoram.com/",
-   "result": "server_error",
-   "state": "unconfirmed",
-   "status": 503,
+   "last_ok": "2026-09-27",
+   "result": "restricted",
+   "state": "verified",
+   "status": 403,
    "url": "https://biriyani.anoram.com/"
   },
   "births-australia": {
@@ -3187,10 +3184,9 @@
    "failures": 0,
    "final_url": "https://caldays.com/api",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Free public-holiday API for developers — JSON, 206 countries — caldays",
+   "status": 403,
    "url": "https://caldays.com/api"
   },
   "calendarific": {
@@ -3270,10 +3266,9 @@
    "failures": 0,
    "final_url": "https://campsiteatlas.com/data/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Open data: federal campgrounds as CSV (CC0) | Campsite Atlas",
+   "status": 403,
    "url": "https://campsiteatlas.com/data/"
   },
   "can-i-enter": {
@@ -3756,10 +3751,9 @@
    "failures": 0,
    "final_url": "https://cheetaho.com/docs/getting-started/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Getting started - CheetahO",
+   "status": 403,
    "url": "https://cheetaho.com/docs/getting-started/"
   },
   "cheng-caverlee-lee-twitter-geolocation-dataset": {
@@ -3849,7 +3843,7 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://www.loc.gov/chroniclingamerica/about/api/",
+   "final_url": "https://www.loc.gov/collections/chronicling-america/about-this-collection/technical-information/",
    "last_ok": "2026-09-27",
    "result": "restricted",
    "state": "verified",
@@ -3981,10 +3975,9 @@
    "failures": 0,
    "final_url": "https://hri.fi/en_gb/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Helsinki Region Infoshare - Open data service",
+   "status": 403,
    "url": "https://hri.fi/en_gb/"
   },
   "city-lviv": {
@@ -4334,9 +4327,10 @@
    "failures": 0,
    "final_url": "https://climateknowledgeportal.worldbank.org/",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Climate Change Knowledge Portal | Climate Change Knowledge Portal",
    "url": "https://climateknowledgeportal.worldbank.org/"
   },
   "climatic-research-unit-data-sets": {
@@ -4345,9 +4339,9 @@
    "failures": 0,
    "final_url": "https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
+   "status": 405,
    "url": "https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data"
   },
   "climatiq": {
@@ -4630,7 +4624,7 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://www.coinbase.com/en-gb/developer-platform",
+   "final_url": "https://www.coinbase.com/developer-platform",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
@@ -4835,10 +4829,9 @@
    "failures": 0,
    "final_url": "https://collegescorecard.ed.gov/data/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Data Home | College Scorecard",
+   "status": 403,
    "url": "https://collegescorecard.ed.gov/data/"
   },
   "collins": {
@@ -5023,10 +5016,9 @@
    "failures": 0,
    "final_url": "https://www.conversoriaecnae.es/api/v1/docs",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Referencia técnica de la API · Infraestructura de datos fiscales | Conversor",
+   "status": 403,
    "url": "https://www.conversoriaecnae.es/api/v1/docs"
   },
   "cooper-hewitt": {
@@ -5364,12 +5356,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://covidtracking.com/data/api/version-2/",
+   "final_url": "https://covidtracking.com/data/api/version-2",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Data API | The COVID Tracking Project",
+   "status": 403,
    "url": "https://covidtracking.com/data/api/version-2"
   },
   "coworkingview": {
@@ -5521,10 +5512,9 @@
    "failures": 0,
    "final_url": "https://crossuniverse.net/apiDocs/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "CUA00001 Documentation",
+   "status": 403,
    "url": "https://crossuniverse.net/apiDocs/"
   },
   "crossref-metadata-search": {
@@ -6200,10 +6190,9 @@
    "failures": 0,
    "final_url": "https://deepbluealpha.io/whale-api",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Ethereum Whale Flow API — Real-Time Whale Tracking Data for Developers | Deep Blue Alpha",
+   "status": 403,
    "url": "https://deepbluealpha.io/whale-api"
   },
   "deepai": {
@@ -6839,12 +6828,12 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://wiki.drivet.xyz/en/url-shortener/add-links",
+   "final_url": "http://ww547.drivet.xyz/?tkn=19vnMT3S",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Loading...",
+   "title": "Drivet Xyz",
    "url": "https://wiki.drivet.xyz/en/url-shortener/add-links"
   },
   "dropbox": {
@@ -7287,7 +7276,7 @@
   "emailrep": {
    "checked": "2026-09-27",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "final_url": "https://emailrep.io/",
    "result": "client_error",
    "state": "unconfirmed",
@@ -7320,12 +7309,14 @@
   },
   "encode-portal": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='www.encodeproject.org', port=443): Read timed out. (read timeout=25)",
-   "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
-   "state": "unconfirmed",
-   "status": null,
+   "failing_since": null,
+   "failures": 0,
+   "final_url": "https://www.encodeproject.org/",
+   "last_ok": "2026-09-27",
+   "result": "ok",
+   "state": "verified",
+   "status": 200,
+   "title": "ENCODE",
    "url": "https://www.encodeproject.org/"
   },
   "enigma-public": {
@@ -7442,9 +7433,10 @@
    "failures": 0,
    "final_url": "https://erstat.ca/developers",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Canada ER Closures API — Live Emergency-Room Data | ERstat",
    "url": "https://erstat.ca/developers"
   },
   "escape": {
@@ -7487,12 +7479,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://etherscan.io/api/pricing",
+   "final_url": "https://etherscan.io/apis",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Etherscan APIs - Ethereum (ETH) API Provider",
+   "status": 403,
    "url": "https://etherscan.io/apis"
   },
   "ethplorer": {
@@ -7688,12 +7679,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://evilinsult.com/api/",
+   "final_url": "https://evilinsult.com/api",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Evil Insult Generator",
+   "status": 403,
    "url": "https://evilinsult.com/api"
   },
   "exactcup": {
@@ -7854,7 +7844,7 @@
   "fakerapi": {
    "checked": "2026-09-27",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "final_url": "https://fakerapi.it/en",
    "result": "server_error",
    "state": "unconfirmed",
@@ -7867,10 +7857,9 @@
    "failures": 0,
    "final_url": "https://fakestoreapi.com/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Fake Store API",
+   "status": 403,
    "url": "https://fakestoreapi.com/"
   },
   "fanline-wire": {
@@ -8163,10 +8152,9 @@
    "failures": 0,
    "final_url": "https://filterlists.com/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "FilterLists | Subscriptions for uBlock Origin, Adblock Plus, AdGuard, ...",
+   "status": 403,
    "url": "https://filterlists.com"
   },
   "finage": {
@@ -8213,8 +8201,7 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 200,
-   "title": "Free UK Tax Rates API - Finance Clearly",
+   "status": 202,
    "url": "https://financeclearly.com/tax-rates-api/"
   },
   "financial-modeling-prep": {
@@ -8351,14 +8338,13 @@
   },
   "flipkart-marketplace": {
    "checked": "2026-09-27",
-   "failing_since": null,
-   "failures": 0,
+   "failing_since": "2026-09-27",
+   "failures": 1,
    "final_url": "https://seller.flipkart.com/api-docs/FMSAPI.html",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "server_error",
    "state": "verified",
-   "status": 200,
-   "title": "Flipkart Marketplace Seller APIs — Developer API v3.0 documentation",
+   "status": 529,
    "url": "https://seller.flipkart.com/api-docs/FMSAPI.html"
   },
   "florida-man": {
@@ -8439,10 +8425,9 @@
    "failures": 0,
    "final_url": "https://food-info.org/developer",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Developer API, Food Info",
+   "status": 403,
    "url": "https://food-info.org/developer"
   },
   "food-standards-agency": {
@@ -8556,7 +8541,7 @@
   "forismatic": {
    "checked": "2026-09-27",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "final_url": "http://forismatic.com/en/api/",
    "result": "server_error",
    "state": "unconfirmed",
@@ -8581,10 +8566,9 @@
    "failures": 0,
    "final_url": "https://docs.formfeed.dev/api/overview",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "API overview | Formfeed Docs",
+   "status": 403,
    "url": "https://docs.formfeed.dev/api/overview"
   },
   "fortnite": {
@@ -8674,7 +8658,7 @@
    "checked": "2026-09-27",
    "detail": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "result": "timeout",
    "state": "unconfirmed",
    "status": null,
@@ -8698,10 +8682,9 @@
    "failures": 0,
    "final_url": "https://ulvis.net/developer.html",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Free Url Shortener API- developer API",
+   "status": 403,
    "url": "https://ulvis.net/developer.html"
   },
   "freecodecamp-open-data": {
@@ -9349,10 +9332,10 @@
   },
   "geodata-gov-gr": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='geodata.gov.gr', port=443): Max retries exceeded with url: /en/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='geodata.gov.gr', port=443) at 0x16dcda6c4a0>, 'Connectio",
+   "detail": "HTTPSConnectionPool(host='geodata.gov.gr', port=443): Max retries exceeded with url: /en/ (Caused by NewConnectionError(\"HTTPSConnection(host='geodata.gov.gr', port=443): Failed to establish a new con",
    "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
+   "failures": 3,
+   "result": "connection_error",
    "state": "unconfirmed",
    "status": null,
    "url": "https://geodata.gov.gr/en/"
@@ -9383,12 +9366,14 @@
   },
   "geofabrik-openstreetmap-data-extracts": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='download.geofabrik.de', port=443): Read timed out. (read timeout=25)",
-   "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
-   "state": "unconfirmed",
-   "status": null,
+   "failing_since": null,
+   "failures": 0,
+   "final_url": "https://download.geofabrik.de/",
+   "last_ok": "2026-09-27",
+   "result": "ok",
+   "state": "verified",
+   "status": 200,
+   "title": "Download OpenStreetMap for OpenStreetMap Data Extracts | Geofabrik Download Server",
    "url": "https://download.geofabrik.de/"
   },
   "geographql": {
@@ -9536,12 +9521,13 @@
   },
   "getty-vocabularies-linked-open-data": {
    "checked": "2026-09-27",
-   "failing_since": "2026-09-27",
-   "failures": 2,
-   "final_url": "https://vocab.getty.edu/download/json?uri=http://vocab.getty.edu/",
-   "result": "not_found",
-   "state": "unconfirmed",
-   "status": 404,
+   "failing_since": null,
+   "failures": 0,
+   "final_url": "https://vocab.getty.edu/",
+   "last_ok": "2026-09-27",
+   "result": "restricted",
+   "state": "verified",
+   "status": 403,
    "url": "https://vocab.getty.edu/"
   },
   "getxapi": {
@@ -9693,10 +9679,9 @@
    "failures": 0,
    "final_url": "https://githubtrends.app/api/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "GithubTrends data API — free JSON endpoints",
+   "status": 403,
    "url": "https://githubtrends.app/api/"
   },
   "gitlab": {
@@ -9726,7 +9711,7 @@
   "glitterly": {
    "checked": "2026-09-27",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "final_url": "https://glitterly.app/",
    "result": "server_error",
    "state": "unconfirmed",
@@ -10181,9 +10166,10 @@
    "failures": 0,
    "final_url": "https://open.alberta.ca/opendata",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "opendata - Open Government",
    "url": "https://open.alberta.ca/opendata"
   },
   "gpu-cloud-price-index": {
@@ -10371,10 +10357,9 @@
    "failures": 0,
    "final_url": "https://wiki.guildwars2.com/wiki/API:Main",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "API:Main - Guild Wars 2 Wiki (GW2W)",
+   "status": 403,
    "url": "https://wiki.guildwars2.com/wiki/API:Main"
   },
   "gun-policy": {
@@ -10418,10 +10403,9 @@
    "failures": 0,
    "final_url": "https://gutendex.com/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Gutendex",
+   "status": 403,
    "url": "https://gutendex.com/"
   },
   "gw2spidy": {
@@ -10478,10 +10462,9 @@
    "failures": 0,
    "final_url": "https://www.hackerearth.com/docs/wiki/developers/v4/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Hackerearth API V4 - Developers Wiki | HackerEarth",
+   "status": 403,
    "url": "https://www.hackerearth.com/docs/wiki/developers/v4/"
   },
   "hackernews": {
@@ -11111,8 +11094,7 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 200,
-   "title": "Humanitarian Data Exchange | Find & Use Crisis Data | HDX",
+   "status": 202,
    "url": "https://data.humdata.org/"
   },
   "humble-bundle": {
@@ -12110,12 +12092,12 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://ip-fast.com/docs/",
+   "final_url": "http://ww547.ip-fast.com/?tkn=19vnMT3S",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Loading...",
+   "title": "ip fast",
    "url": "https://ip-fast.com/docs/"
   },
   "ip-geolocation": {
@@ -12229,7 +12211,7 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://api.techniknews.net/ipgeo/31.94.34.160",
+   "final_url": "https://api.techniknews.net/ipgeo/57.154.13.251",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
@@ -12361,9 +12343,10 @@
    "failures": 0,
    "final_url": "https://www.ipums.org/",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Homepage | IPUMS",
    "url": "https://www.ipums.org/"
   },
   "ipwhois": {
@@ -12846,10 +12829,9 @@
    "failures": 0,
    "final_url": "https://jsonfabrica.com/docs/api-reference",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "API Reference — JsonFabrica",
+   "status": 403,
    "url": "https://jsonfabrica.com/docs/api-reference"
   },
   "jsonofcounties": {
@@ -13326,10 +13308,9 @@
    "failures": 0,
    "final_url": "https://krakenkeys.com/api-docs",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "KrakenKeys Developer API - Free Steam Price Comparison API",
+   "status": 403,
    "url": "https://krakenkeys.com/api-docs"
   },
   "kroger": {
@@ -13619,12 +13600,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://lginform.local.gov.uk",
+   "final_url": "https://signin.esd.org.uk/check-auth.handler?restrict=inform&returnUrl=https%3A%2F%2Flginform.local.gov.uk%2Fhome%2FcheckCallback",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Home | LG Inform",
+   "status": 403,
    "url": "https://lginform.local.gov.uk/"
   },
   "libraries-io": {
@@ -14680,9 +14660,9 @@
   },
   "meltema": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='meltema.com', port=443): Max retries exceeded with url: /docs (Caused by ConnectTimeoutError(<HTTPSConnection(host='meltema.com', port=443) at 0x16dcda65460>, 'Connection to ",
+   "detail": "HTTPSConnectionPool(host='meltema.com', port=443): Max retries exceeded with url: /docs (Caused by ConnectTimeoutError(<HTTPSConnection(host='meltema.com', port=443) at 0x7fd2acb219d0>, 'Connection to",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "result": "timeout",
    "state": "unconfirmed",
    "status": null,
@@ -14869,7 +14849,7 @@
   "metaphorsum": {
    "checked": "2026-09-27",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "final_url": "http://metaphorpsum.com/",
    "result": "server_error",
    "state": "unconfirmed",
@@ -15667,10 +15647,9 @@
    "failures": 0,
    "final_url": "https://www.earthdata.nasa.gov/about/esdis/eosdis",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "EOSDIS | NASA Earthdata",
+   "status": 403,
    "url": "https://www.earthdata.nasa.gov/about/esdis/eosdis"
   },
   "nasa-exoplanet-archive": {
@@ -15711,12 +15690,14 @@
   },
   "nasa-space-science-data-coordinated-archive": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='nssdc.gsfc.nasa.gov', port=443): Read timed out. (read timeout=10)",
-   "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
-   "state": "unconfirmed",
-   "status": null,
+   "failing_since": null,
+   "failures": 0,
+   "final_url": "https://nssdc.gsfc.nasa.gov/",
+   "last_ok": "2026-09-27",
+   "result": "ok",
+   "state": "verified",
+   "status": 200,
+   "title": "NASA Space Science Data Coordinated Archive",
    "url": "https://nssdc.gsfc.nasa.gov/"
   },
   "nasdaq-data-link": {
@@ -16034,10 +16015,9 @@
    "failures": 0,
    "final_url": "https://neotimo.com/annuaire-dgfip",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Neotimo",
+   "status": 403,
    "url": "https://neotimo.com/annuaire-dgfip"
   },
   "nerdulator": {
@@ -16452,10 +16432,9 @@
    "failures": 0,
    "final_url": "https://noozra.com/api",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Free API · Noozra",
+   "status": 403,
    "url": "https://noozra.com/api"
   },
   "nophishy": {
@@ -16723,12 +16702,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://oec.world/en",
+   "final_url": "https://oec.world/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "The Observatory of Economic Complexity",
+   "status": 403,
    "url": "https://oec.world/"
   },
   "ocr-space": {
@@ -17077,7 +17055,7 @@
    "checked": "2026-09-27",
    "detail": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "result": "connection_error",
    "state": "unconfirmed",
    "status": null,
@@ -17101,9 +17079,10 @@
    "failures": 0,
    "final_url": "https://openregina.ca/",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Welcome - City of Regina Open Data",
    "url": "https://openregina.ca/"
   },
   "open-disease": {
@@ -17203,12 +17182,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://data.gov.be/language_selection_page?destination=/home",
+   "final_url": "https://data.gov.be/",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Language selection | Data.gov.be",
    "url": "https://data.gov.be/"
   },
   "open-government-canada": {
@@ -17372,10 +17350,9 @@
    "failures": 0,
    "final_url": "https://www.dati.gov.it/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Home Page | dati.gov.it",
+   "status": 403,
    "url": "https://www.dati.gov.it/"
   },
   "open-government-korea": {
@@ -17471,6 +17448,7 @@
    "result": "ok",
    "state": "verified",
    "status": 200,
+   "title": "Discover and use data - data.govt.nz",
    "url": "https://www.data.govt.nz/"
   },
   "open-government-norway": {
@@ -17546,10 +17524,10 @@
   },
   "open-government-saudi-arabia": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='data.gov.sa', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.gov.sa', port=443) at 0x16dcda65340>, 'Connection to data",
+   "detail": "HTTPSConnectionPool(host='data.gov.sa', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='data.gov.sa', port=443): Failed to establish a new connection: ",
    "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
+   "failures": 3,
+   "result": "connection_error",
    "state": "unconfirmed",
    "status": null,
    "url": "https://data.gov.sa"
@@ -17964,9 +17942,10 @@
    "failures": 0,
    "final_url": "https://open.africa/",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Welcome - openAFRICA",
    "url": "https://open.africa/"
   },
   "openalex": {
@@ -18484,12 +18463,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://oyyi.xyz/docs",
+   "final_url": "https://oyyi.xyz/docs/1.0",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "API Reference — Image, PDF & AI REST Endpoints | OYYI",
+   "status": 403,
    "url": "https://oyyi.xyz/docs/1.0"
   },
   "packagist": {
@@ -18722,7 +18700,7 @@
   "pdffleet": {
    "checked": "2026-09-27",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "final_url": "https://pdffleet.com/",
    "result": "server_error",
    "state": "unconfirmed",
@@ -19154,7 +19132,8 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 202,
+   "status": 200,
+   "title": "Item - PLAID 2017 - Carnegie Mellon University - Figshare",
    "url": "https://kilthub.cmu.edu/articles/dataset/PLAID_2017/11605215"
   },
   "planecrashdata-global-aviation-accident-database": {
@@ -19177,8 +19156,8 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 307,
-   "title": "You are being redirected...",
+   "status": 200,
+   "title": "Database index",
    "url": "https://www.planecrashinfo.com/database.htm"
   },
   "playerdb": {
@@ -19845,10 +19824,9 @@
    "failures": 0,
    "final_url": "https://catalyst.coop/pudl/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "The Public Utility Data Liberation (PUDL) Project - Catalyst Cooperative",
+   "status": 403,
    "url": "https://catalyst.coop/pudl/"
   },
   "publicdatahub": {
@@ -20324,10 +20302,9 @@
    "failures": 0,
    "final_url": "https://randomlexicon.com/api-reference",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Random Lexicon API Reference | Random Word API",
+   "status": 403,
    "url": "https://randomlexicon.com/api-reference"
   },
   "random-useless-facts": {
@@ -20476,7 +20453,7 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://razorpay.com/docs/home",
+   "final_url": "https://razorpay.com/docs/us/home",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
@@ -20819,14 +20796,13 @@
   },
   "rescuegroups": {
    "checked": "2026-09-27",
-   "failing_since": null,
-   "failures": 0,
-   "final_url": "https://userguide.rescuegroups.org/spaces/APIDG/pages/8192120/API+Developers+Guide+Home",
+   "detail": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+   "failing_since": "2026-09-27",
+   "failures": 1,
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "connection_error",
    "state": "verified",
-   "status": 200,
-   "title": "API Developers Guide Home - API Developers Guide - RescueGroups.org",
+   "status": null,
    "url": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
   },
   "resmush-it": {
@@ -21073,10 +21049,9 @@
    "failures": 0,
    "final_url": "https://www.runconvert.com/docs",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "API Reference | RunConvert",
+   "status": 403,
    "url": "https://www.runconvert.com/docs"
   },
   "runescape": {
@@ -21241,10 +21216,9 @@
    "failures": 0,
    "final_url": "https://sayitvid.com/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "SayItVid - Learn How English Is Really Spoken",
+   "status": 403,
    "url": "https://sayitvid.com"
   },
   "scanii": {
@@ -22138,8 +22112,7 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 200,
-   "title": "Facebook Social Connectedness Index | Humanitarian Dataset | HDX",
+   "status": 202,
    "url": "https://data.humdata.org/dataset/social-connectedness-index"
   },
   "socialcrawl": {
@@ -22657,10 +22630,9 @@
    "failures": 0,
    "final_url": "https://stanzaapi.com/tools/pharma-dscsa",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "FDA DSCSA & EU FMD Drug Serialization API | 21 USC 360eee & GS1 VRS Engine",
+   "status": 403,
    "url": "https://stanzaapi.com/tools/pharma-dscsa"
   },
   "stanza-udi-decoder": {
@@ -22669,10 +22641,9 @@
    "failures": 0,
    "final_url": "https://stanzaapi.com/tools/udi-decoder",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Free UDI Barcode Decoder & Parser | Instant GS1, HIBCC, ICCBBA — Stanza API",
+   "status": 403,
    "url": "https://stanzaapi.com/tools/udi-decoder"
   },
   "stanza-vat-validator": {
@@ -22681,10 +22652,9 @@
    "failures": 0,
    "final_url": "https://stanzaapi.com/tools/vat-validator",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "EU & UK VAT Validator & Rate Engine API | 2026 Tax Rates & VIES Specs",
+   "status": 403,
    "url": "https://stanzaapi.com/tools/vat-validator"
   },
   "stapi": {
@@ -22744,6 +22714,7 @@
    "result": "ok",
    "state": "verified",
    "status": 200,
+   "title": "Statistics South Africa | Improving Lives Through Data Ecosystems",
    "url": "https://www.statssa.gov.za/"
   },
   "statlib-datasets-archive": {
@@ -22956,10 +22927,9 @@
    "failures": 0,
    "final_url": "https://www.stowers.org/stowers-odr",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Stowers Institute for Medical Research | Stowers Original Data…",
+   "status": 403,
    "url": "https://www.stowers.org/stowers-odr"
   },
   "strait-of-hormuz-ship-monitor": {
@@ -23256,7 +23226,8 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 202,
+   "status": 200,
+   "title": "Collection - SynD: A Synthetic Energy Dataset for Non-Intrusive Load Monitoring in Households - Scientific Data - Figshare",
    "url": "https://springernature.figshare.com/collections/SynD_A_Synthetic_Energy_Dataset_for_Non-Intrusive_Load_Monitoring_in_Households/4716179"
   },
   "synonyms": {
@@ -23669,7 +23640,7 @@
    "checked": "2026-09-27",
    "detail": "HTTPSConnectionPool(host='www.cellimagelibrary.org', port=443): Max retries exceeded with url: /home (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verif",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "result": "ssl_error",
    "state": "unconfirmed",
    "status": null,
@@ -23942,12 +23913,11 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://theysaidso.com/api",
+   "final_url": "https://theysaidso.com/api/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Quotes API — REST API Documentation | They Said So",
+   "status": 403,
    "url": "https://theysaidso.com/api/"
   },
   "thirukkural": {
@@ -24028,10 +23998,9 @@
    "failures": 0,
    "final_url": "https://thunderbit.com/docs/introduction",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Introduction | Thunderbit API",
+   "status": 403,
    "url": "https://thunderbit.com/docs/introduction"
   },
   "tickerlayer": {
@@ -24627,10 +24596,9 @@
    "failures": 0,
    "final_url": "https://digitransit.fi/en/developers/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "For developers | Digitransit",
+   "status": 403,
    "url": "https://digitransit.fi/en/developers/"
   },
   "transport-for-germany": {
@@ -24713,8 +24681,7 @@
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
-   "status": 200,
-   "title": "Real Time APIs – Metro Open Data",
+   "status": 202,
    "url": "https://developer.metro.net/api/"
   },
   "transport-for-manchester-england": {
@@ -24778,11 +24745,12 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
+   "final_url": "https://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Documentacao API | SPTrans",
    "url": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/"
   },
   "transport-for-spain": {
@@ -25063,29 +25031,28 @@
    "failures": 0,
    "final_url": "https://www.tubetotranscript.com/youtube-transcript-api",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "YouTube Transcript API — REST API, Batch Processing & MCP — TubeToTranscript",
+   "status": 403,
    "url": "https://www.tubetotranscript.com/youtube-transcript-api"
   },
   "tumblr": {
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://www.tumblr.com/privacy/consent/begin?redirect=https%3A%2F%2Fwww.tumblr.com%2Fdocs%2Fen%2Fapi%2Fv2&v=2",
+   "final_url": "https://www.tumblr.com/docs/en/api/v2",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Tumblr",
+   "title": "API | Tumblr",
    "url": "https://www.tumblr.com/docs/en/api/v2"
   },
   "tunisia-national-open-data-portal": {
    "checked": "2026-09-27",
    "detail": "HTTPSConnectionPool(host='www.data.gov.tn', port=443): Max retries exceeded with url: /fr/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: ",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "result": "ssl_error",
    "state": "unconfirmed",
    "status": null,
@@ -25366,12 +25333,14 @@
   },
   "ucsc-genome-browser-downloads": {
    "checked": "2026-09-27",
-   "detail": "HTTPSConnectionPool(host='hgdownload.soe.ucsc.edu', port=443): Max retries exceeded with url: /downloads.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='hgdownload.soe.ucsc.edu', port=443) ",
-   "failing_since": "2026-09-27",
-   "failures": 2,
-   "result": "timeout",
-   "state": "unconfirmed",
-   "status": null,
+   "failing_since": null,
+   "failures": 0,
+   "final_url": "https://hgdownload.soe.ucsc.edu/downloads.html",
+   "last_ok": "2026-09-27",
+   "result": "ok",
+   "state": "verified",
+   "status": 200,
+   "title": "UCSC Genome Browser Downloads",
    "url": "https://hgdownload.soe.ucsc.edu/downloads.html"
   },
   "ucsd-network-telescope": {
@@ -25414,7 +25383,7 @@
    "checked": "2026-09-27",
    "detail": "HTTPSConnectionPool(host='www.ubos.org', port=443): Max retries exceeded with url: /data-portals-2/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify",
    "failing_since": "2026-09-27",
-   "failures": 2,
+   "failures": 3,
    "result": "ssl_error",
    "state": "unconfirmed",
    "status": null,
@@ -26642,10 +26611,9 @@
    "failures": 0,
    "final_url": "https://avatar.waldrand.dev/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "avatar.waldrand.dev — avatars & identicons",
+   "status": 403,
    "url": "https://avatar.waldrand.dev"
   },
   "wallhaven": {
@@ -26849,7 +26817,6 @@
    "result": "ok",
    "state": "verified",
    "status": 200,
-   "title": "Web Metadata and Contact Extractor",
    "url": "https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor"
   },
   "web-of-trust": {
@@ -26942,10 +26909,9 @@
    "failures": 0,
    "final_url": "https://api.websitecarbon.com/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Website Carbon API",
+   "status": 403,
    "url": "https://api.websitecarbon.com/"
   },
   "webz-io-free-news-datasets": {
@@ -27037,9 +27003,10 @@
    "failures": 0,
    "final_url": "https://www.whatjobs.com/affiliates",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "Publisher Program | WhatJobs?",
    "url": "https://www.whatjobs.com/affiliates"
   },
   "whatpulse": {
@@ -27142,7 +27109,7 @@
    "checked": "2026-09-27",
    "failing_since": null,
    "failures": 0,
-   "final_url": "https://euklems.eu/?doing_wp_cron=1790509088.4635949134826660156250",
+   "final_url": "https://euklems.eu/",
    "last_ok": "2026-09-27",
    "result": "ok",
    "state": "verified",
@@ -27156,9 +27123,10 @@
    "failures": 0,
    "final_url": "https://www.wikidata.org/w/api.php?action=help",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "MediaWiki API help - Wikidata",
    "url": "https://www.wikidata.org/w/api.php?action=help"
   },
   "wikilinks": {
@@ -27179,9 +27147,10 @@
    "failures": 0,
    "final_url": "https://www.mediawiki.org/wiki/API:Main_page",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "API:Action API - MediaWiki",
    "url": "https://www.mediawiki.org/wiki/API:Main_page"
   },
   "wiktionary": {
@@ -27190,9 +27159,10 @@
    "failures": 0,
    "final_url": "https://en.wiktionary.org/w/api.php",
    "last_ok": "2026-09-27",
-   "result": "restricted",
+   "result": "ok",
    "state": "verified",
-   "status": 403,
+   "status": 200,
+   "title": "MediaWiki API help - Wiktionary, the free dictionary",
    "url": "https://en.wiktionary.org/w/api.php"
   },
   "windalytics-meteo": {
@@ -27464,10 +27434,9 @@
    "failures": 0,
    "final_url": "https://worththerip.com/api/",
    "last_ok": "2026-09-27",
-   "result": "ok",
+   "result": "restricted",
    "state": "verified",
-   "status": 200,
-   "title": "Free TCG price & EV data API — Worth the Rip",
+   "status": 403,
    "url": "https://worththerip.com/api/"
   },
   "wounded-warriors-veteran-resource-directory": {
