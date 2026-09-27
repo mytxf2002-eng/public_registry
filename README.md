@@ -16,7 +16,7 @@ from `data/`; none of them is edited by hand.
 
 ## Browse
 
-- **Site**: <https://mytxf2002-eng.github.io/public_registry/>. Search and filter by domain, kind,
+- **Site**: <https://reg.cugeng.com/>. Search and filter by domain, kind,
   licence, access, authentication and link status, with a quality dashboard. To build it locally, run
   `python -m registry_kit build` and open `build/site/index.html`.
 - **Downloads**: `export/resources.csv`, `export/resources.json` and `export/registry.sqlite` next to the site.
@@ -131,10 +131,15 @@ described in [docs/maintaining.zh-CN.md](docs/maintaining.zh-CN.md).
 After the first push, run once with the GitHub CLI logged in as the owner:
 
 ```
-bash tools/github_setup.sh OWNER/REPO
+bash tools/github_setup.sh OWNER/REPO [DOMAIN]
 ```
 
 It sets squash-only merging, the default-branch ruleset from `.github/rulesets/main.json`, Pages deployed
 by Actions, permission for workflows to open the archive pull requests, approval before first-time
 contributors' workflows run, Dependabot alerts and security updates, private vulnerability reporting, the
 labels, and seeds the `health-data` branch. Each step prints where to set it by hand if the API call fails.
+
+The optional `DOMAIN` serves the site from a custom domain over HTTPS instead of `OWNER.github.io/REPO`;
+the old address then redirects to it. Point the domain at GitHub before running the script: for a
+subdomain a CNAME record to `OWNER.github.io`, for an apex domain the A and AAAA records of GitHub Pages.
+This registry runs at `reg.cugeng.com`.

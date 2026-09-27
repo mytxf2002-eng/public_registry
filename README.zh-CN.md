@@ -14,7 +14,7 @@
 
 ## 怎么用
 
-- **网站**：<https://mytxf2002-eng.github.io/public_registry/>。按领域、类型、许可、获取方式、鉴权和链接状态检索筛选，
+- **网站**：<https://reg.cugeng.com/>。按领域、类型、许可、获取方式、鉴权和链接状态检索筛选，
   另有质量看板。想在本地查看，运行 `python -m registry_kit build` 后打开 `build/site/index.html`。
 - **下载**：网站根目录下的 `export/resources.csv`、`export/resources.json`、`export/registry.sqlite`。
 - **只读接口**：`api/v1/index.json`、`api/v1/resources/{id}.json`、`api/v1/domains/{domain}.json`、
@@ -83,9 +83,13 @@ python -m unittest discover -s tests -t .  # 引擎测试，以及针对真实�
 第一次推送后，用仓库所有者身份登录 GitHub CLI（`gh auth login`），运行一次：
 
 ```
-bash tools/github_setup.sh 所有者/仓库名
+bash tools/github_setup.sh 所有者/仓库名 [域名]
 ```
 
 它会完成这些设置：只允许 squash 合并；导入 `.github/rulesets/main.json` 作为默认分支的规则集；Pages 由 Actions 部署；
 允许工作流开归档拉取请求；首次贡献者的工作流需维护者批准后才运行；开启 Dependabot 警报与安全更新、私密漏洞报告；创建
 标签；用当前链接状态初始化 `health-data` 分支。任何一步通过接口设置失败，都会提示在网页上的哪里手动设置。
+
+可选的“域名”参数让网站改用自定义域名，并启用 HTTPS，原来的 `所有者.github.io/仓库名` 会自动跳转过去。运行前先在
+域名服务商把域名指向 GitHub：子域名加一条指向 `所有者.github.io` 的 CNAME 记录；根域名加 GitHub Pages 的 A 和 AAAA
+记录。本目录的网站在 `reg.cugeng.com`。

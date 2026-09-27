@@ -1,13 +1,21 @@
 #!/usr/bin/env bash
 # One-time GitHub configuration for a personally maintained registry.
 #
-#   usage: bash tools/github_setup.sh OWNER/REPO
+#   usage: bash tools/github_setup.sh OWNER/REPO [DOMAIN]
 #
 # Run it from the repository root after the first push, with the GitHub CLI logged in as the owner
 # (gh auth login). Every step can be re-run; a step that fails prints where to set it by hand.
+#
+# DOMAIN (optional) serves the site from a custom domain such as reg.example.com instead of
+# OWNER.github.io/REPO. Point the domain at GitHub first: for a subdomain a CNAME record to
+# OWNER.github.io, for an apex domain the A and AAAA records of GitHub Pages. Verifying the domain for
+# your account (Settings > Pages > Add a domain) keeps anyone else from using it. GitHub then issues
+# the certificate, usually within minutes; re-run the script if HTTPS could not be enforced yet.
 set -uo pipefail
 
-repo="${1:?usage: bash tools/github_setup.sh OWNER/REPO}"
+repo="${1:?usage: bash tools/github_setup.sh OWNER/REPO [DOMAIN]}"
+domain="${2:-}"
+owner="$(printf '%s' "${repo%%/*}" | tr '[:upper:]' '[:lower:]')"
 step() { printf '\n== %s\n' "$1"; }
 manual() { printf '   could not set this automatically; set it by hand: %s\n' "$1"; }
 
@@ -30,6 +38,23 @@ step "GitHub Pages, deployed by the publish workflow"
 gh api -X POST "repos/$repo/pages" -f build_type=workflow >/dev/null 2>&1 \
   || gh api -X PUT "repos/$repo/pages" -f build_type=workflow \
   || manual "Settings > Pages > Source: GitHub Actions"
+
+if [ -n "$domain" ]; then
+  step "Custom domain $domain, served over HTTPS"
+  current="$(gh api "repos/$repo/pages" --jq '.cname // ""' 2>/dev/null)"
+  if [ "$current" = "$domain" ]; then
+    echo "   the site already uses $domain"
+  else
+    gh api -X PUT "repos/$repo/pages" -f cname="$domain" \
+      || manual "Settings > Pages > Custom domain: $domain"
+  fi
+  if gh api -X PUT "repos/$repo/pages" -F https_enforced=true >/dev/null 2>&1; then
+    echo "   HTTPS is enforced"
+  else
+    echo "   the certificate for $domain is not ready yet (GitHub issues it once the DNS records point"
+    echo "   to GitHub, usually within minutes); re-run this script, or tick Settings > Pages > Enforce HTTPS"
+  fi
+fi
 
 step "Ruleset for the default branch (.github/rulesets/main.json; re-run after changing that file)"
 ruleset_id="$(gh api "repos/$repo/rulesets" --jq '.[] | select(.name == "main") | .id' 2>/dev/null)"
@@ -70,5 +95,6 @@ else
   rm -rf "$tmp"
 fi
 
+if [ -n "$domain" ]; then site="https://$domain/"; else site="https://$owner.github.io/${repo#*/}/"; fi
 printf '\nDone. Next: run "Link health" once (Actions > Link health > Run workflow); "Publish" follows it\n'
-printf 'and deploys the site to https://%s.github.io/%s/\n' "${repo%%/*}" "${repo#*/}"
+printf 'and deploys the site to %s\n' "$site"
