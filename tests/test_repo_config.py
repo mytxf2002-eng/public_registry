@@ -57,6 +57,14 @@ class RepoConfigTest(unittest.TestCase):
             self.assertFalse(pr['require_code_owner_review'])
         self.assertEqual(ruleset['bypass_actors'], [])
 
+    def test_ruleset_states_every_approval_setting(self):
+        # GitHub switches on parameters a ruleset leaves out, so the file names them all and matches
+        # what GitHub enforces: commits that cannot be attributed to an account need one more approval
+        with open(os.path.join(ROOT, '.github', 'rulesets', 'main.json'), encoding='utf-8') as f:
+            ruleset = json.load(f)
+        pr = next(r for r in ruleset['rules'] if r['type'] == 'pull_request')['parameters']
+        self.assertIs(pr.get('require_extra_approval_for_unattributed_changes'), True)
+
     def test_actions_are_pinned_to_commits(self):
         for path in glob.glob(os.path.join(WORKFLOWS, '*.yml')):
             with open(path, encoding='utf-8') as f:

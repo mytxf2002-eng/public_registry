@@ -8,14 +8,14 @@
 | 截至 2026-09-27 | |
 |---|---|
 | 资源 | 2,352 个，分布在 45 个领域（1,907 个 API、680 个数据集、3 个 MCP 服务器；其中 238 个同时是 API 和数据集），另有 195 个已归档 |
-| 链接可用 | 已检测资源中 99.1% 可用（21 个尚未检测成功，没有判为失效的） |
+| 链接可用 | 已检测资源中 99.4% 可用（15 个尚未检测成功，没有判为失效的） |
 | 许可已知 | 数据集 74.4%，API 9.4%（public-apis 原表从未记录许可） |
 | 中文说明 | 100% |
 
 ## 怎么用
 
-- **网站**：按领域、类型、许可、获取方式、鉴权和链接状态检索筛选，另有质量看板。本地运行
-  `python -m registry_kit build` 后打开 `build/site/index.html`；发布流水线会把它部署到 GitHub Pages。
+- **网站**：<https://mytxf2002-eng.github.io/public_registry/>。按领域、类型、许可、获取方式、鉴权和链接状态检索筛选，
+  另有质量看板。想在本地查看，运行 `python -m registry_kit build` 后打开 `build/site/index.html`。
 - **下载**：网站根目录下的 `export/resources.csv`、`export/resources.json`、`export/registry.sqlite`。
 - **只读接口**：`api/v1/index.json`、`api/v1/resources/{id}.json`、`api/v1/domains/{domain}.json`、
   `api/v1/kinds/{kind}.json`，都是静态 JSON，无需 key，不限流。
@@ -57,7 +57,7 @@ python -m unittest discover -s tests -t .  # 引擎测试，以及针对真实�
    `pr-comment.yml` 用一条评论列出全部问题。测试在 Linux 和 Windows 上都跑。
 2. **合并门禁**（`.github/rulesets/main.json`）：所有改动，包括维护者自己的，都必须经拉取请求进入 `main`；分支必须与
    `main` 同步，并且 `validate` 和 Linux、Windows 两个 `tests` 都通过之后才能合并，所以两个拉取请求不会加进同一个链接。
-   禁止直接推送和强制推送，只允许 squash 合并；只有维护者能合并。
+   含有无法关联到 GitHub 账号的提交的拉取请求，还需要一个批准。禁止直接推送和强制推送，只允许 squash 合并；只有维护者能合并。
 3. **链接健康**（`health.yml`，每日）：每个主机最多 2 个并发请求，超时和 5xx 重试，401/403/429 算可用。连续 3 次失败且
    跨度至少 7 天才判为失效；跨站跳转、停放页或博彩页面标为待核实。首次失败满 30 天，检测任务开拉取请求把它移入
    `data/_archive/`（同一时间只开一个）。由工作流开的拉取请求，GitHub 会先暂停它的检查，等维护者在拉取请求页面批准后才运行。

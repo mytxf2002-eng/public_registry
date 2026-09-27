@@ -10,15 +10,15 @@ from `data/`; none of them is edited by hand.
 | As of 2026-09-27 | |
 |---|---|
 | Resources | 2,352 in 45 domains (1,907 APIs, 680 datasets, 3 MCP servers; 238 are both an API and a dataset), plus 195 archived |
-| Links working | 99.1% of those checked (21 not yet seen working, none failing) |
+| Links working | 99.4% of those checked (15 not yet seen working, none failing) |
 | Licence known | 74.4% of datasets, 9.4% of APIs (the public-apis list never recorded licences) |
 | Chinese descriptions | 100% |
 
 ## Browse
 
-- **Site**: search and filter by domain, kind, licence, access, authentication and link status, with a
-  quality dashboard. Build it with `python -m registry_kit build` and open `build/site/index.html`; the
-  publish workflow deploys it to GitHub Pages.
+- **Site**: <https://mytxf2002-eng.github.io/public_registry/>. Search and filter by domain, kind,
+  licence, access, authentication and link status, with a quality dashboard. To build it locally, run
+  `python -m registry_kit build` and open `build/site/index.html`.
 - **Downloads**: `export/resources.csv`, `export/resources.json` and `export/registry.sqlite` next to the site.
 - **Read-only API**: `api/v1/index.json`, `api/v1/resources/{id}.json`, `api/v1/domains/{domain}.json`,
   `api/v1/kinds/{kind}.json` (static JSON, no key, no rate limit).
@@ -95,7 +95,8 @@ python -m unittest discover -s tests -t .  # engine tests plus regression tests 
    everything. Tests run on Linux and Windows.
 2. **Merge gate** (`.github/rulesets/main.json`): every change reaches `main` through a pull request, the
    maintainer's own included, and only after `validate` and the Linux and Windows `tests` pass on a branch
-   that is up to date with `main`, so two pull requests cannot add the same link. No direct pushes, no
+   that is up to date with `main`, so two pull requests cannot add the same link. A pull request with
+   commits that cannot be attributed to a GitHub account also needs one approval. No direct pushes, no
    force pushes, squash merges only. Only the maintainer can merge.
 3. **Link health** (`health.yml`, daily): at most two concurrent requests per host, retries for timeouts
    and 5xx, 401/403/429 count as working. A resource becomes `failing` only after 3 failed checks in a row
