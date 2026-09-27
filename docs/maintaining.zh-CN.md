@@ -35,7 +35,8 @@ GitHub 可能自动停用定时工作流；回来后在 Actions → Link health 
 - **领域和描述合适吗？** 领域按 `vocab/domains.yml` 的范围说明判断；描述要客观，不用宣传词。
 
 需要修改时，在拉取请求里直接评论；贡献者推送后，自动评论会更新。合并一律用 squash。分支落后于 `main` 时，规则集不允许
-合并：先点 “Update branch”，等检查重新通过再合并，这样两个同时提交的拉取请求不会加进同一个链接。
+合并：先点 “Update branch”，等检查重新通过再合并，这样两个同时提交的拉取请求不会加进同一个链接。拉取请求里有无法关联到
+GitHub 账号的提交时，规则集要求多一个批准：审核无误后，在 “Files changed” 里点 “Review changes” → “Approve” 即可合并。
 
 ## 处理链接检测结果
 
@@ -62,6 +63,9 @@ git push -u origin 修改说明      然后开拉取请求，检查通过后 squ
 ```
 
 改了 `vocab/` 之后要运行 `python -m registry_kit schema`，并把重新生成的 `schema/*.json` 一起提交。
+
+提交要用关联到你 GitHub 账号的邮箱（本仓库设的是 `…@users.noreply.github.com`，换电脑时用 `git config user.email` 设成
+同一个）。否则规则集会把这些提交当作无法关联到账号的改动，要求多一个批准，而作者不能批准自己的拉取请求。
 
 ## 出问题时
 
