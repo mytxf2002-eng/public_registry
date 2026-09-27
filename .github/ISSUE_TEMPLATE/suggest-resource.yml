@@ -1,0 +1,39 @@
+name: Suggest a resource
+description: Tell us about an API, a dataset or an MCP server that should be in the registry.
+labels: [suggestion]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the resource
+      description: The resource's own page, without tracking parameters.
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is it?
+      multiple: true
+      options: [API, Dataset, MCP server]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it provide?
+      description: One or two plain sentences. Coverage, time span and size help.
+    validations:
+      required: true
+  - type: input
+    id: licence
+    attributes:
+      label: Licence or terms, and where they are stated
+      placeholder: CC BY 4.0 – https://…/terms
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Are you affiliated with the publisher?
+      options: ['No', 'Yes']
+    validations:
+      required: true

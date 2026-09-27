@@ -1,0 +1,139 @@
+# Every pull request gets the full set of checks, and every check runs even when an earlier one failed,
+# so a contributor sees all problems in one round. This workflow holds no secrets and only reads the
+# repository; the comment on the pull request is posted by pr-comment.yml from the report it uploads.
+# Pull requests opened by a workflow (the archive pull requests of health.yml) also start it, once the
+# maintainer approves the run on the pull request page.
+name: PR gate
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-gate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    # an explicit bash runs with -eo pipefail, so a failing command is not hidden by `| tee`
+    shell: bash
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Find the files this change adds, modifies or moves
+        id: files
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git diff --name-only --diff-filter=A "$BASE"...HEAD -- data/ > added.txt
+          git diff --name-only --diff-filter=MR "$BASE"...HEAD -- data/ > modified.txt
+          echo "added=$(wc -l < added.txt)" >> "$GITHUB_OUTPUT"
+          echo "modified=$(wc -l < modified.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Schema is generated from vocab/
+        id: schema
+        if: ${{ !cancelled() }}
+        run: python -m registry_kit schema --check 2>&1 | tee schema.txt
+
+      - name: Files are in canonical form
+        id: format
+        if: ${{ !cancelled() }}
+        run: python -m registry_kit format --check 2>&1 | tee format.txt
+
+      - name: Validate every file (new files need complete metadata)
+        id: validate
+        if: ${{ !cancelled() }}
+        run: python -m registry_kit validate --limit 500 --strict $(cat added.txt) 2>&1 | tee validate.txt
+
+      - name: Links of new resources answer
+        id: links
+        if: ${{ !cancelled() && steps.files.outputs.added != '0' }}
+        run: python -m registry_kit check-urls --files $(cat added.txt) 2>&1 | tee links.txt
+
+      - name: Links of modified resources (for information; a site that is down does not block the change)
+        id: modified_links
+        if: ${{ !cancelled() && steps.files.outputs.modified != '0' }}
+        continue-on-error: true
+        run: python -m registry_kit check-urls --files $(cat modified.txt) 2>&1 | tee modified-links.txt
+
+      - name: Write the report for the pull request comment
+        if: ${{ !cancelled() }}
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          OUTCOMES: >-
+            schema=${{ steps.schema.outcome }} format=${{ steps.format.outcome }}
+            validate=${{ steps.validate.outcome }} links=${{ steps.links.outcome }}
+            modified-links=${{ steps.modified_links.outcome }}
+        run: |
+          mkdir -p report
+          echo "$PR_NUMBER" > report/pr-number.txt
+          {
+            echo "## Registry checks"
+            echo
+            echo "| Check | Result |"
+            echo "|---|---|"
+            failed=""
+            for pair in $OUTCOMES; do
+              name="${pair%%=*}"; outcome="${pair#*=}"
+              case "$outcome" in
+                success) mark="passed";;
+                skipped|"") mark="not needed";;
+                *) failed="$failed $name"
+                   if [ "$name" = "modified-links" ]; then mark="some links do not answer (not blocking)"; else mark="**failed**"; fi;;
+              esac
+              echo "| $name | $mark |"
+            done
+            for f in $failed; do
+              if [ -s "$f.txt" ]; then
+                echo; echo "<details><summary>$f output</summary>"; echo; echo '```'
+                head -n 200 "$f.txt"; echo '```'; echo "</details>"
+              fi
+            done
+            echo
+            echo "Fix what is listed above and push again; \`python -m registry_kit format\` fixes layout,"
+            echo "licence spellings and tracking parameters for you. See CONTRIBUTING.md."
+          } > report/comment.md
+
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: ${{ !cancelled() }}
+        with:
+          name: pr-report
+          path: report/
+          retention-days: 7
+
+  tests:
+    # the engine and the real-data regression tests, on Linux and Windows (file encodings differ)
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -t .

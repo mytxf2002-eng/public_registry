@@ -1,0 +1,52 @@
+Public Registry
+Copyright (c) 2026 Public Registry contributors
+
+This catalogue includes material from the following projects.
+
+1. public-apis (https://github.com/public-apis/public-apis)
+
+   The resources whose provenance.origin is "public-apis" (1,739 listed and 195 archived on 2026-09-27)
+   were imported on 2026-09-27 from the README.md of public-apis: their names, URLs and descriptions, and
+   their authentication, HTTPS and CORS values. How the list was cleaned up and converted is described in
+   docs/provenance.zh-CN.md. It is used under the MIT licence:
+
+   MIT License
+
+   Copyright (c) 2022 public-apis
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+2. Dataset leads from awesome-public-datasets (https://github.com/awesomedata/awesome-public-datasets)
+
+   The metadata of awesome-public-datasets (its apd-core repository) is licensed under GPL-3.0, so none
+   of it was copied. The homepage URLs listed there were used as leads for independent research on
+   2026-09-27, and later its licence values as hints for checking licences (see below). Every field of the 613 resources whose provenance.origin is "apd-link" -- and of the
+   dataset facets added to 77 existing resources -- was written from each resource's own website, under
+   this registry's own inclusion rules and vocabularies; names, descriptions, domains, tags, licences
+   and all other values were not taken from that project. Of the 973 leads, 613 became resources of
+   their own, 77 added a dataset facet to a resource already listed, and 283 were not used (dead, no
+   data, paid only, duplicates, or rejected on review).
+
+   Later the same day, with the maintainer's approval, the `license` field of those entries was read as a
+   hint for 43 resources whose licence was unknown or disputed. Each licence was checked on the resource's
+   own site before use: 33 were set to what that site states (10 of them differ from the hint), 5
+   existing values were confirmed, and 5 stay unknown. No licence text was taken from that project.
+
+3. The Chinese descriptions and group labels in i18n/zh-CN/ were written for this project in September
+   2026, not taken from either project above, and are licensed with the rest of the data under CC BY 4.0.

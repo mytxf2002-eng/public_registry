@@ -1,0 +1,11 @@
+The catalogue data of Public Registry -- the files in data/, i18n/, vocab/ and schema/, and everything
+generated from them (the site, the exports and the static API) -- is licensed under the
+
+    Creative Commons Attribution 4.0 International licence (CC BY 4.0)
+    https://creativecommons.org/licenses/by/4.0/
+    Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution: "Public Registry contributors", with a link to the repository.
+
+Parts of the data come from other projects under their own licences; see NOTICE. The `license` field of
+each resource describes that resource's own data or service, not this catalogue.

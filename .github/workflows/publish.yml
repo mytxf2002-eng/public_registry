@@ -1,0 +1,100 @@
+# Builds everything from main and publishes it to GitHub Pages: the site, the exports and the static API.
+# Only the newest run publishes (concurrency group), and the job that reads the data can only read.
+name: Publish
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: [Link health]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# workflow_run matches workflows by name, so a pull request that adds a workflow called "Link health" could
+# start this one. Such runs get a group of their own and skip every job: they can never cancel a real
+# publish, and they deploy nothing.
+concurrency:
+  group: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.event == 'pull_request' && format('publish-ignored-{0}', github.run_id) || 'publish' }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    # an explicit bash runs with -eo pipefail, so a failing command is not hidden by a pipe
+    shell: bash
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.event != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      sha: ${{ steps.sha.outputs.sha }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+
+      - id: sha
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: python -m pip install -r requirements.txt
+
+      - name: Load the latest link state
+        run: |
+          if git ls-remote --exit-code origin health-data >/dev/null 2>&1; then
+            git fetch --depth=1 origin health-data
+            git show FETCH_HEAD:status.json > health/status.json
+          fi
+
+      - name: Validate before publishing
+        run: python -m registry_kit validate
+
+      - name: Build
+        run: python -m registry_kit build --source-sha "${{ steps.sha.outputs.sha }}"
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: build/site
+
+  pages:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+      - id: deploy
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
+
+      - name: The read-only API answers with this build
+        # the query string bypasses the CDN cache; the new deployment can take a few minutes to appear
+        env:
+          URL: ${{ steps.deploy.outputs.page_url }}
+          SHA: ${{ needs.build.outputs.sha }}
+        run: |
+          got=""
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
+            got="$(curl --fail --silent "${URL}api/v1/index.json?v=${SHA}" \
+              | python3 -c 'import json, sys; print(json.load(sys.stdin)["source_sha"])' 2>/dev/null || true)"
+            if [ "$got" = "$SHA" ]; then
+              echo "api/v1/index.json reports $SHA (attempt $attempt)"
+              exit 0
+            fi
+            sleep 30
+          done
+          echo "api/v1/index.json does not report $SHA after 5 minutes (got: ${got:-nothing})"
+          exit 1

@@ -1,0 +1,59 @@
+# Posts the PR gate's report as one comment on the pull request, and updates that comment on later runs.
+# It runs in the base repository's context with write access to pull requests, so it never checks out or
+# runs code from the pull request. It reads only the Markdown report and the number the gate uploaded,
+# and treats both as untrusted: the number must belong to a pull request whose head is the commit the
+# gate ran on, so a modified gate in one pull request cannot write to another pull request.
+name: PR comment
+
+on:
+  workflow_run:
+    workflows: [PR gate]
+    types: [completed]
+
+permissions: {}
+
+jobs:
+  comment:
+    # a cancelled run (superseded by a newer push) or one still waiting for approval has no report
+    if: >-
+      github.event.workflow_run.event == 'pull_request' &&
+      contains(fromJSON('["success", "failure"]'), github.event.workflow_run.conclusion)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: read            # download the report the gate uploaded
+      pull-requests: write     # post or update the comment
+    steps:
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        continue-on-error: true
+        with:
+          name: pr-report
+          path: report
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const fs = require('fs');
+            if (!fs.existsSync('report/pr-number.txt') || !fs.existsSync('report/comment.md')) {
+              core.notice('the gate run uploaded no report; nothing to post');
+              return;
+            }
+            const number = Number(fs.readFileSync('report/pr-number.txt', 'utf8').trim());
+            if (!Number.isInteger(number) || number <= 0) { core.setFailed('bad pull request number'); return; }
+            const { owner, repo } = context.repo;
+            const { data: pr } = await github.rest.pulls.get({ owner, repo, pull_number: number });
+            if (pr.head.sha !== context.payload.workflow_run.head_sha) {
+              core.warning(`pull request #${number} is not at the commit the gate checked; not commenting`);
+              return;
+            }
+            const marker = '<!-- registry-checks -->';
+            const body = marker + '\n' + fs.readFileSync('report/comment.md', 'utf8').slice(0, 60000);
+            const comments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number: number });
+            const mine = comments.find(c => c.user.login === 'github-actions[bot]' && c.body.startsWith(marker));
+            if (mine) {
+              await github.rest.issues.updateComment({ owner, repo, comment_id: mine.id, body });
+            } else {
+              await github.rest.issues.createComment({ owner, repo, issue_number: number, body });
+            }

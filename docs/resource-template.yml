@@ -1,0 +1,25 @@
+# Copy to data/<domain>/<id>.yml, fill in every '<...>' slot and delete the blocks that do not apply.
+# The validator rejects any slot left in the file. Field rules: CONTRIBUTING.md. Vocabularies: vocab/.
+id: '<id>'                      # lowercase letters, digits and hyphens; same as the file name
+kind: ['<kind>']                # api, dataset, mcp-server; one or more
+name: '<name>'                  # the resource's own name, not ending in " API"
+url: '<url>'                    # https:// landing page, without tracking parameters
+description: '<description>'    # one plain sentence, 10-200 characters, no final period
+domain: '<domain>'              # an id from vocab/domains.yml
+tags: ['<tag>']                 # up to 8 lowercase tags such as air-quality; not the domain id
+license: '<license>'            # an id from vocab/licenses.yml; new resources need a known licence
+license_url: '<license url>'    # the page where the licence or terms are stated
+publisher:
+  name: '<publisher name>'
+  kind: '<publisher kind>'      # government, intergovernmental, academic, nonprofit, company, community, individual
+provenance:
+  added: '<date>'               # YYYY-MM-DD
+  origin: contribution
+api:                            # only when kind has api
+  auth: '<auth>'                # none, api-key, oauth, user-agent, x-mashape-key
+  https: true
+  cors: unknown                 # yes, no or unknown
+dataset:                        # only when kind has dataset
+  formats: ['<format>']         # ids from vocab/formats.yml
+  access: '<access>'            # public, registration, application, paid-tier
+  update_frequency: '<frequency>'   # realtime, daily, weekly, monthly, quarterly, annual, irregular, static

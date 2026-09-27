@@ -1,0 +1,163 @@
+# Daily link check. The state lives on the `health-data` branch, never in the resource files, so the
+# daily results do not flood the history of main. Resources still failing 30 days after their first failed
+# check are moved to data/_archive/ through a pull request, which the maintainer reviews like any other.
+name: Link health
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: link-health
+  cancel-in-progress: false
+
+defaults:
+  run:
+    # an explicit bash runs with -eo pipefail, so a failing command is not hidden by a pipe
+    shell: bash
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write      # push health/status.json to the health-data branch
+      issues: write        # keep the rolling "Link health" issue up to date
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: python -m pip install -r requirements.txt
+
+      - name: Load the previous state
+        run: |
+          if git ls-remote --exit-code origin health-data >/dev/null 2>&1; then
+            git fetch --depth=1 origin health-data
+            git show FETCH_HEAD:status.json > health/status.json
+          fi
+
+      - name: Check every link
+        run: python -m registry_kit health --workers 16 --report health-report.md
+
+      # uploaded before anything else can fail, so the archive job always gets today's state
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: health-state
+          path: health/status.json
+          retention-days: 7
+
+      - name: Save the state on the health-data branch
+        # one commit per day on top of the previous ones, so the history of states stays available
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git ls-remote --exit-code origin health-data >/dev/null 2>&1; then
+            git worktree add -q /tmp/state FETCH_HEAD
+          else
+            git worktree add -q --detach /tmp/state
+            git -C /tmp/state checkout -q --orphan health-data
+            git -C /tmp/state rm -rq --cached . && find /tmp/state -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          fi
+          cp health/status.json /tmp/state/status.json
+          cd /tmp/state
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add status.json
+          git commit -q -m "Health check $(date -u +%F) at ${GITHUB_SHA::10}" || exit 0
+          git push -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:refs/heads/health-data
+
+      - name: Update the rolling issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create link-health --color B60205 --description "Daily link check" --force >/dev/null
+          number=$(gh issue list --state open --label link-health --json number --jq '.[0].number')
+          if grep -q '^## ' health-report.md; then
+            if [ -n "$number" ]; then gh issue edit "$number" --body-file health-report.md
+            else gh issue create --title "Link health" --label link-health --body-file health-report.md; fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "All links work again."
+          fi
+
+  archive:
+    # opens a pull request that archives resources failing for 30 days, unless one is still open. It is
+    # opened with the built-in token, so GitHub holds its checks until the maintainer selects "Approve
+    # workflows to run" on the pull request. Needs the repository setting "Allow GitHub Actions to create
+    # and approve pull requests" (tools/github_setup.sh sets it).
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write        # push the archive branch
+      pull-requests: write   # open the pull request
+    env:
+      BRANCH: bot/archive-failing
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Wait while an archive pull request is open
+        id: open
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          count="$(gh pr list --state open --head "$BRANCH" --json number --jq 'length')"
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" != "0" ]; then echo "An archive pull request is still open; it is left as it is."; fi
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        if: steps.open.outputs.count == '0'
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - if: steps.open.outputs.count == '0'
+        run: python -m pip install -r requirements.txt
+
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        if: steps.open.outputs.count == '0'
+        with:
+          name: health-state
+          path: health
+
+      - name: Archive resources failing for 30 days
+        id: archive
+        if: steps.open.outputs.count == '0'
+        run: |
+          python -m registry_kit archive-failing --days 30 | tee archive.txt
+          echo "changed=$(git status --porcelain -- data i18n | wc -l)" >> "$GITHUB_OUTPUT"
+
+      - name: Open the pull request
+        if: steps.open.outputs.count == '0' && steps.archive.outputs.changed != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git add data i18n
+          git commit -q -m "Archive resources failing for 30 days"
+          # the branch of an earlier pull request that was closed without merging is replaced
+          git push -q --force origin "$BRANCH"
+          gh label create link-health --color B60205 --description "Daily link check" --force >/dev/null
+          {
+            echo "The daily link check has found these resources unreachable for at least 30 days."
+            echo
+            echo '```'
+            cat archive.txt
+            echo '```'
+            echo
+            echo "GitHub holds the checks of a pull request opened by a workflow: select **Approve workflows"
+            echo "to run** below, then review each resource. If a resource moved, update its url instead of"
+            echo "archiving it."
+          } > body.md
+          gh pr create --head "$BRANCH" --title "Archive resources failing for 30 days" --label link-health --body-file body.md
