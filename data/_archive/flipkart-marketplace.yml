@@ -13,3 +13,6 @@ api:
   auth: oauth
   https: true
   cors: 'yes'
+archived:
+  date: 2026-10-27
+  reason: Unreachable since 2026-09-27 (server_error 529, 31 failed checks); archived automatically after 30 days

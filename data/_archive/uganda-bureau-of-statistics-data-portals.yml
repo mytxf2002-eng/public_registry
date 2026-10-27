@@ -18,3 +18,6 @@ dataset:
   formats: [pdf, xlsx]
   access: public
   spatial: [UG]
+archived:
+  date: 2026-10-27
+  reason: Unreachable since 2026-09-27 (ssl_error, 33 failed checks); archived automatically after 30 days

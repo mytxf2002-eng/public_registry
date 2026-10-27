@@ -23,3 +23,6 @@ dataset:
   access: public
   update_frequency: irregular
   size: 12,000+ datasets, ~30 TB
+archived:
+  date: 2026-10-27
+  reason: Unreachable since 2026-09-27 (ssl_error, 33 failed checks); archived automatically after 30 days
