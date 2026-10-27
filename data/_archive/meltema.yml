@@ -13,3 +13,6 @@ api:
   auth: none
   https: true
   cors: 'no'
+archived:
+  date: 2026-10-27
+  reason: Unreachable since 2026-09-27 (ssl_error, 33 failed checks); archived automatically after 30 days

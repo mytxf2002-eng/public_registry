@@ -13,3 +13,6 @@ api:
   auth: api-key
   https: true
   cors: 'yes'
+archived:
+  date: 2026-10-27
+  reason: Unreachable since 2026-09-27 (timeout, 33 failed checks); archived automatically after 30 days
